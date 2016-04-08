@@ -8,3 +8,7 @@ Um projeto para reunir Mentores para auxiliar iniciantes a seguir uma trilha em 
 ## Como surgiu?
 
 Com a ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr)!
+
+## Mentores
+
+[Lista dos Mentores](/mentores)
