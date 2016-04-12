@@ -15,10 +15,10 @@ Mentor para Desenvolvedores Front End
 
 ## Links
 
-[Site do Jaum]()
-[Facebook do Jaum]()
-[Twitter do Jaum]()
-[LinkedIn do Jaum]()
+* [Site do Jaum]()
+* [Facebook do Jaum]()
+* [Twitter do Jaum]()
+* [LinkedIn do Jaum]()
 
 ## Gostaria de retribuir a ajuda do Jaum?
 
