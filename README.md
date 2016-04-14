@@ -59,6 +59,10 @@ Você **NÃO** é obrigado a pagar **NADA** a nenhum mentor. Esse projeto parte 
 
 Se um mentor **COBRAR** de você, é de extrema importância que você procure um dos membros do Training Center [aqui](https://github.com/orgs/training-center/people) e informe o ocorrido.
 
+## Regras de conduta
+
+Temos regras de conduta para o Mentor e para o Pupilo, leia as regras [aqui](/CONDUTA.md) antes de assumir qualquer reponsabilidade.
+
 ## Quero contribuir financeiramente
 
 Esse projeto **não possui fins lucrativos**, porém, você pode doar para cada mentor individualmente, se quiser/for possível.
