@@ -1,6 +1,6 @@
-# Template de perfil de pupilo
+# Template de perfil de Pupilo
 
-Template para cadastramento de perfis dos pupilos.
+Template para cadastramento de perfis dos Pupilos.
 
 ```
 # Mentor responsável por mim
