@@ -41,6 +41,10 @@ O mentor faz isso através de disciplina contínua das partes envolvidas; buscan
 
 [Lista dos Mentores](/mentores)
 
+## Pupilos
+
+[Lista de quem já recebe ajuda de algum Mentor](/pupilos)
+
 ## Quero ser um mentor!
 
 Para se tornar um mentor, você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o o template que vai aparecer na própria issue e aguarde aprovação.
