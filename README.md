@@ -17,7 +17,7 @@ O projeto Mentoria vai **conectar** pessoas com experiência na área de desenvo
 
 OBS: Ter um Mentor não significa ter um **Google** via email, então ele não vai te dar respostas de problemas para a faculdade/curso. Ele está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em foruns.
 
-Todos aqui são auto gerenciáveis e, tanto Mentores quanto Pupilos, devem assumir suas responsabilidades com base no código de conduta (link mais a baixo) e manter seu compromisso uns com os outros.
+Todos aqui devem ser auto-gerenciáveis e, tanto Mentores quanto Pupilos, devem assumir suas responsabilidades com base no código de conduta (link mais a baixo) e manter seu compromisso uns com os outros.
 
 Tudo acontece via issue, até que ambos (Mentor e Pupilo) escolham outra maneira mais pessoal (ou menos pública) de se comunicar.
 
