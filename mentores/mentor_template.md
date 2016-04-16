@@ -1,6 +1,6 @@
-# Template de perfil de mentor
+# Template de perfil de Mentor
 
-Template para cadastramento de perfis dos mentores.
+Template para cadastramento de perfis dos Mentores.
 
 ```
 # Mentor
