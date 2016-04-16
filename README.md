@@ -67,7 +67,7 @@ Só aceite mentoria dos membros da [lista de mentores](/mentores), pois, foram a
 
 Você **NÃO** é obrigado a pagar **NADA** a nenhum mentor. Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhado.
 
-Se algum Mentor **COBRAR** de você, é de extrema importância que você procure um dos [moderadores](https://github.com/orgs/training-center/teams/moderators) e informe o ocorrido.
+Se algum Mentor **COBRAR DINHEIRO** para te ajudar, é de extrema importância que você procure um dos [moderadores](https://github.com/orgs/training-center/teams/moderators) e informe o ocorrido.
 
 ## Regras de conduta
 
