@@ -47,7 +47,7 @@ O mentor faz isso através de disciplina contínua das partes envolvidas; buscan
 
 ## Quero ser um mentor!
 
-Para se tornar um mentor, você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o o template que vai aparecer na própria issue e aguarde aprovação.
+Primeiro leia as [responsabilidades do Mentor](/mentores/responsibility.md) e veja se está de acordo com isso. Em seguida você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o o template que vai aparecer na própria issue e aguarde aprovação.
 
 O mentor será avaliado pelos [moderadores](https://github.com/orgs/training-center/teams/moderators) antes de poder participar. Levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
 
@@ -59,7 +59,7 @@ Porém, as pessoas podem doar para você quando puderem e se quiserem. Então te
 
 ## Preciso de um mentor!
 
-Para conseguir um mentor, basta abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue. Explique qual a área que você procura mentoria e aguarde um Mentor entrar em contato.
+Primeiro leia as [responsabilidades de um pupilo](/pupilos/responsibility.md) e veja se está de acordo com isso. Em seguida, basta abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue. Explique qual a área que você procura mentoria e aguarde um Mentor entrar em contato.
 
 É de extrema importância que você nos informe, sempre, como está o seu andamento com o Mentor. Pode ser por email para algum dos [moderadores](https://github.com/orgs/training-center/teams/moderators).
 
