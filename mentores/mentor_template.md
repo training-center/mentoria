@@ -15,10 +15,10 @@ Mentor para Desenvolvedores Front End
 
 ## Links
 
-[Site do Mentor da Sila Souza]()
-[Facebook do Mentor da Sila Souza]()
-[Twitter do Mentor da Sila Souza]()
-[LinkedIn do Mentor da Sila Souza]()
+* [Site do Mentor da Sila Souza]()
+* [Facebook do Mentor da Sila Souza]()
+* [Twitter do Mentor da Sila Souza]()
+* [LinkedIn do Mentor da Sila Souza]()
 
 ## Gostaria de retribuir a ajuda do Mentor da Sila Souza?
 
