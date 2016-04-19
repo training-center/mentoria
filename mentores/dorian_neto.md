@@ -1,6 +1,6 @@
 # Mentor
 
-## Dorian Sampaio Neto
+## Dorian Neto
 
 Desenvolvedor web apaixonado por Web standards, metodologias ágeis e open source. Possuo experiência em Desenvolvimento de Software desde 2011, autodidata e evangelista PHP. Ao longo dos anos, peguei bastante experiência como gerente de projetos e tive a oportunidade de ser o mentor de vários estagiários que passaram pela empresa que trabalho atualmente.
 
