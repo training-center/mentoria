@@ -6,13 +6,15 @@ Exemplos de issues
 
 Título da issue: [Quero ser mentor] de área X.
 
-Ex.: Quero ser mentor de Desenvolvimento Android.
+Ex. de título: Quero ser mentor de Desenvolvimento Android.
 
-Conteúdo da issue: Adicione informações importantes sobre você como:
+Conteúdo da issue: Adicione informações importantes sobre você como: Nome, mini descrição sobre você, quanto tempo trabalha na área, se tem ou não formação e outra coisa que ache interessante adicionar para aumentar suas chances de se tornar Mentor e links para Redes Sociais
 
-Nome Completo
-Mini Descrição sobre você, quanto tempo trabalha na área, se tem ou não formação e outra coisa que ache interessante adicionar para aumentar suas chances de se tornar Mentor.
-Links para Redes Sociais
+Ex. de conteúdo:
+
+**Nome:**
+**Descrição:**
+**Contatos:**
 
 ------------------------------------------------------------
 
@@ -20,9 +22,16 @@ Links para Redes Sociais
 
 Título da issue: [Preciso de um mentor] de área X.
 
-Ex.: Preciso de um mentor sobre Desenvolvimento Back End em Python.
+Ex. de título: Preciso de um mentor sobre Desenvolvimento Back End em Python.
 
-Conteúdo da issue: Deixe seu nome, links para redes sociais e aguarde o contato de um mentor. Eles irão entrar em contato assim que sobrar um tempinho. :D
+Conteúdo da issue: Deixe seu nome, links para redes sociais, uma pequena descrição da sua necessidade, seu atual nível de conhecimento e aguarde o contato de um mentor. Eles irão entrar em contato assim que sobrar um tempinho. :D
+
+Ex. de conteúdo:
+
+**Nome:**
+**Descrição:**
+**Nível de conhecimento atual:**
+**Contatos:**
 
 ------------------------------------------------------------
 
