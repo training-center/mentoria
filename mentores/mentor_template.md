@@ -26,7 +26,7 @@ Mentor para Desenvolvedores Front End
 
 ## Pupilos do Mentor da Sila Souza
 
-* [Pupilo 1](pupilos/pupilo1.md)
-* [Pupilo 2](pupilos/pupilo2.md)
-* [Pupilo 3](pupilos/pupilo3.md)
+* [Pupilo 1](pupilos/perfis/pupilo1.md)
+* [Pupilo 2](pupilos/perfis/pupilo2.md)
+* [Pupilo 3](pupilos/perfis/pupilo3.md)
 ```

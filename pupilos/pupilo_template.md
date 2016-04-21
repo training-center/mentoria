@@ -5,7 +5,7 @@ Template para cadastramento de perfis dos Pupilos.
 ```
 # Mentor responsável por mim
 
-[Mentor da Silva Souza](/mentores/mentor_da_silva_souza.md)
+[Mentor da Silva Souza](/mentores/perfis/mentor_da_silva_souza.md)
 
 ## Meu Nome
 
