@@ -20,3 +20,5 @@ Mentor para Desenvolvedores Front End
 Mande um abraço para ele no email w.oliveira542@gmail.com ou nas redes sociais.
 
 ## Pupilos
+
+- [Thiago Gonçalves (twobanks)](/pupilos/twobanks.md)
