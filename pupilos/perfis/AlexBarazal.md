@@ -19,8 +19,8 @@ Estou aberto para qualquer esclarecimento e duvidas.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Alex Santana Barazal](https://www.facebook.com/alex.santanabarazal)#
-[Twitter do Alex Santana Barazal](https://twitter.com/_LastResort)#
-[LinkedIn do Alex Santana Barazal](https://br.linkedin.com/in/alex-santana-barazal-0938a821)#
-[GitHub do Alex Santana Barazal](https://github.com/AlexBarazal)
+[Facebook do Alex Santana Barazal](https://www.facebook.com/alex.santanabarazal)<br/>
+[Twitter do Alex Santana Barazal](https://twitter.com/_LastResort)<br/>
+[LinkedIn do Alex Santana Barazal](https://br.linkedin.com/in/alex-santana-barazal-0938a821)<br/>
+[GitHub do Alex Santana Barazal](https://github.com/AlexBarazal)<br/>
 ```
