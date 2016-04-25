@@ -1,6 +1,6 @@
-# Lista de mentores
+# Lista de mentores(as)
 
-Conheça os mentores do projeto.
+Conheça os(as) mentores(as) do projeto.
 
 * [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
 * [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)

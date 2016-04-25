@@ -1,9 +1,9 @@
-# Template de perfil de Pupilo
+# Template de perfil de Pupilo(a)
 
-Template para cadastramento de perfis dos Pupilos.
+Template para cadastramento de perfis dos Pupilos(as).
 
 ```
-# Mentor responsável por mim
+# Mentor(a) responsável por mim
 
 [Mentor da Silva Souza](/mentores/perfis/mentor_da_silva_souza.md)
 
