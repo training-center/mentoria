@@ -19,4 +19,4 @@ Mentora para desenvolvedores(as) Front End
 
 "Chega junto" nas redes sociais e manda um abraço.
 
-## Pupilos da Andréa Zambrana
+## Pupilos(as) da Andréa Zambrana
