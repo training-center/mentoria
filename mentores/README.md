@@ -2,7 +2,15 @@
 
 Conheça os(as) mentores(as) do projeto.
 
-* [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
+## Mentores de Front End
+
 * [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
-* [Dorian Neto](/mentores/perfis/dorian_neto.md)
 * [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
+
+## Mentores de Back End
+
+* [Dorian Neto](/mentores/perfis/dorian_neto.md)
+
+## Desenvolvimento Web em geral (Full Stack)
+
+* [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
