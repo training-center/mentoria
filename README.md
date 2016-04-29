@@ -59,7 +59,7 @@ Porém, as pessoas podem doar para você quando puderem e se quiserem. Então te
 
 **Resumindo**
 
-Você abre uma [issue](https://github.com/training-center/mentoria/issues/new) >> Os [moderadores](https://github.com/orgs/training-center/teams/moderators) avaliam seu perfil >> Você vira Mentor e é adicionado a ORG >> Agora você pode adicionar seu [perfil a lista](./mentores/perfis/) >> Agora basta entrar nas issues com a label ["need a mentor"](https://github.com/training-center/mentoria/issues?q=is%3Aopen+is%3Aissue+label%3A%22need+a+mentor%22) e ajudar alguém. \o/
+Você abre uma [issue](https://github.com/training-center/mentoria/issues/new) >> Os [moderadores](https://github.com/orgs/training-center/teams/moderators) avaliam seu perfil >> Você vira Mentor e é adicionado a ORG >> Agora você pode adicionar seu [perfil a lista](./mentores/perfis/) e entrar nas issues com a label ["need a mentor"](https://github.com/training-center/mentoria/issues?q=is%3Aopen+is%3Aissue+label%3A%22need+a+mentor%22) e ajudar alguém. \o/
 
 ## Preciso de um(a) mentor(a)!
 
