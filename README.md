@@ -57,6 +57,10 @@ Esse projeto **NÃO** prevê fins lucrativos, por isso você **NÃO** pode cobra
 
 Porém, as pessoas podem doar para você quando puderem e se quiserem. Então tenha uma conta no PayPal, PagSeguro ou similar para deixar no seu perfil.
 
+**Resumindo**
+
+Você abre uma issue >> Os moderadores avaliam seu perfil >> Você vira Mentor >> Você pode entrar nas issues com a label ["need a mentor"](https://github.com/training-center/mentoria/issues?q=is%3Aopen+is%3Aissue+label%3A%22need+a+mentor%22) e ajudar alguém.
+
 ## Preciso de um(a) mentor(a)!
 
 Primeiro leia as [responsabilidades de um(a) pupilo(a)](/pupilos/responsibility.md) e veja se está de acordo com isso. Em seguida, basta abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue. Explique qual a área que você procura mentoria e aguarde um(a) Mentor(a) entrar em contato.
