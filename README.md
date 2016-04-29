@@ -1,7 +1,7 @@
 # Mentoria
 > Em constante evolução
 
-Mentoria para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) mais avançados irem ao infinito e além em suas carreiras e projetos pessoais!
+Mentoria para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) mais avançados irem ao infinito e além em suas **carreiras**!
 
 ## O que é?
 
@@ -15,7 +15,7 @@ Com a ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](
 
 O projeto Mentoria vai **conectar** pessoas com experiência na área de desenvolvimento com pessoas que estão começando e/ou necessitam de alguém com bagagem para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar suas experiências.
 
-OBS: Ter um Mentor(a) não significa ter um **Google** via email, então ele(a) não vai te dar respostas de problemas para a faculdade/curso. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em foruns.
+OBS: Ter um Mentor(a) não significa ter um **Google** via email, então ele(a) não vai te dar respostas de problemas para a faculdade/curso. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns*.
 
 Todos aqui devem ser auto-gerenciáveis e, tanto Mentores(as) quanto Pupilos(as), devem assumir suas responsabilidades com base no código de conduta (link mais a baixo) e manter seu compromisso uns com os outros.
 
