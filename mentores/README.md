@@ -4,8 +4,9 @@ Conheça os(as) mentores(as) do projeto.
 
 ## Mentores de Front End
 
-* [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
 * [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
+* [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+* [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
 
 ## Mentores de Back End
 
