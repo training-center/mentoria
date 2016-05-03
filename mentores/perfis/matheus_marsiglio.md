@@ -17,7 +17,7 @@ Mentor para desenvolvedores Front End e interessados em VIM.
 * [Twitter](https://twitter.com/matmarsiglio)
 * [LinkedIn](https://br.linkedin.com/in/matmarsiglio)
 
-## Gostaria de retribuir a ajuda do Dorian?
+## Gostaria de retribuir a ajuda do Matheus?
 
 Mande um upa para matmarsiglio@gmail.com ou nas redes sociais.
 
