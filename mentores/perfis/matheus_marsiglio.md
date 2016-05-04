@@ -8,7 +8,7 @@ estudo de forma autodidata campos da ciência da computação, arquitetura de so
 
 ## Perfil
 
-Mentor para desenvolvedores Front End e interessados em VIM.
+Mentor para desenvolvedores Front End, interessados em VIM e GIT.
 
 ## Links
 
