@@ -22,3 +22,4 @@ Mande um abraço para ele no email w.oliveira542@gmail.com ou nas redes sociais.
 ## Pupilos
 
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
+- [Renan Silva Moura (RenanSMoura)](/pupilos/perfis/RenanMoura.md)
