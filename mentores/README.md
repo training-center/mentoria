@@ -14,3 +14,7 @@ Conheça os(as) mentores(as) do projeto.
 ## Desenvolvimento Web em geral (Full Stack)
 
 * [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
+
+## Mentores de SEO
+
+* [Fabíola Faria](/mentores/perfis/fabiola_faria.md)
