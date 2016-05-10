@@ -16,3 +16,7 @@ Conheça os(as) mentores(as) do projeto.
 
 * [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
 * [Wendell Adriel](/mentores/perfis/wendell_adriel.md)
+
+## Mentores de SEO
+
+* [Fabíola Faria](/mentores/perfis/fabiola_faria.md)
