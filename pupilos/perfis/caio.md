@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Jonathan Lamin](mentores/perfis/jonathan_lamim.md)
+[Jonathan Lamin](/mentores/perfis/jonathan_lamim.md)
 
 ## Meu Nome
 
@@ -16,5 +16,5 @@ Conheço pouco sobre as linguagens, porém tenho facilidade de aprender, meu foc
 ## Alguns links para me conhecer melhor
 
 [Facebook do Caio FLavio](https://www.facebook.com/kaioflavioo)<br/>
-[Twitter do Caio FLavio(https://twitter.com/kaioflavio123)<br/>
+[Twitter do Caio FLavio](https://twitter.com/kaioflavio123)<br/>
 [GitHub do Caio FLavio](https://github.com/CaioFlavio)<br/>
