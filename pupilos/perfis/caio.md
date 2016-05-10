@@ -15,6 +15,6 @@ Conheço pouco sobre as linguagens, porém tenho facilidade de aprender, meu foc
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Caio FLavio](https://www.facebook.com/kaioflavioo)<br/>
-[Twitter do Caio FLavio](https://twitter.com/kaioflavio123)<br/>
-[GitHub do Caio FLavio](https://github.com/CaioFlavio)<br/>
+[Facebook do Caio FLavio](https://www.facebook.com/kaioflavioo)
+[Twitter do Caio FLavio](https://twitter.com/kaioflavio123)
+[GitHub do Caio FLavio](https://github.com/CaioFlavio)
