@@ -6,13 +6,13 @@ Desenvolvedor web apaixonado por Web standards, metodologias ágeis e open sourc
 
 Sou voluntário e membro ativo da comunidade [PHP com Rapadura](http://phpcomrapadura.org/) e já ministrei oficinas e palestras em eventos da comunidade. Nas minhas horas vagas tento contribuir ao máximo com a comunidade, seja em fórum, no meu blog, repositórios do github etc pois acredito que o conhecimento deve sim ser compartilhado ao máximo.
 
-> *"Nunca é tarde demais para começar tudo de novo..."*
+> *"Há muitas possibilidades na mente do principiante, mas poucas na do perito."*
 >
-> *Raul Seixas*
+> *Shunryu Suzuki*
 
 ## Perfil
 
-Mentor para desenvolvedores Back End
+Mentor para desenvolvedores Back End (foco em PHP)
 
 ## Links
 
