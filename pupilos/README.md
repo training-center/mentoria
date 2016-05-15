@@ -4,3 +4,4 @@
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
+- [Luan Vicente](/pupilos/perfis/luan_vicente.md)
