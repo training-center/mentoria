@@ -33,3 +33,4 @@ ou mande um abraço para ele no email doriansampaioneto@gmail.com ou nas redes s
 ## Pupilos
 
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
+- [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
