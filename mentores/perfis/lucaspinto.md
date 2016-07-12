@@ -17,3 +17,7 @@ Mentor para desenvolvedores Full-Stack, com maior know-how em Javascript (Front 
 ## Gostaria de retribuir a ajuda do Lucas?
 
 Mande um alô! para lucas.henrique223@gmail.com ou nas redes sociais.
+
+## Pupilos
+
+Heitor Augusto Borges Pereira
