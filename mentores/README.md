@@ -6,6 +6,7 @@ Conheça os(as) mentores(as) do projeto.
 
 * [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
 * [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+* [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
 * [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
 
 ## Mentores de Back End
