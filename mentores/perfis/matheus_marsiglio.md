@@ -24,3 +24,4 @@ Mande um upa para matmarsiglio@gmail.com ou nas redes sociais.
 ## Pupilos
 
 * [Luan Vicente](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/luan_vicente.md)
+* [Luiz Lázaro](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/LuizLazaro.md)
