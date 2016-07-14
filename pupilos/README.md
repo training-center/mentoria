@@ -12,3 +12,4 @@
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
+- [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
