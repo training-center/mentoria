@@ -39,6 +39,10 @@ Mentor para Desenvolvimento Web - Foco em PHP e JS.
 - [Twitter](https:///twitter.com/wendell_adriel)
 
 
-## Gostaria de retribuir a ajuda do Jonathan?
+## Gostaria de retribuir a ajuda do Wendell?
 
 Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com.br ou pelas redes sociais!!!
+
+## Pupilos
+
+- [Giovanni Cruz (giovannicruz97)](/pupilos/perfis/giovannicruz97.md)
