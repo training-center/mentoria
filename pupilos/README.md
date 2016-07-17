@@ -5,6 +5,7 @@
 - [Caio Flávio](/master/pupilos/perfis/caio.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
+- [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Renan Silva Moura](/pupilos/perfis/RenanMoura.md)
 - [Rodrigo Garcia Hernandez](/pupilos/perfis/RodrigoGarcia.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
