@@ -4,6 +4,7 @@
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
+- [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
