@@ -1,5 +1,6 @@
 # Mentor(a) responsável por mim
 
+[Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
 
 ## Meu Nome
 
