@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[???](/mentores)
+[Aguardando resposta](https://github.com/training-center/mentoria/issues/100)
 
 ## Meu Nome
 
@@ -12,5 +12,6 @@ Meu sonho é igual discurso de Miss Universo... Ser autossuficiente a ponto de p
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Marco](https://pt-br.facebook.com/people/Marco-Antonio/1394020870) <br />
+[Facebook do Marco](https://pt-br.facebook.com/people/Marco-Antonio/1394020870)
+
 [LinkedIn do Marco](https://www.linkedin.com/in/marco-antonio-blos-de-souza-09471645?trk=nav_responsive_tab_profile_pic)
