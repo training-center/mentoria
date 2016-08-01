@@ -11,6 +11,7 @@
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
+- [Raul Felipe de Melo](/pupilos/perfis/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](/pupilos/perfis/RenanMoura.md)
 - [Rodrigo Garcia Hernandez](/pupilos/perfis/RodrigoGarcia.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
