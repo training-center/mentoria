@@ -20,6 +20,7 @@ Conheça os(as) mentores(as) do projeto.
 
 * [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
 * [Lucas Pinto](/mentores/perfis/lucaspinto.md)
+* [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
 * [Wendell Adriel](/mentores/perfis/wendell_adriel.md)
 
 ## Mentores de SEO
