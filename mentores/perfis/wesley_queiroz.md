@@ -32,6 +32,12 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 [Github](https://github.com/wesleycoder)
 [E-mail](mailto:wesley.coder@gmail.com)
 
+## Meus pupilos
+
+[Marcio Alves](/pupilos/perfis/MarcioAlves.md)
+[Marco Blos](/pupilos/perfis/marco_blos.md)
+[Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
+
 ## Gostaria de retribuir minha ajuda?
 
 Use o PayPal abaixo ou mande um abraço para ele no email [wesley.coder@gmail.com](mailto:wesley.coder@gmail.com) ou nas redes sociais.
