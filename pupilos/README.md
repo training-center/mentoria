@@ -11,6 +11,7 @@
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
+- [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
 - [Raul Felipe de Melo](/pupilos/perfis/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](/pupilos/perfis/RenanMoura.md)
