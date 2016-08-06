@@ -25,13 +25,6 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 - Outras linguagens de back-end como Ruby, Python, ASP.Net, PHP; porém não me garanto em nenhuma e nem tenho orgulho das últimas duas mencinadas (rsrs).
 - Bancos de dados relacionais e não relacionais como MySQL, Postgres, Sqlite, MongoDB, Redis, Elastic Search, CouchDB, MemcacheDB e IndexedDB (no navegador).
 
-## Links
-
-[Facebook](https://facebook.com/wesleycoder)
-[Twitter](https://twitter.com/wesleycoder)
-[Github](https://github.com/wesleycoder)
-[E-mail](mailto:wesley.coder@gmail.com)
-
 ## Meus pupilos
 
 [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
@@ -40,4 +33,11 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 
 ## Gostaria de retribuir minha ajuda?
 
-Use o PayPal abaixo ou mande um abraço para ele no email [wesley.coder@gmail.com](mailto:wesley.coder@gmail.com) ou nas redes sociais.
+Use o [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9G3ER8ERM44YW) ou mande-me um abraço no email [wesley.coder@gmail.com](mailto:wesley.coder@gmail.com) ou nas redes sociais.
+
+## Links
+
+[Facebook](https://facebook.com/wesleycoder)
+[Twitter](https://twitter.com/wesleycoder)
+[Github](https://github.com/wesleycoder)
+[E-mail](mailto:wesley.coder@gmail.com)
