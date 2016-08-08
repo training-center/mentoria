@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Aguardando resposta](https://github.com/training-center/mentoria/issues/100)
+[Wesley Queiroz](/mentores/perfis/wesley_queiroz.md)
 
 ## Meu Nome
 
