@@ -10,11 +10,13 @@ Conheça os(as) mentores(as) do projeto.
 * [Gian Souza](/mentores/perfis/gian_souza.md)
 * [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
 * [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+* [William Bruno](/mentores/perfis/william_bruno.md)
 * [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
 
 ## Mentores de Back End
 
 * [Dorian Neto](/mentores/perfis/dorian_neto.md)
+* [William Bruno](/mentores/perfis/william_bruno.md)
 
 ## Desenvolvimento Web em geral (Full Stack)
 
@@ -22,6 +24,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Lucas Pinto](/mentores/perfis/lucaspinto.md)
 * [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
 * [Wendell Adriel](/mentores/perfis/wendell_adriel.md)
+* [William Bruno](/mentores/perfis/william_bruno.md)
 
 ## Mentores de SEO
 
