@@ -2,7 +2,6 @@
 
 Template para cadastramento de perfis dos Mentores(as).
 
-```
 # Mentor
 
 ## Nome
@@ -27,5 +26,6 @@ Mande um abraço para ele no email wbrunom@gmail.com ou nas redes sociais.
 
 ## Pupilos William Bruno
 
-* [Pupilo 1](pupilos/perfis/pupilo1.md)
+```
+------
 ```
