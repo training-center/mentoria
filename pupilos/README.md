@@ -7,6 +7,7 @@
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
+- [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
