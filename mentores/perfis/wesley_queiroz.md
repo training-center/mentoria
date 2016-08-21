@@ -27,6 +27,7 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 
 ## Meus pupilos
 
+[Lucas Sales](/pupilos/perfis/LucasSales.md)
 [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 [Marco Blos](/pupilos/perfis/marco_blos.md)
 [Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
