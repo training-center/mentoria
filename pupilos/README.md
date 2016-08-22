@@ -10,6 +10,7 @@
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
+- [Lucas Sales](/pupilos/perfis/LucasSales.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
