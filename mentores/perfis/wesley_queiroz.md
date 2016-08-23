@@ -27,18 +27,21 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 
 ## Meus pupilos
 
-[Lucas Sales](/pupilos/perfis/LucasSales.md)
-[Marcio Alves](/pupilos/perfis/MarcioAlves.md)
-[Marco Blos](/pupilos/perfis/marco_blos.md)
-[Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
+- [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
+- [Lucas Sales](/pupilos/perfis/LucasSales.md)
+- [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
+- [Marco Blos](/pupilos/perfis/marco_blos.md)
+- [Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
 
 ## Gostaria de retribuir minha ajuda?
 
 Use o [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9G3ER8ERM44YW) ou mande-me um abraço no email [wesley.coder@gmail.com](mailto:wesley.coder@gmail.com) ou nas redes sociais.
 
-## Links
+## Links para contato
 
-[Facebook](https://facebook.com/wesleycoder)
-[Twitter](https://twitter.com/wesleycoder)
-[Github](https://github.com/wesleycoder)
-[E-mail](mailto:wesley.coder@gmail.com)
+- [Slack](https://tavernlab.slack.com/)
+- [Discord](https://discord.gg/7YuS49D)
+- [Facebook](https://facebook.com/wesleycoder)
+- [Twitter](https://twitter.com/wesleycoder)
+- [Github](https://github.com/wesleycoder)
+- [E-mail](mailto:wesley.coder@gmail.com)
