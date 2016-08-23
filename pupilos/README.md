@@ -6,6 +6,7 @@
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
+- [Gabrielle Dias] (/pupilos/perfis/GabrielleDias.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
