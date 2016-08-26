@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Jonathan Lamim Antunes](/mentores/perfis/jonathan_lamim.md)
+[William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
 
 ## Meu Nome
 
