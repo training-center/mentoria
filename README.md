@@ -1,7 +1,7 @@
 # Mentoria
 > Em constante evolução
 
-Mentoria para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) mais avançados irem ao infinito e além em suas carreiras e projetos pessoais!
+Mentoria para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) mais avançados irem ao infinito e além em suas **carreiras**!
 
 ## O que é?
 
@@ -15,7 +15,7 @@ Com a ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](
 
 O projeto Mentoria vai **conectar** pessoas com experiência na área de desenvolvimento com pessoas que estão começando e/ou necessitam de alguém com bagagem para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar suas experiências.
 
-OBS: Ter um Mentor(a) não significa ter um **Google** via email, então ele(a) não vai te dar respostas de problemas para a faculdade/curso. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em foruns.
+OBS: Ter um Mentor(a) não significa ter um **Google** via email, então ele(a) não vai te dar respostas de problemas para a faculdade/curso. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns*.
 
 Todos aqui devem ser auto-gerenciáveis e, tanto Mentores(as) quanto Pupilos(as), devem assumir suas responsabilidades com base no código de conduta (link mais a baixo) e manter seu compromisso uns com os outros.
 
@@ -47,27 +47,41 @@ O(A) mentor(a) faz isso através de disciplina contínua das partes envolvidas; 
 
 ## Quero ser um mentor(a)!
 
-Primeiro leia as [responsabilidades do(a) Mentor(a)](/mentores/responsibility.md) e veja se está de acordo com isso. Em seguida você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguarde aprovação.
+Primeiro leia as [responsabilidades do(a) Mentor(a)](/mentores/responsibility.md) e veja se está de acordo com isso. Em seguida, você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguardar a aprovação.
 
-O(A) mentor(a) será avaliado pelos(as) [moderadores(as)](https://github.com/orgs/training-center/teams/moderators) antes de poder participar. Levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
+O(A) mentor(a) será avaliado pelos(as) [moderadores(as)](/MODERATORS.md) antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
 
 Cada mentor(a) deverá ajudar de [5 até 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
 Esse projeto **NÃO** prevê fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
 
-Porém, as pessoas podem doar para você quando puderem e se quiserem. Então tenha uma conta no PayPal, PagSeguro ou similar para deixar no seu perfil.
+Porém, as pessoas podem doar para você quando puderem e se quiserem, então, tenha uma conta no PayPal, PagSeguro ou similar para deixar no seu perfil.
+
+**Resumindo**
+
+1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
+2. Os [moderadores](/MODERATORS.md) avaliam seu perfil
+3. Você vira Mentor(a) e é adicionado a ORG
+4. Agora você pode adicionar seu [perfil a lista](./mentores/perfis/) e procurar por issues com a label ["need a mentor"](https://github.com/training-center/mentoria/issues?q=is%3Aopen+is%3Aissue+label%3A%22need+a+mentor%22) para começar a ajudar alguém. \o/
 
 ## Preciso de um(a) mentor(a)!
 
 Primeiro leia as [responsabilidades de um(a) pupilo(a)](/pupilos/responsibility.md) e veja se está de acordo com isso. Em seguida, basta abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue. Explique qual a área que você procura mentoria e aguarde um(a) Mentor(a) entrar em contato.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) Mentor(a). Pode ser por email para algum dos(as) [moderadores(as)](https://github.com/orgs/training-center/teams/moderators).
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) Mentor(a). Pode ser por email para algum dos(as) [moderadores(as)](/MODERATORS.md).
 
-Só aceite mentoria dos membros da [lista de mentores(as)](/mentores), pois, foram aprovados por uma bancada e se comprometeram com a causa desse projeto.
+Só aceite mentoria dos membros da [lista de mentores(as)](/mentores), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.
 
 Você **NÃO** é obrigado a pagar **NADA** a nenhum(a) mentor(a). Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhado.
 
-Se algum(a) Mentor(a) **COBRAR DINHEIRO** para te ajudar, é de extrema importância que você procure um(a) dos(as) [moderadores(as)](https://github.com/orgs/training-center/teams/moderators) e informe o ocorrido.
+Se algum(a) Mentor(a) **COBRAR DINHEIRO** para te ajudar, é de extrema importância que você procure um(a) dos(as) [moderadores(as)](/MODERATORS.md) e informe o ocorrido.
+
+**Resumindo**
+
+1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
+2. Os/As Mentores(as) olham seu problema e verificam se estão aptos a lhe ajudar
+3. Quem estiver apto entra em contato contigo através da própria issue para analisar se consegue te ajudar
+4. Se tudo deu certo, você pode adicionar seu [perfil a lista](./pupilos/perfis/) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
 
 ## Regras de conduta
 

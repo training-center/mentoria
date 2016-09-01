@@ -17,8 +17,11 @@ Mentor para Desenvolvedores Front End
 
 ## Gostaria de retribuir a ajuda do William?
 
-Mande um abraço para ele no email w.oliveira542@gmail.com ou nas redes sociais.
+Mande um abraço no email williamozsouza@gmail.com com o assunto `#mentoria` ou nas redes sociais.
 
 ## Pupilos
 
+- [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
+- [Lucas Stoque](/pupilos/perfis/Stoque.md)
+- [Renan Silva Moura (RenanSMoura)](/pupilos/perfis/RenanMoura.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
