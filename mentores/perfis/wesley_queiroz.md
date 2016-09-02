@@ -28,9 +28,11 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 ## Meus pupilos
 
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
+- [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Blos](/pupilos/perfis/marco_blos.md)
+- [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
 - [Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
 
 ## Gostaria de retribuir minha ajuda?
