@@ -17,6 +17,7 @@
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
+- [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
 - [Raul Felipe de Melo](/pupilos/perfis/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](/pupilos/perfis/RenanMoura.md)
 - [Rodrigo Garcia Hernandez](/pupilos/perfis/RodrigoGarcia.md)

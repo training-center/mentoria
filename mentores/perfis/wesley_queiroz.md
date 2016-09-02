@@ -32,6 +32,7 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Blos](/pupilos/perfis/marco_blos.md)
+- [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
 - [Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
 
 ## Gostaria de retribuir minha ajuda?
