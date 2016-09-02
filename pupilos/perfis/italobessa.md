@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Andréa Zambrana](https://github.com/akfzambrana)
+[Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
 
 ## Meu Nome
 

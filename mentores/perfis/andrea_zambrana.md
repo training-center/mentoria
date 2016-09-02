@@ -23,3 +23,4 @@ Mentora para desenvolvedores(as) Front End
 
 [André Neto](/pupilos/perfis/AndreNeto.md)  
 [Ítalo Bessa](/pupilos/perfis/italobessa.md)  
+[Josélia Costa](/pupilos/perfis/JoseliaCosta.md)  

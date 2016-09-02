@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Andrea Zambrana](/mentores/perfis/andrea_zambrana.md)
+[Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
 
 ## Meu Nome  
 
