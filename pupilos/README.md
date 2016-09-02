@@ -1,6 +1,7 @@
 # Lista de Pupilos
 
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
+- [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
@@ -10,10 +11,11 @@
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
+- [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
-- [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
+- [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
