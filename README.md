@@ -1,4 +1,4 @@
-# Mentoria  <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Mentoria  <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 > Em constante evolução
 
 Mentoria para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) mais avançados irem ao infinito e além em suas **carreiras**!
