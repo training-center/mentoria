@@ -23,5 +23,6 @@
 - [Raul Felipe de Melo](/pupilos/perfis/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](/pupilos/perfis/RenanMoura.md)
 - [Rodrigo Garcia Hernandez](/pupilos/perfis/RodrigoGarcia.md)
+- [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
