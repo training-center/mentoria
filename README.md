@@ -108,7 +108,7 @@ Dê uma olhada [nesse link](https://github.com/training-center/sobre).
 Apoiadores do projeto:
 
 <p align="center">
-  <a href="http://bit.ly/dne-custom-mentoria" target="_blank" title="Dev na Estrada">
+  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
     <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
   </a>
 </p>
