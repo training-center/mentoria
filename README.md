@@ -102,3 +102,13 @@ Dê uma olhada [nesse link](https://github.com/training-center/sobre).
 > Todo conhecimento deve ser compartilhado.
 
 > Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
+
+## Quem acredita no Mentoria
+
+Apoiadores do projeto:
+
+<p align="center">
+  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
+    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
+  </a>
+</p>
