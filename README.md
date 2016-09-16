@@ -1,4 +1,4 @@
-# Mentoria
+# Mentoria  <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 > Em constante evolução
 
 Mentoria para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) mais avançados irem ao infinito e além em suas **carreiras**!
@@ -102,3 +102,13 @@ Dê uma olhada [nesse link](https://github.com/training-center/sobre).
 > Todo conhecimento deve ser compartilhado.
 
 > Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
+
+## Quem acredita no Mentoria
+
+Apoiadores do projeto:
+
+<p align="center">
+  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
+    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
+  </a>
+</p>
