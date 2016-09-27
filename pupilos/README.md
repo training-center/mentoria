@@ -12,6 +12,7 @@
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
+- [Laryssa Rocha](/pupilos/perfis/laryro.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
@@ -26,3 +27,5 @@
 - [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
+- [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
+

@@ -20,4 +20,6 @@ Mande um alô! para lucas.henrique223@gmail.com ou nas redes sociais.
 
 ## Pupilos
 
-Heitor Augusto Borges Pereira
+- Heitor Augusto Borges Pereira
+- Antonio Marcos
+- Willian Oliveira
