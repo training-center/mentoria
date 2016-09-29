@@ -9,6 +9,7 @@
 - [Gabrielle Dias] (/pupilos/perfis/GabrielleDias.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
+- [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
