@@ -2,9 +2,9 @@
 
 ## Dorian Neto
 
-Desenvolvedor web apaixonado por Web standards, metodologias ágeis e open source. Possuo experiência em Desenvolvimento de Software desde 2011, autodidata e evangelista PHP. Ao longo dos anos, peguei bastante experiência como gerente de projetos e tive a oportunidade de ser o mentor de vários estagiários que passaram pela empresa que trabalho atualmente.
+Desenvolvedor Web apaixonado por Web Standards, Metodologias Ágeis e Open Source. Possuo experiência em Desenvolvimento de Software desde 2011, autodidata e evangelista PHP. Ao longo desses anos, tive a oportunidade de trabalhar em diversos tipos de projetos web com as mais variadas soluções e arquiteturas. Adquiri bastante experiência em infraestrutura, gerência de projetos, captação de pessoas e gerência de times de desenvolvimento, e fui mentor de vários estagiários que passaram pela empresa que trabalho atualmente.
 
-Sou voluntário e membro ativo da comunidade [PHP com Rapadura](http://phpcomrapadura.org/) e já ministrei oficinas e palestras em eventos da comunidade. Nas minhas horas vagas tento contribuir ao máximo com a comunidade, seja em fórum, no meu blog, repositórios do github etc pois acredito que o conhecimento deve sim ser compartilhado ao máximo.
+Sou voluntário e membro ativo da comunidade [PHP com Rapadura](http://phpcomrapadura.org/) e ministro palestras/workshops em eventos da comunidade. Nas minhas horas vagas tento contribuir ao máximo com a comunidade, seja em fórum, no meu blog, repositórios do github etc pois acredito que o conhecimento deve sim ser compartilhado ao máximo.
 
 > *"Há muitas possibilidades na mente do principiante, mas poucas na do perito."*
 >
@@ -35,3 +35,4 @@ ou mande um abraço para ele no email doriansampaioneto@gmail.com ou nas redes s
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
+- [Fernando Martins](/pupilos/perfis/FernandoMartins.md)
