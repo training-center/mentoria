@@ -13,7 +13,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
 * [Felipe Fialho](mentores/perfis/felipe_fialho.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
-* [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
+* [William Oliveira](/mentores/perfis/william_oliveira.md)
 
 ## Mentores de Back End
 
