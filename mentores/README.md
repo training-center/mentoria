@@ -11,6 +11,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Gian Souza](/mentores/perfis/gian_souza.md)
 * [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
 * [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+* [Felipe Fialho](mentores/perfis/felipe_fialho.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
 * [William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
 
