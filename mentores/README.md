@@ -7,13 +7,18 @@ Conheça os(as) mentores(as) do projeto.
 * [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
 * [Cezar Luiz](/mentores/perfis/cezar_luiz.md)
 * [Danilo Vaz](/mentores/perfis/danilo_vaz.md)
-* [Fernando Moreira](/mentores/perfis/fernando_moreira.md)
 * [Gian Souza](/mentores/perfis/gian_souza.md)
 * [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
-* [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
-* [Felipe Fialho](mentores/perfis/felipe_fialho.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
 * [William Oliveira](/mentores/perfis/william_oliveira.md)
+
+## Mentores de Front End e UX/UI
+
+* [Abner Soares](/mentores/perfis/abner_alves.md)
+* [Felipe Fialho](mentores/perfis/felipe_fialho.md)
+* [Fernando Moreira](/mentores/perfis/fernando_moreira.md)
+* [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+
 
 ## Mentores de Back End
 
