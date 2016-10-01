@@ -23,7 +23,6 @@ Conheça os(as) mentores(as) do projeto.
 ## Mentores de Back End
 
 * [Dorian Neto](/mentores/perfis/dorian_neto.md)
-* [William Bruno](/mentores/perfis/william_bruno.md)
 * [Ramon Sanches](/mentores/perfis/raymonsanches.md)
 
 ## Desenvolvimento Web em geral (Full Stack)
