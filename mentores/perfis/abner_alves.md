@@ -21,4 +21,4 @@ Manda aquele abraço nas redes sociais, da o joinha se inscreve aquele like ou p
 
 ## Pupilos do Mentor Abner Soares Alves Junior
 
-- Pedro Germano(Perfil a criar)
+- [Pedro Germano](/pupilos/perfis/PedroGermano.md)
