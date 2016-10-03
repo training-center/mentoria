@@ -15,7 +15,7 @@ Conheça os(as) mentores(as) do projeto.
 ## Mentores de Front End e UX/UI
 
 * [Abner Soares](/mentores/perfis/abner_alves.md)
-* [Felipe Fialho](mentores/perfis/felipe_fialho.md)
+* [Felipe Fialho](/mentores/perfis/felipe_fialho.md)
 * [Fernando Moreira](/mentores/perfis/fernando_moreira.md)
 * [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
 
