@@ -6,7 +6,7 @@
 - [Caio Flávio](/pupilos/perfis/caio.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
-- [Gabrielle Dias] (/pupilos/perfis/GabrielleDias.md)
+- [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
@@ -30,4 +30,4 @@
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
-
+- [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
