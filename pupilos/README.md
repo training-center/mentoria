@@ -11,6 +11,7 @@
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
+- [Ingrid Rauany](/pupilos/perfis/IngridRauany.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
