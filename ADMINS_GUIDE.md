@@ -47,7 +47,7 @@ Bem vindo(a) `usuário do github que abriu a issue`
 
 Vamos ver se algum dos @training-center/mentors consegue te ajudar.
 
-Enquanto isso decore o documento de [Responsabilidades do Pupilo](/pupilos/responsibility.md)!! :smile:
+Enquanto isso leia o documento de [Responsabilidades do Pupilo](/pupilos/responsibility.md)!! :smile:
 ```
 
 OBS: A mention para o time Mentors é para que todos sejam alertados do novo pupilo.
