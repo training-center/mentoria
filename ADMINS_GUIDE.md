@@ -40,14 +40,14 @@ Já o Pupilo não receberá convite para participar do time [`pupils`](https://g
 
 Assim que uma pessoa abre uma issue deve ser recepcionada com um comentário parecido com:
 
-Para novos Pupilos > 
+Para novos Pupilos >
 
 ```
 Bem vindo(a) `usuário do github que abriu a issue`
 
 Vamos ver se algum dos @training-center/mentors consegue te ajudar.
 
-Enquanto isso leia o documento de [Responsabilidades do Pupilo](/pupilos/responsibility.md)!! :smile:
+Enquanto isso leia o documento de [Responsabilidades do Pupilo](https://github.com/training-center/mentoria/blob/master/pupilos/responsibility.md)!! :smile:
 ```
 
 OBS: A mention para o time Mentors é para que todos sejam alertados do novo pupilo.
