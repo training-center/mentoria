@@ -30,3 +30,9 @@ Mentor para desenvolvedores Front-End, interessados em CSS.
 ## Gostaria de retribuir a ajuda do Felipe?
 
 Mande um salve para hi@felipefialho.com ou nas redes sociais.
+
+## Pupilos
+
+- [André Mendes](@andremendes)
+- [Guilherme Martins](@freebox)
+- [Rieli Boldrini](@rieliboldrini)
