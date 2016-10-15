@@ -24,6 +24,6 @@ Estou cursando 7º semestre de Ciência da Computação.
 
 Só adicionar nas redes sociais, mandar um abraço e repassar o conhecimento adquiro.
 
-## Pupilos(as) da Andréa Zambrana  
+## Pupilos(as) do Alex Junior  
 
 Ainda não possuo pupilo.
