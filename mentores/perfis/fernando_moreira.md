@@ -20,7 +20,7 @@ Hoje sou especializado em desenvolvimento web usando Wordpress com foco em front
 
 ## Gostaria de retribuir a ajuda do Mentor Fernando?
 
-Mande um abraço para ela no email nandomoreira.me[at]gmail.com ou nas redes sociais.
+Mande um abraço para ele no email nandomoreira.me[at]gmail.com ou nas redes sociais.
 
 ## Pupilos(as) de Fernando Moreira
 
