@@ -1,6 +1,6 @@
 Exemplos de issues
 
-Você deve apagar esse conteúdo e escrever seus dados/informações/conteúdo da issu eseguindo os exemplos abaixo, mas não precisa se sentir engessado, fique a vontade para adicionair mais informações se quiser. :)
+Você deve apagar esse conteúdo e escrever seus dados/informações/conteúdo da issue seguindo os exemplos abaixo, mas não precisa se sentir engessado, fique a vontade para adicionar mais informações se quiser. :)
 
 ------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Onde X pode ser a área de atuação ou ferramenta, etc.
 
 Ex.: Quero ser mentor(a) de Desenvolvimento Android.
 
-No onteúdo da issue (onde está aparecendo essa ajuda): Adicione informações importantes sobre você, como: Nome, mini descrição sobre você, quanto tempo trabalha na área, se tem ou não formação e outra coisa que ache interessante adicionar para aumentar suas chances de se tornar Mentor e links para Redes Sociais
+No conteúdo da issue (onde está aparecendo essa ajuda): Adicione informações importantes sobre você, como: Nome, mini descrição sobre você, quanto tempo trabalha na área, se tem ou não formação e outra coisa que ache interessante adicionar para aumentar suas chances de se tornar Mentor e links para Redes Sociais
 
 Ex. de conteúdo:
 
