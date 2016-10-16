@@ -28,6 +28,7 @@ Conheça os(as) mentores(as) do projeto.
 
 ## Desenvolvimento Web em geral (Full Stack)
 
+* [Alex Junior](/mentores/perfis/alexjunior012.md)
 * [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
 * [Lucas Pinto](/mentores/perfis/lucaspinto.md)
 * [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
