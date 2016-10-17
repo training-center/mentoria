@@ -44,3 +44,5 @@ Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com
 
 - [Giovanni Cruz (giovannicruz97)](/pupilos/perfis/giovannicruz97.md)
 - [Danilo Agostinho](https://github.com/DaniloAgostinho)
+- [Lucas Gabriel](https://github.com/lukao98)
+- [Guilherme Costa](https://github.com/guilhermeocosta)
