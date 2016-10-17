@@ -12,5 +12,5 @@ Aprender bastante para poder migrar da minha atual área e descolar uns freelas 
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/rpaggi)
+[Twitter](https://twitter.com/rpaggi) | [Linkedin](https://www.linkedin.com/in/rpagg)
 
