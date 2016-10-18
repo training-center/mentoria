@@ -31,6 +31,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Alex Junior](/mentores/perfis/alexjunior012.md)
 * [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md)
 * [Lucas Pinto](/mentores/perfis/lucaspinto.md)
+* [Lucas Henrique](/mentores/perfis/lucas_henrique.md)
 * [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
 * [Wendell Adriel](/mentores/perfis/wendell_adriel.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
