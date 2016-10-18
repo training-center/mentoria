@@ -34,6 +34,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
 * [Wendell Adriel](/mentores/perfis/wendell_adriel.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
+* [Guilherme Pontes](/mentores/perfis/guilhermepontes.md)
 
 ## Mentores de SEO
 
