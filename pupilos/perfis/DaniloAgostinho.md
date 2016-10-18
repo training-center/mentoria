@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wendell Adriel](https://github.com/training-center/mentoria/blob/master/mentores/perfis/wendell_adriel.md)
+[Wendell Adriel](/mentores/perfis/wendell_adriel.md)
 
 ## Meu Nome
 
