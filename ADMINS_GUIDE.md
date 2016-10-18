@@ -40,7 +40,7 @@ Já o Pupilo não receberá convite para participar do time [`pupils`](https://g
 
 Assim que uma pessoa abre uma issue deve ser recepcionada com um comentário parecido com:
 
-Para novos Pupilos >
+**Para novos Pupilos >>**
 
 ```
 Bem vindo(a) `usuário do github que abriu a issue`
@@ -50,9 +50,19 @@ Vamos ver se algum dos @training-center/mentors consegue te ajudar.
 Enquanto isso leia o documento de [Responsabilidades do Pupilo](https://github.com/training-center/mentoria/blob/master/pupilos/responsibility.md)!! :smile:
 ```
 
-OBS: A mention para o time Mentors é para que todos sejam alertados do novo pupilo.
+OBS: A mention para o time mentors é para que todos sejam alertados do novo pupilo.
 
-Para novos Mentores >
+Assim que tudo estiver encaminhado, o(a) mentor(a) deve informar para o pupilo a necessidade de criar seu perfil no repositório da organização. Senão acontecer, devemos cobrar a cada 5 dias, passando > 10 dias a issue deve ser fechada, mesmo que o usuário não tenha criado o perfil.
+
+Mensagem para quando estiver tudo correndo entre mentor(a) e pupilo:
+
+```
+Olá pessoal!
+
+Não esqueçam de atualizar ou criar seus perfis no [repositório](/helpers/README.md) e entrar no nosso [Slack](https://ctgroups.herokuapp.com/).
+```
+
+**Para novos Mentores >>**
 
 ```
 Olá `usuário do github que abriu a issue`
@@ -71,3 +81,20 @@ Obrigado pelo seu interesse em colaborar com a carreira de outras pessoas de man
 ```
 
 As mensagens podem ser, ainda, personalizadas de acordo com que o moderador achar conveniente.
+
+Após a aprovação pelos mentores:
+
+
+```
+Olá `usuário do github que abriu a issue`
+
+Seu perfil foi aprovado pelos outros mentores.
+
+Bem vindo ao time!
+
+Agora você precisa criar seu perfi no [repositório](/helpers/README.md) e entrar no nosso [Slack](https://ctgroups.herokuapp.com/).
+
+Depois é só pegar algum pupilo através dessas [issues](https://github.com/training-center/mentoria/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22need+a+mentor%22).
+
+OBS: busque das issues mais antigas primeiro. :)
+```
