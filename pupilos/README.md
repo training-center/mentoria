@@ -18,6 +18,7 @@
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
+- [Lucas Gabriel](/pupilos/perfis/lucas_gabriel.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
