@@ -4,6 +4,8 @@ A criação e atualização de perfis de Mentores(as) e Pupilos é muito importa
 
 Os(As) Mentores(as) são adicionadas no grupo Mentors e os Pupilos no grupo Pupils para que recebam notificações quando seus grupos forem mencionados em issues.
 
+Ex.: [#150](https://github.com/training-center/mentoria/issues/150), [#151](https://github.com/training-center/mentoria/issues/151)
+
 ## Como criar os perfis
 
 - [Mentor](/helpers/CREATE_MENTOR_PROFILE.md)
