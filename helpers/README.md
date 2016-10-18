@@ -1,4 +1,10 @@
-# Como criar os perfis de Mentor e Pupilo
+# Criando/Atualizando perfis de Mentor e Pupilo
+
+A criação e atualização de perfis de Mentores(as) e Pupilos é muito importante para mantermos uma boa comunicação entre organização e participantes dos projetos do Training Center.
+
+Os(As) Mentores(as) são adicionadas no grupo Mentors e os Pupilos no grupo Pupils para que recebam notificações quando seus grupos forem mencionados em issues.
+
+## Como criar os perfis
 
 - [Mentor](/helpers/CREATE_MENTOR_PROFILE.md)
 - [Pupilo](/helpers/CREATE_PUPIL_PROFILE.md)
