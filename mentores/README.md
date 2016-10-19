@@ -17,6 +17,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Abner Soares](/mentores/perfis/abner_alves.md)
 * [Felipe Fialho](/mentores/perfis/felipe_fialho.md)
 * [Fernando Moreira](/mentores/perfis/fernando_moreira.md)
+* [Leandro Lima](/mentores/perfis/leandro_lima.md)
 * [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
 * [Wagner Santos](/mentores/perfis/wagner_santos.md)
 
