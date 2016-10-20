@@ -26,6 +26,7 @@
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
+- [Marcos Borges](/pupilos/perfis/marcosabb.md)
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
 - [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
