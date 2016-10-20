@@ -39,3 +39,4 @@
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
+- [Daniel Neri](/pupilos/perfis/nedango.md)
