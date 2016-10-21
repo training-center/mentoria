@@ -26,3 +26,8 @@ Mentor com foco em FullStack (em inglês se preferir).
 
 ## Gostaria de retribuir a ajuda?
 Só mandar um salve para [@guiiipontes](http://twitter.com/guiiipontes) no Twitter!
+
+## Pupilos
+* [Maicon Gomes](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/atreyucore.md)
+* [Marcos Borges](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/marcosabb.md)
+* [Pedro Bernardo](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/pedbernardo.md)
