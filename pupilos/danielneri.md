@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Leandro Lima](/mentores/perfis/leandro_lima.md)
+Leandro Lima(/mentores/perfis/leandro_lima.md)
 
 ## Meu Nome
 
@@ -13,4 +13,4 @@ Quero evoluir e me tornar um grande profissional
 ## Alguns links para me conhecer melhor
 
 
-[twitter.com/nedango]()
+twitter.com/nedango()
