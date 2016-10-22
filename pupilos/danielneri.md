@@ -13,4 +13,4 @@ Quero evoluir e me tornar um grande profissional
 ## Alguns links para me conhecer melhor
 
 
-[twitter](http://twitter.com/nedango)
+[Twitter do Daniel Neri](http://twitter.com/nedango)
