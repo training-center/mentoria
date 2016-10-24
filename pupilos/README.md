@@ -13,6 +13,7 @@
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
+- [Gustavo César Domingos Siqueira](/pupilos/perfis/G18Siqueira.md)
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ingrid Rauany](/pupilos/perfis/IngridRauany.md)
