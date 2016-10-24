@@ -4,6 +4,7 @@
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
+- [Daniel Neri](/pupilos/perfis/danielneri.md)
 - [Danilo Agostinho](/pupilos/perfis/DaniloAgostinho.md)
 - [Diego Zanelatti](/pupilos/perfis/Zanelatti.md)
 - [Eduardo S. de Araujo](/pupilos/perfis/edusar.md)
