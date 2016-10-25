@@ -43,3 +43,7 @@ Conheça os(as) mentores(as) do projeto.
 ## Mentores de SEO
 
 * [Fabíola Faria](/mentores/perfis/fabiola_faria.md)
+
+## Mentores de Android
+
+* [Diego Malone](/mentores/perfis/diegomalone.md)
