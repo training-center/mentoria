@@ -24,6 +24,7 @@
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
 - [Lucas Gabriel](/pupilos/perfis/lucas_gabriel.md)
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
+- [Luiz Glatz](/pupilos/perfis/LuizGlatz.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Maicon Gomes](/pupilos/perfis/atreyucore.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
