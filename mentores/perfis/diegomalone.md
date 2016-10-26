@@ -17,6 +17,10 @@ Mentor para desenvolvedores Android.
 * [Facebook](https://www.facebook.com/diegomalone)
 * Email: diegomalone@gmail.com
 
-## Gostaria de retribuir a ajuda do Jonathan?
+## Gostaria de retribuir a ajuda do Malone?
 
 Só mandar um salve para [@diegomalone](http://twitter.com/diegomalone) no Twitter!
+
+## Pupilos
+
+- [Lucas Capistrano](/pupilos/perfis/lucascapistrano.md)
