@@ -4,7 +4,7 @@
 
 ## Meu Nome
 
-Luccas Capistrano
+Lucas Capistrano dos Santos
 
 ## Qual meu sonho na carreira?
 
