@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-Sem mentor no momento
+[William Bruno](https://github.com/training-center/mentoria/blob/master/mentores/perfis/william_bruno.md)
 
 ## Meu Nome
 
