@@ -24,3 +24,4 @@ Entre em contato pelo meu email: giovanni.cruz97@hotmail.com
 ## Pupilos
 
 * [Victor Maciel](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/VictorMaciel.md)
+* [Luiz Glatz](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/LuizGlatz.md)
