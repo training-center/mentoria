@@ -48,3 +48,4 @@
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
+- [Igor Alves](/pupilos/perfis/IgorAlves.md)
