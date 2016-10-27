@@ -13,5 +13,7 @@ Quero ser front-end, poder contribuir com a comunidade e com novos desenvolvedor
 ## Alguns links para me conhecer melhor
 
 [FaceBook](https://www.facebook.com/johnyeramos)
+
 [Twitter](https://twitter.com/JoeeyRamos)
+
 [LinkedIn](https://br.linkedin.com/in/johnyeramos)
