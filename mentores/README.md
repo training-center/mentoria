@@ -24,8 +24,9 @@ Conheça os(as) mentores(as) do projeto.
 
 ## Mentores de Back End
 
-* [Giovanni Cruz](/mentores/perfis/giovannicruz97.md)
+* [Diego Ponciano](/mentores/perfis/diego_ponciano.md)
 * [Dorian Neto](/mentores/perfis/dorian_neto.md)
+* [Giovanni Cruz](/mentores/perfis/giovannicruz97.md)
 * [Ramon Sanches](/mentores/perfis/raymonsanches.md)
 
 ## Desenvolvimento Web em geral (Full Stack)
