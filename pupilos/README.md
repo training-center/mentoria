@@ -19,6 +19,7 @@
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ingrid Rauany](/pupilos/perfis/IngridRauany.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
+- [Johny Ramos](/pupilos/perfis/johnyramos.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
