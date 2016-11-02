@@ -43,7 +43,8 @@ Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com
 ## Pupilos
 
 - [Giovanni Cruz (giovannicruz97)](/pupilos/perfis/giovannicruz97.md)
-- [Danilo Agostinho](https://github.com/DaniloAgostinho)
+- [Danilo Agostinho (DaniloAgostinho)](/pupilos/perfis/DaniloAgostinho.md)
 - [Lucas Gabriel (lukao98)](/pupilos/perfis/lucas_gabriel.md)
-- [Guilherme Costa](https://github.com/guilhermeocosta)
-- [Nikolas Brandão](https://github.com/nikolasbrandao)
+- [Guilherme Costa (guilhermeocosta)](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
+- [Nikolas Brandão (nikolasbrandao)](/pupilos/perfis/NikolasBrandao.md)
+- [Igor Alves (igoralvess)](/pupilos/perfis/IgorAlves.md)
