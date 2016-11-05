@@ -9,6 +9,7 @@
 - [Diego Zanelatti](/pupilos/perfis/Zanelatti.md)
 - [Eduardo S. de Araujo](/pupilos/perfis/edusar.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
+- [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
