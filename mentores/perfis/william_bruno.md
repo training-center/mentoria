@@ -22,7 +22,5 @@ Mande um abraço para ele no email wbrunom@gmail.com ou nas redes sociais.
 
 ## Pupilos William Bruno
 
-```
 * [Renê Soares](/pupilos/perfis/renesoares.md)
 * [Gabriel Ferreira](/pupilos/perfis/gabriel_ferreira.md)
-```
