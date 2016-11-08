@@ -2,6 +2,7 @@
 
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
+- [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
 - [Daniel Neri](/pupilos/perfis/danielneri.md)
