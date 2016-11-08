@@ -10,6 +10,7 @@
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
+- [Gabriel Ferreira](/pupilos/perfis/GabrielFerreira.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
