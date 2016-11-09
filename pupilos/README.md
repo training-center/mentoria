@@ -40,6 +40,7 @@
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
 - [Marcos Borges](/pupilos/perfis/marcosabb.md)
 - [Nikolas Brandao](/pupilos/perfis/NikolasBrandao.md)
+- [Pamela Souza](/pupilos/perfis/pamelasouza.md)
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
 - [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
