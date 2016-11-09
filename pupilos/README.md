@@ -1,5 +1,6 @@
 # Lista de Pupilos
 
+- [Alex Avila](/pupilos/perfis/AlexAvila.md)
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
