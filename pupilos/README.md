@@ -21,6 +21,7 @@
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ingrid Rauany](/pupilos/perfis/IngridRauany.md)
+- [Igor Alves](/pupilos/perfis/IgorAlves.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Johny Ramos](/pupilos/perfis/johnyramos.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
@@ -54,4 +55,3 @@
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
-- [Igor Alves](/pupilos/perfis/IgorAlves.md)
