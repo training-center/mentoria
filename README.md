@@ -125,7 +125,7 @@ Dê uma olhada [nesse link](https://github.com/training-center/sobre).
 
 > Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
 
-## Quem acredita no Training Center
+## Quem acredita no CT
 
 Apoiadores do projeto:
 
