@@ -135,4 +135,10 @@ Apoiadores do projeto:
   </a>
 </p>
 
+Nós temos o cupom de desconto **CTNINJA** que garante 15% no curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
 
+<p align="center">
+  <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
+    <img src="/img/js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
+  </a>
+</p>
