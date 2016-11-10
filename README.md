@@ -125,7 +125,7 @@ Dê uma olhada [nesse link](https://github.com/training-center/sobre).
 
 > Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
 
-## Quem acredita no Mentoria
+## Quem acredita no Training Center
 
 Apoiadores do projeto:
 
@@ -134,3 +134,5 @@ Apoiadores do projeto:
     <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
   </a>
 </p>
+
+
