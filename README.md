@@ -133,6 +133,9 @@ Apoiadores do projeto:
   <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
     <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
   </a>
+  <a href="http://frontux.com/" title="FrontUX">
+    <img src="/img/frontux-logo.png" alt="Logo FrontUX">
+  </a>
 </p>
 
 Nós temos o cupom de desconto **CTNINJA** que garante 15% no curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
