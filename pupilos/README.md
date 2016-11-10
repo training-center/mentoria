@@ -50,6 +50,7 @@
 - [Renê Soares](/pupilos/perfis/renesoares.md)
 - [Rodrigo Garcia Hernandez](/pupilos/perfis/RodrigoGarcia.md)
 - [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
+- [Romário C. Coimbra](/pupilos/perfis/RomarioCCoimbra.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)

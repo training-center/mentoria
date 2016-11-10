@@ -25,5 +25,5 @@ Estou cursando 7º semestre de Ciência da Computação.
 Só adicionar nas redes sociais, mandar um abraço e repassar o conhecimento adquirido.
 
 ## Pupilos(as) do Alex Junior  
+[Romário C. Coimbra](/pupilos/perfis/RomarioCCoimbra.md)
 
-Ainda não possuo pupilo.
