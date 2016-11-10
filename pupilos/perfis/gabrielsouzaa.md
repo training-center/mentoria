@@ -8,6 +8,6 @@ Gabriel Souza
 Trabalhar em uma grande empresa multinacional.
 
 ## Alguns links para me conhecer melhor
-[Twitter] @gabriels0uzaa
-[GitHub] https://gitbub.com/gabrielsouzaa
-[LinkedIn] https://br.linkedin.com/in/gabriel-souza-48735b82
+[Twitter](https://twitter.com/gabriels0uzaa)
+[GitHub](https://gitbub.com/gabrielsouzaa)
+[LinkedIn](https://br.linkedin.com/in/gabriel-souza-48735b82)
