@@ -14,6 +14,7 @@
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
+- [Gabriel Souza](/pupilos/perfis/gabrielsouzaa.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Guilherme de Oliveira Costa](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
