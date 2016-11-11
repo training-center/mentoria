@@ -7,6 +7,8 @@ Como Pupilo:
 * Você precisa manter seu perfil atualizado
 * Você deve manter seu(sua) Mentor(a) atualizado(a) sobre seu desenvolvimento lhe enviando um email toda semana com um resumo de como tem caminhado[1]
 
-**1** Caso você passe duas semanas sem atualizar seu(sua) Mentor(a), ele(a) poderá "abandonar" o trabalho contigo e mudar para outro(a) pupilo(a).
+*Observações*
+
+**1:** Caso você passe duas semanas sem atualizar seu(sua) Mentor(a), ele(a) poderá "abandonar" o trabalho contigo e mudar para outro(a) pupilo(a).
 Se você precisar se ausentar por algum tempo, pode avisar seu(sua) Mentor(a), então não precisará enviar o email.
 O importante é manter a comunicação entre vocês.
