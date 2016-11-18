@@ -13,6 +13,7 @@
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
+- [Gabriel Ferreira](/pupilos/perfis/GabrielFerreira.md)
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
 - [Gabriel Souza](/pupilos/perfis/gabrielsouzaa.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
