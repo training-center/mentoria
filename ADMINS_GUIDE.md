@@ -59,7 +59,7 @@ Mensagem para quando estiver tudo correndo entre mentor(a) e pupilo:
 ```
 Olá pessoal!
 
-Não esqueçam de atualizar ou criar seus perfis no [repositório](/helpers/README.md) e entrar no nosso [Slack](https://ctgroups.herokuapp.com/).
+Não esqueçam de atualizar ou criar seus perfis no [repositório](https://github.com/training-center/mentoria/blob/master/helpers/README.md) e entrar no nosso [Slack](https://ctgroups.herokuapp.com/).
 ```
 
 **Para novos Mentores >>**
