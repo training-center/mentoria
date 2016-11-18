@@ -11,6 +11,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
 * [William Oliveira](/mentores/perfis/william_oliveira.md)
+* [Thiago Paes](/mentores/perfis/thiago_paes.md)
 
 ## Mentores de Front End e UX/UI
 
@@ -28,6 +29,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Dorian Neto](/mentores/perfis/dorian_neto.md)
 * [Giovanni Cruz](/mentores/perfis/giovannicruz97.md)
 * [Ramon Sanches](/mentores/perfis/raymonsanches.md)
+* [Thiago Paes](/mentores/perfis/thiago_paes.md)
 
 ## Desenvolvimento Web em geral (Full Stack)
 
@@ -40,6 +42,7 @@ Conheça os(as) mentores(as) do projeto.
 * [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
 * [Wendell Adriel](/mentores/perfis/wendell_adriel.md)
 * [William Bruno](/mentores/perfis/william_bruno.md)
+* [Thiago Paes](/mentores/perfis/thiago_paes.md)
 
 ## Mentores de SEO
 
