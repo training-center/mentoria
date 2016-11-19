@@ -8,7 +8,7 @@ Gustavo Aguiar
 
 ## Qual meu sonho na carreira?
 
-Me tornar refêrencia :D
+Me tornar referência :D
 
 ## Alguns links para me conhecer melhor
 
