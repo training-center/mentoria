@@ -54,6 +54,7 @@
 - [Rodrigo Pontes](/pupilos/perfis/RodrigoPontes.md)
 - [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
 - [Romário Coimbra](/pupilos/perfis/RomarioCoimbra.md)
+- [Tiago Fuelber](/pupilos/perfis/TiagoFuelber.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
