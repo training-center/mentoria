@@ -27,6 +27,7 @@
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Johny Ramos](/pupilos/perfis/johnyramos.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
+- [Josué Rodrigues](/pupilos/perfis/Josue23.md)
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Lucas Capistrano](/pupilos/perfis/lucascapistrano.md)
