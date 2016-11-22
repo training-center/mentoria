@@ -21,4 +21,4 @@ Escreva software livre, publique código aberto.. contribua com a comunidade. Um
 
 ## Pupilos do Thiago 
 
-Nenhum ainda
+* [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
