@@ -20,5 +20,6 @@ Mande um abraço para ele no email jessuircleydson@gmail.com ou deixe um depoime
 ## Pupilos
 
 
-* [Marcelo Henrique de Souza e Silva](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/MarceloHenrique.md)
 * [Bruno Xavier de Melo](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/BrunoMelo.md)
+* [Marcelo Henrique de Souza e Silva](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/MarceloHenrique.md)
+* [Tiago Fuelber](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/TiagoFuelber.md)
