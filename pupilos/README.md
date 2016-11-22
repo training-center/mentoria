@@ -19,6 +19,7 @@
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
 - [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Guilherme de Oliveira Costa](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
+- [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
 - [Gustavo César Domingos Siqueira](/pupilos/perfis/G18Siqueira.md)
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
