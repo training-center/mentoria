@@ -30,6 +30,7 @@
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Josué Rodrigues](/pupilos/perfis/Josue23.md)
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
+- [Leonan Machado](/pupilos/perfis/LeonanMachado.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Lucas Capistrano](/pupilos/perfis/lucascapistrano.md)
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
