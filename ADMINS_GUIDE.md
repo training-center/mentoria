@@ -10,7 +10,7 @@ As issues precisam de organização e atualizações constantes para garantir qu
 
 Quando chega uma issue nova e você começa alguma interação com ela, assine-a para você. Assim ninguém fecha essa issue antes de sua atualização.
 
-Se uma issue já estiver assinada e você quiser contribuir, basta ir atualizando o responsável pela issue o mensionando.
+Se uma issue já estiver assinada e você quiser contribuir, basta ir atualizando o responsável pela issue o mencionando.
 
 **Labels**
 
