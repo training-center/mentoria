@@ -12,6 +12,7 @@
 - [Eduardo S. de Araujo](/pupilos/perfis/edusar.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
+- [Frederico Drumond](/pupilos/perfis/fredrumond.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Gabriel Ferreira](/pupilos/perfis/GabrielFerreira.md)
 - [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
