@@ -6,6 +6,12 @@ Documentação de como funciona o fluxo do Mentoria (esse projeto).
 
 As issues precisam de organização e atualizações constantes para garantir que os usuários do projeto (Mentores, Pupilos e "visitantes") estão sendo bem atendidos.
 
+### Fluxo
+
+Quando chega uma issue nova e você começa alguma interação com ela, assine-a para você. Assim ninguém fecha essa issue antes de sua atualização.
+
+Se uma issue já estiver assinada e você quiser contribuir, basta ir atualizando o responsável pela issue o mensionando.
+
 **Labels**
 
 Após abertura da issue devemos adicionar uma label com o assunto relacionado em seu conteúdo, por exemplo `need a mentor` e `javascript`. Sabemos que uma issue com essas labels é de alguém que busca mentoria para o assunto JavaScript.
