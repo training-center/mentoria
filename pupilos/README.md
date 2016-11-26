@@ -48,6 +48,7 @@
 - [Marcos Borges](/pupilos/perfis/marcosabb.md)
 - [Nikolas Brandao](/pupilos/perfis/NikolasBrandao.md)
 - [Pamela Souza](/pupilos/perfis/pamelasouza.md)
+- [Paulo Roberto Menezes](/pupilos/perfis/jalawz.md)
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
 - [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
