@@ -22,5 +22,4 @@ Escreva software livre, publique código aberto.. contribua com a comunidade. Um
 ## Pupilos do Thiago 
 
 * [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
-* [Paulo Roberto Menezes](/pupilos/perfis/PauloRobertoMenezes.md)
 * [Frederico Xavier Drumond](/pupilos/perfis/fredrumond.md)
