@@ -9,7 +9,7 @@ Conheça os(as) mentores(as) do projeto.
 - disponível para pegar novos(as) pupilos(as); :white_check_mark: na frente do nome
 - indisponível para pegar novos(as) pupilos(as); :snowflake: na frente do nome
 
-## Mentores de Android
+## Android
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
