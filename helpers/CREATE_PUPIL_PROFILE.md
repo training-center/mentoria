@@ -20,22 +20,24 @@ Em seguida basta criar o commit para esse arquivo.
 
 ![Criando o commit para o arquivo](/img/commit-with-new-profile-helper.png)
 
-Agora basta adicionar a referência ao seu perfil na [lista de pupilos](/pupilos/README.md), clicando em `Edit this file`.
+Agora adicione a referência ao seu perfil na [lista de pupilos](/pupilos/README.md), clicando em `Edit this file`.
 
 ![Botão Edit this file](/img/edit-this-file-button-helper.png)
 
-Adicione seu nome em ordem alfabética.
+Adicione seu nome **em ordem alfabética**.
 
 ![Adicionando o nome do pupilo na lista de pupilos](/img/add-pupil-profile-in-readme-helper.png)
 
-Depois basta criar o commit.
+Depois é só criar o commit.
 
 ![Commit no README.md da lista de pupilos](/img/commit-readme-helper.png)
 
-Agora basta voltar na raiz do projeto, no seu fork (o GitHub fez um fork automaticamente quando você clicou em "Create new file" no primeiro passo desse tutorial) e clicar em `New Pull Request`.
+Volte na raiz do projeto, no seu fork (o GitHub fez um fork automaticamente quando você clicou em "Create new file" no primeiro passo desse tutorial) e clicar em `New Pull Request`.
 
 ![Botão New pull request](/img/new-pull-request.png)
 
 Verifique se está tudo OK e clique em Create Pull Request.
 
-Agora é só aguardar o merge pelos admins do Mentoria.
+Aguarde o merge pelos admins do Mentoria.
+
+Prontinho! :D
