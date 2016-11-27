@@ -9,32 +9,13 @@ Conheça os(as) mentores(as) do projeto.
 - disponível para pegar novos(as) pupilos(as); :white_check_mark: na frente do nome
 - indisponível para pegar novos(as) pupilos(as); :snowflake: na frente do nome
 
-## Mentores de Front End
+## Mentores de Android
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
-| [Cezar Luiz](/mentores/perfis/cezar_luiz.md) | :mailbox_closed: :snowflake: |
-| [Danilo Vaz](/mentores/perfis/danilo_vaz.md) | :mailbox_closed: :snowflake: |
-| [Gian Souza](/mentores/perfis/gian_souza.md) | :mailbox_closed: :snowflake: |
-| [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
-| [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
-| [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
-| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :snowflake: |
+| [Diego Malone](/mentores/perfis/diegomalone.md) |  :mailbox_closed: :snowflake: |
 
-## Mentores de Front End e UX/UI
-
-| Mentor(a)  | Disponibilidade |
-| ------------- | ------------- |
-| [Abner Soares](/mentores/perfis/abner_alves.md) |  :mailbox_closed: :snowflake: |
-| [Felipe Fialho](/mentores/perfis/felipe_fialho.md) |  :mailbox_closed: :snowflake: |
-| [Fernando Moreira](/mentores/perfis/fernando_moreira.md) |  :mailbox_closed: :snowflake: |
-| [Leandro Lima](/mentores/perfis/leandro_lima.md) |  :mailbox_closed: :snowflake: |
-| [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md) |  :mailbox_closed: :snowflake: |
-| [Wagner Santos](/mentores/perfis/wagner_santos.md) |  :mailbox_closed: :snowflake: |
-
-
-## Mentores de Back End
+## Back End
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
@@ -59,14 +40,32 @@ Conheça os(as) mentores(as) do projeto.
 | [William Bruno](/mentores/perfis/william_bruno.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 
-## Mentores de SEO
+## Front End
+
+| Mentor(a)  | Disponibilidade |
+| ------------- | ------------- |
+| [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
+| [Cezar Luiz](/mentores/perfis/cezar_luiz.md) | :mailbox_closed: :snowflake: |
+| [Danilo Vaz](/mentores/perfis/danilo_vaz.md) | :mailbox_closed: :snowflake: |
+| [Gian Souza](/mentores/perfis/gian_souza.md) | :mailbox_closed: :snowflake: |
+| [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
+| [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
+| [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
+| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :snowflake: |
+
+## Front End e UX/UI
+
+| Mentor(a)  | Disponibilidade |
+| ------------- | ------------- |
+| [Abner Soares](/mentores/perfis/abner_alves.md) |  :mailbox_closed: :snowflake: |
+| [Felipe Fialho](/mentores/perfis/felipe_fialho.md) |  :mailbox_closed: :snowflake: |
+| [Fernando Moreira](/mentores/perfis/fernando_moreira.md) |  :mailbox_closed: :snowflake: |
+| [Leandro Lima](/mentores/perfis/leandro_lima.md) |  :mailbox_closed: :snowflake: |
+| [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md) |  :mailbox_closed: :snowflake: |
+| [Wagner Santos](/mentores/perfis/wagner_santos.md) |  :mailbox_closed: :snowflake: |
+
+## SEO
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
 | [Fabíola Faria](/mentores/perfis/fabiola_faria.md) |  :mailbox_with_no_mail: :white_check_mark: |
-
-## Mentores de Android
-
-| Mentor(a)  | Disponibilidade |
-| ------------- | ------------- |
-| [Diego Malone](/mentores/perfis/diegomalone.md) |  :mailbox_closed: :snowflake: |
