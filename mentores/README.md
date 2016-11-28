@@ -36,7 +36,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_closed: :snowflake: |
 | [Lucas Henrique](/mentores/perfis/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
 | [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
-| [Wendell Adriel](/mentores/perfis/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
+| [Wendell Adriel](/mentores/perfis/wendell_adriel.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [William Bruno](/mentores/perfis/william_bruno.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 
