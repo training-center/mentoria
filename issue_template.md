@@ -26,24 +26,7 @@ OBS: Você pode copiar o conteúdo acima e só adicionar suas informações, se 
 
 ## Para quem deseja receber mentoria
 
-Coloque no título da issue algo como: Preciso de um(a) mentor(a) de X.
-
-Onde X pode ser a área de atuação ou ferramenta, etc.
-
-Ex. de título: Preciso de um(a) mentor(a) sobre Desenvolvimento Back End em Python.
-
-No conteúdo da issue (onde está aparecendo essa ajuda): Deixe seu nome, links para redes sociais, uma pequena descrição da sua necessidade, seu atual nível de conhecimento e aguarde o contato de um(a) mentor(a). Eles(as) irão entrar em contato assim que sobrar um tempinho. :D
-
-Ex. de conteúdo:
-
-**Nome:**
-**Descrição:**
-**Nível de conhecimento atual:**
-**Contatos:**
-
-OBS: Você pode copiar o conteúdo acima e só adicionar suas informações, se quiser algo mais fácil. :D
-
-------------------------------------------------------------
+Você deve olhar na lista de [mentores](/mentores)e alguém está disponível e entrar em contato direto com a pessoa.
 
 ## Para todos os outros casos
 
