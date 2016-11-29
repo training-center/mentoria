@@ -194,10 +194,19 @@ Apoiadores do projeto:
   </a>
 </p>
 
-Nós temos o cupom de desconto **CTNINJA** que garante 15% no curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
+Nós temos o cupom de desconto **CTNINJA** que garante 15% no Curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
 
 <p align="center">
   <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
     <img src="/img/js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
   </a>
 </p>
+
+Nós temos o cupom de desconto **CTSHORTCUT** que garante 15% no Curso de Organização de CSS, do [Afonso Pacifer](https://github.com/afonsopacifer).
+
+<p align="center">
+  <a href="https://csshortcut.github.io" title="Curso CSShortcut do Afonso Pacifer">
+    <img src="/img/csshortcut-banner.jpg" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
+  </a>
+</p>
+
