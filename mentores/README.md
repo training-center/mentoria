@@ -37,10 +37,10 @@ Conheça os(as) mentores(as) do projeto.
 | [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_closed: :snowflake: |
 | [Lucas Henrique](/mentores/perfis/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
 | [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
-| [Wendell Adriel](/mentores/perfis/wendell_adriel.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Wendell Adriel](/mentores/perfis/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
 | [William Bruno](/mentores/perfis/william_bruno.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
-| [Vinicius Reis](/mentores/perfis/vinicius_reis.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Vinicius Reis](/mentores/perfis/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
 
 ## Front End
 
@@ -53,6 +53,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
 | [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
+| [Wilson Campos](/mentores/perfis/wilson_campos.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :snowflake: |
 
 ## Front End e UX/UI
