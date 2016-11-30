@@ -32,6 +32,7 @@
 - [Johny Ramos](/pupilos/perfis/johnyramos.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Josué Rodrigues](/pupilos/perfis/Josue23.md)
+- [Juliano Padilha](/pupilos/perfis/JulianoPadilha.md)
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
 - [Leonan Machado](/pupilos/perfis/LeonanMachado.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
