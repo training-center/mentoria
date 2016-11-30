@@ -7,6 +7,7 @@
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
 - [Daniel Neri](/pupilos/perfis/danielneri.md)
+- [Daniel Simão da Silva](/pupilos/perfis/danielsimaodasilva.md)
 - [Danilo Agostinho](/pupilos/perfis/DaniloAgostinho.md)
 - [Diego Zanelatti](/pupilos/perfis/Zanelatti.md)
 - [Eduardo S. de Araujo](/pupilos/perfis/edusar.md)
