@@ -62,6 +62,7 @@
 - [Tiago Fuelber](/pupilos/perfis/TiagoFuelber.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
+- [William Correa](/pupilos/perfis/WilliamCorrea.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
