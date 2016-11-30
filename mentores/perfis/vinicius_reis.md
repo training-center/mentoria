@@ -2,7 +2,7 @@
 
 ## Vinicius Reis
 
-Sou apaixonado por desenvolvimento Web, gosto de aprender e compatilhar conhecimento. 
+Sou apaixonado por desenvolvimento Web, gosto de aprender e compatilhar conhecimento.
 Entre filmes, séries, livros, mangás e HQs sempre estou buscando me aprimorar.
 Atualmente trabalho como Engenheiro de aplicações na [decision6](https://decision6.com) e gravo vídeos no [CODECASTS](https://codecasts.com.br/)
 
@@ -24,4 +24,4 @@ Mande um abraço para ele no email luiz.vinicius73@gmmail.com ou nas redes socia
 
 ## Pupilos do Vinicius Reis
 
-* -
+* - [Emanuel Gonçalves](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/EmanuelG.md)
