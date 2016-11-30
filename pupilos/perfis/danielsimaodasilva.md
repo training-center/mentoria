@@ -12,7 +12,7 @@ Quero me tornar um Front-End Engineer, capaz de compreender todo o fluxo do proj
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Pupilo de Daniel Simão da Silva](https://www.facebook.com/simao.dev)
-[Twitter do Pupilo de Daniel Simão da Silva](https://twitter.com/simaodeveloper)
-[LinkedIn do Pupilo de Daniel Simão da Silva](https://www.linkedin.com/in/daniel-simao-da-silva)
+- [Facebook do Pupilo de Daniel Simão da Silva](https://www.facebook.com/simao.dev)
+- [Twitter do Pupilo de Daniel Simão da Silva](https://twitter.com/simaodeveloper)
+- [LinkedIn do Pupilo de Daniel Simão da Silva](https://www.linkedin.com/in/daniel-simao-da-silva)
 ```
