@@ -40,7 +40,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Wendell Adriel](/mentores/perfis/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
 | [William Bruno](/mentores/perfis/william_bruno.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
-| [Vinicius Reis](/mentores/perfis/vinicius_reis.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Vinicius Reis](/mentores/perfis/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
 
 ## Front End
 
