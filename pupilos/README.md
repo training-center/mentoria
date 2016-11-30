@@ -15,6 +15,7 @@
 - [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
+- [Felipe Lacerda](/pupilos/perfis/FelipeLacerda.md)
 - [Frederico Drumond](/pupilos/perfis/fredrumond.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Gabriel Ferreira](/pupilos/perfis/GabrielFerreira.md)
