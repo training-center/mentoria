@@ -12,6 +12,5 @@ Ser desenvolvedora full stack e trabalhar fora do país.
 
 ## Alguns links para me conhecer melhor:
 
-
 [Twitter](http://www.twitter.com/beatrizuezu)
 [LinkedIn](https://br.linkedin.com/in/beatrizuezu)
