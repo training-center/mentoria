@@ -31,6 +31,6 @@ Desenvolvimento Web em geral (Full Stack)
 
 Mande um abraço para ele no email contato@webdevbr.com.br ou nas redes sociais.
 
-## Pupilos do Mentor da Sila Souza
+## Pupilos do Erik
 
-* -
+* [Igor Oliveira](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/IgoOliveira.md)
