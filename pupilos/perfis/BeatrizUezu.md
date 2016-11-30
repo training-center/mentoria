@@ -8,7 +8,7 @@ Beatriz Harumi Uezu
 
 ## Qual meu sonho na carreira?
 
-Ser desenvolvedora back-end competente com conhecimentos sólidos em front-end.
+Ser desenvolvedora full stack e trabalhar fora do país.
 
 ## Alguns links para me conhecer melhor:
 
