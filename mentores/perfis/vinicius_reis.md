@@ -24,4 +24,7 @@ Mande um abraço para ele no email luiz.vinicius73@gmmail.com ou nas redes socia
 
 ## Pupilos do Vinicius Reis
 
-* - [Emanuel Gonçalves](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/EmanuelG.md)
+* [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
+* [Daniel Simão da Silva](/pupilos/perfis/danielsimaodasilva.md)
+* [William Correa](/pupilos/perfis/WilliamCorrea.md)
+* [Juliano Padilha](/pupilos/perfis/JulianoPadilha.md)
