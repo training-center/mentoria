@@ -1,6 +1,7 @@
 # Lista de Pupilos
 
 - [Adeonir Kohl](/pupilos/perfis/AdeonirKohl.md)
+- [Adelmo Junior](/pupilos/perfis/AdelmoJunior.md)
 - [Alex Avila](/pupilos/perfis/AlexAvila.md)
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
@@ -15,6 +16,7 @@
 - [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
+- [Felipe Lacerda](/pupilos/perfis/FelipeLacerda.md)
 - [Frederico Drumond](/pupilos/perfis/fredrumond.md)
 - [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
 - [Gabriel Ferreira](/pupilos/perfis/GabrielFerreira.md)
@@ -52,6 +54,7 @@
 - [Marcos Borges](/pupilos/perfis/marcosabb.md)
 - [Nikolas Brandao](/pupilos/perfis/NikolasBrandao.md)
 - [Pamela Souza](/pupilos/perfis/pamelasouza.md)
+- [Paulo Pereira dos Anjos](/pupilos/perfis/paulopereiradosanjos.md)
 - [Paulo Roberto Menezes](/pupilos/perfis/jalawz.md)
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
@@ -70,4 +73,4 @@
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
-- [Igor Oliveira] (/pupilos/perfis/IgoOliveira.md)
+- [Igor Oliveira](/pupilos/perfis/IgoOliveira.md)
