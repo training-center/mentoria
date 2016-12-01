@@ -34,3 +34,4 @@ Mande um abraço para ele no email contato@webdevbr.com.br ou nas redes sociais.
 ## Pupilos do Erik
 
 * [Igor Oliveira](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/IgoOliveira.md)
+* [Felipe Lacerda](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/FelipeLacerda.md)
