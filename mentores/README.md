@@ -31,7 +31,7 @@ Conheça os(as) mentores(as) do projeto.
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
 | [Alex Junior](/mentores/perfis/alexjunior012.md) |  :mailbox_closed: :snowflake: |
-| [Erik Figueiredo](/mentores/perfis/erik_figueiredo.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Erik Figueiredo](/mentores/perfis/erik_figueiredo.md) |  :mailbox_closed: :snowflake: |
 | [Guilherme Pontes](/mentores/perfis/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
 | [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
 | [Leonardo Saraiva](/mentores/perfis/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |
