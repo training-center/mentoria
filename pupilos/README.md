@@ -71,3 +71,4 @@
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
 - [Igor Oliveira] (/pupilos/perfis/IgoOliveira.md)
+- [Thiago Alves Vieira (ThivieiraTAV)] (/pupilos/perfis/thivieiratav.md)
