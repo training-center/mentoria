@@ -4,6 +4,7 @@
 - [Adelmo Junior](/pupilos/perfis/AdelmoJunior.md)
 - [Alex Avila](/pupilos/perfis/AlexAvila.md)
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
+- [Allan Ramos)(/pupilos/perfis/AllanRamos.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
 - [Bruno Cavalcante](/pupilos/perfis/BrunoCavalcante.md)
