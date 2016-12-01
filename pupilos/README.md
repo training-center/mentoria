@@ -54,6 +54,7 @@
 - [Marcos Borges](/pupilos/perfis/marcosabb.md)
 - [Nikolas Brandao](/pupilos/perfis/NikolasBrandao.md)
 - [Pamela Souza](/pupilos/perfis/pamelasouza.md)
+- [Paulo Pereira dos Anjos](/pupilos/perfis/paulopereiradosanjos.md)
 - [Paulo Roberto Menezes](/pupilos/perfis/jalawz.md)
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
@@ -72,4 +73,4 @@
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
-- [Igor Oliveira] (/pupilos/perfis/IgoOliveira.md)
+- [Igor Oliveira](/pupilos/perfis/IgoOliveira.md)
