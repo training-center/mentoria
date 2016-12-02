@@ -4,7 +4,7 @@
 - [Adelmo Junior](/pupilos/perfis/AdelmoJunior.md)
 - [Alex Avila](/pupilos/perfis/AlexAvila.md)
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
-- [Allan Ramos)(/pupilos/perfis/AllanRamos.md)
+- [Allan Ramos](/pupilos/perfis/AllanRamos.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
 - [Bruno Cavalcante](/pupilos/perfis/BrunoCavalcante.md)
@@ -76,3 +76,4 @@
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
 - [Igor Oliveira](/pupilos/perfis/IgoOliveira.md)
+- [Thiago Alves Vieira (ThivieiraTAV)] (/pupilos/perfis/thivieiratav.md)
