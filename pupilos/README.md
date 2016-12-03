@@ -15,6 +15,7 @@
 - [Danilo Agostinho](/pupilos/perfis/DaniloAgostinho.md)
 - [Diego Zanelatti](/pupilos/perfis/Zanelatti.md)
 - [Eduardo S. de Araujo](/pupilos/perfis/edusar.md)
+- [Elton Coelho](/pupilos/perfis/elton_coelho.md)
 - [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
