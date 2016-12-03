@@ -1,6 +1,8 @@
 # Mentoria  <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+
 > Em constante evolução
 
+<a href="https://twitter.com/ct_org" target="_blank">Siga-nos no Twitter</a>
 
 Um projeto para ajudar pessoas em início de carreira ou não a irem ao infinito e além em seus objetivos pessoais!
 
