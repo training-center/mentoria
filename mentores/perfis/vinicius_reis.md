@@ -28,3 +28,4 @@ Mande um abraço para ele no email luiz.vinicius73@gmmail.com ou nas redes socia
 * [Daniel Simão da Silva](/pupilos/perfis/danielsimaodasilva.md)
 * [William Correa](/pupilos/perfis/WilliamCorrea.md)
 * [Juliano Padilha](/pupilos/perfis/JulianoPadilha.md)
+* [Thiago Alves Vieira (ThivieiraTAV)] (/pupilos/perfis/thivieiratav.md)
