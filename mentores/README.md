@@ -23,6 +23,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Dorian Neto](/mentores/perfis/dorian_neto.md) |  :mailbox_closed: :snowflake: |
 | [Giovanni Cruz](/mentores/perfis/giovannicruz97.md) |  :mailbox_closed: :snowflake: |
 | [Luiz Paulo Ferreira](/mentores/perfis/luiz_paulof.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Vinicius Tinguan](/mentores/perfis/vinicius_tinguan.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Ramon Sanches](/mentores/perfis/raymonsanches.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 
