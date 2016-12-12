@@ -63,6 +63,7 @@
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
 - [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
+- [Rafael Martins dos Santos](/pupilos/perfis/rafaelmartinsja.md)
 - [Raul Felipe de Melo](/pupilos/perfis/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](/pupilos/perfis/RenanMoura.md)
 - [Renê Soares](/pupilos/perfis/renesoares.md)
