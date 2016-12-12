@@ -22,6 +22,8 @@ Conheça os(as) mentores(as) do projeto.
 | [Diego Ponciano](/mentores/perfis/diego_ponciano.md) |  :mailbox_closed: :snowflake: |
 | [Dorian Neto](/mentores/perfis/dorian_neto.md) |  :mailbox_closed: :snowflake: |
 | [Giovanni Cruz](/mentores/perfis/giovannicruz97.md) |  :mailbox_closed: :snowflake: |
+| [Luiz Paulo Ferreira](/mentores/perfis/luiz_paulof.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Vinicius Tinguan](/mentores/perfis/vinicius_tinguan.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Ramon Sanches](/mentores/perfis/raymonsanches.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 
@@ -30,7 +32,7 @@ Conheça os(as) mentores(as) do projeto.
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
 | [Alex Junior](/mentores/perfis/alexjunior012.md) |  :mailbox_closed: :snowflake: |
-| [Erik Figueiredo](/mentores/perfis/erik_figueiredo.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Erik Figueiredo](/mentores/perfis/erik_figueiredo.md) |  :mailbox_closed: :snowflake: |
 | [Guilherme Pontes](/mentores/perfis/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
 | [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
 | [Leonardo Saraiva](/mentores/perfis/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |

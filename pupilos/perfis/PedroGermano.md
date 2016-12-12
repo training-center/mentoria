@@ -1,8 +1,6 @@
 
 # Mentor(a) responsável por mim
 
-[Abner Soares Alves Junior](/mentores/perfis/abner_alves.md)
-
 ## Meu Nome
 
 Pedro Germano
