@@ -26,5 +26,6 @@ Mande um abraço no email wilsoncampoz@outlook.com com o assunto `#mentoria` ou 
 
 - [Adeonir Kohl](/pupilos/perfis/AdeonirKohl.md)
 - [Allan Ramos](/pupilos/perfis/AllanRamos.md)
+- [Mayara Pimentel](/pupilos/perfis/mayarapimentel.md)
 
 
