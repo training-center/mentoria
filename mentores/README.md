@@ -62,7 +62,7 @@ Conheça os(as) mentores(as) do projeto.
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Abner Soares](/mentores/perfis/abner_alves.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Abner Soares](/mentores/perfis/abner_alves.md) |  :mailbox_closed: :snowflake: |
 | [Felipe Fialho](/mentores/perfis/felipe_fialho.md) |  :mailbox_closed: :snowflake: |
 | [Fernando Moreira](/mentores/perfis/fernando_moreira.md) |  :mailbox_closed: :snowflake: |
 | [Leandro Lima](/mentores/perfis/leandro_lima.md) |  :mailbox_closed: :snowflake: |
