@@ -23,3 +23,4 @@ Escreva software livre, publique código aberto.. contribua com a comunidade. Um
 * [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
 * [Frederico Xavier Drumond](/pupilos/perfis/fredrumond.md)
 * [Paulo Robert Menezes](/pupilos/perfis/jalawz.md)
+* [Vicente Martins](/pupilos/perfis/vicentimartins.md)
