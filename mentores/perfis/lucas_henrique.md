@@ -41,3 +41,5 @@ Dá um feedback lá no https://br.linkedin.com/in/lucashenriqueps93 e é nois !
 
 * [Gustavo César Domingos Siqueira](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/G18Siqueira.md)
 * [Alex Avila](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/AlexAvila.md) 
+* [LeonanMachado](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/LeonanMachado.md)
+
