@@ -22,4 +22,5 @@ Ou me manda um salve nas redes sociais.
 
 ## Pupilos do Diego
 
-Nenhum ainda.
+- [Beatriz Harumi Uezu](/pupilos/perfis/BeatrizUezu.md)
+- [Josué Rodrigues](/pupilos/perfis/josue23.md)
