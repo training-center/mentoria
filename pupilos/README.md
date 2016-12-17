@@ -58,6 +58,7 @@
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
 - [Marcos Borges](/pupilos/perfis/marcosabb.md)
 - [Mateus Rodrigues](/pupilos/perfis/mateusrdgs.md)
+  [Maxwel Ferreira]pupilos/perfis/MaxwelFerreira
 - [Mayara Pimentel](/pupilos/perfis/mayarapimentel.md)
 - [Nikolas Brandao](/pupilos/perfis/NikolasBrandao.md)
 - [Pamela Souza](/pupilos/perfis/pamelasouza.md)
