@@ -7,6 +7,7 @@
 - [Allan Ramos](/pupilos/perfis/AllanRamos.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
+- [Beatriz Uezu](/pupilos/perfis/BeatrizUezu.md)
 - [Bruno Cavalcante](/pupilos/perfis/BrunoCavalcante.md)
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
