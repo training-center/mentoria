@@ -80,6 +80,7 @@
 - [Thiago Alves Vieira (ThivieiraTAV)] (/pupilos/perfis/thivieiratav.md)
 - [Vicente Martins](/pupilos/perfis/vicentimartins.md)
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
+- [Victor Grossi](/pupilos/perfis/VictorGrossi.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
 - [William Correa](/pupilos/perfis/WilliamCorrea.md)
