@@ -25,3 +25,7 @@ Mentor para desenvolvedores Front-End UX/UI
 ## Gostaria de retribuir a ajuda do Wagner?
 
 Mande um oi para contato@wagnersantos.com ou nas redes sociais.
+
+## Pupilos
+
+- [Luiz Gabriel Silva de Araujo](@luizgabriell)
