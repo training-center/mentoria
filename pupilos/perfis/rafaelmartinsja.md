@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Leandro Lima](/mentores/perfis/leandro_lima.md)
+[Wagner Santos](/mentores/perfis/wagner_santos.md)
 
 ## Meu nome
 
@@ -13,8 +13,8 @@ Emprego no Canadá.;Contribuir com a comunidade.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/rafaelmartins10)
-[Twitter](https://twitter.com/faelmartins10)
-[LinkedIn](https://www.linkedin.com/in/rafael-martins-0831471b)
-[Codepen](https://codepen.io/RafaelMartins10/)
-[Site](http://rafaeldesign.com.br)
+- [Facebook](https://www.facebook.com/rafaelmartins10)
+- [Twitter](https://twitter.com/faelmartins10)
+- [LinkedIn](https://www.linkedin.com/in/rafael-martins-0831471b)
+- [Codepen](https://codepen.io/RafaelMartins10/)
+- [Site](http://rafaeldesign.com.br)
