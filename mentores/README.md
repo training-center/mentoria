@@ -53,6 +53,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Danilo Vaz](/mentores/perfis/danilo_vaz.md) | :mailbox_closed: :snowflake: |
 | [Gian Souza](/mentores/perfis/gian_souza.md) | :mailbox_closed: :snowflake: |
 | [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
+| [Renan Oliveira](/mentores/perfis/renan_oliveira.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
 | [Wilson Campos](/mentores/perfis/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
