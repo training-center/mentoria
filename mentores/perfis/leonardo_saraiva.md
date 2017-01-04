@@ -26,3 +26,6 @@ Gostaria de retribuir um pouco à comunidade com o conhecimento que consegui adq
 ## Gostaria de retribuir a ajuda do Leonardo?
 
 Só dar um chego nas redes sociais e mandar um `_o/`
+
+## Pupilos
+- [Marcelo Luiz Leite](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/marceloluizleite.md)
