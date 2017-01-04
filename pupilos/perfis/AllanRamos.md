@@ -1,6 +1,7 @@
 # Mentor(a) responsável por mim
 
 [Wilson Campos Gomes](/mentores/perfis/wilson_campos.md)
+[Thiago Paes](/mentores/perfis/thiago_paes.md)
 
 ## Meu Nome
 
@@ -8,7 +9,7 @@ Allan Gabriel Ramos da SIlva
 
 ## Qual meu sonho na carreira?
 
-Quero ser um desenvolvedor front-end fullstack, com fortes competências na parte de UI e também em Javascript.
+Quero melhorar minha habilidades como desenvolvedor fullstack, melhorando principalmente minhas habilidades de JS e PHP.
 
 ## Alguns links para me conhecer melhor
 
