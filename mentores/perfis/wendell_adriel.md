@@ -3,26 +3,23 @@
 ## Wendell Adriel Luiz Silva
 
 Sou formado em Análise e Desenvolvimento de Sistemas, sou um Zend Certified PHP Engineer e
-Scrum Fundamentals Certified.
+Scrum Fundamentals Certified.  
 
-Atuo como Consultor em desenvolvimento de aplicações Web com foco em PHP (aplicações Laravel) e em
-Front-end (com foco em JavaScript). Ajudo na definição de processos, arquitetura, ferramentas, etc.
+Atualmente estou trabalhando em Lisboa/Portugal como Full Stack Developer na OLX, atuo também como Consultor em desenvolvimento de aplicações Web com foco em PHP (aplicações Laravel) e em Front-end (com foco em JavaScript). Ajudo na definição de processos, arquitetura, ferramentas, etc.  
+
 Também atuo desenvolvendo soluções e/ou melhorando soluções existentes com foco na melhoria da qualidade
 do código já desenvolvido, definições de padrões de desenvolvimento e testes e também na melhoria na
 performance das aplicações.
 
-Sou Criador e Tutor da CodeShare e Professor da Webschool. Trabalho com desenvolvimento de sites e softwares
+Sou Criador e Tutor da CodeShare ad Professor da Webschool. Trabalho com desenvolvimento de sites e softwares
 desde 2009 e sempre procuro me manter atualizado nas melhores tecnologias e metodologias no desenvolvimento de
 softwares. Desde 2010 estou focado no desenvolvimento Web e desde 2015 também estou focado no desenvolvimento Mobile.
 
-Já fiz (e continuo fazendo) diversos cursos na área de desenvolvimento e conheço diversas linguagens e tecnologias.
-Gosto muito de trabalhar com desenvolvimento Front-End e Back-End. Minhas linguagens Back-End preferidas são PHP,
-JavaScript, Ruby, Python e Java. No Front-End meu foco é em JavaScript e seus Frameworks, mas gosto muito de
-trabalhar com CSS (principalmente com o Pré-processador Stylus) e também com HTML (principalmente com Jade).
+Gosto de trabalhar com desenvolvimento Front-end e Back-end. Trabalho com diversas tecnologias e você pode conferir a lista completa de minhas skills em meu site pessoal
 
 ## Perfil
 
-Mentor para Desenvolvimento Web - Foco em PHP e JS.
+Mentor para Desenvolvimento Full Stack - Foco em desenvolvimento Web com PHP e JavaScript, mas posso ajudar com outras tecnologias.
 
 ## Links
 
@@ -46,3 +43,8 @@ Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com
 ## Pupilos
 
 - [Giovanni Cruz (giovannicruz97)](/pupilos/perfis/giovannicruz97.md)
+- [Danilo Agostinho (DaniloAgostinho)](/pupilos/perfis/DaniloAgostinho.md)
+- [Lucas Gabriel (lukao98)](/pupilos/perfis/lucas_gabriel.md)
+- [Guilherme Costa (guilhermeocosta)](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
+- [Nikolas Brandão (nikolasbrandao)](/pupilos/perfis/NikolasBrandao.md)
+- [Igor Alves (igoralvess)](/pupilos/perfis/IgorAlves.md)

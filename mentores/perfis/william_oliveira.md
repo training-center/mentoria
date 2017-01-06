@@ -2,7 +2,7 @@
 
 ## Nome
 
-William de Oliveira Souza
+William Oliveira
 
 ## Perfil
 
@@ -13,7 +13,7 @@ Mentor para Desenvolvedores Front End
 [Site pessoal](http://woliveiras.com.br)
 [Facebook](https://www.facebook.com/woliveira542)
 [Twitter](https://twitter.com/w_oliveiras)
-[LinkedIn](https://www.linkedin.com/in/woliveira542)
+[LinkedIn](https://www.linkedin.com/in/william-oliveira)
 
 ## Gostaria de retribuir a ajuda do William?
 
@@ -25,3 +25,4 @@ Mande um abraço no email williamozsouza@gmail.com com o assunto `#mentoria` ou 
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Renan Silva Moura (RenanSMoura)](/pupilos/perfis/RenanMoura.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
+- [Rodrigo Pontes](/pupilos/perfis/RodrigoPontes.md)

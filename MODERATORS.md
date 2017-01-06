@@ -1,11 +1,8 @@
 # Moderadores do Projeto Mentoria
 
-- [Andrea Zambrana](https://github.com/akfzambrana)
-- [Baltazar Parra](https://github.com/baltazarparra)
 - [Danilo Vaz](https://github.com/danilovaz)
-- [Joao Carvalho](https://github.com/JGcarv)
-- [Jonathan Lamim](https://github.com/jlamim)
-- [Larissa Abreu](https://github.com/LarissaAbreu)
+- [Gil Vieira](https://github.com/ogilvieira)
 - [Matheus Marsiglio](https://github.com/matmarsiglio)
-- [Wendell Adriel](https://github.com/WendellAdriel)
+- [Ramon Sanches](https://github.com/raymonsanches)
 - [William Oliveira](https://github.com/woliveiras)
+
