@@ -25,3 +25,4 @@ Mentora para desenvolvedores(as) Front End
 [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)  
 [Laryssa Rocha](/pupilos/perfis/laryro.md)  
 [Luccas Candido](/pupilos/perfis/LucasCandido.md)  
+[Paulo Pereira dos Anjos](/pupilos/perfis/paulopereiradosanjos.md)  
