@@ -21,7 +21,6 @@ Mentora para desenvolvedores(as) Front End
 
 ## Pupilos(as) da Andréa Zambrana  
 
-[André Neto](/pupilos/perfis/AndreNeto.md)  
 [Ítalo Bessa](/pupilos/perfis/italobessa.md)  
 [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)  
 [Laryssa Rocha](/pupilos/perfis/laryro.md)  
