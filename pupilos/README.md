@@ -31,6 +31,7 @@
 - [Guilherme de Oliveira Costa](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
 - [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
 - [Gustavo César Domingos Siqueira](/pupilos/perfis/G18Siqueira.md)
+- [Hiran Neri] (/pupilos/perfis/HiranNeri.md)
 - [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
 - [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
 - [Ingrid Rauany](/pupilos/perfis/IngridRauany.md)
