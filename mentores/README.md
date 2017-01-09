@@ -35,7 +35,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Erik Figueiredo](/mentores/perfis/erik_figueiredo.md) |  :mailbox_closed: :snowflake: |
 | [Guilherme Pontes](/mentores/perfis/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
 | [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
-| [Leonardo Saraiva](/mentores/perfis/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |
+| [Leonardo Saraiva](/mentores/perfis/leonardo_saraiva.md) |  :mailbox_closed: :white_check_mark: |
 | [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_closed: :snowflake: |
 | [Lucas Henrique](/mentores/perfis/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
 | [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
