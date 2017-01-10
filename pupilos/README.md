@@ -38,6 +38,7 @@
 - [Igor Alves](/pupilos/perfis/IgorAlves.md)
 - [Igor Oliveira](/pupilos/perfis/IgoOliveira.md)
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
+- [Jamile Lima](/pupilos/perfis/JamileLima.md)
 - [Johny Ramos](/pupilos/perfis/johnyramos.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Josué Rodrigues](/pupilos/perfis/Josue23.md)
