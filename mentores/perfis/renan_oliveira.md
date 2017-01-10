@@ -13,10 +13,10 @@ Mentor para Desenvolvedores Front End
 * [Facebook](https://facebook.com/renanoliver0)
 * [LinkedIn](https://linkedin.com/in/renanoliver)
 
-## Gostaria de retribuir a ajuda do Renan Oliveira?
+## Gostaria de retribuir a ajuda de Renan Oliveira?
 
 Mande um abraço para ele no [email](mailto:renansdeoliveira@gmail.com) ou deixe sua recomendação no [LinkedIn](https://linkedin.com/in/renanoliver).
 
-## Pupilos do Renan Oliveira
+## Pupilos de Renan Oliveira
 
-Disponível para pupilos
+* [Jamile Lima](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/JamileLima.md)
