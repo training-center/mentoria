@@ -4,7 +4,7 @@
 
 ## Meu Nome
 
-Phillip Freitas
+Phillip Freitas 
 
 ## Qual meu sonho na carreira?
 
@@ -13,5 +13,5 @@ Atuar profissionalmente como Fullstack Web Developer, melhorar meu código e adi
 ## Alguns links para me conhecer melhor
 
 [Facebook](https://www.facebook.com/phillip.jonathan.94)
-[Twitter](https://twitter.com/phillip_onathan)
 [LinkedIn](https://br.linkedin.com/in/freitas-phillip-5b738a90)
+[Github](https://github.com/phillip18)
