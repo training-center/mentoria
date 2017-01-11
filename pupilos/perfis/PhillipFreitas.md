@@ -8,7 +8,7 @@ Phillip Freitas
 
 ## Qual meu sonho na carreira?
 
-Atuar profissionalmente como Fullstack Web Developer, melhorar meu código e adiquirir o máximo de conhecimento possvel! 
+Atuar profissionalmente como Fullstack Web Developer, melhorar meu código e adquirir o máximo de conhecimento possível! 
 
 ## Alguns links para me conhecer melhor
 
