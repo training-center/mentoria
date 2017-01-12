@@ -87,6 +87,7 @@
 - [Victor Maciel](/pupilos/perfis/VictorMaciel.md)
 - [Victor Grossi](/pupilos/perfis/VictorGrossi.md)
 - [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
+- [Vitor Pragana](/pupilos/perfis/VictorPragana.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
 - [William Correa](/pupilos/perfis/WilliamCorrea.md)
 - [Yuri Brunetto](/pupilos/perfis/YuriBrunetto.md)
