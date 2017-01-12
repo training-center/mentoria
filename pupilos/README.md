@@ -69,6 +69,7 @@
 - [Paulo Roberto Menezes](/pupilos/perfis/jalawz.md)
 - [Pedro Bernardo](/pupilos/perfis/pedbernardo.md)
 - [Pedro Germano](/pupilos/perfis/PedroGermano.md)
+- [PhillipFreitas](/pupilos/perfis/PhillipFreitas.md)
 - [Polyana Andrade](/pupilos/perfis/polyana_andrade.md)
 - [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
 - [Rafael Martins dos Santos](/pupilos/perfis/rafaelmartinsja.md)
