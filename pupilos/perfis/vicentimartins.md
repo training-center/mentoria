@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-Thiago Paes (/mentores/perfis/thiago_paes.md)
+[Giovanni Cruz](/mentores/perfis/giovannicruz97.md)
 
 ## Meu Nome
 
@@ -15,3 +15,5 @@ seja repassando conhecimento.
 ## Alguns links para me conhecer melhor
 
 [Twitter](https://twitter.com/vicentimartins)
+[Github](https://github.com/vicentimartins)
+[Telegram](https://telegram.me/vicentimartins)
