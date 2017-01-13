@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-Ainda não
+Giovanni Cruz(/mentores/perfis/giovannicruz97.md)
 
 ## Meu Nome
 
