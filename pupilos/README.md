@@ -71,6 +71,7 @@
 - [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
 - [Romário Coimbra](/pupilos/perfis/RomarioCoimbra.md)
 - [Simone Amorim](/pupilos/perfis/simoneas02)
+- [Sofia Bareta](/pupilos/perfis/SofiaBareta.md)
 - [Tiago Fuelber](/pupilos/perfis/TiagoFuelber.md)
 - [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
 - [William Meneses](/pupilos/perfis/WilliamMeneses.md)
