@@ -14,7 +14,7 @@ apto a implmenta-la.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/marcelo.luiz.1426)
-[Twitter](https://twitter.com/marceloluiz86)
-[LinkedIn](https://br.linkedin.com/in/marceloluizleite)
-[Github](https://github.com/marceloluizleite)
+- [Facebook](https://www.facebook.com/marcelo.luiz.1426)
+- [Twitter](https://twitter.com/marceloluiz86)
+- [LinkedIn](https://br.linkedin.com/in/marceloluizleite)
+- [Github](https://github.com/marceloluizleite)

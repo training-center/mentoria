@@ -29,3 +29,4 @@ Só dar um chego nas redes sociais e mandar um `_o/`
 
 ## Pupilos
 - [Marcelo Luiz Leite](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/marceloluizleite.md)
+- [Phillip Freitas](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/PhillipFreitas.md)
