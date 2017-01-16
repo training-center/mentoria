@@ -17,9 +17,9 @@ Mentor para desenvolvedores Back-end
 
 ## Gostaria de retribuir a ajuda do Vinicius?
 
-Faça uma doação pra alguma causa animal ou de crianças carentes :D  
-Ou me manda um salve nas redes sociais.
+Faça uma doação pra alguma causa animal ou de crianças carentes.  
+Ou me manda um alô nas redes sociais. :)
 
 ## Pupilos do Vinicius
 
-Nenhum ainda.
+[Hiran Neri](https://github.com/vtinguan/mentoria/blob/master/pupilos/perfis/HiranNeri.md)
