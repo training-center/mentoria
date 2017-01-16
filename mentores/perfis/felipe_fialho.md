@@ -34,5 +34,4 @@ Mande um salve para hi@felipefialho.com ou nas redes sociais.
 ## Pupilos
 
 - [André Mendes](@andremendes)
-- [Guilherme Martins](@freebox)
-- [Rieli Boldrini](@rieliboldrini)
+- [Guilherme Martins](@freebox) 
