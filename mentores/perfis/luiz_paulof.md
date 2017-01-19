@@ -6,14 +6,15 @@ Luiz Paulo Ferreira
 
 ## Perfil
 
-Mentor para Desenvolvedores Wordpress e Woocommerce
+Mentor para desenvolvedores Wordpress e Woocommerce
 
 ## Links
 
-* [Facebook do Luiz Paulo Ferreira](https://facebook.com/luizpbfs)
+- [Twitter do Luiz Paulo](https://twitter.com/luizbills)
+- [Medium do Luiz Paulo](https://medium.com/@luizbills)
 
 ## Gostaria de retribuir a ajuda do Luiz Paulo Ferreira?
 
-[Link para o PagSeguro](https://pag.ae/bl04Sp) ou mande um abraço para ele no email luizpbills[at]gmail.com ou nas redes sociais.
+[faça uma doação usando o PagSeguro](https://pag.ae/bl04Sp) ou mande um abraço para ele no email luizpbills[arroba]gmail.com ou nas redes sociais.
 
 ## Pupilos do Luiz Paulo Ferreira
