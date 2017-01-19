@@ -10,7 +10,7 @@ Mentor para desenvolvedores Wordpress e Woocommerce
 
 ## Links
 
-- [Twitter do Luiz Paulo](https://facebook.com/luizbills)
+- [Twitter do Luiz Paulo](https://twitter.com/luizbills)
 - [Medium do Luiz Paulo](https://medium.com/@luizbills)
 
 ## Gostaria de retribuir a ajuda do Luiz Paulo Ferreira?
