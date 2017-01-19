@@ -15,6 +15,6 @@ Mentor para desenvolvedores Wordpress e Woocommerce
 
 ## Gostaria de retribuir a ajuda do Luiz Paulo Ferreira?
 
-[Link para o PagSeguro dele](https://pag.ae/bl04Sp) ou mande um abraço para ele no email luizpbills[arroba]gmail.com ou nas redes sociais.
+[faça uma doação usando o PagSeguro](https://pag.ae/bl04Sp) ou mande um abraço para ele no email luizpbills[arroba]gmail.com ou nas redes sociais.
 
 ## Pupilos do Luiz Paulo Ferreira
