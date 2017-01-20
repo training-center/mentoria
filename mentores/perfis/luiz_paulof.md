@@ -18,3 +18,5 @@ Mentor para desenvolvedores Wordpress e Woocommerce
 [faça uma doação usando o PagSeguro](https://pag.ae/bl04Sp) ou mande um abraço para ele no email luizpbills[arroba]gmail.com ou nas redes sociais.
 
 ## Pupilos do Luiz Paulo Ferreira
+
+- [Anderson Nascimento](https://github.com/training-center/pupilos/perfis/AndersonNascimento.md)
