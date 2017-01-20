@@ -13,5 +13,5 @@ Evoluir profissionalmente e alcançar maturidade intelectual que me possibilite 
 
 ## Alguns links para me conhecer melhor:
 
-[Twitter](https://twitter.com/theandersonn)
-[Github](https://github.com/theandersonn)
+- [Twitter](https://twitter.com/theandersonn)
+- [Github](https://github.com/theandersonn)
