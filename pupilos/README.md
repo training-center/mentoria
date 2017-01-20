@@ -5,6 +5,7 @@
 - [Alex Avila](/pupilos/perfis/AlexAvila.md)
 - [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
 - [Allan Ramos](/pupilos/perfis/AllanRamos.md)
+- [Anderson Nascimento](/pupilos/perfis/AndersonNascimento.md)
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
 - [Beatriz Uezu](/pupilos/perfis/BeatrizUezu.md)
