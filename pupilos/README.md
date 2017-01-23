@@ -73,6 +73,7 @@
 - [PhillipFreitas](/pupilos/perfis/PhillipFreitas.md)
 - [Polyana Andrade](/pupilos/perfis/polyana_andrade.md)
 - [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
+- [Rafael Ferreira Vianna](/pupilos/perfis/RafaelVianna.md)
 - [Rafael Martins dos Santos](/pupilos/perfis/rafaelmartinsja.md)
 - [Ramon Francisco](/pupilos/perfis/RamonFrancisco.md)
 - [Raul Felipe de Melo](/pupilos/perfis/RaulFelipeDeMelo.md)
