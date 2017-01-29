@@ -65,6 +65,7 @@
 - [Mateus Rodrigues](/pupilos/perfis/mateusrdgs.md)
   [Maxwel Ferreira](/pupilos/perfis/MaxwelFerreira.md)
 - [Mayara Pimentel](/pupilos/perfis/mayarapimentel.md)
+- [Michel Dias](/pupilos/perfis/MichelDias.md)
 - [Nikolas Brandao](/pupilos/perfis/NikolasBrandao.md)
 - [Pamela Souza](/pupilos/perfis/pamelasouza.md)
 - [Paulo Pereira dos Anjos](/pupilos/perfis/paulopereiradosanjos.md)
