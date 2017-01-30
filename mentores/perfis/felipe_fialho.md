@@ -35,3 +35,4 @@ Mande um salve para hi@felipefialho.com ou nas redes sociais.
 
 - [André Mendes](@andremendes)
 - [Guilherme Martins](@freebox) 
+- [Igor Oliveira](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/IgoOliveira.md)
