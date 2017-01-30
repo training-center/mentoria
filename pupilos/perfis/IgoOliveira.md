@@ -1,6 +1,7 @@
 # Mentor(a) responsável por mim
 
-[Erik Figueredo](/mentores/perfis/erik_figueiredo.md)
+Back-End - [Erik Figueredo](/mentores/perfis/erik_figueiredo.md)
+UX/UI Design - [Felipe Fialho](/mentores/perfis/felipe_fialho.md)
 
 ## Meu Nome
 
