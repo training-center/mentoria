@@ -62,6 +62,7 @@
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
 - [Marcos Borges](/pupilos/perfis/marcosabb.md)
+- [Mateus Medeiros](/pupilos/perfis/MateusMedeiros.md)
 - [Mateus Rodrigues](/pupilos/perfis/mateusrdgs.md)
   [Maxwel Ferreira](/pupilos/perfis/MaxwelFerreira.md)
 - [Mayara Pimentel](/pupilos/perfis/mayarapimentel.md)
