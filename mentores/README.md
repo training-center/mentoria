@@ -53,7 +53,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Cezar Luiz](/mentores/perfis/cezar_luiz.md) | :mailbox_closed: :snowflake: |
 | [Danilo Vaz](/mentores/perfis/danilo_vaz.md) | :mailbox_closed: :snowflake: |
 | [Gian Souza](/mentores/perfis/gian_souza.md) | :mailbox_closed: :snowflake: |
-| [Gustavo Godoi](/mentores/perfis/gustavo_godoi.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [Gustavo Godoi](/mentores/perfis/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
 | [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
 | [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Renan Oliveira](/mentores/perfis/renan_oliveira.md) | :mailbox_with_no_mail: :white_check_mark: |
