@@ -33,6 +33,6 @@ Mande um salve para hi@felipefialho.com ou nas redes sociais.
 
 ## Pupilos
 
-- [André Mendes](@andremendes)
+- [André Mendes](@andre-mendes)
 - [Guilherme Martins](@freebox) 
 - [Igor Oliveira](@devigor)
