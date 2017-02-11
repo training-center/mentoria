@@ -62,7 +62,7 @@ Conheça os(as) mentores(as) do projeto.
 | [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
 | [Wilson Campos](/mentores/perfis/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
-| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :white_check_mark: |
+| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :snowflake: |
 
 ## Front End e UX/UI
 
