@@ -27,6 +27,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Vinicius Tinguan](/mentores/perfis/vinicius_tinguan.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Ramon Sanches](/mentores/perfis/raymonsanches.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
+| [Paulo Diniz](/mentores/perfis/paulo_diniz.md) |  :mailbox_with_no_email: :snowflake: |
 
 ## Desenvolvimento Web em geral (Full Stack)
 
@@ -61,7 +62,7 @@ Conheça os(as) mentores(as) do projeto.
 | [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
 | [Wilson Campos](/mentores/perfis/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
-| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :snowflake: |
+| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :white_check_mark: |
 
 ## Front End e UX/UI
 
