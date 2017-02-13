@@ -47,6 +47,7 @@
 - [Juliano Padilha](/pupilos/perfis/JulianoPadilha.md)
 - [Laryssa Rocha](/pupilos/perfis/laryro.md)
 - [Leonan Machado](/pupilos/perfis/LeonanMachado.md)
+- [Leonardo Sousa](/pupilos/perfis/LeonardoSousa.md)
 - [Luan Vicente](/pupilos/perfis/luan_vicente.md)
 - [Lucas Capistrano](/pupilos/perfis/lucascapistrano.md)
 - [Lucas Sales](/pupilos/perfis/LucasSales.md)
