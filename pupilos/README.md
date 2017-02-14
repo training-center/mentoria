@@ -42,7 +42,7 @@
 - [Ítalo Bessa](/pupilos/perfis/italobessa.md)
 - [Jamile Lima](/pupilos/perfis/JamileLima.md)
 - [Johny Ramos](/pupilos/perfis/johnyramos.md)
-- [Jonatan Vianna](/pupilos/perfis/JonatanVianna.md)
+- [Jonatan Vianna](/pupilos/perfis/jonatan_vianna.md)
 - [Josélia Costa](/pupilos/perfis/JoseliaCosta.md)
 - [Josué Rodrigues](/pupilos/perfis/Josue23.md)
 - [Juliano Padilha](/pupilos/perfis/JulianoPadilha.md)
