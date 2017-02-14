@@ -53,7 +53,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
 | [Cezar Luiz](/mentores/perfis/cezar_luiz.md) | :mailbox_closed: :snowflake: |
 | [Danilo Vaz](/mentores/perfis/danilo_vaz.md) | :mailbox_closed: :snowflake: |
-| [Felipe Fernandes](/mentores/perfis/felipe_fernandes.md) | :mailbox_with_no_mail: white_check_mark |
+| [Felipe Fernandes](/mentores/perfis/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [Gian Souza](/mentores/perfis/gian_souza.md) | :mailbox_closed: :snowflake: |
 | [Gustavo Godoi](/mentores/perfis/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
 | [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
@@ -70,7 +70,7 @@ Conheça os(as) mentores(as) do projeto.
 | ------------- | ------------- |
 | [Abner Soares](/mentores/perfis/abner_alves.md) |  :mailbox_closed: :snowflake: |
 | [Felipe Fialho](/mentores/perfis/felipe_fialho.md) |  :mailbox_closed: :snowflake: |
-| [Felipe Fernandes](/mentores/perfis/felipe_fernandes.md) | :mailbox_with_no_mail: white_check_mark |
+| [Felipe Fernandes](/mentores/perfis/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [Fernando Moreira](/mentores/perfis/fernando_moreira.md) |  :mailbox_closed: :snowflake: |
 | [Leandro Lima](/mentores/perfis/leandro_lima.md) |  :mailbox_closed: :snowflake: |
 | [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md) |  :mailbox_closed: :snowflake: |
