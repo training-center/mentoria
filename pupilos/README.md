@@ -88,6 +88,7 @@
 - [Rodrigo Pontes](/pupilos/perfis/RodrigoPontes.md)
 - [Rogerio Moura](/pupilos/perfis/RogerioMoura.md)
 - [Romário Coimbra](/pupilos/perfis/RomarioCoimbra.md)
+- [Safire Lauene](/pupilos/perfis/SafireLauene.md)
 - [Simone Amorim](/pupilos/perfis/simoneas02)
 - [Sofia Bareta](/pupilos/perfis/SofiaBareta.md)
 - [Tiago Fuelber](/pupilos/perfis/TiagoFuelber.md)
