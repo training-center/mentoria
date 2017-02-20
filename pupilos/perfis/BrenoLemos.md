@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-Felipe Fernandes(https://github.com/training-center/mentoria/blob/master/mentores/perfis/felipe_fernandes.md)
+[Felipe Fernandes](https://github.com/training-center/mentoria/blob/master/mentores/perfis/felipe_fernandes.md)
 
 ## Meu Nome
 
