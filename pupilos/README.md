@@ -9,6 +9,7 @@
 - [André Neto](/pupilos/perfis/AndreNeto.md)
 - [Augusto Almeida](/pupilos/perfis/AugustoAlmeida.md)
 - [Beatriz Uezu](/pupilos/perfis/BeatrizUezu.md)
+- [Breno Lemos](/pupilos/perfis/BrenoLemos.md)
 - [Bruno Cavalcante](/pupilos/perfis/BrunoCavalcante.md)
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
