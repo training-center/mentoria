@@ -89,3 +89,9 @@ Conheça os(as) mentores(as) do projeto.
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
 | [Kiver Teixeira](/mentores/perfis/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+
+## QA
+
+| Mentor(a)  | Disponibilidade |
+| ------------- | ------------- |
+| [Érik Patekoski](/mentores/perfis/erikpatekoski.md) |  :mailbox_with_no_mail: :white_check_mark: |
