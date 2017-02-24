@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Renan Oliveira](/mentores/perfis/renan_oliveira.md)
+[Paulo Diniz](/mentores/perfis/paulo_diniz.md)
 
 ## Meu Nome
 
@@ -8,7 +8,7 @@ Jamile Lima
 
 ## Qual meu sonho na carreira?
 
-Me aprofundar no Desenvolvimento Front-End e poder fazer a diferença na Web.
+Me aprofundar no Desenvolvimento Back-end e poder fazer a diferença na Web.
 
 ## Alguns links para me conhecer melhor
 
