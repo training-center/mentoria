@@ -14,4 +14,4 @@ Sempre em busca de me tornar um desenvolvedor full-stack cada vez mais capacitad
 
 [Facebook](https://www.facebook.com/fsbrunoferreira)
 [GitHub](https://github.com/brunoferreiras)
-[LinkedIn](www.linkedin.com/in/bruno-ferreira-91547310b)
+[LinkedIn](https://www.linkedin.com/in/bruno-ferreira-91547310b)
