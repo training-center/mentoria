@@ -21,7 +21,7 @@ Conheça os(as) mentores(as) do projeto.
 | ------------- | ------------- |
 | [Diego Ponciano](/mentores/perfis/diego_ponciano.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Dorian Neto](/mentores/perfis/dorian_neto.md) |  :mailbox_closed: :snowflake: |
-| [Giovanni Cruz](/mentores/perfis/giovannicruz97.md) |  :mailbox_closed: :snowflake: |
+| [Giovanni Cruz](/mentores/perfis/giovannicruz97.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Luiz Paulo Ferreira](/mentores/perfis/luiz_paulof.md) |  :mailbox_closed: :snowflake: |
 | [Vinicius Tinguan](/mentores/perfis/vinicius_tinguan.md) |  :mailbox_with_no_mail: :snowflake: |
