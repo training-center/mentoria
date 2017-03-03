@@ -32,7 +32,6 @@
 - [Gabriel Souza](/pupilos/perfis/gabrielsouzaa.md)
 - [Gabriel Vieira](/pupilos/perfis/GabrielVieira.md)
 - [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
-- [Giovanni Cruz](/pupilos/perfis/giovannicruz97.md)
 - [Guilherme de Oliveira Costa](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
 - [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
 - [Gustavo César Domingos Siqueira](/pupilos/perfis/G18Siqueira.md)
