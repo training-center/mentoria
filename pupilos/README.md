@@ -14,6 +14,7 @@
 - [Bruno Ferreira](/pupilos/perfis/BrunoFerreira.md)
 - [Bruno Melo](/pupilos/perfis/BrunoMelo.md)
 - [Caio Flávio](/pupilos/perfis/caio.md)
+- [Daniel Diniz](/pupilos/perfis/DanielDiniz.md)
 - [Daniel Neri](/pupilos/perfis/danielneri.md)
 - [Daniel Simão da Silva](/pupilos/perfis/danielsimaodasilva.md)
 - [Danilo Agostinho](/pupilos/perfis/DaniloAgostinho.md)
