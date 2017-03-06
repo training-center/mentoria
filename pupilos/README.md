@@ -23,6 +23,7 @@
 - [Elton Coelho](/pupilos/perfis/elton_coelho.md)
 - [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
 - [Enieber Cunha da Silva](/pupilos/perfis/EnieberCunha.md)
+- [Estevam de Moraes Rodrigues](/pupilos/perfis/estevammr.md)
 - [Felipe Acelino](/pupilos/perfis/FelipeAcelino.md)
 - [Felipe Lacerda](/pupilos/perfis/FelipeLacerda.md)
 - [Frederico Drumond](/pupilos/perfis/fredrumond.md)
