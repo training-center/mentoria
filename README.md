@@ -71,7 +71,7 @@ Todos aqui devem ser auto-gerenciáveis e ambas as partes devem assumir suas res
 
 ## Nossos Pupilos(as)
 
-[Lista de quem já recebe ajuda de algum Mentor(a)](/pupils)
+[Lista de quem já recebe ajuda de algum Mentor(a)](profiles/pupils)
 
 ## Quero ser Mentor(a)
 
