@@ -17,7 +17,7 @@ Quero conseguir um emprego como Astronauta!
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Pupilo de Castro]()
-[Twitter do Pupilo de Castro]()
-[LinkedIn do Pupilo de Castro]()
+[Facebook do Pupilo de Castro](link)
+[Twitter do Pupilo de Castro](link)
+[LinkedIn do Pupilo de Castro](link)
 ```

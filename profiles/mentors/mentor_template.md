@@ -1,6 +1,6 @@
 # Template de perfil de Mentor(a)
 
-Template para cadastramento de perfis dos Mentores(as).
+Template para cadastramento de profiles dos Mentores(as).
 
 ```
 # Mentor
@@ -15,18 +15,18 @@ Mentor para Desenvolvedores Front End
 
 ## Links
 
-* [Site do Mentor da Sila Souza]()
-* [Facebook do Mentor da Sila Souza]()
-* [Twitter do Mentor da Sila Souza]()
-* [LinkedIn do Mentor da Sila Souza]()
+* [Site do Mentor da Sila Souza](link)
+* [Facebook do Mentor da Sila Souza](link)
+* [Twitter do Mentor da Sila Souza](link)
+* [LinkedIn do Mentor da Sila Souza](link)
 
 ## Gostaria de retribuir a ajuda do Mentor da Sila Souza?
 
-[Link para o PayPal, PagSeguro, etc]() ou mande um abraço para ele no email xxx@xxx.com ou nas redes sociais.
+[Link para o PayPal, PagSeguro, etc](link) ou mande um abraço para ele no email xxx@xxx.com ou nas redes sociais.
 
 ## Pupilos do Mentor da Sila Souza
 
-* [Pupilo 1](pupilos/perfis/pupilo1.md)
-* [Pupilo 2](pupilos/perfis/pupilo2.md)
-* [Pupilo 3](pupilos/perfis/pupilo3.md)
+* [Pupilo 1](pupilos/profiles/pupilo1.md)
+* [Pupilo 2](pupilos/profiles/pupilo2.md)
+* [Pupilo 3](pupilos/profiles/pupilo3.md)
 ```

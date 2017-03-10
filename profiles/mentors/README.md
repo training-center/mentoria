@@ -13,85 +13,85 @@ Conheça os(as) mentores(as) do projeto.
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Diego Malone](/mentores/perfis/diegomalone.md) |  :mailbox_closed: :snowflake: |
+| [Diego Malone](/mentors/profiles/diegomalone.md) |  :mailbox_closed: :snowflake: |
 
 ## Back End
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Diego Ponciano](/mentores/perfis/diego_ponciano.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Dorian Neto](/mentores/perfis/dorian_neto.md) |  :mailbox_closed: :snowflake: |
-| [Giovanni Cruz](/mentores/perfis/giovannicruz97.md) |  :mailbox_with_no_mail: :white_check_mark: |
-| [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
-| [Luiz Paulo Ferreira](/mentores/perfis/luiz_paulof.md) |  :mailbox_closed: :snowflake: |
-| [Vinicius Tinguan](/mentores/perfis/vinicius_tinguan.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Ramon Sanches](/mentores/perfis/raymonsanches.md) |  :mailbox_closed: :snowflake: |
-| [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
-| [Paulo Diniz](/mentores/perfis/paulo_diniz.md) |  :mailbox_with_no_mail: :white_check_mark: |
-| [Kiver Teixeira](/mentores/perfis/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Diego Ponciano](/mentors/profiles/diego_ponciano.md) |  :mailbox_with_no_mail: :snowflake: |
+| [Dorian Neto](/mentors/profiles/dorian_neto.md) |  :mailbox_closed: :snowflake: |
+| [Giovanni Cruz](/mentors/profiles/giovannicruz97.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Lucas Pinto](/mentors/profiles/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Luiz Paulo Ferreira](/mentors/profiles/luiz_paulof.md) |  :mailbox_closed: :snowflake: |
+| [Vinicius Tinguan](/mentors/profiles/vinicius_tinguan.md) |  :mailbox_with_no_mail: :snowflake: |
+| [Ramon Sanches](/mentors/profiles/raymonsanches.md) |  :mailbox_closed: :snowflake: |
+| [Thiago Paes](/mentors/profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
+| [Paulo Diniz](/mentors/profiles/paulo_diniz.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Kiver Teixeira](/mentors/profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
 
 ## Desenvolvimento Web em geral (Full Stack)
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Alex Junior](/mentores/perfis/alexjunior012.md) |  :mailbox_closed: :snowflake: |
-| [Erik Figueiredo](/mentores/perfis/erik_figueiredo.md) |  :mailbox_closed: :snowflake: |
-| [Guilherme Pontes](/mentores/perfis/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
-| [Jonathan Lamim](/mentores/perfis/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
-| [Leonardo Saraiva](/mentores/perfis/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |
-| [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
-| [Lucas Henrique](/mentores/perfis/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
-| [Wésley Queiroz](/mentores/perfis/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
-| [Wendell Adriel](/mentores/perfis/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
-| [William Bruno](/mentores/perfis/william_bruno.md) |  :mailbox_closed: :snowflake: |
-| [Thiago Paes](/mentores/perfis/thiago_paes.md) |  :mailbox_closed: :snowflake: |
-| [Vinicius Reis](/mentores/perfis/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
-| [Kiver Teixeira](/mentores/perfis/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Alex Junior](/mentors/profiles/alexjunior012.md) |  :mailbox_closed: :snowflake: |
+| [Erik Figueiredo](/mentors/profiles/erik_figueiredo.md) |  :mailbox_closed: :snowflake: |
+| [Guilherme Pontes](/mentors/profiles/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
+| [Jonathan Lamim](/mentors/profiles/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
+| [Leonardo Saraiva](/mentors/profiles/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |
+| [Lucas Pinto](/mentors/profiles/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Lucas Henrique](/mentors/profiles/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
+| [Wésley Queiroz](/mentors/profiles/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
+| [Wendell Adriel](/mentors/profiles/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
+| [William Bruno](/mentors/profiles/william_bruno.md) |  :mailbox_closed: :snowflake: |
+| [Thiago Paes](/mentors/profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
+| [Vinicius Reis](/mentors/profiles/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
+| [Kiver Teixeira](/mentors/profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
 
 ## Front End
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
-| [Cezar Luiz](/mentores/perfis/cezar_luiz.md) | :mailbox_closed: :snowflake: |
-| [Danilo Vaz](/mentores/perfis/danilo_vaz.md) | :mailbox_with_no_mail: :white_check_mark: |
-| [Felipe Fernandes](/mentores/perfis/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
-| [Gian Souza](/mentores/perfis/gian_souza.md) | :mailbox_closed: :snowflake: |
-| [Gustavo Godoi](/mentores/perfis/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
-| [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
-| [Lucas Pinto](/mentores/perfis/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
-| [Renan Oliveira](/mentores/perfis/renan_oliveira.md) | :mailbox_with_no_mail: :white_check_mark: |
-| [William Bruno](/mentores/perfis/william_bruno.md) | :mailbox_closed: :snowflake: |
-| [William Oliveira](/mentores/perfis/william_oliveira.md) | :mailbox_closed: :snowflake: |
-| [Wilson Campos](/mentores/perfis/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
-| [Thiago Paes](/mentores/perfis/thiago_paes.md) | :mailbox_closed: :snowflake: |
+| [Andréa Zambrana](/mentors/profiles/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
+| [Cezar Luiz](/mentors/profiles/cezar_luiz.md) | :mailbox_closed: :snowflake: |
+| [Danilo Vaz](/mentors/profiles/danilo_vaz.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [Felipe Fernandes](/mentors/profiles/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [Gian Souza](/mentors/profiles/gian_souza.md) | :mailbox_closed: :snowflake: |
+| [Gustavo Godoi](/mentors/profiles/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
+| [Jessuir Cleydson](/mentors/profiles/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
+| [Lucas Pinto](/mentors/profiles/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Renan Oliveira](/mentors/profiles/renan_oliveira.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [William Bruno](/mentors/profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
+| [William Oliveira](/mentors/profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
+| [Wilson Campos](/mentors/profiles/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
+| [Thiago Paes](/mentors/profiles/thiago_paes.md) | :mailbox_closed: :snowflake: |
 
 ## Front End e UX/UI
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Abner Soares](/mentores/perfis/abner_alves.md) |  :mailbox_closed: :snowflake: |
-| [Felipe Fialho](/mentores/perfis/felipe_fialho.md) |  :mailbox_closed: :snowflake: |
-| [Felipe Fernandes](/mentores/perfis/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
-| [Fernando Moreira](/mentores/perfis/fernando_moreira.md) |  :mailbox_closed: :snowflake: |
-| [Leandro Lima](/mentores/perfis/leandro_lima.md) |  :mailbox_closed: :snowflake: |
-| [Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md) |  :mailbox_closed: :snowflake: |
-| [Wagner Santos](/mentores/perfis/wagner_santos.md) |  :mailbox_closed: :snowflake: |
+| [Abner Soares](/mentors/profiles/abner_alves.md) |  :mailbox_closed: :snowflake: |
+| [Felipe Fialho](/mentors/profiles/felipe_fialho.md) |  :mailbox_closed: :snowflake: |
+| [Felipe Fernandes](/mentors/profiles/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [Fernando Moreira](/mentors/profiles/fernando_moreira.md) |  :mailbox_closed: :snowflake: |
+| [Leandro Lima](/mentors/profiles/leandro_lima.md) |  :mailbox_closed: :snowflake: |
+| [Matheus Marsiglio](/mentors/profiles/matheus_marsiglio.md) |  :mailbox_closed: :snowflake: |
+| [Wagner Santos](/mentors/profiles/wagner_santos.md) |  :mailbox_closed: :snowflake: |
 
 ## SEO
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Fabíola Faria](/mentores/perfis/fabiola_faria.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Fabíola Faria](/mentors/profiles/fabiola_faria.md) |  :mailbox_with_no_mail: :white_check_mark: |
 
 ## Delphi
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Kiver Teixeira](/mentores/perfis/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Kiver Teixeira](/mentors/profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
 
 ## QA
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Érik Patekoski](/mentores/perfis/erikpatekoski.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Érik Patekoski](/mentors/profiles/erikpatekoski.md) |  :mailbox_with_no_mail: :white_check_mark: |

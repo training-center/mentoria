@@ -102,7 +102,7 @@ Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
 2. Os [mentores](profiles/mentors) e [moderadores](admin/MODERATORS.md) avaliam seu perfil
 3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar na ORG e no nosso [Slack](https://ctgroups.herokuapp.com/)
-4. Agora você pode adicionar seu perfil a [lista de mentores(as)](profiles/mentors/perfis/). O template para criação do seu perfil é esse [aqui](profiles/mentors/mentor_template.md)
+4. Agora você pode adicionar seu perfil a [lista de mentores(as)](profiles/mentors/profiles/). O template para criação do seu perfil é esse [aqui](profiles/mentors/mentor_template.md)
 5. Atualize o [README.md](profiles/mentors/README.md) da pasta mentores com o link para o seu perfil, em ordem alfabética na sessão de suas habilidades, conforme os demais
 6. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada para que adicionemos no canal privado Mentores
 7. Agora é só aguardar as pessoas entrarem em contato contigo
@@ -135,7 +135,7 @@ Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que 
 **Resumindo**
 
 1. Você da uma olhada na [lista de mentores(as)](profiles/mentors) e vê quem se adequa a sua necessidade. Se essa pessoa estiver disponível, entre em contato
-2. Se tudo deu certo, você pode adicionar seu [perfil a lista](./pupils/perfis/) seguindo o [template](/pupils/pupilo_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
+2. Se tudo deu certo, você pode adicionar seu [perfil a lista](./pupils/profiles/) seguindo o [template](/pupils/pupilo_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
 3. Atualize o [README.md](/pupils/README.md) da pasta pupilos com o link para o seu perfil
 4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
 
