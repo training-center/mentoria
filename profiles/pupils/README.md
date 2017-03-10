@@ -1,4 +1,4 @@
-# Lista de PPupilos
+# Lista de Pupilos
 
 - [Adeonir Kohl](profiles/AdeonirKohl.md)
 - [Adelmo Junior](profiles/AdelmoJunior.md)
