@@ -100,7 +100,7 @@ Assim que aprovado(a) você deve criar seu perfil no projeto seguindo [nosso tem
 
 Cada mentor(a) deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no nosso canal **privado** de `mentores`.
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no nosso canal **privado** de `mentores`.
 
 Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
 
@@ -113,7 +113,7 @@ Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 **Resumindo**
 
 1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
-2. Os [mentores](/mentores) e [moderadores](/MODERATORS.md) avaliam seu perfil
+2. Os [mentores](/mentores) e [moderadores](admin/MODERATORS.md) avaliam seu perfil
 3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar na ORG e no nosso [Slack](https://ctgroups.herokuapp.com/)
 4. Agora você pode adicionar seu perfil a [lista de mentores(as)](/mentores/perfis/). O template para criação do seu perfil é esse [aqui](/mentores/mentor_template.md)
 5. Atualize o [README.md](/mentores/README.md) da pasta mentores com o link para o seu perfil, em ordem alfabética na sessão de suas habilidades, conforme os demais
@@ -123,7 +123,7 @@ Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 
 A escolha por ajudar alguém deve partir de você com base nos seus critérios como tempo disponível para ajudar e tempo que a pessoa precisa de ajuda, skills que a pessoa busca e os que você possui, compatibilidade de personalidade com a pessoa, etc.
 
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 
 ## Preciso de um(a) Mentor(a)
@@ -137,7 +137,7 @@ Você pode mandar email para alguém que estiver ocupado(a) e entrar em sua fila
 
 A maneira de conversarem varia de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
 
 **Só aceite mentoria dos membros da [lista de mentores(as)](/mentores), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
 
@@ -157,12 +157,12 @@ Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que 
 3. Atualize o [README.md](/pupilos/README.md) da pasta pupilos com o link para o seu perfil
 4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
 
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 
 ## Regras de conduta
 
-Temos regras de conduta para o(a) **mentor(a)** e para o(a) **pupilo(a)**, leia as regras [aqui](/CONDUTA.md) antes de assumir qualquer responsabilidade.
+Temos regras de conduta para o(a) **mentor(a)** e para o(a) **pupilo(a)**, leia as regras [aqui](admin/CONDUTA.md) antes de assumir qualquer responsabilidade.
 
 ## Mantenha o contato conosco
 
