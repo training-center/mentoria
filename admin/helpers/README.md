@@ -13,8 +13,8 @@ Ex.: [#150](https://github.com/training-center/mentoria/issues/150), [#151](http
 ## Como criar os perfis
 
 
-- [mentor](/helpers/CREATE_MENTOR_PROFILE.md)
-- [pupilo](/helpers/CREATE_PUPIL_PROFILE.md)
+- [mentor](CREATE_MENTOR_PROFILE.md)
+- [pupilo](CREATE_PUPIL_PROFILE.md)
 
 
 Lembre-se de avisar os [moderadores](/MODERATORS.md) que você criou seu perfil para adicionarmos seu usuário na nossa organização e, se for mentor(a), no nosso canal de mentores no [Slack](https://ctgroups.herokuapp.com/) caso isso não aconteça quando fizermos o merge das suas alterações no projeto.

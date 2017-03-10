@@ -114,7 +114,7 @@ Seu perfil foi aprovado pelos outros mentores.
 Bem vindo ao time!
 
 
-Agora você precisa criar seu perfi no [repositório](https://github.com/training-center/mentoria/blob/master/helpers/README.md) e entrar no nosso [Slack](https://ctgroups.herokuapp.com/).
+Agora você precisa criar seu perfi no [repositório](helpers/README.md) e entrar no nosso [Slack](https://ctgroups.herokuapp.com/).
 
 
 Depois é só aguardar alguém procurar sua ajuda.
