@@ -186,8 +186,4 @@ Dê uma olhada [nesse link](https://medium.com/trainingcenter/hello-world-conhe�
 
 > Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
 
-## [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-ct)
-
-Todo conhecimento deveria ser compartilhado.
-
-Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
+ ## [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-ct)
