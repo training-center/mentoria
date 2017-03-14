@@ -2,7 +2,7 @@
 
 > Em constante evolução
 
-Um projeto para ajudar pessoas em início de carreira ou não a irem ao infinito e além em seus objetivos pessoais!
+Um projeto para ajudar pessoas em início de carreira (ou não) a irem ao infinito e além em seus objetivos!
 
 <ul>
   <li><a href="https://ctgroups.herokuapp.com/" target="_blank">Entre no nosso grupo no Slack</a></li>
