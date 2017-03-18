@@ -6,7 +6,7 @@ Ramon Francisco
 
 ## Qual meu sonho na carreira?
 
-Me torna uma referência na comunidade, e contribuir para que outros devs possam ter conquistas semelhante. Trabalhar em outro país é um outro grande sonho. 
+Me torna uma referência na comunidade, e contribuir para que outros devs possam ter conquistas semelhante. Trabalhar fora do Brasil é um grande sonho também. 
 
 ## Alguns links para me conhecer melhor
 
