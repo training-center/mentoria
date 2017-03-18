@@ -54,7 +54,7 @@ Conheça os(as) mentores(as) do projeto.
 | ------------- | ------------- |
 | [Andréa Zambrana](profiles/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
 | [Cezar Luiz](profiles/cezar_luiz.md) | :mailbox_closed: :snowflake: |
-| [Danilo Vaz](profiles/danilo_vaz.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [Danilo Vaz](profiles/danilo_vaz.md) | :mailbox_closed: :snowflake: |
 | [Felipe Fernandes](profiles/felipe_fernandes.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [Gian Souza](profiles/gian_souza.md) | :mailbox_closed: :snowflake: |
 | [Gustavo Godoi](profiles/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
