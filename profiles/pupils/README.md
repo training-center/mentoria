@@ -46,6 +46,7 @@
 - [Igor Oliveira](profiles/IgoOliveira.md)
 - [Ítalo Bessa](profiles/italobessa.md)
 - [Jamile Lima](profiles/JamileLima.md)
+- [Jeyziel Gama](profiles/jeyzielgama.md )
 - [Johny Ramos](profiles/johnyramos.md)
 - [Jonatan Vianna](profiles/jonatan_vianna.md)
 - [Josélia Costa](profiles/JoseliaCosta.md)
