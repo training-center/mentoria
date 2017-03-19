@@ -97,6 +97,8 @@ Porém, as pessoas podem doar para você quando puderem e SE quiserem. Então te
 
 Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 
+Aproveite para tirar algumas dúvidas no artigo ["Dicas para novos mentores(as)"](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4#.6boq4nwvz)
+
 **Resumindo**
 
 1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
