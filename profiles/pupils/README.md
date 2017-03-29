@@ -13,6 +13,7 @@
 - [Bruno Cavalcante](profiles/BrunoCavalcante.md)
 - [Bruno Ferreira](profiles/BrunoFerreira.md)
 - [Bruno Melo](profiles/BrunoMelo.md)
+- [Carlos Proença](profiles/carlos-proenca.md)
 - [Caio Flávio](profiles/caio.md)
 - [Daniel Diniz](profiles/DanielDiniz.md)
 - [Daniel Neri](profiles/danielneri.md)
