@@ -20,8 +20,3 @@ Mentor para desenvolvedores Android.
 ## Gostaria de retribuir a ajuda do Malone?
 
 Só mandar um salve para [@diegomalone](http://twitter.com/diegomalone) no Twitter!
-
-## Pupilos
-
-- [Gabriel Souza](/pupilos/perfis/gabrielsouzaa.md)
-- [Lucas Capistrano](/pupilos/perfis/lucascapistrano.md)
