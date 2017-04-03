@@ -10,7 +10,6 @@ Mentora para Desenvolvedores Front End
 
 ## Links
 
-* [GitHub](https://github.com/alinebastos)
 * [Facebook](https://www.facebook.com/alineabp)
 * [Twitter](https://twitter.com/AlineBastos)
 * [LinkedIn](https://www.linkedin.com/in/alinebastos/)
