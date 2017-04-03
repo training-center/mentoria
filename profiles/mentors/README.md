@@ -27,7 +27,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Vinicius Tinguan](profiles/vinicius_tinguan.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Ramon Sanches](profiles/raymonsanches.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
-| [Paulo Diniz](profiles/paulo_diniz.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Paulo Diniz](profiles/paulo_diniz.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
 
 ## Desenvolvimento Web em geral (Full Stack)
