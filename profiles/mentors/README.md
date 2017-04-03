@@ -61,7 +61,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Gustavo Godoi](profiles/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
 | [Jessuir Cleydson](profiles/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
 | [Lucas Pinto](profiles/lucaspinto.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Renan Oliveira](profiles/renan_oliveira.md) | :mailbox_with_no_mail: :white_check_mark: |
+| [Renan Oliveira](profiles/renan_oliveira.md) |  :mailbox_with_no_mail: :snowflake: |
 | [William Bruno](profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
 | [Wilson Campos](profiles/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
