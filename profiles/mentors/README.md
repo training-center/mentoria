@@ -52,6 +52,7 @@ Conheça os(as) mentores(as) do projeto.
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
+| [Aline Bastos](profiles/aline_bastos.md) | :mailbox_closed: :snowflake: |
 | [Andréa Zambrana](profiles/andrea_zambrana.md) | :mailbox_closed: :snowflake: |
 | [Cezar Luiz](profiles/cezar_luiz.md) | :mailbox_closed: :snowflake: |
 | [Danilo Vaz](profiles/danilo_vaz.md) | :mailbox_closed: :snowflake: |
@@ -60,7 +61,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Gustavo Godoi](profiles/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
 | [Jessuir Cleydson](profiles/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
 | [Lucas Pinto](profiles/lucaspinto.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Renan Oliveira](profiles/renan_oliveira.md)|  :mailbox_with_no_mail: :snowflake: |
+| [Renan Oliveira](profiles/renan_oliveira.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [William Bruno](profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
 | [Wilson Campos](profiles/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
