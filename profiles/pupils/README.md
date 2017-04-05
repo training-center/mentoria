@@ -55,6 +55,7 @@
 - [Juliano Padilha](profiles/JulianoPadilha.md)
 - [Laryssa Rocha](profiles/laryro.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
+- [Leonardo de Souza Faria](profiles/leonardofaria.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Luan Vicente](profiles/luan_vicente.md)
 - [Lucas Capistrano](profiles/lucascapistrano.md)
