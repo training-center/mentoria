@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Aline Bastos](/mentores/perfis/aline_bastos.md)
+[Aline Bastos](/mentors/profiles/aline_bastos.md)
 
 ## Meu Nome
 
