@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Gustavo Godoi](https://github.com/training-center/mentoria/blob/master/mentores/perfis/gustavo_godoi.md)
+[Aline Bastos](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/aline_bastos.md)
 
 ## Meu Nome
 
