@@ -28,7 +28,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Ramon Sanches](profiles/raymonsanches.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 | [Paulo Diniz](profiles/paulo_diniz.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
 
 ## Desenvolvimento Web em geral (Full Stack)
 
@@ -46,7 +46,7 @@ Conheça os(as) mentores(as) do projeto.
 | [William Bruno](profiles/william_bruno.md) |  :mailbox_closed: :snowflake: |
 | [Thiago Paes](profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 | [Vinicius Reis](profiles/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
-| [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
 
 ## Front End
 
@@ -89,7 +89,7 @@ Conheça os(as) mentores(as) do projeto.
 
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
-| [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
 
 ## QA
 
