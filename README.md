@@ -160,7 +160,7 @@ Esse projeto **não possui fins lucrativos**, porém, você pode doar para cada 
 
 Isso é um incentivo para quem está colaborando e disponibilizando seu tempo para ajudar.
 
-Basta entrar na [lista de mentores(as)](profiles/mentors) e doar através dos links para PayPal, PagSeguro, etc existentes no póprio perfil do(a) mentor(a).
+Basta entrar na [lista de mentores(as)](profiles/mentors) e doar através dos links para PayPal, PagSeguro, etc existentes no próprio perfil do(a) mentor(a).
 
 ## O que é o CT (Centro de Treinamento)
 
