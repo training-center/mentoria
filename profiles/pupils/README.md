@@ -57,6 +57,7 @@
 - [Leonan Machado](profiles/LeonanMachado.md)
 - [Leonardo de Souza Faria](profiles/leonardofaria.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
+- [Letícia Costa](profiles/LeticiaCosta.md)
 - [Luan Vicente](profiles/luan_vicente.md)
 - [Lucas Capistrano](profiles/lucascapistrano.md)
 - [Lucas Sales](profiles/LucasSales.md)
