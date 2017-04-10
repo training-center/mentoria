@@ -20,5 +20,6 @@ Mande um abraço para ele no email.
 
 ## Pupilos do Kiver Teixeira
 
-[Gabriel Berto](/pupilos/perfis/GabrielBerto.md)
+[Gabriel Berto](/pupils/profiles/GabrielBerto.md)
+[Leticia Costa](/pupils/profiles/LeticiaCosta.md)
 
