@@ -21,6 +21,8 @@ Mentor para desenvolvedores Back-end - Foco em desenvolvimento com PHP e JS.
 - [Twitter](https://twitter.com/ftonato)
 - [LinkedIn](https://www.linkedin.com/in/ftonato/)
 - [BrazilJS - Author](https://braziljs.org/blog/author/ademilson-f-tonato/)
+- [Telegram](https://web.telegram.org/#/im?p=@ftonato)
+- Skype/Hangouts: ademilsonft
 
 
 ## Gostaria de retribuir a ajuda do Ademílson Flores Tonato?
