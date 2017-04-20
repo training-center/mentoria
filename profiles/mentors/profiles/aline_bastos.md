@@ -17,3 +17,7 @@ Mentora para Desenvolvedores Front End
 ## Gostaria de retribuir a ajuda da Aline Bastos?
 
 Manda um "oi" pra ela nas redes sociais, e depois retribua a mentoria ajudando outros iniciantes :)
+
+## Pupilos(as) da Aline Bastos
+
+* [Mateus Medeiros](/profiles/pupils/profiles/MateusMedeiros.md)
