@@ -93,6 +93,7 @@
 - [Raul Felipe de Melo](profiles/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](profiles/RenanMoura.md)
 - [Renê Soares](profiles/renesoares.md)
+- [Richard Manzoli](profiles/RichardManzoli.md)
 - [Rodrigo Garcia Hernandez](profiles/RodrigoGarcia.md)
 - [Rodrigo Pontes](profiles/RodrigoPontes.md)
 - [Rogerio Moura](profiles/RogerioMoura.md)
