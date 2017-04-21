@@ -2,7 +2,7 @@
 
 ## Anderson Juhasc
 
-Desenvolvedor Full-stack e Blockchain Engineer, administrador e mentor no grupo[ Bitcoin Brasil Desenvolvedores](https://www.facebook.com/groups/btcbrdev), ajudei a orientar vários desenvolvedores na área de desenvolvimento com bitcoin e blockchain. Trabalho desde 2009 como desenvolvedor e comecei a focar na área de bitcoin e blockchain desde 2013, sou um profissional autodidata.
+Desenvolvedor Full-stack e Blockchain Engineer, administrador e mentor no grupo [Bitcoin Brasil Desenvolvedores](https://www.facebook.com/groups/btcbrdev), ajudei a orientar vários desenvolvedores na área de desenvolvimento com bitcoin e blockchain. Trabalho desde 2009 como desenvolvedor e comecei a focar na área de bitcoin e blockchain desde 2013, sou um profissional autodidata.
 
 Montei algumas startups: [BitVagas](https://bitvagas.com/) e [Pague.nu](https://pague.nu/)
 
