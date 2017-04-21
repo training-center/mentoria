@@ -31,6 +31,12 @@ Conheça os(as) mentores(as) do projeto.
 | [Paulo Diniz](profiles/paulo_diniz.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
 
+## Desenvolvimento Bitcoin e Blockchain
+
+| Mentor(a)  | Disponibilidade |
+| ------------- | ------------- |
+| [Anderson Juhasc](profiles/anderson_juhasc.md) | :mailbox_with_no_mail: :white_check_mark: |
+
 ## Desenvolvimento Web em geral (Full Stack)
 
 | Mentor(a)  | Disponibilidade |
