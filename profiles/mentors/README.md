@@ -51,6 +51,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Wésley Queiroz](profiles/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
 | [Wendell Adriel](profiles/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
 | [William Bruno](profiles/william_bruno.md) |  :mailbox_closed: :snowflake: |
+| [William W. Oliveira](profiles/william_w_oliveira.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Thiago Paes](profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 | [Vinicius Reis](profiles/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
 | [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
@@ -72,6 +73,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Renan Oliveira](profiles/renan_oliveira.md) |  :mailbox_with_no_mail: :snowflake: |
 | [William Bruno](profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
+| [William W. Oliveira](profiles/william_w_oliveira.md) |  :mailbox_with_no_mail: :white_check_mark: |
 | [Wilson Campos](profiles/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
 | [Thiago Paes](profiles/thiago_paes.md) | :mailbox_closed: :snowflake: |
 
