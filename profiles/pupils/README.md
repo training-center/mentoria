@@ -109,6 +109,7 @@
 - [Victor Grossi](profiles/VictorGrossi.md)
 - [Victor Pragana](profiles/VictorPragana.md)
 - [Vitor Ferraz](profiles/VitorFerraz.md)
+- [Werberth Vinícius](profiles/WerberthVinicius.md)
 - [William Meneses](profiles/WilliamMeneses.md)
 - [William Correa](profiles/WilliamCorrea.md)
 - [Yuri Brunetto](profiles/YuriBrunetto.md)
