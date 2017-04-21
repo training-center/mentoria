@@ -19,6 +19,6 @@ Mentor para Desenvolvedores Front End e Back End (Full Stack)
 
 Mande um abraço para ele no email sudowilliam@gmail.com ou nas redes sociais.
 
-## Pupilos do Mentor da Sila Souza
+## Pupilos do William
 
 Nenhum no momento
