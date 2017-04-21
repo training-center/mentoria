@@ -24,7 +24,10 @@ Mentor para desenvolvedores Back-end - Foco em desenvolvimento com PHP e JS.
 - [Telegram](https://web.telegram.org/#/im?p=@ftonato)
 - Skype/Hangouts: ademilsonft
 
-
 ## Gostaria de retribuir a ajuda do Ademílson Flores Tonato?
 
 Manda um "olá" pelas redes sociais ou pelo e-mail `ademilsonft@outlook.com` e depois retribua a mentoria ajudando outros iniciantes :)
+
+## Pupilos
+
+- [Werberth Vinícius (Werberth)](/profiles/pupils/profiles/WerberthVinicius.md)
