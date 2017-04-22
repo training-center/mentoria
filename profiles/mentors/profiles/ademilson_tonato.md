@@ -30,4 +30,5 @@ Manda um "olá" pelas redes sociais ou pelo e-mail `ademilsonft@outlook.com` e d
 
 ## Pupilos
 
+- [Fernando Costa (nandocosta)](/profiles/pupils/profiles/FernandoCosta.md)
 - [Werberth Vinícius (Werberth)](/profiles/pupils/profiles/WerberthVinicius.md)
