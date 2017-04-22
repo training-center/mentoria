@@ -20,6 +20,7 @@ Conheça os(as) mentores(as) do projeto.
 | Mentor(a)  | Disponibilidade |
 | ------------- | ------------- |
 | [Ademílson F. Tonato](profiles/ademilson_tonato.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Antonio Ladeia] (profiles/antonio_ladeia.md) | :mailbox_with_no_mail: :white_check_mark: |
 | [Diego Ponciano](profiles/diego_ponciano.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Dorian Neto](profiles/dorian_neto.md) |  :mailbox_closed: :snowflake: |
 | [Giovanni Cruz](profiles/giovannicruz97.md) |  :mailbox_with_no_mail: :white_check_mark: |
