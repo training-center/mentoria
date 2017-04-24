@@ -15,6 +15,7 @@
 - [Bruno Melo](profiles/BrunoMelo.md)
 - [Carlos Proença](profiles/carlos-proenca.md)
 - [Caio Flávio](profiles/caio.md)
+- [Celso Lopes](profiles/CelsoLopes.md)
 - [Daniel Diniz](profiles/DanielDiniz.md)
 - [Daniel Neri](profiles/danielneri.md)
 - [Daniel Simão da Silva](profiles/danielsimaodasilva.md)
