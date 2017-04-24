@@ -12,6 +12,7 @@
 - [Breno Lemos](profiles/BrenoLemos.md)
 - [Bruno Cavalcante](profiles/BrunoCavalcante.md)
 - [Bruno Ferreira](profiles/BrunoFerreira.md)
+- [Bruno Martins](profiles/Bruno_Martins.md)
 - [Bruno Melo](profiles/BrunoMelo.md)
 - [Carlos Proença](profiles/carlos-proenca.md)
 - [Caio Flávio](profiles/caio.md)
