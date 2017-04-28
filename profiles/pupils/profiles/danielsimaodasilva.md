@@ -1,7 +1,5 @@
 # Mentor(a) responsável por mim
 
-[Vinicius Reis](/mentores/perfis/vinicius_reis.md)
-
 ## Meu Nome
 
 Daniel Simão da Silva

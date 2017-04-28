@@ -20,13 +20,9 @@ Mentor para Desenvolvedores Front End e Back End, com JavaScript e PHP
 
 ## Gostaria de retribuir a ajuda do Vinicius Reis?
 
-Mande um abraço para ele no email luiz.vinicius73@gmmail.com ou nas redes sociais.
+Mande um abraço para ele no email luiz.vinicius73@gmail.com ou nas redes sociais.
 
 ## Pupilos do Vinicius Reis
 
 * [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
-* [Daniel Simão da Silva](/pupilos/perfis/danielsimaodasilva.md)
-* [William Correa](/pupilos/perfis/WilliamCorrea.md)
-* [Juliano Padilha](/pupilos/perfis/JulianoPadilha.md)
-* [Thiago Alves Vieira (ThivieiraTAV)] (/pupilos/perfis/thivieiratav.md)
 * [Daniel Diniz](/pupilos/perfis/DanielDiniz.md)
