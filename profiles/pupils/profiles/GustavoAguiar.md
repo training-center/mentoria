@@ -6,10 +6,6 @@
 
 Gustavo Aguiar
 
-## Qual meu sonho na carreira?
-
-Me tornar referência :D
-
 ## Alguns links para me conhecer melhor
 
 [Facebook](https://www.facebook.com/gustavo.aguiar.359)
