@@ -47,7 +47,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Guilherme Pontes](profiles/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
 | [Jonathan Lamim](profiles/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
 | [Leonardo Saraiva](profiles/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |
-| [Lucas Pinto](profiles/lucaspinto.md) |  :mail :mailbox_closed: :snowflake: |
+| [Lucas Pinto](profiles/lucaspinto.md) | :mailbox_closed: :snowflake: |
 | [Lucas Henrique](profiles/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
 | [Wésley Queiroz](profiles/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
 | [Wendell Adriel](profiles/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
