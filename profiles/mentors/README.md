@@ -24,7 +24,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Diego Ponciano](profiles/diego_ponciano.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Dorian Neto](profiles/dorian_neto.md) |  :mailbox_closed: :snowflake: |
 | [Giovanni Cruz](profiles/giovannicruz97.md) |  :mailbox_with_no_mail: :white_check_mark: |
-| [Lucas Pinto](profiles/lucaspinto.md) |  :mailbox_with_no_mail: :snowflake: |
+| [Lucas Pinto](profiles/lucaspinto.md) | :mailbox_closed: :snowflake: |
 | [Luiz Paulo Ferreira](profiles/luiz_paulof.md) |  :mailbox_closed: :snowflake: |
 | [Vinicius Tinguan](profiles/vinicius_tinguan.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Ramon Sanches](profiles/raymonsanches.md) |  :mailbox_closed: :snowflake: |
@@ -47,7 +47,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Guilherme Pontes](profiles/guilhermepontes.md) |  :mailbox_closed: :snowflake: |
 | [Jonathan Lamim](profiles/jonathan_lamim.md) |  :mailbox_closed: :snowflake: |
 | [Leonardo Saraiva](profiles/leonardo_saraiva.md) |  :mailbox_closed: :snowflake: |
-| [Lucas Pinto](profiles/lucaspinto.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Lucas Pinto](profiles/lucaspinto.md) |  :mail :mailbox_closed: :snowflake: |
 | [Lucas Henrique](profiles/lucas_henrique.md) |  :mailbox_closed: :snowflake: |
 | [Wésley Queiroz](profiles/wesley_queiroz.md) |  :mailbox_closed: :snowflake: |
 | [Wendell Adriel](profiles/wendell_adriel.md) |  :mailbox_closed: :snowflake: |
@@ -70,7 +70,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Gian Souza](profiles/gian_souza.md) | :mailbox_closed: :snowflake: |
 | [Gustavo Godoi](profiles/gustavo_godoi.md) | :mailbox_with_no_mail: :snowflake: |
 | [Jessuir Cleydson](profiles/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
-| [Lucas Pinto](profiles/lucaspinto.md) |  :mailbox_with_no_mail: :snowflake: |
+| [Lucas Pinto](profiles/lucaspinto.md) | :mailbox_closed: :snowflake: |
 | [Renan Oliveira](profiles/renan_oliveira.md) |  :mailbox_with_no_mail: :snowflake: |
 | [William Bruno](profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
