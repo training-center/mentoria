@@ -19,4 +19,4 @@ Caso alguém relate a cobrança, devemos tomar medidas contra o(a) Mentor(a). Ne
 
 **Responsabilidade de ambas as partes**
 
-* Ambos(as) devem se respeitar. Não deve acontecer nenhum tipo de repudia, humilhação, discriminação por cor, etnia, gênero, orientação sexual, religião, padrão de vida ou qualquer outra diferença, por nenhuma das partes.
+Ambos devem estar de acordo com nosso código de conduta que pode ser lido [nesse link](https://github.com/training-center/sobre/blob/master/CONDUCT.md)
