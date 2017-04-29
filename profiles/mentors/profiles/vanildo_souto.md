@@ -10,10 +10,10 @@ Mentor para Desenvolvedores  Backend PHP
 
 ## Links
 
-* [http://blog.toneladas.com.br](Site)
-* [https://t.me/vanildo_souto](Telegram)
-* [https://twitter.com/vanildo_souto](Twitter)
-* [https://br.linkedin.com/in/vanildosouto](Linkedin)
+* [Site](http://blog.toneladas.com.br)
+* [Telegram](https://t.me/vanildo_souto)
+* [Twitter](https://twitter.com/vanildo_souto)
+* [Linkedin](https://br.linkedin.com/in/vanildosouto)
 
 ## Gostaria de retribuir a ajuda do Vanildo Souto Mangueira?
 
