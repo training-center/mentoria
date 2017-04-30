@@ -30,7 +30,7 @@ Um projeto para ajudar pessoas em início de carreira (ou não) a irem ao infini
 
 ## O que é o Mentoria
 
-O Mentoria é um projeto com a premissa de unir pessoas com experiência ema área de atuação (ou mais) com quem quer aprender ou precisa melhorar suas habilidades para dar uma subida de carreira.
+O Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação (ou mais) com quem quer aprender ou precisa melhorar suas habilidades para dar uma subida de carreira.
 
 Queremos ajudar iniciantes a não passarem por certos problemas que nós passamos e tentamos ajudar quem já está no mercado e sente necessidade de ajuda para crescer mais.
 
