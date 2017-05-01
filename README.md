@@ -1,12 +1,17 @@
-# Mentoria  <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Mentoria  <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="https://github.com/training-center/sobre/blob/master/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+
 > Em constante evolução
 
+Um projeto para ajudar pessoas em início de carreira (ou não) a irem ao infinito e além em seus objetivos!
 
-Um projeto para ajudar pessoas em início de carreira ou não a irem ao infinito e além em seus objetivos pessoais!
-
+<ul>
+  <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
+  <li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
+  <li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
+  <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
+</ul>
 
 **Sumário**
-
 
 - [O que é o Mentoria](#o-que-é-o-mentoria)
 - [Como surgiu o Mentoria](#como-surgiu-o-mentoria)
@@ -20,20 +25,16 @@ Um projeto para ajudar pessoas em início de carreira ou não a irem ao infinito
 - [Mantenha o contato conosco](#mantenha-o-contato-conosco)
 - [Desejo contribuir financeiramente](#desejo-contribuir-financeiramente)
 - [O que é o CT (Centro de Treinamento)](#o-que-é-o-ct-centro-de-treinamento)
-- [Quem acredita no CT](#quem-acredita-no-ct)
+- [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-ct)
 
 
 ## O que é o Mentoria
 
-
-O Mentoria é um projeto com a premissa de unir pessoas com experiência ema área de atuação (ou mais) com quem quer aprender ou precisa melhorar suas habilidades para dar uma subida de carreira.
-
+O Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação (ou mais) com quem quer aprender ou precisa melhorar suas habilidades para dar uma subida de carreira.
 
 Queremos ajudar iniciantes a não passarem por certos problemas que nós passamos e tentamos ajudar quem já está no mercado e sente necessidade de ajuda para crescer mais.
 
-
 Não somos coaches, somos profissionais de mercado que queremos ajudar alguém. Por isso tenha paciência, nós respondemos no nosso tempo livre de responsabilidades pessoais/trabalho.
-
 
 ## Como surgiu o Mentoria
 
@@ -43,11 +44,7 @@ Com a ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](
 
 O projeto Mentoria tenta **conectar** pessoas com experiência na áreas de desenvolvimento com pessoas que estão começando e/ou necessitam de alguém para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar experiências.
 
-
 Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). Por isso que não temos um template específico para os(as) mentores(as) seguirem ao auxiliar alguém.
-
-
-
 
 ### O que é um(a) Mentor(a)
 
@@ -69,33 +66,29 @@ OBS: Ter um(a) mentor(a) não significa ter um **Google** via email, então essa
 
 Todos aqui devem ser auto-gerenciáveis e ambas as partes devem assumir suas responsabilidades com base no código de conduta (link mais abaixo) e manter seu compromisso uns com os outros.
 
-
 ## Nossos Mentores(as)
 
-[Lista dos Mentores(as)](/mentores)
+[Lista dos Mentores(as)](profiles/mentors)
 
 ## Nossos Pupilos(as)
 
-[Lista de quem já recebe ajuda de algum Mentor(a)](/pupilos)
+[Lista de quem já recebe ajuda de algum Mentor(a)](profiles/pupils)
 
 ## Quero ser Mentor(a)
 
-
-Antes de tudo, leia as [responsabilidades do(a) Mentor(a)](/mentores/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como se tornar mentor(a). Basicamente você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguardar a aprovação.
+Antes de tudo, leia as [responsabilidades do(a) Mentor(a)](profiles/mentors/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como se tornar mentor(a). Basicamente você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguardar a aprovação.
 
 O processo de mentoria acontece com você possuindo um perfil na nossa lista e deixado explícito que você possui disponibilidade para ajudar alguém através da marcação na frente do seu nome. A pessoa que busca ajuda irá entrar em contato diretamente contigo.
 
-Você será avaliado(a) pelos(as) outros [mentores(as)](/mentores) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
+Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
 
-
-Assim que aprovado(a) você deve criar seu perfil no projeto seguindo [nosso template](/mentores/mentor_template.md).
-
+Assim que aprovado(a) você deve criar seu perfil no projeto seguindo [nosso template](profiles/mentors/mentor_template.md).
 
 **Numero mínimo e máximo de pupilos(as)**
 
 Cada mentor(a) deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no nosso canal **privado** de `mentores`.
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no nosso canal **privado** de `mentores`.
 
 Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
 
@@ -105,36 +98,34 @@ Porém, as pessoas podem doar para você quando puderem e SE quiserem. Então te
 
 Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 
+Aproveite para tirar algumas dúvidas no artigo ["Dicas para novos mentores(as)"](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4#.6boq4nwvz)
+
 **Resumindo**
 
 1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
-2. Os [mentores](/mentores) e [moderadores](/MODERATORS.md) avaliam seu perfil
+2. Os [mentores](profiles/mentors) e [moderadores](admin/MODERATORS.md) avaliam seu perfil
 3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar na ORG e no nosso [Slack](https://ctgroups.herokuapp.com/)
-4. Agora você pode adicionar seu perfil a [lista de mentores(as)](/mentores/perfis/). O template para criação do seu perfil é esse [aqui](/mentores/mentor_template.md)
-5. Atualize o [README.md](/mentores/README.md) da pasta mentores com o link para o seu perfil, em ordem alfabética na sessão de suas habilidades, conforme os demais
+4. Agora você pode adicionar seu perfil a [lista de mentores(as)](profiles/mentors/profiles/). O template para criação do seu perfil é esse [aqui](profiles/mentors/mentor_template.md)
+5. Atualize o [README.md](profiles/mentors/README.md) da pasta mentores com o link para o seu perfil, em ordem alfabética na sessão de suas habilidades, conforme os demais
 6. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada para que adicionemos no canal privado Mentores
 7. Agora é só aguardar as pessoas entrarem em contato contigo
 
-
 A escolha por ajudar alguém deve partir de você com base nos seus critérios como tempo disponível para ajudar e tempo que a pessoa precisa de ajuda, skills que a pessoa busca e os que você possui, compatibilidade de personalidade com a pessoa, etc.
 
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
-
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 ## Preciso de um(a) Mentor(a)
 
-Primeiro leia as [responsabilidades de um(a) pupilo(a)](/pupilos/responsibility.md) e veja se está de acordo com isso. Em seguida, basta dar uma olhada na lista de [mentores(as)](/mentores) e entrar em contato com aquele que possuir as habilidades que você almeja e que estiver com o símbolo de disponível na frente do nome.
+Primeiro leia as [responsabilidades de um(a) pupilo(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta dar uma olhada na lista de [mentores(as)](profiles/mentors) e entrar em contato com quem possuir as habilidades que você almeja e que estiver com o símbolo de disponível na frente do nome.
 Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue para esclarecimento.
-
 
 Você pode mandar email para alguém que estiver ocupado(a) e entrar em sua fila de espera, mas é bem melhor que espere a disponibilidade dos(as) menores(as).
 
-
 A maneira de conversarem varia de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
 
-**Só aceite mentoria dos membros da [lista de mentores(as)](/mentores), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
+**Só aceite mentoria dos membros da [lista de mentores(as)](profiles/mentors), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
 
 Você **NÃO** é obrigado a pagar **NADA** a nenhum(a) mentor(a).
 
@@ -142,22 +133,20 @@ Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhad
 
 Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do Slack, email, ou qualquer outro canal com os moderadores, pois o mesmo será expulso do projeto.
 
-
 É de sua responsabilidade a atualização do(a) seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa atualização, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
 
 **Resumindo**
 
-1. Você da uma olhada na [lista de mentores(as)](/mentores) e vê quem se adequa a sua necessidade. Se essa pessoa estiver disponível, entre em contato
-2. Se tudo deu certo, você pode adicionar seu [perfil a lista](./pupilos/perfis/) seguindo o [template](/pupilos/pupilo_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
-3. Atualize o [README.md](/pupilos/README.md) da pasta pupilos com o link para o seu perfil
+1. Você da uma olhada na [lista de mentores(as)](profiles/mentors) e vê quem se adequa a sua necessidade. Se essa pessoa estiver disponível, entre em contato
+2. Se tudo deu certo, você pode adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
+3. Atualize o [README.md](/profiles/pupils/README.md) da pasta pupilos com o link para o seu perfil
 4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
 
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
-
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 ## Regras de conduta
 
-Temos regras de conduta para o(a) **mentor(a)** e para o(a) **pupilo(a)**, leia as regras [aqui](/CONDUTA.md) antes de assumir qualquer responsabilidade.
+Temos regras de conduta para o(a) **mentor(a)** e para o(a) **pupilo(a)**, leia as regras [aqui](admin/CONDUTA.md) antes de assumir qualquer responsabilidade.
 
 ## Mantenha o contato conosco
 
@@ -171,7 +160,7 @@ Esse projeto **não possui fins lucrativos**, porém, você pode doar para cada 
 
 Isso é um incentivo para quem está colaborando e disponibilizando seu tempo para ajudar.
 
-Basta entrar na [lista de mentores(as)](/mentores) e doar através dos links para PayPal, PagSeguro, etc existentes no póprio perfil do(a) mentor(a).
+Basta entrar na [lista de mentores(as)](profiles/mentors) e doar através dos links para PayPal, PagSeguro, etc existentes no próprio perfil do(a) mentor(a).
 
 ## O que é o CT (Centro de Treinamento)
 
@@ -181,23 +170,4 @@ Dê uma olhada [nesse link](https://medium.com/trainingcenter/hello-world-conhe�
 
 > Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
 
-## Quem acredita no CT
-
-Apoiadores do projeto:
-
-<p align="center">
-  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
-    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
-  </a>
-  <a href="http://frontux.com/" title="FrontUX">
-    <img src="/img/frontux-logo.png" alt="Logo FrontUX">
-  </a>
-</p>
-
-Nós temos o cupom de desconto **CTNINJA** que garante 15% no curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
-
-<p align="center">
-  <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
-    <img src="/img/js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
-  </a>
-</p>
+## [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-ct)
