@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Paulo Diniz](/mentores/perfis/paulo_diniz.md)
+[William W Oliveira](/mentors/profiles/william_w_oliveira.md)
 
 ## Meu Nome
 
@@ -8,7 +8,9 @@ Jonatan Vianna da Silva
 
 ## Qual meu sonho na carreira?
 
-Quero me tornar um Dev Ninja!
+Ter conhecimento e experiência para trabalhar como dev em projetos legais
+Ajudar pessoas a se desenvolverem
+Poder trabalhar remoto / freelance.
 
 ## Alguns links para me conhecer melhor
 
