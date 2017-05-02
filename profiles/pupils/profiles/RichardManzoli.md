@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Diogo Cercilio](https://github.com/training-center/mentoria/tree/master/profiles/mentors/profiles/diogo_cercilio.md)
+[William W. Oliveira](https://github.com/richmanzoli/mentoria/blob/master/profiles/mentors/profiles/william_w_oliveira.md)
 
 ## Meu Nome:
 
