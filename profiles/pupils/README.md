@@ -92,6 +92,7 @@
 - [Rafael Alves Duarte](profiles/rafadfaria.md)
 - [Rafael Ferreira Vianna](profiles/RafaelVianna.md)
 - [Rafael Martins dos Santos](profiles/rafaelmartinsja.md)
+- [Rafael Nogueira Silva](profiles/rafaelnsilva)
 - [Ramon Francisco](profiles/RamonFrancisco.md)
 - [Raul Felipe de Melo](profiles/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](profiles/RenanMoura.md)
