@@ -11,6 +11,8 @@ Um projeto para ajudar pessoas em início de carreira (ou não) a irem ao infini
   <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
 </ul>
 
+Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes).
+
 **Sumário**
 
 - [O que é o Mentoria](#o-que-é-o-mentoria)
