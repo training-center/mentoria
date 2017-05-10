@@ -32,15 +32,15 @@ Nós esperamos que você leia esse documento sobre como funciona o projeto Mento
 - [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-ct)
 
 
-## O que é o Mentoria
+## O que é a Mentoria
 
-O Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação (ou mais) com quem quer aprender ou precisa melhorar suas habilidades para dar uma subida de carreira.
+A Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação (ou mais) com quem quer aprender ou precisa melhorar suas habilidades para dar uma subida de carreira.
 
 Queremos ajudar iniciantes a não passarem por certos problemas que nós passamos e tentamos ajudar quem já está no mercado e sente necessidade de ajuda para crescer mais.
 
 Não somos coaches, somos profissionais de mercado que queremos ajudar alguém. Por isso tenha paciência, nós respondemos no nosso tempo livre de responsabilidades pessoais/trabalho.
 
-## Como surgiu o Mentoria
+## Como surgiu a Mentoria
 
 Com a ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr). Da uma conferida lá.
 
@@ -50,7 +50,7 @@ O projeto Mentoria tenta **conectar** pessoas com experiência na áreas de dese
 
 Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). Por isso que não temos um template específico para os(as) mentores(as) seguirem ao auxiliar alguém.
 
-### O que é um(a) Mentor(a)
+### O que é um Mentor
 
 **Resumidamente:**
 
@@ -58,43 +58,43 @@ Dois dos maiores mentores que já existiram podem nos guiar nessa definição.
 
 > **Always pass on what you have learned** - *Mestre Yoda*
 
-O(A) mentor(a) é uma pessoa que busca repassar seus conhecimentos e experiências, preparando o indivíduo para situações críticas e aconselhando para situações de sucesso na área de comum interesse.
+O mentor é uma pessoa que busca repassar seus conhecimentos e experiências, preparando o indivíduo para situações críticas e aconselhando para situações de sucesso na área de comum interesse.
 
 > **Jacket on, jacket off** - *Mr. Han*
 
-O(A) mentor(a) faz isso através de **disciplina** contínua das partes envolvidas; buscando sempre incentivar o indivíduo a extrair o seu melhor e jamais deve humilhar, rebaixar ou desmerecer alguém por não conseguir alcançar os objetivos que lhe foram confiados.
+O mentor faz isso através de **disciplina** contínua das partes envolvidas; buscando sempre incentivar o indivíduo a extrair o seu melhor e jamais deve humilhar, rebaixar ou desmerecer alguém por não conseguir alcançar os objetivos que lhe foram confiados.
 
 ~[@danilovaz](https://github.com/training-center/mentoria/issues/1#issuecomment-207592225)
 
-OBS: Ter um(a) mentor(a) não significa ter um **Google** via email, então essa pessoa não vai te dar respostas de problemas para a faculdade/curso/trabalho. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns* pela internet.
+OBS: Ter um mentor não significa ter um **Google** via email, então essa pessoa não vai te dar respostas de problemas para a faculdade/curso/trabalho. Ele está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns* pela internet.
 
 Todos aqui devem ser auto-gerenciáveis e ambas as partes devem assumir suas responsabilidades com base no código de conduta (link mais abaixo) e manter seu compromisso uns com os outros.
 
 ## Nossos Mentores(as)
 
-[Lista dos Mentores(as)](profiles/mentors)
+[Lista dos Mentores](profiles/mentors)
 
 ## Nossos Pupilos(as)
 
-[Lista de quem já recebe ajuda de algum Mentor(a)](profiles/pupils)
+[Lista de quem já recebe ajuda de algum Mentor](profiles/pupils)
 
 ## Quero ser Mentor(a)
 
-Antes de tudo, leia as [responsabilidades do(a) Mentor(a)](profiles/mentors/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como se tornar mentor(a). Basicamente você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguardar a aprovação.
+Antes de tudo, leia as [responsabilidades do(a) Mentor](profiles/mentors/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como se tornar mentor. Basicamente você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguardar a aprovação.
 
 O processo de mentoria acontece com você possuindo um perfil na nossa lista e deixado explícito que você possui disponibilidade para ajudar alguém através da marcação na frente do seu nome. A pessoa que busca ajuda irá entrar em contato diretamente contigo.
 
-Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
+Você será avaliado pelos outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
 
-Assim que aprovado(a) você deve criar seu perfil no projeto seguindo [nosso template](profiles/mentors/mentor_template.md).
+Assim que aprovado você deve criar seu perfil no projeto seguindo [nosso template](profiles/mentors/mentor_template.md).
 
 **Numero mínimo e máximo de pupilos(as)**
 
-Cada mentor(a) deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
+Cada mentor deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no nosso canal **privado** de `mentores`.
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o pupilo e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no nosso canal **privado** de `mentores`.
 
-Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
+Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor de nenhuma pessoa que pediu ajuda nesse repositório!
 
 Porém, as pessoas podem doar para você quando puderem e SE quiserem. Então tenha uma conta no PayPal, PagSeguro ou similar para deixar no seu perfil.
 
@@ -118,26 +118,26 @@ A escolha por ajudar alguém deve partir de você com base nos seus critérios c
 
 OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
-## Preciso de um(a) Mentor(a)
+## Preciso de um Mentor
 
-Primeiro leia as [responsabilidades de um(a) pupilo(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta dar uma olhada na lista de [mentores(as)](profiles/mentors) e entrar em contato com quem possuir as habilidades que você almeja e que estiver com o símbolo de disponível na frente do nome.
+Primeiro leia as [responsabilidades de um pupilo](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta dar uma olhada na lista de [mentores](profiles/mentors) e entrar em contato com quem possuir as habilidades que você almeja e que estiver com o símbolo de disponível na frente do nome.
 Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue para esclarecimento.
 
-Você pode mandar email para alguém que estiver ocupado(a) e entrar em sua fila de espera, mas é bem melhor que espere a disponibilidade dos(as) mentores(as).
+Você pode mandar email para alguém que estiver ocupado e entrar em sua fila de espera, mas é bem melhor que espere a disponibilidade dos mentores.
 
 A maneira de conversarem varia de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
+É de extrema importância que você nos informe, sempre, como está o seu andamento com o mentor e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
 
-**Só aceite mentoria dos membros da [lista de mentores(as)](profiles/mentors), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
+**Só aceite mentoria dos membros da [lista de mentores](profiles/mentors), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
 
-Você **NÃO** é obrigado a pagar **NADA** a nenhum(a) mentor(a).
+Você **NÃO** é obrigado a pagar **NADA** a nenhum mentor.
 
 Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhado e aqui o fazemos de maneira **gratuita**.
 
-Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do Slack, email, ou qualquer outro canal com os moderadores, pois o mesmo será expulso do projeto.
+Se algum Mentor **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do Slack, email, ou qualquer outro canal com os moderadores, pois o mesmo será expulso do projeto.
 
-É de sua responsabilidade a atualização do(a) seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa atualização, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
+É de sua responsabilidade a atualização do seu mentor para que haja continuidade no processo. Caso você não mantenha essa atualização, os mentores podem lhe abandonar e partir para ajudar outra pessoa.
 
 **Resumindo**
 
@@ -150,21 +150,21 @@ OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [
 
 ## Regras de conduta
 
-Temos regras de conduta para o(a) **mentor(a)** e para o(a) **pupilo(a)**, leia as regras [aqui](admin/CONDUTA.md) antes de assumir qualquer responsabilidade.
+Temos regras de conduta para o **mentor** e para o **pupilo**, leia as regras [aqui](admin/CONDUTA.md) antes de assumir qualquer responsabilidade.
 
 ## Mantenha o contato conosco
 
-Durante o processo de auxílio ao pupilo(a) podem aparecer problemas como: abandono por parte do pupilo,  por parte do mentor ou mesmo mal convívio entre ambos. Caso algo esteja indo mal, avise-nos!
+Durante o processo de auxílio ao pupilo podem aparecer problemas como: abandono por parte do pupilo,  por parte do mentor ou mesmo mal convívio entre ambos. Caso algo esteja indo mal, avise-nos!
 
-Precisamos que mentores(as) e pupilos(as) estejam no nosso [Slack](https://ctgroups.herokuapp.com/) para que haja comunicação entre organização e participantes/contribuintes, pois qualquer problema entre vocês deve ser tratado. Não queremos causar problemas para nenhuma das partes.
+Precisamos que mentores e pupilos estejam no nosso [Slack](https://ctgroups.herokuapp.com/) para que haja comunicação entre organização e participantes/contribuintes, pois qualquer problema entre vocês deve ser tratado. Não queremos causar problemas para nenhuma das partes.
 
 ## Desejo contribuir financeiramente
 
-Esse projeto **não possui fins lucrativos**, porém, você pode doar para cada mentor(a) individualmente, se quiser/for possível.
+Esse projeto **não possui fins lucrativos**, porém, você pode doar para cada mentor individualmente, se quiser/for possível.
 
 Isso é um incentivo para quem está colaborando e disponibilizando seu tempo para ajudar.
 
-Basta entrar na [lista de mentores(as)](profiles/mentors) e doar através dos links para PayPal, PagSeguro, etc existentes no próprio perfil do(a) mentor(a).
+Basta entrar na [lista de mentores(as)](profiles/mentors) e doar através dos links para PayPal, PagSeguro, etc existentes no próprio perfil do mentor.
 
 ## O que é o CT (Centro de Treinamento)
 
