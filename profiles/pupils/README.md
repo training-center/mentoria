@@ -109,6 +109,7 @@
 - [Tiago Fuelber](profiles/TiagoFuelber.md)
 - [Thiago Gonçalves (twobanks)](profiles/twobanks.md)
 - [Thiago Alves Vieira (ThivieiraTAV)](profiles/thivieiratav.md)
+- [Thiago Morastico Cruz](profiles/ThiagoMorasticoCruz.md)
 - [Vicente Martins](profiles/vicentimartins.md)
 - [Victor Maciel](profiles/VictorMaciel.md)
 - [Victor Grossi](profiles/VictorGrossi.md)
