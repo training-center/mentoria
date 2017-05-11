@@ -33,3 +33,5 @@ Possuo conhecimento nas seguintes tecnologias:
 Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e ajude outras pessoas.
 
 ## Pupilos
+
+* [Thiago Morastico Cruz](../../pupils/profiles/ThiagoMorasticoCruz.md)
