@@ -1,4 +1,3 @@
-```
 # Mentor(a) responsável por mim
 
 [Giovanni Cruz](/mentoria/profiles/mentors/profiles/giovannicruz97.md)
@@ -17,4 +16,3 @@ Me tornar um desenvolvedor back-end reconhecido, versátil e competente
 [Twitter](https://twitter.com/mh_matheussouza)
 [LinkedIn](https://www.linkedin.com/in/matheushsouza)
 [GitHub](https://www.github.com/matheus-souza)
-```
