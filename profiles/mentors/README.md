@@ -75,11 +75,11 @@ Conheça os(as) mentores(as) do projeto.
 | [Jessuir Cleydson](profiles/jessuir_cleydson.md) | :mailbox_closed: :snowflake: |
 | [Lucas Pinto](profiles/lucaspinto.md) | :mailbox_closed: :snowflake: |
 | [Renan Oliveira](profiles/renan_oliveira.md) |  :mailbox_with_no_mail: :snowflake: |
+| [Thiago Paes](profiles/thiago_paes.md) | :mailbox_closed: :snowflake: |
 | [William Bruno](profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
 | [William W. Oliveira](profiles/william_w_oliveira.md) |  :mailbox_closed: :snowflake: |
 | [Wilson Campos](profiles/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
-| [Thiago Paes](profiles/thiago_paes.md) | :mailbox_closed: :snowflake: |
 
 ## Front End e UX/UI
 
