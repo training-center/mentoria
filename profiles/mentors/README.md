@@ -77,7 +77,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Renan Oliveira](profiles/renan_oliveira.md) |  :mailbox_with_no_mail: :snowflake: |
 | [William Bruno](profiles/william_bruno.md) | :mailbox_closed: :snowflake: |
 | [William Oliveira](profiles/william_oliveira.md) | :mailbox_closed: :snowflake: |
-| [William W. Oliveira](profiles/william_w_oliveira.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [William W. Oliveira](profiles/william_w_oliveira.md) |  :mailbox_closed: :snowflake: |
 | [Wilson Campos](profiles/wilson_campos.md) | :mailbox_with_no_mail: :snowflake: |
 | [Thiago Paes](profiles/thiago_paes.md) | :mailbox_closed: :snowflake: |
 
