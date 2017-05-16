@@ -80,7 +80,7 @@ Assim que uma pessoa abre uma issue deve ser recepcionada com um comentário par
 Olá `usuário do github que abriu a issue`
 
 
-Você já leu as [responsabilidades do mentor](https://github.com/training-center/mentoria/blob/master/mentores/responsibility.md) e está de acordo com a ideia do projeto?
+Você já leu as [responsabilidades do mentor](https://github.com/training-center/mentoria/blob/master/profiles/mentors/responsibility.md) e está de acordo com a ideia do projeto?
 ```
 
 
