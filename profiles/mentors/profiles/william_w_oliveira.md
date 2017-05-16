@@ -21,4 +21,14 @@ Mande um abraço para ele no email sudowilliam@gmail.com ou nas redes sociais.
 
 ## Pupilos do William
 
-Nenhum no momento
+- [Jonatan Vianna](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/jonatan_vianna.md)
+- [Bruno Martins](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/Bruno_Martins.md)
+- [Celso Lopes](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/CelsoLopes.md)
+- [Richard Manzoli](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/RichardManzoli.md)
+- [Eric Madureira](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/EricMadureira.md)
+- Késsia Castro
+- Washington Oliveira
+- Rafael Gonçalves
+- Rafael Nogueira
+- Victor Carli
+- Rafael Dias
