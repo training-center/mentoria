@@ -27,6 +27,7 @@
 - [Elton Coelho](profiles/elton_coelho.md)
 - [Emanuel Gonçalves](profiles/EmanuelG.md)
 - [Enieber Cunha da Silva](profiles/EnieberCunha.md)
+- [Enrico Viceconti](profiles/Eviceconti.md)
 - [Eric Madureira](profiles/EricMadureira.md)
 - [Estevam de Moraes Rodrigues](profiles/estevammr.md)
 - [Felipe Acelino](profiles/FelipeAcelino.md)
