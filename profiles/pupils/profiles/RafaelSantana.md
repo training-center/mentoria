@@ -13,7 +13,5 @@ para que um dia eu possa ter destaque suficiente para trabalhar fora do país.
 
 ## Alguns links para me conhecer melhor
 
-[Não uso facebook] (#)
-[Não uso Twitter(#)
 [Meu Linkedln](https://www.linkedin.com/in/rafasantana/)
 [Meu Github](github.com/RafaSantana)
