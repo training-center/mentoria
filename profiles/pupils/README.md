@@ -7,6 +7,7 @@
 - [Allan Ramos](profiles/AllanRamos.md)
 - [Anderson Nascimento](profiles/AndersonNascimento.md)
 - [André Neto](profiles/AndreNeto.md)
+- [André Teles](profiles/AndreTeles.md)
 - [Augusto Almeida](profiles/AugustoAlmeida.md)
 - [Beatriz Uezu](profiles/BeatrizUezu.md)
 - [Breno Lemos](profiles/BrenoLemos.md)
