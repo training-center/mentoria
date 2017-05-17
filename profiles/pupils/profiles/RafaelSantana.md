@@ -1,5 +1,3 @@
-
-
 # Mentor(a) responsável por mim
 
 [Luiz Felipe de Oliva Limeira](/mentors/profiles/luiz_felipe_limeira.md)
