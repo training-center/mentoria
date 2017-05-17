@@ -31,7 +31,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Thiago Paes](profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 | [Paulo Diniz](profiles/paulo_diniz.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md) |  :mailbox_with_no_mail: :snowflake: |
 | [Vanildo Souto Mangueira](profiles/vanildo_souto.md) |  :mailbox_with_no_mail: :white_check_mark: |
 
 ## Desenvolvimento Bitcoin e Blockchain
@@ -58,7 +58,7 @@ Conheça os(as) mentores(as) do projeto.
 | [Thiago Paes](profiles/thiago_paes.md) |  :mailbox_closed: :snowflake: |
 | [Vinicius Reis](profiles/vinicius_reis.md) |  :mailbox_closed: :snowflake: |
 | [Kiver Teixeira](profiles/kiver.md) |  :mailbox_with_no_mail: :snowflake: |
-| [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md) |  :mailbox_with_no_mail: :white_check_mark: |
+| [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md) |  :mailbox_with_no_mail: :snowflake: |
 
 ## Front End
 
