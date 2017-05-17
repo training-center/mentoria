@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Mentor da Silva Souza](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/luiz_felipe_limeira.md)
+[Luiz Felipe de Oliva Limeira](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/luiz_felipe_limeira.md)
 
 ## Meu Nome
 
