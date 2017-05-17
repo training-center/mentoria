@@ -121,3 +121,4 @@
 - [William Meneses](profiles/WilliamMeneses.md)
 - [William Correa](profiles/WilliamCorrea.md)
 - [Yuri Brunetto](profiles/YuriBrunetto.md)
+- [André Teles](profiles/AndreTeles.md)
