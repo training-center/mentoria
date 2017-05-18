@@ -1,6 +1,12 @@
 # Mentor
 
-## Jonathan Lamim Antunes
+## Nome
+
+Jonathan Lamim Antunes
+
+## Perfil
+
+Mentor para Desenvolvedores Front End, Back End e Mobile.
 
 Trabalho com desenvolvimento web desde 2005, e sou apaixonado pelo que faço. Desde que iniciei trabalho com desenvolvimento de sites, blogs, portais, e-commerce e sistemas web dos mais variados tipos e tamanhos. Dentre as linguagens, frameworks e bancos de dados utilizados estão: HTML, CSS, JS, PHP, MySQL e CodeIgniter.
 
@@ -11,10 +17,6 @@ Mas meu dia a dia como profisisonal não se resume apenas em desenvolver projeto
 Escrevi mais de 300 artigos/tutoriais ao longo desses 10 anos e atualmente sou curador do portal Universidade Codeigniter, onde publicamos dicas, tutoriais e vídeo-aulas sobre o framework PHP CodeIgniter.
 
 Sou voluntário da Mozilla, ajudando a comunidade no desenvolvimento dos projetos, engajamento e formação de grupos de colaboração.
-
-## Perfil
-
-Mentor para Desenvolvedores Front End, Back End e Mobile.
 
 ## Links
 
