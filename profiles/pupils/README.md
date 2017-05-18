@@ -59,6 +59,7 @@
 - [Josélia Costa](profiles/JoseliaCosta.md)
 - [Josué Rodrigues](profiles/Josue23.md)
 - [Juliano Padilha](profiles/JulianoPadilha.md)
+- [Larissa Mourullo](profiles/LarissaMourullo.md)
 - [Laryssa Rocha](profiles/laryro.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
 - [Leonardo de Souza Faria](profiles/leonardofaria.md)

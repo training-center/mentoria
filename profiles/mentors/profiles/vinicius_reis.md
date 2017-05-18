@@ -26,3 +26,4 @@ Mande um abraço para ele no email luiz.vinicius73@gmail.com ou nas redes sociai
 
 * [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
 * [Daniel Diniz](/pupilos/perfis/DanielDiniz.md)
+* [Larissa Mourullo](/pupilos/perfis/LarissaMourullo.md)
