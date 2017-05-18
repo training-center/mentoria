@@ -1,6 +1,12 @@
 # Mentor
 
-## Wendell Adriel Luiz Silva
+## Nome
+
+Wendell Adriel Luiz Silva
+
+## Perfil
+
+Mentor para Desenvolvimento Full Stack - Foco em desenvolvimento Web com PHP e JavaScript, mas posso ajudar com outras tecnologias.
 
 Sou formado em Análise e Desenvolvimento de Sistemas, sou um Zend Certified PHP Engineer e
 Scrum Fundamentals Certified.  
@@ -16,10 +22,6 @@ desde 2009 e sempre procuro me manter atualizado nas melhores tecnologias e meto
 softwares. Desde 2010 estou focado no desenvolvimento Web e desde 2015 também estou focado no desenvolvimento Mobile.
 
 Gosto de trabalhar com desenvolvimento Front-end e Back-end. Trabalho com diversas tecnologias e você pode conferir a lista completa de minhas skills em meu site pessoal
-
-## Perfil
-
-Mentor para Desenvolvimento Full Stack - Foco em desenvolvimento Web com PHP e JavaScript, mas posso ajudar com outras tecnologias.
 
 ## Links
 
