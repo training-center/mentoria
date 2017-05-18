@@ -1,7 +1,6 @@
 # Mentor
 
-## Giovanni Cruz
-
+Giovanni Cruz
 
 ## Perfil
 
