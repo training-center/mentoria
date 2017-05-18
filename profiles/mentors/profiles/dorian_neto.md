@@ -1,6 +1,12 @@
 # Mentor
 
-## Dorian Neto
+## Nome
+
+Dorian Neto
+
+## Perfil
+
+Mentor para desenvolvedores Back End (foco em PHP)
 
 Desenvolvedor Web apaixonado por Web Standards, Metodologias Ágeis e Open Source. Possuo experiência em Desenvolvimento de Software desde 2011, autodidata e evangelista PHP. Ao longo desses anos, tive a oportunidade de trabalhar em diversos tipos de projetos web com as mais variadas soluções e arquiteturas. Adquiri bastante experiência em infraestrutura, gerência de projetos, captação de pessoas e gerência de times de desenvolvimento, e fui mentor de vários estagiários que passaram pela empresa que trabalho atualmente.
 
@@ -9,10 +15,6 @@ Sou voluntário e membro ativo da comunidade [PHP com Rapadura](http://phpcomrap
 > *"Há muitas possibilidades na mente do principiante, mas poucas na do perito."*
 >
 > *Shunryu Suzuki*
-
-## Perfil
-
-Mentor para desenvolvedores Back End (foco em PHP)
 
 ## Links
 
