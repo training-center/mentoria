@@ -38,3 +38,4 @@ Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e aju
 * [Enrico Augusto Viceconti](../../pupils/profiles/Eviceconti.md)
 * [Rafael Santana](../../pupils/profiles/RafaelSantana.md)
 * [André Teles](../../pupils/profiles/AndreTeles.md)
+* [Leonardo Maturano](../../pupils/profiles/LeonardoMaturano.md)
