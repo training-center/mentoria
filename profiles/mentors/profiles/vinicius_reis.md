@@ -1,14 +1,16 @@
 # Mentor
 
-## Vinicius Reis
+## Nome
 
-Sou apaixonado por desenvolvimento Web, gosto de aprender e compatilhar conhecimento.
-Entre filmes, séries, livros, mangás e HQs sempre estou buscando me aprimorar.
-Atualmente trabalho como Engenheiro de aplicações na [decision6](https://decision6.com) e gravo vídeos no [CODECASTS](https://codecasts.com.br/)
+Vinicius Reis
 
 ## Perfil
 
 Mentor para Desenvolvedores Front End e Back End, com JavaScript e PHP
+
+Sou apaixonado por desenvolvimento Web, gosto de aprender e compatilhar conhecimento.
+Entre filmes, séries, livros, mangás e HQs sempre estou buscando me aprimorar.
+Atualmente trabalho como Engenheiro de aplicações na [decision6](https://decision6.com) e gravo vídeos no [CODECASTS](https://codecasts.com.br/)
 
 ## Links
 
