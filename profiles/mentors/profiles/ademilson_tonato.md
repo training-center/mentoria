@@ -1,6 +1,12 @@
 # Mentor
 
-## Ademílson Flores Tonato
+## Nome
+
+Ademílson Flores Tonato
+
+## Perfil
+
+Mentor para desenvolvedores Back-end - Foco em desenvolvimento com PHP e JS.
 
 Sou graduando em Análise e Desenvolvimento de Sistemas.
 
@@ -11,10 +17,6 @@ Trabalho com desenvolvimento de sites há ~4,5 anos e procuro sempre manter-me a
 Já fiz (e continuo fazendo) diversos cursos na área de desenvolvimento e conheço algumas linguagens e tecnologias. Gosto muito do desenvolvimento Front-End, porém "prefiro" o desenvolvimento Back-End e minhas linguagens preferidas são PHP e JS.
 
 Eu gosto de construir aplicações web, dividir conhecimento, escrevendo artigos e contribuindo para projetos de código aberto.
-
-## Perfil
-
-Mentor para desenvolvedores Back-end - Foco em desenvolvimento com PHP e JS.
 
 ## Links
 
