@@ -8,7 +8,9 @@ Anderson Altissimo
 
 ## Qual meu sonho na carreira?
 
-Aprender cada vez mais Backend, e num futuro poder ser mentor
+Gostaria de aprender cada dia mais e mais.
+Poder com o tempo e experiencia compartilhar e 
+ajudar os que estejam entrando na programação e que tenha dificuldades!!
 
 ## Alguns links para me conhecer melhor
 
