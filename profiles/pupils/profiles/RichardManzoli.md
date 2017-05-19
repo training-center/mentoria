@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[William W. Oliveira](https://github.com/richmanzoli/mentoria/blob/master/profiles/mentors/profiles/william_w_oliveira.md)
+[Ademílson Flores Tonato](mentors/profiles/ademilson_tonato.md)
 
 ## Meu Nome:
 
@@ -8,7 +8,7 @@ Richard Manzoli
 
 ## Qual meu sonho na carreira?
 
-Trabalhar na área de Front-end e conseguir ajudar a comunidade com novso projetos.
+Trabalhar na área de Front-end e conseguir ajudar a comunidade com novos projetos.
 
 
 ## Alguns links para me conhecer melhor:
