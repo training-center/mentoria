@@ -1,6 +1,6 @@
 # Lista de mentores(as)
 
-Conheça os(as) mentores(as) do projeto.
+> Conheça os(as) mentores(as) do projeto.
 
 ## Android
 
