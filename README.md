@@ -122,10 +122,9 @@ OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [
 
 ## Preciso de um(a) Mentor(a)
 
-Primeiro leia as [responsabilidades de um(a) pupilo(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta dar uma olhada na lista de [mentores(as)](profiles/mentors) e entrar em contato com quem possuir as habilidades que você almeja e que estiver com o símbolo de disponível na frente do nome.
-Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue para esclarecimento.
+Primeiro leia as [responsabilidades de um(a) pupilo(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [esse formulário](http://bit.ly/preciso-de-mentoria) e aguardar o contato de algum mentor ou mentora.
 
-Você pode mandar email para alguém que estiver ocupado(a) e entrar em sua fila de espera, mas é bem melhor que espere a disponibilidade dos(as) mentores(as).
+Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue para esclarecimento.
 
 A maneira de conversarem varia de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
 
@@ -143,8 +142,8 @@ Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que 
 
 **Resumindo**
 
-1. Você da uma olhada na [lista de mentores(as)](profiles/mentors) e vê quem se adequa a sua necessidade. Se essa pessoa estiver disponível, entre em contato
-2. Se tudo deu certo, você pode adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
+1. Você responde [nosso formulário](http://bit.ly/preciso-de-mentoria) e aguarda o contato de um mentor ou de uma mentora
+2. Se tudo deu certo, você poderá adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
 3. Atualize o [README.md](/profiles/pupils/README.md) da pasta pupilos com o link para o seu perfil
 4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
 
