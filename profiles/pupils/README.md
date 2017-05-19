@@ -69,6 +69,7 @@
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Letícia Costa](profiles/LeticiaCosta.md)
 - [Luan Vicente](profiles/luan_vicente.md)
+- [Lucas Augusto](profiles/LucasAugusto.md)
 - [Lucas Capistrano](profiles/lucascapistrano.md)
 - [Lucas Sales](profiles/LucasSales.md)
 - [Lucas Gabriel](profiles/lucas_gabriel.md)
