@@ -7,4 +7,4 @@ Como Mentor(a):
 * Você precisa manter seu perfil atualizado
 * Você precisa garantir que o(a) pupilo(a) atualize o [perfil](/profiles/pupils) dele(a) seguindo o [template](/profiles/pupils/pupil_template.md)
 * Você deve estar no nosso [Telegram](https://telegram.me) para receber avisos, discutir ideias, etc
-* Você deve estar no nosso board no Trello para conseguir contato de quem precisa de ajuda
+* Você deve estar no nosso board no [Trello](https://trello.com) para conseguir contato de quem precisa de ajuda
