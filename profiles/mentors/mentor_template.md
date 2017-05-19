@@ -3,28 +3,28 @@
 Template para cadastramento de profiles dos Mentores(as).
 
 ```
-# Mentor
+# Mentor(a)
 
 ## Nome
 
-Mentor da Sila Souza
+Seu nome
 
 ## Perfil
 
-Mentor para Desenvolvedores Front End
+Seu perfil profissional e alguma informação sobre você
 
 ## Links
 
-* [Site do Mentor da Sila Souza](link)
-* [Facebook do Mentor da Sila Souza](link)
-* [Twitter do Mentor da Sila Souza](link)
-* [LinkedIn do Mentor da Sila Souza](link)
+* [Seu site pessoal](link)
+* [Seu Facebook](link)
+* [Seu Twitter](link)
+* [Seu LinkedIn](link)
 
-## Gostaria de retribuir a ajuda do Mentor da Sila Souza?
+## Gostaria de retribuir a ajuda do(a) [Seu nome]?
 
-[Link para o PayPal, PagSeguro, etc](link) ou mande um abraço para ele no email xxx@xxx.com ou nas redes sociais.
+[Link para o PayPal, PagSeguro, etc](link) ou mande um abraço para ele(a) no email xxx@xxx.com ou nas redes sociais.
 
-## Pupilos do Mentor da Sila Souza
+## Pupilos de [Seu nome]
 
 * [Pupilo 1](pupilos/profiles/pupilo1.md)
 * [Pupilo 2](pupilos/profiles/pupilo2.md)
