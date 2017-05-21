@@ -13,6 +13,7 @@
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
+* [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
@@ -22,6 +23,10 @@
 * [Kiver Teixeira](profiles/kiver.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
+
+## Delphi
+
+* [Kiver Teixeira](profiles/kiver.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
 
@@ -44,6 +49,10 @@
 * [Vinicius Reis](profiles/vinicius_reis.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
+
+## DevOps
+
+* [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 
 ## Front End
 
@@ -74,13 +83,14 @@
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
+## Java
+
+* [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+
 ## SEO
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
 
-## Delphi
-
-* [Kiver Teixeira](profiles/kiver.md)
 
 ## QA
 
