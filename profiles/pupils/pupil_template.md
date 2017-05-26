@@ -1,23 +1,18 @@
-# Template de perfil de Pupilo(a)
+# Pupilo(a)
 
-Template para cadastramento de perfis dos Pupilos(as).
-
-```
 # Mentor(a) responsável por mim
 
-[Mentor da Silva Souza](/mentores/perfis/mentor_da_silva_souza.md)
+[Luiz Felipe](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/luiz_felipe_limeira.md)
 
 ## Meu Nome
 
-Pupilo de Castro
+Ronaiza Cardoso
 
 ## Qual meu sonho na carreira?
 
-Quero conseguir um emprego como Astronauta!
+Trabalhar com front end home office ou em algum país como a Nova Zelândia ou Irlanda.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Pupilo de Castro](link)
-[Twitter do Pupilo de Castro](link)
-[LinkedIn do Pupilo de Castro](link)
-```
+- [Medium](https://medium.com/@ronaizacard)
+- [LinkedIn](https://www.linkedin.com/in/ronaiza-cardoso/)
