@@ -41,3 +41,4 @@ Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e aju
 * [Leonardo Maturano](../../pupils/profiles/LeonardoMaturano.md)
 * [Caroline Alves](../../pupils/profiles/CarolineAlves.md)
 * [Washington Oliveira](../../pupils/profiles/WashingtonOliveira.md)
+* [Ronaiza Cardoso](../../pupils/profiles/RonaizaCardoso.md)
