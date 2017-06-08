@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Anderson Juhasc](/mentores/perfis/anderson_juhasc.md)
+[Anderson Juhasc](/profiles/mentors/profiles/anderson_juhasc.md)
 
 ## Meu Nome
 
