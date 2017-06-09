@@ -100,6 +100,7 @@
 - [PhillipFreitas](profiles/PhillipFreitas.md)
 - [Polyana Andrade](profiles/polyana_andrade.md)
 - [Rafael Alves Duarte](profiles/rafadfaria.md)
+- [Rafael Araujo Dias](profiles/rafaeldias.md)
 - [Rafael Ferreira Vianna](profiles/RafaelVianna.md)
 - [Rafael Martins dos Santos](profiles/rafaelmartinsja.md)
 - [Rafael Nogueira Silva](profiles/rafaelnsilva)
