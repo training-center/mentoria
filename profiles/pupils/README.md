@@ -91,6 +91,7 @@
 - [Maxwel Ferreira](profiles/MaxwelFerreira.md)
 - [Mayara Pimentel](profiles/mayarapimentel.md)
 - [Michel Dias](profiles/MichelDias.md)
+- [Murilo Marchesi](profiles/MuriloMarchesi.md)
 - [Nikolas Brandao](profiles/NikolasBrandao.md)
 - [Pamela Souza](profiles/pamelasouza.md)
 - [Paulo Pereira dos Anjos](profiles/paulopereiradosanjos.md)
