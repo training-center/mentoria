@@ -10,6 +10,7 @@
 - [André Ferreira](profiles/AndreFerreira.md)
 - [André Neto](profiles/AndreNeto.md)
 - [André Teles](profiles/AndreTeles.md)
+- [Andrey Bevilacqua](profiles/AndreyBevilacqua.md)
 - [Augusto Almeida](profiles/AugustoAlmeida.md)
 - [Beatriz Uezu](profiles/BeatrizUezu.md)
 - [Breno Lemos](profiles/BrenoLemos.md)
