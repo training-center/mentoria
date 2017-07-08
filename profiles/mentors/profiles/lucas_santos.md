@@ -20,6 +20,7 @@ Mentor de desenvolvimento fullstack: Front-End, Back-End, Infraestrutura e DevOp
 
 * [Site pessoal](http://lsantos.me) -> Em construção
 * [Facebook](https://www.facebook.com/lhs.santoss)
+* [Github](https://github.com/khaosdoctor)
 * [Twitter](https://twitter.com/_StaticVoid)
 * [LinkedIn](https://www.linkedin.com/in/lhs-santos/)
 
