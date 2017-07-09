@@ -127,11 +127,11 @@ OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [
 
 Primeiro leia as [responsabilidades de um(a) pupilo(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [esse formulário](http://bit.ly/preciso-de-mentoria) e aguardar o contato de algum mentor ou mentora.
 
-Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue para esclarecimento.
+Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue aqui para esclarecimento ou perguntar no canal `#mentoria-project` no nosso [Slack](https://ctgroups.herokuapp.com/).
 
-A maneira de conversarem varia de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
+A maneira de vocês se comunicarem e darem andamento ao processo de mentoria vai variar de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
+É de extrema importância que você nos informe, sempre, se tiver qualquer problema com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
 
 **Só aceite mentoria dos membros da [lista de mentores(as)](profiles/mentors), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
 
@@ -141,7 +141,7 @@ Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhad
 
 Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do Slack, email, ou qualquer outro canal com os moderadores, pois o mesmo será expulso do projeto.
 
-É de sua responsabilidade a atualização do(a) seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa atualização, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
+É de sua responsabilidade a comunicação com seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa comunicação, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
 
 Não se esqueça de ler as [Dicas para novos(as) pupilos(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a).
 
