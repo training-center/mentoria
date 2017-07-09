@@ -99,13 +99,13 @@ Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do pro
 
 Cada mentor(a) deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
-É de extrema importância que você nos informe, sempre, como está o seu andamento com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) ou avisar em nosso grupo privado no [Telegram](https://telegram.me/).
+É de extrema importância que você nos informe, sempre, se está tendo problemas com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) ou avisar em nosso grupo privado no [Telegram](https://telegram.me/).
 
 Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
 
-Porém, as pessoas podem doar para você quando puderem e SE quiserem. Então tenha uma conta no PayPal, PagSeguro ou similar para deixar no seu perfil.
+Porém, as pessoas podem doar para você quando puderem e **SE** quiserem. Então tenha uma conta no PayPal, PagSeguro ou similar para deixar no seu perfil.
 
-**Por favor, não use esse projeto para vender seus cursos/sites, etc.**
+**Por favor, não use esse projeto para vender seus cursos/sites, etc. Se quiser nos doar cupons de descontos ou algo do tipo para incentivar o estudo, então é só entrar em contato com o @woliveiras.**
 
 Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 
