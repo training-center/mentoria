@@ -113,16 +113,15 @@ Aproveite para tirar algumas dúvidas no artigo ["Dicas para novos mentores(as)"
 
 **Resumindo**
 
-1. Você abre uma [issue](https://github.com/training-center/mentoria/issues/new)
-2. Os [mentores](profiles/mentors) e [moderadores](admin/MODERATORS.md) avaliam seu perfil
-3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar na ORG e no nosso [Slack](https://ctgroups.herokuapp.com/)
-4. Agora você pode adicionar seu perfil a [lista de mentores(as)](profiles/mentors/profiles/). O template para criação do seu perfil é esse [aqui](profiles/mentors/mentor_template.md)
-5. Atualize o [README.md](profiles/mentors/README.md) da pasta mentores com o link para o seu perfil, em ordem alfabética na sessão de suas habilidades, conforme os demais
-6. Entre no nosso board no Trello para procurar candidatos a pupilos e pupilas e entrar em contato com eles
+1. Você abre um PR
+2. Os [mentores e mentoras](profiles/mentors) e [moderadores(as)](admin/MODERATORS.md) avaliam seu perfil
+3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar nessa ORG, no nosso [Slack](https://ctgroups.herokuapp.com/) e em nosso board no Trello
+4. Entre no nosso board no Trello para procurar candidatos a pupilos e pupilas e entrar em contato com eles
+5. No board, de uma olhada nos cards que estão na primeira coluna, são os cards que lhe servirão de guia sobre como tudo funciona no nosso Trello
 
 A escolha por ajudar alguém deve partir de você com base nos seus critérios como tempo disponível para ajudar e tempo que a pessoa precisa de ajuda, skills que a pessoa busca e os que você possui, compatibilidade de personalidade com a pessoa, etc.
 
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no canal `#mentoria-project`.
 
 ## Preciso de um(a) Mentor(a)
 
