@@ -73,7 +73,7 @@ O(A) mentor(a) faz isso através de **disciplina** contínua das partes envolvid
 
 OBS: Ter um(a) mentor(a) não significa ter um **Google** via email, então essa pessoa não vai te dar respostas de problemas para a faculdade/curso/trabalho. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns* pela internet.
 
-Todos aqui devem ser auto-gerenciáveis e ambas as partes devem assumir suas responsabilidades com base no código de conduta (link mais abaixo) e manter seu compromisso uns com os outros.
+Todos aqui envolvidos devem buscar ser auto-gerenciáveis e ambas as partes devem assumir suas responsabilidades com base no código de conduta (link mais abaixo) e manter seu compromisso uns com os outros.
 
 ## Nossos Mentores(as)
 
@@ -87,13 +87,13 @@ Todos aqui devem ser auto-gerenciáveis e ambas as partes devem assumir suas res
 
 Antes de tudo, leia as [responsabilidades do(a) Mentor(a)](profiles/mentors/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como se tornar mentor(a).
 
-Basicamente você só precisa abrir uma issue [aqui](https://github.com/training-center/mentoria/issues) seguindo o template que vai aparecer na própria issue e aguardar a aprovação.
+Basicamente você só precisa abrir um pull request nesse repositório adicionando seu perfil com os dados necessários conforme esse [nosso template](profiles/mentors/mentor_template.md). Lembre-se que o nome do arquivo deve ser seu nome e sobrenome ou seu usuário do GitHub com a extensão `.md`. Também precisa alterar a nossa lista de [mentores(as)](profiles/mentors) com o link para esse novo arquivo conforme os demais.
 
-O processo de mentoria acontece com você possuindo um perfil na nossa lista e acessando nosso board no [Trello](https://trello.com) para ver o contato de quem precisa de ajuda. Se você não tem usuário no Trello ou não sabe bem como o utilizar, não se preocupe, nós vamos te ajudar com isso.
+Caso você tenha alguma dúvida nesse processo, também pode nos questionar no canal `#mentoria-project` no nosso [Slack](https://ctgroups.herokuapp.com/).
 
-Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
+Assim que o seu PR for analisado e aprovado pelos outros mentores e mentoras e admins do projeto, então iremos lhe adicionar em nosso Board no Trello, onde recebemos nossos pedidos de mentoria. Se você não tem usuário no Trello ou não sabe bem como o utilizar, não se preocupe, nós vamos te ajudar com isso.
 
-Assim que aprovado(a) você deve criar seu perfil no projeto seguindo [nosso template](profiles/mentors/mentor_template.md).
+Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1). Porém não tenha medo, nossos maiores critérios são sua vontade de ajudar, como trata outras pessoas e disponibilidade.
 
 **Numero mínimo e máximo de pupilos(as)**
 
