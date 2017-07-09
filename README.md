@@ -37,11 +37,11 @@ Nós esperamos que você leia esse documento sobre como funciona o projeto Mento
 
 ## O que é o Mentoria
 
-O Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação (ou mais) com quem quer aprender para entrar nessa área ou precisa melhorar suas habilidades crescer em sua carreira.
+O Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação com quem deseja entrar nessa área ou precisa melhorar suas habilidades para crescer em sua carreira.
 
-Queremos ajudar iniciantes a não passarem por certos problemas que nós passamos e também quem já está no mercado e sente necessidade de direcionamento para crescer em nível profissional.
+Queremos ajudar iniciantes a não passarem por certos problemas que nós passamos e também quem já está no mercado e sente necessidade de direcionamento para crescer seu nível profissional.
 
-Não somos coaches, somos profissionais de mercado que queremos ajudar alguém pelas comunidades afora em nosso tempo livre. Por isso tenha paciência, nós respondemos quando temos tempo.
+**Não somos coaches**, somos profissionais de mercado que queremos ajudar alguém pelas comunidades afora **em nosso tempo livre**. Por isso tenha paciência, nós respondemos quando temos tempo.
 
 ## Como surgiu o Mentoria
 
