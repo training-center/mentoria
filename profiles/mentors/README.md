@@ -15,6 +15,7 @@
 * [Giovanni Cruz](profiles/giovannicruz97.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
+* [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
@@ -40,6 +41,7 @@
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Leonardo Saraiva](profiles/leonardo_saraiva.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
+* [Lucas Santos](profiles/lucas_santos.md)
 * [Lucas Henrique](profiles/lucas_henrique.md)
 * [Wésley Queiroz](profiles/wesley_queiroz.md)
 * [Wendell Adriel](profiles/wendell_adriel.md)
@@ -53,6 +55,7 @@
 ## DevOps
 
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+* [Lucas Santos](profiles/lucas_santos.md)
 
 ## Front End
 
@@ -66,6 +69,7 @@
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
+* [Lucas Santos](profiles/lucas_santos.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [William Bruno](profiles/william_bruno.md)
@@ -95,3 +99,4 @@
 ## QA
 
 * [Érik Patekoski](profiles/erikpatekoski.md)
+* [Lucas Santos](profiles/lucas_santos.md)
