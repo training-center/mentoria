@@ -45,15 +45,15 @@ Queremos ajudar iniciantes a não passarem por certos problemas que nós passamo
 
 ## Como surgiu o Mentoria
 
-Com a ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr). Da uma conferida lá.
+O Mentoria surgiu a partir da ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr). Da uma conferida lá.
 
 ## Como funciona
 
-O projeto Mentoria tenta **conectar** pessoas com experiência na áreas de desenvolvimento com pessoas que estão começando e/ou necessitam de alguém para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar experiências.
+O projeto Mentoria tenta **conectar** pessoas com experiência na áreas de desenvolvimento de software ou áreas relacionadas com pessoas que estão começando e/ou necessitam de alguém para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar experiências.
 
 Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). Por isso que não temos um processo específico para os(as) mentores(as) seguirem ao auxiliar alguém.
 
-Caso você tenha dúvida, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4)
+Caso você tenha dúvida sobre como mentorar alguém, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4)
 
 ### O que é um(a) Mentor(a)
 
