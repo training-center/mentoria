@@ -51,6 +51,7 @@
 * [Vinicius Reis](profiles/vinicius_reis.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
+* [Vinicius Alonso](profiles/vinicius_alonso.md)
 
 ## DevOps
 
