@@ -124,6 +124,7 @@
 - [Thiago Alves Vieira (ThivieiraTAV)](profiles/thivieiratav.md)
 - [Thiago Morastico Cruz](profiles/ThiagoMorasticoCruz.md)
 - [Vicente Martins](profiles/vicentimartins.md)
+- [Victor Copque](profiles/victorcopque.md)
 - [Victor Maciel](profiles/VictorMaciel.md)
 - [Victor Grossi](profiles/VictorGrossi.md)
 - [Victor Pragana](profiles/VictorPragana.md)

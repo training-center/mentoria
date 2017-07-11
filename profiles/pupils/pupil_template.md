@@ -5,7 +5,7 @@ Template para cadastramento de perfis dos Pupilos(as).
 ```
 # Mentor(a) responsável por mim
 
-[Nome de seu mentor ou mentora](/mentores/perfis/perfil_do_seu_mentor_ou_mentora.md)
+[Nome de seu mentor ou mentora](../../mentors/profiles/perfil_do_seu_mentor_ou_mentora.md)
 
 ## Meu Nome
 
