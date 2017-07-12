@@ -17,7 +17,7 @@ Gosto muito de lecionar e espero que possa ajudar diversas pessoas :)
 
 ## Links
 
-* [E-mail](iorubenspn@gmail.com)
+* [E-mail](mailto:iorubenspn@gmail.com)
 * [Twitter](https://twitter.com/rubensnas)
 
 ## Gostaria de retribuir a ajuda do Rubens Pereira do Nascimento?
