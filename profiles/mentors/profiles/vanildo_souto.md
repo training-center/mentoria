@@ -22,5 +22,3 @@ Mentor para Desenvolvedores  Backend PHP
 Mande um abraço para ele no email vanildo.souto@gmail.com ou nas redes sociais.
 
 ## Pupilos Vanildo Souto Mangueira
-
-* [Lucas Augusto](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/LucasAugusto.md)
