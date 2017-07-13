@@ -31,3 +31,4 @@ Doe um valor no [pagseguro](https://pag.ae/bblYF88), [paypal](https://www.paypal
 ## Pupilos de Lucas
 
 - [Victor Copque](../../pupils/profiles/victorcopque.md)
+- [Felipe R S Abbud](../../pupils/profiles/FelipeRSAbbud.md)
