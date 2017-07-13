@@ -134,3 +134,4 @@
 - [William Meneses](profiles/WilliamMeneses.md)
 - [William Correa](profiles/WilliamCorrea.md)
 - [Yuri Brunetto](profiles/YuriBrunetto.md)
+- [Felipe R S Abbud](profiles/FelipeRSAbbud.md)
