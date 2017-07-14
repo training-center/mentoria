@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Lucas H. C. dos Santos](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/lucas_santos.md)
+[Lucas H. C. dos Santos](/profiles/mentors/profiles/lucas_santos.md)
 
 ## Meu Nome
 
@@ -15,4 +15,3 @@ Conseguir criar soluções úteis para problemas reais. Quero melhorar minhas ha
 [Facebook](https://www.facebook.com/profile.php?id=100003234835606&ref=bookmarks)
 [Twitter](https://twitter.com/Feabbud)
 [LinkedIn](https://br.linkedin.com/in/felipe-ricardo-silveira-abbud-12561230)
-```
