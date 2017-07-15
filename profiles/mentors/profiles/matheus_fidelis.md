@@ -9,11 +9,11 @@ Matheus Fidelis
 Meu nome é Raj, mas as pessoas por ai também me conhecem como Matheus Fidelis. 
 Sou desenvolvedor na Superlógica Tecnologias, onde atualmente trabalho com a equipe de plataforma na equipe de Cloud e DevOps, onde a gente costuma matar alguns leões por dia.
 Trabalho com Infraestrutura e Desenvolvimento há 4 anos e tenho bastante experiência com `NodeJS`, `PHP` e `Python`, e estou dando uma brincada com `Goland` entre uma hora e outra. 
-Sou apaixonado por `Cloud`, `API's`, `escalabilidade`, `alta dispobilidade` e `performance`, tenho bastante experiência nos serviços da `AWS` `Google Cloud`.
+Sou apaixonado por `Cloud`, `API's`, `escalabilidade`, `alta dispobilidade` e `performance`, tenho bastante experiência nos serviços da `AWS` e `Google Cloud`.
 
-Gosto muito de Containers e Serverless e se a Matrix existe, com certeza ela roda num cluster de `Swarm`. 
+Gosto muito de `Containers`, `CI & CD`, `Serverless` e se a Matrix existe, com certeza ela roda num cluster de `Swarm`. 
 
-Nas horas vagas eu sou um namorado coruja de uma moça linda, colecionador de quadrinhos e cervejeiro dos bão, e também mantenho uns projetos legais e escrevo num blog sobre Linux e arquitetura. 
+Nas horas vagas eu sou um namorado coruja de uma moça linda, colecionador de quadrinhos e cervejeiro dos bão, mantenho uns projetos legais e escrevo num blog sobre Linux e arquitetura. 
 
 ## Links
 
