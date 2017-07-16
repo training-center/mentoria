@@ -6,6 +6,7 @@ Conheça os(as) mentores(as) do projeto.
 
 * [Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
 * [Cezar Luiz](/mentores/perfis/cezar_luiz.md)
+* [Danilo Agostinho](/mentores/perfis/danilo_agostinho.md)
 * [Danilo Vaz](/mentores/perfis/danilo_vaz.md)
 * [Gian Souza](/mentores/perfis/gian_souza.md)
 * [Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
