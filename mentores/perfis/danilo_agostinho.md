@@ -29,4 +29,4 @@ Mentor para desenvolvedores Front End, Carreira, interessados em JavaScript e CS
 
 ## Gostaria de retribuir a ajuda do Danilo?
 
-Mande um salve para danilodev.silva@gmmail.com ou nas redes sociais.
+Mande um salve para danilodev.silva@gmail.com ou nas redes sociais.
