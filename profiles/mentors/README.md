@@ -57,6 +57,7 @@
 
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Matheus Fidelis](profiles/matheus_fidelis.md)
 
 ## Front End
 
