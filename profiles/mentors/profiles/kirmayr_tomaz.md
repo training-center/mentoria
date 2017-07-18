@@ -20,8 +20,8 @@ Me chame pra beber em São Paulo xD
 
 ## Links
 
-* [Telegram](@kirmayr)
+* [Telegram](https://t.me/kirmayr)
 * [Facebook](https://www.facebook.com/kirmayr.tomaz)
-* [Twitter](twitter.com/kirmayrtomaz)
-* [LinkedIn](www.linkedin.com/in/kirmayrtomaz)
-* [Email](tomaz.kirmayr@gmail.com)
+* [Twitter](https://twitter.com/kirmayrtomaz)
+* [LinkedIn](https://www.linkedin.com/in/kirmayrtomaz)
+* <a href="mailto:tomaz.kirmayr@gmail.comm">Email</a>
