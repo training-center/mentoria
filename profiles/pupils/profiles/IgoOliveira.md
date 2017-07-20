@@ -1,7 +1,8 @@
 # Mentor(a) responsável por mim
 
-Back-End - [Erik Figueredo](/mentores/perfis/erik_figueiredo.md)
-UX/UI Design - [Felipe Fialho](/mentores/perfis/felipe_fialho.md)
+DevOps - [Matheus Fidelis](/profiles/mentors/profiles/matheus_fidelis.md)
+
+UX/UI Design - [Felipe Fialho](/profiles/mentors/profiles/felipe_fialho.md)
 
 ## Meu Nome
 
@@ -13,6 +14,6 @@ Me tornar um bom desenvolvedor e sempre melhorar minhas habilidades!
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/Littl33)
-[Twitter](https://twitter.com/Litll3)
-[Github](https://github.com/littl3)
+[Facebook](https://www.facebook.com/devigor17)
+[Twitter](https://twitter.com/_devigor)
+[Github](https://github.com/devigor)
