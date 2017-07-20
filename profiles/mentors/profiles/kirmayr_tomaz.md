@@ -24,4 +24,4 @@ Me chame pra beber em São Paulo xD :beer::beer::beer:
 * [Facebook](https://www.facebook.com/kirmayr.tomaz)
 * [Twitter](https://twitter.com/kirmayrtomaz)
 * [LinkedIn](https://www.linkedin.com/in/kirmayrtomaz)
-* <a href="mailto:tomaz.kirmayr@gmail.comm">Email</a>
+* <a href="mailto:tomaz.kirmayr@gmail.com">Email</a>
