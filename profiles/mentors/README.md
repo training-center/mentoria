@@ -12,6 +12,7 @@
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
@@ -38,6 +39,7 @@
 
 * [Alex Junior](profiles/alexjunior012.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Guilherme Pontes](profiles/guilhermepontes.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Leonardo Saraiva](profiles/leonardo_saraiva.md)
@@ -84,6 +86,7 @@
 ## Front End e UX/UI
 
 * [Abner Soares](profiles/abner_alves.md)
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Felipe Fialho](profiles/felipe_fialho.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
 * [Fernando Moreira](profiles/fernando_moreira.md)
@@ -94,6 +97,9 @@
 ## Java
 
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+
+## Agile e Startups
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 
 ## SEO
 
