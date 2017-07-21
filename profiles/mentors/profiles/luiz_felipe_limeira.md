@@ -37,8 +37,5 @@ Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e aju
 * [Thiago Morastico Cruz](../../pupils/profiles/ThiagoMorasticoCruz.md)
 * [Enrico Augusto Viceconti](../../pupils/profiles/Eviceconti.md)
 * [Rafael Santana](../../pupils/profiles/RafaelSantana.md)
-* [André Teles](../../pupils/profiles/AndreTeles.md)
-* [Leonardo Maturano](../../pupils/profiles/LeonardoMaturano.md)
 * [Caroline Alves](../../pupils/profiles/CarolineAlves.md)
-* [Washington Oliveira](../../pupils/profiles/WashingtonOliveira.md)
 * [Ronaiza Cardoso](../../pupils/profiles/RonaizaCardoso.md)

@@ -17,6 +17,7 @@
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
+* [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
 * [Thiago Paes](profiles/thiago_paes.md)
@@ -57,6 +58,7 @@
 
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Matheus Fidelis](profiles/matheus_fidelis.md)
 
 ## Front End
 
