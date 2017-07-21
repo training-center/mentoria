@@ -7,7 +7,7 @@
 Allyson Thales dos Santos
 ## Qual meu sonho na carreira?
 
-Ainda sou apenas um estudante que tem diversos sonhos e expectativas profissionais, mas me encontro perdido em meio à excelentes oportunidades oferecidas no mundo de TI.
+Ainda sou apenas um estudante que tem diversos sonhos e expectativas profissionais, mas me encontro perdido com tantas possibilidades oferecidas no mundo de TI.
 
 ## Alguns links para me conhecer melhor
 
