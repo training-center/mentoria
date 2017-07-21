@@ -12,5 +12,7 @@ Ainda sou apenas um estudante que tem diversos sonhos e expectativas profissiona
 ## Alguns links para me conhecer melhor
 
 [Facebook](https://www.facebook.com/allyson.thales)
+
 [Twitter](https://twitter.com/alls_thales)
+
 [LinkedIn](https://www.linkedin.com/in/allyson-thales/)
