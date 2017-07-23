@@ -7,26 +7,22 @@ Template para cadastramento de profiles dos Mentores(as).
 
 ## Nome
 
-Seu nome
+Luiz Fernando A. dos Santos
 
 ## Perfil
 
-Seu perfil profissional e alguma informação sobre você
+Eterno estudante, desenvolvedor web e mobile [iOs/android (react-native)]
 
 ## Links
 
-* [Seu site pessoal](link)
-* [Seu Facebook](link)
-* [Seu Twitter](link)
-* [Seu LinkedIn](link)
+* http://souluizfernando.tk (desatualizado)
+* http://facebook.com/TheZiron (link)
+* https://www.linkedin.com/in/fernando-alves-55438ba3/
 
-## Gostaria de retribuir a ajuda do(a) [Seu nome]?
+## Gostaria de retribuir a ajuda do(a) Luiz Fernando?
 
-[Link para o PayPal, PagSeguro, etc](link) ou mande um abraço para ele(a) no email xxx@xxx.com ou nas redes sociais.
+conta paypal: fernandoaff1@gmail.com ou mande um abraço para ele(a) no email fernandoaff1@gmail.com ou nas redes sociais.
 
-## Pupilos de [Seu nome]
+## Pupilos de Luiz Fernando
 
-* [Pupilo 1](pupilos/profiles/pupilo1.md)
-* [Pupilo 2](pupilos/profiles/pupilo2.md)
-* [Pupilo 3](pupilos/profiles/pupilo3.md)
-```
+
