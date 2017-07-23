@@ -16,7 +16,7 @@ Eterno estudante, desenvolvedor web e mobile [iOs/android (react-native)]
 
 ## Gostaria de retribuir a ajuda do(a) Luiz Fernando?
 
-conta paypal: fernandoaff1@gmail.com ou mande um abraço para ele(a) no email fernandoaff1@gmail.com ou nas redes sociais.
+Conta paypal: fernandoaff1@gmail.com ou mande um abraço para ele(a) no email fernandoaff1@gmail.com ou nas redes sociais.
 
 ## Pupilos de Luiz Fernando
 
