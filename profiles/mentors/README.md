@@ -57,6 +57,7 @@
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Vinicius Alonso](profiles/vinicius_alonso.md)
 * [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
+* [Jhonatan Pereira](profiles/jhonatan.md)
 
 ## DevOps
 
