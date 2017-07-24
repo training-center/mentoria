@@ -10,6 +10,7 @@
 
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
+* [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
@@ -102,10 +103,13 @@
 ## Agile e Startups
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
 
+## Segurança
+
+* [Cássio Batista Pereira](profiles/cassio_pereira.md)
+
 ## SEO
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
-
 
 ## QA
 
