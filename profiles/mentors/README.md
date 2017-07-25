@@ -73,6 +73,7 @@
 * [Aline Bastos](profiles/aline_bastos.md)
 * [Andréa Zambrana](profiles/andrea_zambrana.md)
 * [Cezar Luiz](profiles/cezar_luiz.md)
+* [Danilo Agostinho](profiles/danilo_agostinho.md)
 * [Danilo Vaz](profiles/danilo_vaz.md)
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
