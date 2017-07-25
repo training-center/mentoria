@@ -78,6 +78,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
 * [Gian Souza](profiles/gian_souza.md)
+* [Gustavo Cardoso](profiles/gustavo_cardoso.md)
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
