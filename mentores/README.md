@@ -71,7 +71,6 @@
 * [Andréa Zambrana](profiles/andrea_zambrana.md)
 * [Cezar Luiz](profiles/cezar_luiz.md)
 * [Danilo Vaz](profiles/danilo_vaz.md)
-* [Danilo Agostinho](profiles/danilo_agostinho.md)
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
@@ -86,6 +85,7 @@
 * [William Oliveira](profiles/william_oliveira.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Wilson Campos](profiles/wilson_campos.md)
+* [Danilo Agostinho](profiles/danilo_agostinho.md)
 
 ## Front End e UX/UI
 
