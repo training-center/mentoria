@@ -10,14 +10,17 @@
 
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
+* [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
 * [Felipe Rank](profiles/felipe_rank.md)
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
+* [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
 * [Thiago Paes](profiles/thiago_paes.md)
@@ -39,6 +42,7 @@
 * [Alex Junior](profiles/alexjunior012.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
 * [Felipe Rank](profiles/felipe_rank.md)
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Guilherme Pontes](profiles/guilhermepontes.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Leonardo Saraiva](profiles/leonardo_saraiva.md)
@@ -53,11 +57,15 @@
 * [Vinicius Reis](profiles/vinicius_reis.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
+* [Vinicius Alonso](profiles/vinicius_alonso.md)
+* [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
+* [Jhonatan Pereira](profiles/jhonatan.md)
 
 ## DevOps
 
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Matheus Fidelis](profiles/matheus_fidelis.md)
 
 ## Front End
 
@@ -68,6 +76,7 @@
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
 * [Felipe Rank](profiles/felipe_rank.md)
+* [Fernanda Bernardo](profiles/fernandabernardo.md)
 * [Gian Souza](profiles/gian_souza.md)
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
@@ -83,6 +92,7 @@
 ## Front End e UX/UI
 
 * [Abner Soares](profiles/abner_alves.md)
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Felipe Fialho](profiles/felipe_fialho.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
 * [Felipe Rank](profiles/felipe_rank.md)
@@ -95,10 +105,16 @@
 
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 
+## Agile e Startups
+* [Evaldo Barbosa](profiles/evald-barbosa.md)
+
+## Segurança
+
+* [Cássio Batista Pereira](profiles/cassio_pereira.md)
+
 ## SEO
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
-
 
 ## QA
 
