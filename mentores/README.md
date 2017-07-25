@@ -71,7 +71,6 @@
 * [Andréa Zambrana](profiles/andrea_zambrana.md)
 * [Cezar Luiz](profiles/cezar_luiz.md)
 * [Danilo Vaz](profiles/danilo_vaz.md)
-* [Danilo Agostinho](profiles/danilo_agostinho.md)
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
