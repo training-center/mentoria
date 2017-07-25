@@ -32,6 +32,7 @@
 ## Delphi
 
 * [Kiver Teixeira](profiles/kiver.md)
+* [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
 
