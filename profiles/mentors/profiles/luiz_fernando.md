@@ -20,3 +20,4 @@ Conta paypal: fernandoaff1@gmail.com ou mande um abraço para ele(a) no email fe
 
 ## Pupilos de Luiz Fernando
 
+- [Adeonir Kohl](/profiles/pupils/profiles/AdeonirKohl.md)

@@ -1,6 +1,6 @@
-# Mentor(a) responsável por mim:
+# Mentor responsável por mim:
 
-[Wilson Campos](/mentores/perfis/wilson_campos.md)
+[Luiz Fernando](/profiles/mentors/profiles/luiz_fernando.md)
 
 ## Meu Nome:
 
@@ -8,7 +8,7 @@ Adeonir Kohl
 
 ## Qual meu sonho na carreira?
 
-Quero me aperfeiçoar na carreira Front-End, quem sabe trabalhar como home office.
+Quero me aperfeiçoar para trocar de carreira e seguir como front-end developer full-time, quem sabe home office. O CT já tem me ajudado muito, então futuramente pretendo também ser um mentor.
 
 ## Alguns links para me conhecer melhor:
 
