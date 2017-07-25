@@ -15,6 +15,6 @@ Trabalho com web desde 2003. Já trabalhei com back-end (php) desenvolvendo sist
 * [Twitter](https://twitter.com/gustavocardoso)
 * [LinkedIn](https://www.linkedin.com/in/gustavocardoso/)
 
-## Gostaria de retribuir a ajuda do(a) [Seu nome]?
+## Gostaria de retribuir a ajuda do(a) Gustavo Cardoso?
 
-[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M33A9BQABLXKG) ou mande um abraço para ele(a) no email gustavocardoso@gmail.com ou nas redes sociais.
+Faça uma doação via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M33A9BQABLXKG) ou mande um abraço para ele(a) no email gustavocardoso@gmail.com ou nas redes sociais.
