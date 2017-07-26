@@ -96,6 +96,7 @@
 - [Michel Dias](profiles/MichelDias.md)
 - [Murilo Marchesi](profiles/MuriloMarchesi.md)
 - [Nikolas Brandao](profiles/NikolasBrandao.md)
+- [Odilton Junior](profiles/odilton_junior.md)
 - [Pamela Souza](profiles/pamelasouza.md)
 - [Paulo Pereira dos Anjos](profiles/paulopereiradosanjos.md)
 - [Paulo Roberto Menezes](profiles/jalawz.md)
