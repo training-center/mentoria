@@ -22,5 +22,5 @@ Mentor para desenvolvedores (as) focados (as) em qualidade de código, testes e 
 Basta seguir nas redes socias e mandar um abraço.
 
 ## Pupilos de Vinicius
-- [Odilton Junior] (../../profiles/pupils/profiles/odilton_junior.md)
-- [Victor Copque](../../pupils/profiles/victorcopque.md)
+- [Odilton Junior] (../../pupils/profiles/odilton_junior.md)
+- [Victor Copque]  (../../pupils/profiles/victorcopque.md)
