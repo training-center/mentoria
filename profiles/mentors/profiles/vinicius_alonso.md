@@ -23,3 +23,4 @@ Basta seguir nas redes socias e mandar um abraço.
 
 ## Pupilos de Vinicius
 - [Odilton Junior] (../../profiles/pupils/profiles/odilton_junior.md)
+- [Victor Copque](../../pupils/profiles/victorcopque.md)
