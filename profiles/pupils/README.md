@@ -97,7 +97,7 @@
 - [Murilo Marchesi](profiles/MuriloMarchesi.md)
 - [Nikolas Brandao](profiles/NikolasBrandao.md)
 - [Pamela Souza](profiles/pamelasouza.md)
-- [Paulo Hoffmann] (profiles/paulohoffmann.md]
+- [Paulo Hoffmann](profiles/paulohoffmann.md)
 - [Paulo Pereira dos Anjos](profiles/paulopereiradosanjos.md)
 - [Paulo Roberto Menezes](profiles/jalawz.md)
 - [Pedro Bernardo](profiles/pedbernardo.md)
