@@ -61,6 +61,7 @@
 * [Vinicius Alonso](profiles/vinicius_alonso.md)
 * [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
 * [Jhonatan Pereira](profiles/jhonatan.md)
+* [Vinicius Torves](profiles/vinicius_torves.md)
 
 ## DevOps
 
