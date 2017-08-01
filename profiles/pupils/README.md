@@ -138,3 +138,4 @@
 - [William Meneses](profiles/WilliamMeneses.md)
 - [William Correa](profiles/WilliamCorrea.md)
 - [Yuri Brunetto](profiles/YuriBrunetto.md)
+- [Ismael Costa](profiles/ismaelirc.md)
