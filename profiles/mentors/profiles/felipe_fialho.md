@@ -36,5 +36,9 @@ Mande um salve para hi@felipefialho.com ou nas redes sociais.
 ## Pupilos
 
 - [André Mendes](@andre-mendes)
+- [Felipe Medeiros](@eubond)
 - [Guilherme Martins](@freebox) 
 - [Igor Oliveira](@devigor)
+- [Jefferson de Souza](@jeffersondesouza)
+- [Mauricio Mutte](@mauriciomutte)
+- [Tangriane](@tangriane)
