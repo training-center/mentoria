@@ -36,6 +36,7 @@
 - [Estevam de Moraes Rodrigues](profiles/estevammr.md)
 - [Felipe Acelino](profiles/FelipeAcelino.md)
 - [Felipe Lacerda](profiles/FelipeLacerda.md)
+- [Felipe Medeiros](profiles/eubond.md)
 - [Felipe R S Abbud](profiles/FelipeRSAbbud.md)
 - [Fernando Costa](profiles/FernandoCosta.md)
 - [Frederico Drumond](profiles/fredrumond.md)
