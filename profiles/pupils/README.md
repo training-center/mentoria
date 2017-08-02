@@ -86,6 +86,7 @@
 - [Maicon Henrique](profiles/maiconkcond.md)
 - [Marcelo Henrique](profiles/MarceloHenrique.md)
 - [Marcelo Luiz Leite](profiles/marceloluizleite.md)
+- [Marcelo Gomes](profiles/marcelo_gomes.md)
 - [Marcio Alves](profiles/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](profiles/marco_blos.md)
 - [Marcos Borges](profiles/marcosabb.md)
