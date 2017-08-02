@@ -70,6 +70,7 @@
 - [Leonardo Maturano](profiles/LeonardoMaturano.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Letícia Costa](profiles/LeticiaCosta.md)
+- [Lisandra Rocha](profiles/lisandra_rocha.md)
 - [Luan Vicente](profiles/luan_vicente.md)
 - [Lucas Augusto](profiles/LucasAugusto.md)
 - [Lucas Capistrano](profiles/lucascapistrano.md)
