@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Vanildo Souto](/mentoria/blob/master/profiles/mentors/profiles/vanildo_souto.md)
+[Felipe Rank](/mentoria/blob/master/profiles/mentors/profiles/felipe_rank.md "Mentor Front end")
 
 ## Lucas Augusto
 
