@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Fernanda Bernardo](/mentores/perfis/fernandabernardo.md)
+[Fernanda Bernardo](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/fernandabernardo.md)
 
 ## Meu Nome
 
