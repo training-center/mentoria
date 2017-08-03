@@ -10,9 +10,6 @@ Amon Lucas
 
 Ser um desenvolvedor backend e trabalhar como freelancer, criando meus próprios softwares para revenda.
 
-
 ## Alguns links para me conhecer melhor:
 
-
 [Facebook](https://www.facebook.com/amon.lucas.7)
-
