@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Felipe Rank](/profiles/mentors/profiles/felipe_rank.md)
+[Felipe Rank](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/felipe_rank.md)
 
 ## Lucas Augusto
 
