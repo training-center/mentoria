@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Felipe Rank](/master/profiles/mentors/profiles/felipe_rank.md)
+[Felipe Rank](../../mentors/profiles/felipe_rank.md)
 
 ## Lucas Augusto
 
