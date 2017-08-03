@@ -19,6 +19,10 @@ Sou formado em Ciência da Computação pela PUC Rio e já trabalho com desenvol
 * [Facebook](https://www.facebook.com/diegomalone)
 * Email: diegomalone@gmail.com
 
+## Pupilos
+
+- [Matheus Vieira do Nascimento Araujo](/profiles/pupils/matheusaraujo.md)
+
 ## Gostaria de retribuir a ajuda do Malone?
 
 Só mandar um salve para [@diegomalone](http://twitter.com/diegomalone) no Twitter!

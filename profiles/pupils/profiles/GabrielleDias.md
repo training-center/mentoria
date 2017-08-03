@@ -1,4 +1,4 @@
-# Mentor(a) respons·vel por mim
+# Mentor(a) respons√°vel por mim
 
 [Wesley Queiroz](/mentores/perfis/wesley_queiroz.md)
 

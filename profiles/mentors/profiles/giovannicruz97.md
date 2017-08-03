@@ -4,10 +4,7 @@ Giovanni Cruz
 
 ## Perfil
 
-Me chamo Giovanni Cruz, sou desenvolvedor Back - End com foco em PHP. Adoro CodeIgniter, mas também aprecio outros frameworks como
-Laravel, Lumen e Slim. Entusiasta de Docker e APIs RESTful. Sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto
-Federal de São Paulo em Campos do Jordão, porém residente de Taubaté - SP. Tenho me envolvido bastante com a comunidade PHP no Telegram
-e adquiri o desejo de ajudar iniciantes com PHP e aprender com os mesmos. Estamos Aí, Vida longa e próspera!
+Me chamo Giovanni Cruz, sou desenvolvedor Backend com foco em PHP. Amante de Laravel e Frameworks inteligentes. Entusiasta de Docker, APIs RESTful e em busca do Design Pattern perfeito. Sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo em Campos do Jordão, porém residente de Taubaté - SP. Vamos bater um papo! Que a Força esteja com todos vocês!
 
 
 ## Links
@@ -27,3 +24,7 @@ Entre em contato pelo meu email: giovanni.cruz97@hotmail.com
 * [Osmar Villalba](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/OsmarVillalba.md)
 * [Vicente Martins](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/vicentimartins.md)
 * [Victor Pragana](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/VictorPragana.md)
+* [Anderson Altíssimo](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/AndersonAltissimo.md)
+* [Matheus Henrique de Souza](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/MatheusSouza.md)
+* [Jeyziel Gama](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/jeyzielgama.md)
+* [Gabriel Vieira](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/GabrielVieira.md)
