@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Felipe Rank (raank)](/mentors/profiles/felipe_rank.md)
+[Felipe Rank (raank)](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/felipe_rank.md)
 
 ## Meu Nome
 
