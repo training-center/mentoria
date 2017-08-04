@@ -10,9 +10,7 @@ Richard Manzoli
 
 Trabalhar na área de Front-end e conseguir ajudar a comunidade com novos projetos.
 
-
 ## Alguns links para me conhecer melhor:
-
 
 [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 [Github](https://github.com/richmanzoli)
