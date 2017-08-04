@@ -95,6 +95,7 @@
 - [Matheus Henrique de Souza](profiles/MatheusSouza.md)
 - [Maxwel Ferreira](profiles/MaxwelFerreira.md)
 - [Mayara Pimentel](profiles/mayarapimentel.md)
+- [Mayron Ceccon](profiles/MayronThomasCeccon.md)
 - [Michel Dias](profiles/MichelDias.md)
 - [Murilo Marchesi](profiles/MuriloMarchesi.md)
 - [Nikolas Brandao](profiles/NikolasBrandao.md)
