@@ -13,6 +13,8 @@ Mentoria para Back-End (PHP, fw Laravel) e Front-End (HTML/CSS/Javascript)
 * [Facebook](https://www.facebook.com/raank92)
 * [LinkedIn](https://www.linkedin.com/in/raank/)
 
+## Pupilos
+<a href="https://github.com/RafaelaCassianoCampos">Rafaela Cassiano Campos</a>
 
 ## Gostaria de retribuir a ajuda do(a) Felipe Rank?
 
