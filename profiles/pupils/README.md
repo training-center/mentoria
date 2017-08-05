@@ -35,6 +35,7 @@
 - [Eric Madureira](profiles/EricMadureira.md)
 - [Erik Matos](profiles/ErikG_matos.md) 
 - [Estevam de Moraes Rodrigues](profiles/estevammr.md)
+- [Feçoé Medeiros](profiles/eubond.md)
 - [Felipe Acelino](profiles/FelipeAcelino.md)
 - [Felipe Lacerda](profiles/FelipeLacerda.md)
 - [Felipe Medeiros](profiles/eubond.md)
