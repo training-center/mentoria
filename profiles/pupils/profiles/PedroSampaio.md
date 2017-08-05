@@ -14,5 +14,5 @@ Pedro Sampaio
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/pedroigorjs)
-[LinkedIn](https://linkedin.com/in/pedroigorjs)
+- [Twitter](https://twitter.com/pedroigorjs)
+- [LinkedIn](https://linkedin.com/in/pedroigorjs)
