@@ -59,6 +59,7 @@
 - [Ingrid Rauany](profiles/IngridRauany.md)
 - [Igor Alves](profiles/IgorAlves.md)
 - [Igor Oliveira](profiles/IgoOliveira.md)
+- [Ismael Costa](profiles/ismaelirc.md)
 - [Ítalo Bessa](profiles/italobessa.md)
 - [Jamile Lima](profiles/JamileLima.md)
 - [Jeyziel Gama](profiles/jeyzielgama.md )
