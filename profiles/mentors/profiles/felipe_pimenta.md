@@ -18,6 +18,6 @@ Faço parte de comunidades de desenvolvedores, como o Grupo de Desenvolvedores P
 * [Seu Facebook](https://www.facebook.com/fhp1menta)
 * [Seu LinkedIn](https://www.linkedin.com/in/felipe-pimenta-675184109)
 
-## Gostaria de retribuir a ajuda do(a) [Felipe]?
+## Gostaria de retribuir a ajuda do(a) Felipe ?
 
 Manda um alô lá no meu [Telegram](https://t.me/fhpimenta) ou nas redes sociais.

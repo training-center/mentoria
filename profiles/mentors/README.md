@@ -13,6 +13,7 @@
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
+* [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
@@ -42,6 +43,7 @@
 
 * [Alex Junior](profiles/alexjunior012.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
+* [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Guilherme Pontes](profiles/guilhermepontes.md)
@@ -112,6 +114,9 @@
 
 ## Agile e Startups
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+
+## Python
+* [Felipe Pimenta](profiles/felipe_pimenta.md)
 
 ## Segurança
 
