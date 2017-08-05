@@ -113,6 +113,7 @@
 - [Rafael Martins dos Santos](profiles/rafaelmartinsja.md)
 - [Rafael Nogueira Silva](profiles/rafaelnsilva)
 - [Rafael Santana da Silva](profiles/RafaelSantana.md)
+- [Rafaela Cassiano Campos](profiles/Rafaela_Cassiano_Campos.md)
 - [Ramon Francisco](profiles/RamonFrancisco.md)
 - [Raul Felipe de Melo](profiles/RaulFelipeDeMelo.md)
 - [Renan Silva Moura](profiles/RenanMoura.md)
