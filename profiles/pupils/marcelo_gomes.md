@@ -12,5 +12,5 @@ Meu sonho é ter forças para buscar conhecimento o resto da minha vida e conseq
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/marcelo.rgom)
-[Twitter](https://twitter.com/marcrgo)
+* [Facebook](https://www.facebook.com/marcelo.rgom)
+* [Twitter](https://twitter.com/marcrgo)
