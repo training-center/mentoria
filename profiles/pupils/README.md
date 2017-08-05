@@ -86,6 +86,7 @@
 - [Luiz Lazaro](profiles/LuizLazaro.md)
 - [Maicon Gomes](profiles/atreyucore.md)
 - [Maicon Henrique](profiles/maiconkcond.md)
+- [Marcelo Gomes](profiles/marcelo_gomes.md)
 - [Marcelo Henrique](profiles/MarceloHenrique.md)
 - [Marcelo Luiz Leite](profiles/marceloluizleite.md)
 - [Marcio Alves](profiles/MarcioAlves.md)
