@@ -23,5 +23,6 @@ Só mandar um salve para [@diegomalone](http://twitter.com/diegomalone) no Twitt
 
 ## Pupilos
 
+- [Elton Coelho](/pupilos/perfis/elton_coelho.md)
 - [Gabriel Souza](/pupilos/perfis/gabrielsouzaa.md)
 - [Lucas Capistrano](/pupilos/perfis/lucascapistrano.md)

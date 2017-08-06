@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Erik Figueiredo](/mentores/perfis/erik_figueiredo.md)
+[Diego Malone](/mentores/perfis/diegomalone.md)
 
 ## Meu Nome
 
@@ -8,10 +8,10 @@ Elton Coelho
 
 ## Qual meu sonho na carreira?
 
-Quero me especializar no desenvolvimento web e colaborar em projetos inovadores.
+Busco retornar as minhas origens no mundo Mobile, aprimorar minhas habilidades como desenvolvedor e trabalhar em projetos que possam impactar a vida das pessoas significativamente.
 
 ## Alguns links para me conhecer melhor
 
 https://www.facebook.com/eltonc.dev
 https://twitter.com/eltoncdev
-https://br.linkedin.com/in/elton-coelho-a-07a3b589
+https://www.linkedin.com/in/eltonc-dev/
