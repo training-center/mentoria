@@ -1,4 +1,4 @@
-# Mentor responsável por mim
+# Mentor responsÃ¡vel por mim
 
 [Felipe Rank (raank)](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/felipe_rank.md)
 
@@ -8,11 +8,11 @@ Mayron Thomas Ceccon
 
 ## Qual meu sonho na carreira?
 
-É sempre estar evoluindo na área de desenvolvimento, buscando novos conhecimentos e se tornando uma referência nessa área.
+Ã‰ sempre estar evoluindo na Ã¡rea de desenvolvimento, buscando novos conhecimentos e se tornando uma referÃªncia nessa Ã¡rea.
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/mayronceccon)
-[GitHub](https://github.com/mayronceccon)
-[Facebook](https://www.facebook.com/mayron.ceccon)
-[LinkedIn](https://www.linkedin.com/in/mayronceccon/)
+- [Twitter](https://twitter.com/mayronceccon)
+- [GitHub](https://github.com/mayronceccon)
+- [Facebook](https://www.facebook.com/mayron.ceccon)
+- [LinkedIn](https://www.linkedin.com/in/mayronceccon/)
