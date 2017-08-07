@@ -39,3 +39,4 @@ Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e aju
 * [Rafael Santana](../../pupils/profiles/RafaelSantana.md)
 * [Caroline Alves](../../pupils/profiles/CarolineAlves.md)
 * [Ronaiza Cardoso](../../pupils/profiles/RonaizaCardoso.md)
+* [André Almeida](../../pupils/profiles/AndreAlmeida.md)
