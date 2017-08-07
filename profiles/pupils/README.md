@@ -7,6 +7,7 @@
 - [Allan Ramos](profiles/AllanRamos.md)
 - [Anderson Altissimo](profiles/AndersonAltissimo.md)
 - [Anderson Nascimento](profiles/AndersonNascimento.md)
+- [André Almeida](profiles/AndreAlmeida.md)
 - [André Ferreira](profiles/AndreFerreira.md)
 - [André Neto](profiles/AndreNeto.md)
 - [André Teles](profiles/AndreTeles.md)
