@@ -70,6 +70,7 @@
 - [Josélia Costa](profiles/JoseliaCosta.md)
 - [Josué Rodrigues](profiles/Josue23.md)
 - [Juliano Padilha](profiles/JulianoPadilha.md)
+- [Kaique Xavier Atalla](profiles/Kaique_Xavier_Atalla.md)
 - [Larissa Mourullo](profiles/LarissaMourullo.md)
 - [Laryssa Rocha](profiles/laryro.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
