@@ -54,6 +54,7 @@
 - [Gustavo Aguiar](profiles/GustavoAguiar.md)
 - [Gustavo César Domingos Siqueira](profiles/G18Siqueira.md)
 - [Henri Oiwa](profiles/HenriOiwa.md)
+- [Henrique Rodrigues](profiles/HenriqueRodrigues.md)
 - [Hiran Neri](profiles/HiranNeri.md)
 - [Hugo Almeida](profiles/hugo_almeida.md)
 - [Iago Queiroz](profiles/IagoQueiroz.md)
