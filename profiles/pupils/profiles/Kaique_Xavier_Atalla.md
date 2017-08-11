@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-Luiz Felipe Limeira [mentoria/profiles/mentors/profiles/luiz_felipe_limeira.md)]
+[Luiz Felipe Limeira] [mentoria/profiles/mentors/profiles/luiz_felipe_limeira.md)]
 
 ## Meu Nome
 
