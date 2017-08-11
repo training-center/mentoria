@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-Luiz Felipe Limeira (mentoria/profiles/mentors/profiles/luiz_felipe_limeira.md)
+Luiz Felipe Limeira [mentoria/profiles/mentors/profiles/luiz_felipe_limeira.md)]
 
 ## Meu Nome
 
@@ -14,6 +14,6 @@ Virar programador Front, com conhecimentos em back-end. Saber construir projetos
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](Kaique Xavier Atalla - https://pt-br.facebook.com/kaique.xavieratalla)
+[Facebook](https://pt-br.facebook.com/kaique.xavieratalla)
 [Twitter](@kaique_xavier)
 [LinkedIn](https://www.linkedin.com/in/kaique-atalla-3a1562125/)
