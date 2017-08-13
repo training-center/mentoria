@@ -19,12 +19,12 @@ Entre em contato pelo meu email: giovanni.cruz97@hotmail.com
 
 ## Pupilos
 
-* [Victor Maciel](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/VictorMaciel.md)
-* [Luiz Glatz](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/LuizGlatz.md)
-* [Osmar Villalba](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/OsmarVillalba.md)
-* [Vicente Martins](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/vicentimartins.md)
-* [Victor Pragana](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/VictorPragana.md)
-* [Anderson Altíssimo](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/AndersonAltissimo.md)
-* [Matheus Henrique de Souza](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/MatheusSouza.md)
-* [Jeyziel Gama](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/jeyzielgama.md)
-* [Gabriel Vieira](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/GabrielVieira.md)
+* [Victor Maciel](/profiles/pupils/profiles/VictorMaciel.md)
+* [Luiz Glatz](/profiles/pupils/profiles/LuizGlatz.md)
+* [Osmar Villalba](/profiles/pupils/profiles/OsmarVillalba.md)
+* [Vicente Martins](/profiles/pupils/profiles/vicentimartins.md)
+* [Victor Pragana](/profiles/pupils/profiles/VictorPragana.md)
+* [Anderson Altíssimo](/profiles/pupils/profiles/AndersonAltissimo.md)
+* [Matheus Henrique de Souza](/profiles/pupils/profiles/MatheusSouza.md)
+* [Jeyziel Gama](/profiles/pupils/profiles/jeyzielgama.md)
+* [Gabriel Vieira](/profiles/pupils/profiles/GabrielVieira.md)

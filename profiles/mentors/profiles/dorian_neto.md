@@ -38,11 +38,11 @@ ou mande um abraço para ele no email doriansampaioneto@gmail.com ou nas redes s
 
 ## Pupilos
 
-- [Iago Queiroz](/pupilos/perfis/IagoQueiroz.md)
-- [Ismael Costa](/pupilos/perfis/ismaelirc.md)
+- [Iago Queiroz](/profiles/pupils/profiles/IagoQueiroz.md)
+- [Ismael Costa](/profiles/pupils/profiles/ismaelirc.md)
 
 ### Últimos pupilos
-- [Alex Santana Barazal](/pupilos/perfis/AlexBarazal.md)
-- [William Meneses](/pupilos/perfis/WilliamMeneses.md)
-- [Fernando Martins](/pupilos/perfis/FernandoMartins.md)
-- [Hugo Almeida](/pupilos/perfis/hugo_almeida.md)
+- [Alex Santana Barazal](/profiles/pupils/profiles/AlexBarazal.md)
+- [William Meneses](/profiles/pupils/profiles/WilliamMeneses.md)
+- [Fernando Martins](/profiles/pupils/profiles/FernandoMartins.md)
+- [Hugo Almeida](/profiles/pupils/profiles/hugo_almeida.md)

@@ -24,6 +24,6 @@ Mande um abraço para ele no email nandomoreira.me@gmail.com ou nas redes sociai
 
 ## Pupilos(as) de Fernando Moreira
 
-[Eduardo S. de Araujo](/pupilos/perfis/edusar.md)
-[Ingrid Rauany Dias Soares](/pupilos/perfis/IngridRauany.md)
-[Rodrigo Garcia Hernandez](/pupilos/perfis/RodrigoGarcia.md)
+[Eduardo S. de Araujo](/profiles/pupils/profiles/edusar.md)
+[Ingrid Rauany Dias Soares](/profiles/pupils/profiles/IngridRauany.md)
+[Rodrigo Garcia Hernandez](/profiles/pupils/profiles/RodrigoGarcia.md)

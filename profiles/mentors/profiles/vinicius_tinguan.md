@@ -22,4 +22,4 @@ Ou me manda um alô nas redes sociais. :)
 
 ## Pupilos do Vinicius
 
-[Hiran Neri](https://github.com/vtinguan/mentoria/blob/master/pupilos/perfis/HiranNeri.md)
+[Hiran Neri](/profiles/pupils/profiles/HiranNeri.md)
