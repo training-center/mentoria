@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Kiver Teixeira](https://github.com/training-center/mentoria/blob/master/mentores/perfis/kiver.md)
+[Kiver Teixeira](/profiles/mentors/profiles/kiver.md)
 ## Meu Nome
 
 Gabriel Berto de Castro Barbosa

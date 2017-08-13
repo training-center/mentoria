@@ -1,5 +1,5 @@
 # Mentor responsável por mim.
-[William Oliveira](/mentores/perfis/william_oliveira_souza.md)
+[William Oliveira](/profiles/mentors/profiles/william_oliveira_souza.md)
 
 ## Meu nome
 

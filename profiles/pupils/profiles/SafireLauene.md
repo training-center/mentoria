@@ -1,5 +1,5 @@
 # Mentor(a) responsável por mim
-[Danilo Vaz](/mentores/perfis/danilo_vaz.md)
+[Danilo Vaz](/profiles/mentors/profiles/danilo_vaz.md)
 
 ## Meu Nome
 Safire Lauene

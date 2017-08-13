@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Diego Ponciano](/mentores/perfis/diego_ponciano.md)
+[Diego Ponciano](/profiles/mentors/profiles/diego_ponciano.md)
 
 ## Meu Nome:
 

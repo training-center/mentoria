@@ -1,5 +1,5 @@
 # Mentor(a) responsável por mim
-[Matheus Marsiglio](https://github.com/idlua/mentoria/blob/master/mentores/perfis/matheus_marsiglio.md)
+[Matheus Marsiglio](/profiles/mentors/profiles/matheus_marsiglio.md)
 
 ## Meu Nome
 Rogerio Faria Moura

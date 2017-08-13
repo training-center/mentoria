@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
+[Wésley Queiroz](/profiles/mentors/profiles/wesley_queiroz.md)
 
 ## Meu Nome
 

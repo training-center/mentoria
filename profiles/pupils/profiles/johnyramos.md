@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Cezar Luiz](/mentores/perfis/cezar_luiz.md)
+[Cezar Luiz](/profiles/mentors/profiles/cezar_luiz.md)
 
 ## Meu Nome
 

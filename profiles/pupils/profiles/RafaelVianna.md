@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Gustavo Godoi](/mentores/perfis/gustavo_godoi.md)
+[Gustavo Godoi](/profiles/mentors/profiles/gustavo_godoi.md)
 
 ## Meu Nome
 
