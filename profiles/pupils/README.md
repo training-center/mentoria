@@ -96,6 +96,7 @@
 - [Marcio Alves](profiles/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](profiles/marco_blos.md)
 - [Marcos Borges](profiles/marcosabb.md)
+- [Mariana Ruther](profiles/MarianaRuther.md)
 - [Mateus Medeiros](profiles/MateusMedeiros.md)
 - [Mateus Rodrigues](profiles/mateusrdgs.md)
 - [Matheus Henrique de Souza](profiles/MatheusSouza.md)
