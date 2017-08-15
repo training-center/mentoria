@@ -114,6 +114,7 @@
 - [Paulo Roberto Menezes](profiles/jalawz.md)
 - [Pedro Bernardo](profiles/pedbernardo.md)
 - [Pedro Germano](profiles/PedroGermano.md)
+- [Pedro Leão](profiles/PedroLeao.md)
 - [Pedro Sampaio](profiles/PedroSampaio.md)
 - [PhillipFreitas](profiles/PhillipFreitas.md)
 - [Polyana Andrade](profiles/polyana_andrade.md)
