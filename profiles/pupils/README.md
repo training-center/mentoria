@@ -83,6 +83,7 @@
 - [Lucas Augusto](profiles/LucasAugusto.md)
 - [Lucas Capistrano](profiles/lucascapistrano.md)
 - [Lucas Gabriel](profiles/lucas_gabriel.md)
+- [Lucas Moura](profiles/LucasMoura.md)
 - [Lucas Sales](profiles/LucasSales.md)
 - [Lucas Stoque](profiles/Stoque.md)
 - [Luiz Gabriel](profiles/luizgabriell.md)

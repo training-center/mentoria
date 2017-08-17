@@ -40,3 +40,4 @@ Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e aju
 * [Caroline Alves](/profiles/pupils/profiles/CarolineAlves.md)
 * [Ronaiza Cardoso](/profiles/pupils/profiles/RonaizaCardoso.md)
 * [André Almeida](/profiles/pupils/profiles/AndreAlmeida.md)
+* [Kaique Xavier Atalla](/profiles/pupils/profiles/Kaique_Xavier_Atalla.md)
