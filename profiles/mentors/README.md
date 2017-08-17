@@ -114,9 +114,15 @@
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 
 ## Agile e Startups
+
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
 
+## PHP
+
+* [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
+
 ## Python
+
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 
 ## Segurança
