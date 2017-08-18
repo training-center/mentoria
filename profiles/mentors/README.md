@@ -106,6 +106,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernando Moreira](profiles/fernando_moreira.md)
 * [Leandro Lima](profiles/leandro_lima.md)
+* [Luiz Tanure](profiles/luiz_tanure.md)
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
