@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Ademílson Flores Tonato](../../mentors/profiles/ademilson_tonato.md)
+[Ademílson Flores Tonato](/profiles/mentors/profiles/ademilson_tonato.md)
 
 ## Meu Nome
 
@@ -14,6 +14,6 @@ Estar satisfeita e segura com o produto que entrego (mesmo que nunca completamen
 
 ## Alguns links para me conhecer melhor
 
-[Site](https://mibsbalsante.github.io)
-[GitHub](https://github.com/mibsbalsante)
-[Facebook](https://www.facebook.com/mibsbalsante)
+- [Site](https://mibsbalsante.github.io)
+- [GitHub](https://github.com/mibsbalsante)
+- [Facebook](https://www.facebook.com/mibsbalsante)

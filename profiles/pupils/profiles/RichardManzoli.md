@@ -1,6 +1,6 @@
-# Mentor(a) responsável por mim:
+# Mentor responsável por mim:
 
-[Ademílson Flores Tonato](mentors/profiles/ademilson_tonato.md)
+[Ademílson Flores Tonato](/profiles/mentors/profiles/ademilson_tonato.md)
 
 ## Meu Nome:
 
@@ -12,5 +12,5 @@ Trabalhar na área de Front-end e conseguir ajudar a comunidade com novos projet
 
 ## Alguns links para me conhecer melhor:
 
-[Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
-[Github](https://github.com/richmanzoli)
+- [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
+- [Github](https://github.com/richmanzoli)
