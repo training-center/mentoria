@@ -38,5 +38,6 @@ Ei, estou aqui para auxiliar no seu desenvolvimento, se você quiser minha ajuda
 **Últimos pupilos**
 
 - [Amon Lucas (amonlucas)](/profiles/pupils/profiles/AmonLucas.md)
+- [Melissa Balsante (mibsbalsante)](/profiles/pupils/profiles/mibsbalsante.md)
 - [Richard Manzoli (richardmanzoli)](/profiles/pupils/profiles/RichardManzoli.md)
 - [Werberth Vinícius (Werberth)](/profiles/pupils/profiles/WerberthVinicius.md)
