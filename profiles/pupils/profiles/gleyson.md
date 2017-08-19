@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-https://github.com/lflimeira
+lflimeira
 
 ## Meu Nome
 
