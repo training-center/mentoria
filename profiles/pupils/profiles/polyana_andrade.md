@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Fernando Moreira](/mentores/perfis/fernando_moreira.md)
+[Fernando Moreira](/profiles/mentors/profiles/fernando_moreira.md)
 
 ## Meu Nome
 

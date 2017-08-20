@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Dorian Neto](/mentores/perfis/dorian_neto.md)
+[Dorian Neto](/profiles/mentors/profiles/dorian_neto.md)
 
 ## Meu Nome
 

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Lucas Henrique Pereira Souza](/mentores/perfis/lucas_henrique.md)
+[Lucas Henrique Pereira Souza](/profiles/mentors/profiles/lucas_henrique.md)
 
 ## Meu Nome:
 

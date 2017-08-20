@@ -27,6 +27,6 @@ Endereço bitcoin: 32hDGBp6CnVEuFBSQ9Xn9kfj3Z12XZFzFv ou mande um abraço para e
 
 ## Pupilos de Anderson Juhasc
 
-* [Rafael Dias](/pupils/profiles/rafaeldias.md)
+* [Rafael Dias](/profiles/pupils/profiles/rafaeldias.md)
 * [André Ferreira](/profiles/pupils/profiles/AndreFerreira.md)
 * [Murilo Marchesi](/profiles/pupils/profiles/MuriloMarchesi.md)

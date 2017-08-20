@@ -21,8 +21,8 @@ Mande um abraço no email williamozsouza@gmail.com com o assunto `#mentoria` ou 
 
 ## Pupilos
 
-- [Gabriel Brito](/pupilos/perfis/GabrielBrito.md)
-- [Lucas Stoque](/pupilos/perfis/Stoque.md)
-- [Renan Silva Moura (RenanSMoura)](/pupilos/perfis/RenanMoura.md)
-- [Thiago Gonçalves (twobanks)](/pupilos/perfis/twobanks.md)
-- [Rodrigo Pontes](/pupilos/perfis/RodrigoPontes.md)
+- [Gabriel Brito](/profiles/pupils/profiles/GabrielBrito.md)
+- [Lucas Stoque](/profiles/pupils/profiles/Stoque.md)
+- [Renan Silva Moura (RenanSMoura)](/profiles/pupils/profiles/RenanMoura.md)
+- [Thiago Gonçalves (twobanks)](/profiles/pupils/profiles/twobanks.md)
+- [Rodrigo Pontes](/profiles/pupils/profiles/RodrigoPontes.md)

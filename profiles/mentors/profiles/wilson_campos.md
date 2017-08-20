@@ -24,7 +24,7 @@ Mande um abraço no email wilsoncampoz@outlook.com com o assunto `#mentoria` ou 
 
 ## Pupilos
 
-- [Allan Ramos](/pupilos/perfis/AllanRamos.md)
-- [Mayara Pimentel](/pupilos/perfis/mayarapimentel.md)
+- [Allan Ramos](/profiles/pupils/profiles/AllanRamos.md)
+- [Mayara Pimentel](/profiles/pupils/profiles/mayarapimentel.md)
 
 

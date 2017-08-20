@@ -1,6 +1,6 @@
 # Mentor Responsavel
 
-[Gian Souza](https://github.com/training-center/mentoria/blob/master/mentores/perfis/gian_souza.md)
+[Gian Souza](/profiles/mentors/profiles/gian_souza.md)
 
 ## Meu nome
 

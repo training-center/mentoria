@@ -29,4 +29,4 @@ Mande um abraço para ele(a) no email msfidelis01@gmail.com ou no Twitter.
 
 ## Pupilos de Matheus
 
-- [Igor Oliveira](../../pupils/profiles/IgoOliveira.md) - [Projeto prático da mentoria](https://github.com/devigor/mentoria-devops)
+- [Igor Oliveira](/profiles/pupils/profiles/IgoOliveira.md) - [Projeto prático da mentoria](https://github.com/devigor/mentoria-devops)

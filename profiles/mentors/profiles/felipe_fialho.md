@@ -35,10 +35,10 @@ Mande um salve para hi@felipefialho.com ou nas redes sociais.
 
 ## Pupilos
 
-- [André Mendes](@andre-mendes)
-- [Felipe Medeiros](@eubond)
-- [Guilherme Martins](@freebox) 
-- [Igor Oliveira](@devigor)
-- [Jefferson de Souza](@jeffersondesouza)
-- [Mauricio Mutte](@mauriciomutte)
-- [Tangriane](@tangriane)
+- [André Mendes](https://github.com/andre-mendes)
+- [Felipe Medeiros](https://github.com/eubond)
+- [Guilherme Martins](https://github.com/freebox) 
+- [Igor Oliveira](https://github.com/devigor)
+- [Jefferson de Souza](https://github.com/jeffersondesouza)
+- [Mauricio Mutte](https://github.com/mauriciomutte)
+- [Tangriane](https://github.com/tangriane)

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Paulo Diniz](https://github.com/training-center/mentoria/blob/master/mentores/perfis/paulo_diniz.md)
+[Paulo Diniz](/profiles/mentors/profiles/paulo_diniz.md)
 
 ## Meu Nome
 

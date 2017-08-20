@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Lucas Pinto](/mentores/perfis/lucaspinto.md)
+[Lucas Pinto](/profiles/mentors/profiles/lucaspinto.md)
 
 ## Meu Nome
 

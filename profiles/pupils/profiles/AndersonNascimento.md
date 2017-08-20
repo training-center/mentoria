@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Luiz Paulo](https://github.com/training-center/mentoria/blob/master/mentores/perfis/luiz_paulof.md)
+[Luiz Paulo](/profiles/mentors/profiles/luiz_paulof.md)
 
 ## Meu Nome:
 

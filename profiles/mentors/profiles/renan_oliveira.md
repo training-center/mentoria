@@ -19,4 +19,4 @@ Mande um abraço para ele no [email](mailto:renansdeoliveira@gmail.com) ou deixe
 
 ## Pupilos de Renan Oliveira
 
-* [Jamile Lima](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/JamileLima.md)
+* [Jamile Lima](/profiles/pupils/profiles/JamileLima.md)

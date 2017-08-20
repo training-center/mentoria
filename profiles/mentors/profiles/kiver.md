@@ -20,8 +20,8 @@ Mande um abraço para ele no email.
 
 ## Pupilos do Kiver Teixeira
 
-* [Gabriel Berto](/pupils/profiles/GabrielBerto.md)
-* [Leticia Costa](/pupils/profiles/LeticiaCosta.md)
-* [Eduardo S. Araujo](/pupils/profiles/EduardoSdeAraujo.md)
+* [Gabriel Berto](/profiles/pupils/profiles/GabrielBerto.md)
+* [Leticia Costa](/profiles/pupils/profiles/LeticiaCosta.md)
+* [Eduardo S. Araujo](/profiles/pupils/profiles/EduardoSdeAraujo.md)
 
 

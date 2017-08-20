@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Erik Figueiredo](/mentores/perfis/erik_figueiredo.md)
+[Erik Figueiredo](/profiles/mentors/profiles/erik_figueiredo.md)
 
 ## Meu Nome
 

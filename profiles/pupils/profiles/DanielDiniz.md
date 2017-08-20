@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Vinicius Reis](https://github.com/training-center/mentoria/blob/master/mentores/perfis/vinicius_reis.md)
+[Vinicius Reis](/profiles/mentors/profiles/vinicius_reis.md)
 
 ## Meu Nome:
 

@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Jonathan Lamin](/mentores/perfis/jonathan_lamim.md)
+[Jonathan Lamin](/profiles/mentors/profiles/jonathan_lamim.md)
 
 ## Meu Nome
 
