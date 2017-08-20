@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wilson Campos Gomes](/mentores/perfis/wilson_campos.md)
+[Wilson Campos Gomes](/profiles/mentors/profiles/wilson_campos.md)
 
 ## Meu Nome
 

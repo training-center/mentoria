@@ -1,6 +1,12 @@
 # Mentor
 
-## Danilo Vaz
+## Nome
+
+Danilo Vaz
+
+## Perfil
+
+Mentor para desenvolvedores Front End, interessados em ter uma boa base em HTML (semântica e acessibilidade), JavaScript (principalmente EmberJS) e CSS.
 
 Sou Desenvolvedor há 6 anos e há 2 anos estou focado somente em Front-End. Trabalhei como Front-End na [Focusnetworks](http://www.focusnetworks.com.br), atuando em projetos para Embraer, Sufresh, Prudence, Lindt e outros. Recentemente saí da [mLabs](http://www.mlabs.com.br) startup do segmento de gestão de mídias sociais, onde atuei como Front-End e tive experiência com EmberJS.
 
@@ -13,10 +19,6 @@ Chutei o pau da barraca, tranquei a faculdade de Engenharia, saí de um trampo q
 Em 2016, coloquei como meta me envolver mais com a comunidade. Isso me rendeu bons frutos: novas amizades, novas experiências, assisti palestras, dei palestras, fui à meetups, criei meetups. Agora, gostaria de passar um pouquinho do que eu sei, para alguém que esteja no mesmo lugar que eu estive há pouco tempo atrás: perdido no que estudar e como estudar.
 
 Fora codar, também amo escrever. Tenho alguns textos no meu [Medium](https://medium.com/@danilovaz).
-
-## Perfil
-
-Mentor para desenvolvedores Front End, interessados em ter uma boa base em HTML (semântica e acessibilidade), JavaScript (principalmente EmberJS) e CSS.
 
 ## Links
 
@@ -31,8 +33,8 @@ Mande um salve para danilovaz@hotmail.com.br ou nas redes sociais.
 
 ## Pupilos
 
-* [Hugo Almeida](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/hugo_almeida.md)
-* [Safire Lauene](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/SafireLauene.md)
-* [Yuri Brunetto](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/YuriBrunetto.md)
+* [Hugo Almeida](/profiles/pupils/profiles/hugo_almeida.md)
+* [Safire Lauene](/profiles/pupils/profiles/SafireLauene.md)
+* [Yuri Brunetto](/profiles/pupils/profiles/YuriBrunetto.md)
 
 

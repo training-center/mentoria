@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Guilherme Pontes](/mentores/perfis/guilhermepontes.md)
+[Guilherme Pontes](/profiles/mentors/profiles/guilhermepontes.md)
 
 ## Meu Nome
 

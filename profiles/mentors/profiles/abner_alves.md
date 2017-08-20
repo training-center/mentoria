@@ -21,5 +21,5 @@ Manda aquele abraço nas redes sociais, da o joinha se inscreve aquele like ou p
 
 ## Pupilos do Mentor Abner Soares Alves Junior
 
-* [Mateus Rodrigues](pupilos/perfis/mateusrdgs.md)
+* [Mateus Rodrigues](/profiles/pupils/profiles/mateusrdgs.md)
 * Sofia Bareta - Aguardando Profile

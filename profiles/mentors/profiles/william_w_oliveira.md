@@ -21,4 +21,14 @@ Mande um abraço para ele no email sudowilliam@gmail.com ou nas redes sociais.
 
 ## Pupilos do William
 
-Nenhum no momento
+- [Jonatan Vianna](/profiles/pupils/profiles/jonatan_vianna.md)
+- [Bruno Martins](/profiles/pupils/profiles/Bruno_Martins.md)
+- [Celso Lopes](/profiles/pupils/profiles/CelsoLopes.md)
+- [Richard Manzoli](/profiles/pupils/profiles/RichardManzoli.md)
+- [Eric Madureira](/profiles/pupils/profiles/EricMadureira.md)
+- Késsia Castro
+- Washington Oliveira
+- Rafael Gonçalves
+- Rafael Nogueira
+- Victor Carli
+- Rafael Dias

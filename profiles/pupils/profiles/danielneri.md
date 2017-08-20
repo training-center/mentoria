@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Leandro Lima](/mentores/perfis/leandro_lima.md)
+[Leandro Lima](/profiles/mentors/profiles/leandro_lima.md)
 
 ## Meu Nome
 

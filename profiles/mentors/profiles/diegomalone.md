@@ -1,12 +1,14 @@
 # Mentor
 
-## Diego Malone Seixas Dantas
+## Nome
 
-Sou formado em Ciência da Computação pela PUC Rio e já trabalho com desenvolvimento a 7 anos. Participei de algumas startups desde o começo e trabalhei em empresas de médio e grande porte, como a B2W Digital. Tive experiência com desenvolvimento web com PHP, mas também fazendo um pouco de tudo, típico de startups. Hoje me identifico muito mais no desenvolvimento de aplicativos nativos Android e procuro me manter sempre atualizado na área. Também sou o responsável pela equipe de desenvolvimento na startup que trabalho atualmente, em Santos/SP.
+Diego Malone Seixas Dantas
 
 ## Perfil
 
 Mentor para desenvolvedores Android.
+
+Sou formado em Ciência da Computação pela PUC Rio e já trabalho com desenvolvimento a 7 anos. Participei de algumas startups desde o começo e trabalhei em empresas de médio e grande porte, como a B2W Digital. Tive experiência com desenvolvimento web com PHP, mas também fazendo um pouco de tudo, típico de startups. Hoje me identifico muito mais no desenvolvimento de aplicativos nativos Android e procuro me manter sempre atualizado na área. Também sou o responsável pela equipe de desenvolvimento na startup que trabalho atualmente, em Santos/SP.
 
 ## Links
 
@@ -16,6 +18,10 @@ Mentor para desenvolvedores Android.
 * [Twitter](https://twitter.com/diegomalone)
 * [Facebook](https://www.facebook.com/diegomalone)
 * Email: diegomalone@gmail.com
+
+## Pupilos
+
+- [Matheus Vieira do Nascimento Araujo](/profiles/pupils/MatheusAraujo.md)
 
 ## Gostaria de retribuir a ajuda do Malone?
 

@@ -1,5 +1,5 @@
 # Mentor(a) responsável por mim
-[Alex Junior](https://github.com/idlua/mentoria/blob/master/mentores/perfis/alexjunior012.md)
+[Alex Junior](/profiles/mentors/profiles/alexjunior012.md)
 
 ## Meu Nome
 Romário Coimbra

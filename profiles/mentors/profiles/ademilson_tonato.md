@@ -1,20 +1,22 @@
 # Mentor
 
-## Ademílson Flores Tonato
+## Nome
 
-Sou graduando em Análise e Desenvolvimento de Sistemas.
-
-Atualmente estou trabalhando como Desenvolvedor Web, atuo também como Desenvolvedor de Apps Híbridos e sou atualmente escritor do blog da BrazilJS.
-
-Trabalho com desenvolvimento de sites há ~4,5 anos e procuro sempre manter-me atualizado nas tecnologias que trabalho e nas novas que surgem a cada momento no mercado.
-
-Já fiz (e continuo fazendo) diversos cursos na área de desenvolvimento e conheço algumas linguagens e tecnologias. Gosto muito do desenvolvimento Front-End, porém "prefiro" o desenvolvimento Back-End e minhas linguagens preferidas são PHP e JS.
-
-Eu gosto de construir aplicações web, dividir conhecimento, escrevendo artigos e contribuindo para projetos de código aberto.
+Ademílson Flores Tonato
 
 ## Perfil
 
 Mentor para desenvolvedores Back-end - Foco em desenvolvimento com PHP e JS.
+
+Sou graduando em Análise e Desenvolvimento de Sistemas.
+
+Atualmente estou trabalhando como Desenvolvedor Web, atuo também como Desenvolvedor de Apps Híbridos e sou escritor do blog da BrazilJS.
+
+Trabalho com desenvolvimento web há ~4,5 anos e procuro manter-me sempre atualizado nas tecnologias que trabalho e nas novas que surgem a cada momento no mercado.
+
+Já fiz (e continuo fazendo) diversos cursos na área de desenvolvimento e conheço algumas linguagens e tecnologias. Gosto muito do desenvolvimento Frontend, porém "prefiro" o desenvolvimento Backend e minhas linguagens preferidas são PHP e JS.
+
+Eu gosto de construir aplicações web, dividir conhecimento, escrevendo artigos e contribuir para projetos de código aberto.
 
 ## Links
 
@@ -26,10 +28,16 @@ Mentor para desenvolvedores Back-end - Foco em desenvolvimento com PHP e JS.
 
 ## Gostaria de retribuir a ajuda do Ademílson Flores Tonato?
 
-Manda um "olá" pelas redes sociais ou pelo e-mail `ademilsonft@outlook.com` e depois retribua a mentoria ajudando outros iniciantes :)
+Manda um "Olá" através das redes sociais ou pelo e-mail `ademilsonft@outlook.com` e depois retribua a mentoria ajudando outros iniciantes :)  
+Ei, estou aqui para auxiliar no seu desenvolvimento, se você quiser minha ajuda, não hesite em entrar em contato, ainda que meu perfil diga que não estou disponível para novos pupilos.
 
 ## Pupilos
 
+- [Seu perfil pode estar aqui...](#)
+
+**Últimos pupilos**
+
 - [Amon Lucas (amonlucas)](/profiles/pupils/profiles/AmonLucas.md)
-- [Fernando Costa (nandocosta)](/profiles/pupils/profiles/FernandoCosta.md)
+- [Melissa Balsante (mibsbalsante)](/profiles/pupils/profiles/mibsbalsante.md)
+- [Richard Manzoli (richardmanzoli)](/profiles/pupils/profiles/RichardManzoli.md)
 - [Werberth Vinícius (Werberth)](/profiles/pupils/profiles/WerberthVinicius.md)

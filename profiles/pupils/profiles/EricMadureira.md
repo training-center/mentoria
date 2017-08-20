@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[William Oliveira](/mentores/perfis/william_w_oliveira.md)
+[William Oliveira](/profiles/mentors/profiles/william_w_oliveira.md)
 
 ## Meu Nome
 

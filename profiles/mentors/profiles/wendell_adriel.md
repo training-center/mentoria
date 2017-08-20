@@ -1,6 +1,12 @@
 # Mentor
 
-## Wendell Adriel Luiz Silva
+## Nome
+
+Wendell Adriel Luiz Silva
+
+## Perfil
+
+Mentor para Desenvolvimento Full Stack - Foco em desenvolvimento Web com PHP e JavaScript, mas posso ajudar com outras tecnologias.
 
 Sou formado em Análise e Desenvolvimento de Sistemas, sou um Zend Certified PHP Engineer e
 Scrum Fundamentals Certified.  
@@ -16,10 +22,6 @@ desde 2009 e sempre procuro me manter atualizado nas melhores tecnologias e meto
 softwares. Desde 2010 estou focado no desenvolvimento Web e desde 2015 também estou focado no desenvolvimento Mobile.
 
 Gosto de trabalhar com desenvolvimento Front-end e Back-end. Trabalho com diversas tecnologias e você pode conferir a lista completa de minhas skills em meu site pessoal
-
-## Perfil
-
-Mentor para Desenvolvimento Full Stack - Foco em desenvolvimento Web com PHP e JavaScript, mas posso ajudar com outras tecnologias.
 
 ## Links
 
@@ -42,9 +44,9 @@ Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com
 
 ## Pupilos
 
-- [Giovanni Cruz (giovannicruz97)](/pupilos/perfis/giovannicruz97.md)
-- [Danilo Agostinho (DaniloAgostinho)](/pupilos/perfis/DaniloAgostinho.md)
-- [Lucas Gabriel (lukao98)](/pupilos/perfis/lucas_gabriel.md)
-- [Guilherme Costa (guilhermeocosta)](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
-- [Nikolas Brandão (nikolasbrandao)](/pupilos/perfis/NikolasBrandao.md)
-- [Igor Alves (igoralvess)](/pupilos/perfis/IgorAlves.md)
+- [Giovanni Cruz (giovannicruz97)](/profiles/pupils/profiles/giovannicruz97.md)
+- [Danilo Agostinho (DaniloAgostinho)](/profiles/pupils/profiles/DaniloAgostinho.md)
+- [Lucas Gabriel (lukao98)](/profiles/pupils/profiles/lucas_gabriel.md)
+- [Guilherme Costa (guilhermeocosta)](/profiles/pupils/profiles/GuilhermeDeOliveiraCosta.md)
+- [Nikolas Brandão (nikolasbrandao)](/profiles/pupils/profiles/NikolasBrandao.md)
+- [Igor Alves (igoralvess)](/profiles/pupils/profiles/IgorAlves.md)

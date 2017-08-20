@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Wagner Santos](/mentores/perfis/wagner_santos.md)
+[Wagner Santos](/profiles/mentors/profiles/wagner_santos.md)
 
 ## Meu Nome
 

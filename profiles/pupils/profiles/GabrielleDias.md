@@ -1,6 +1,6 @@
-# Mentor(a) respons·vel por mim
+# Mentor(a) respons√°vel por mim
 
-[Wesley Queiroz](/mentores/perfis/wesley_queiroz.md)
+[Wesley Queiroz](/profiles/mentors/profiles/wesley_queiroz.md)
 
 ## Meu Nome
 

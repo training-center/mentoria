@@ -20,5 +20,7 @@ Manda um "oi" pra ela nas redes sociais, e depois retribua a mentoria ajudando o
 
 ## Pupilos(as) da Aline Bastos
 
+* [Ingrid Martins](/profiles/pupils/profiles/ingridmartins.md)
 * [Leonardo de Souza Faria](/profiles/pupils/profiles/leonardofaria.md)
+* [Mariana Ruther](/profiles/pupils/profiles/MarianaRuther.md)
 * [Mateus Medeiros](/profiles/pupils/profiles/MateusMedeiros.md)

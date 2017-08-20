@@ -5,19 +5,19 @@ Template para cadastramento de perfis dos Pupilos(as).
 ```
 # Mentor(a) responsável por mim
 
-[Mentor da Silva Souza](/mentores/perfis/mentor_da_silva_souza.md)
+[Nome de seu mentor ou mentora](/profiles/mentors/profiles/perfil_do_seu_mentor_ou_mentora.md)
 
 ## Meu Nome
 
-Pupilo de Castro
+Seu nome
 
 ## Qual meu sonho na carreira?
 
-Quero conseguir um emprego como Astronauta!
+Adicione qual seu sonho de carreira aqui.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Pupilo de Castro](link)
-[Twitter do Pupilo de Castro](link)
-[LinkedIn do Pupilo de Castro](link)
+[Facebook](link)
+[Twitter](link)
+[LinkedIn](link)
 ```

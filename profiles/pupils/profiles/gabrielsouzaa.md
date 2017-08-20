@@ -1,5 +1,5 @@
 # Mentor (a) responsável por mim
-[Diego Malone] (/mentores/perfis/diegomalone.md)
+[Diego Malone] (/profiles/mentors/profiles/diegomalone.md)
 
 # Meu nome
 Gabriel Souza
