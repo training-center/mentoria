@@ -80,6 +80,7 @@
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Leonardo de Souza Faria](profiles/leonardofaria.md)
 - [Letícia Costa](profiles/LeticiaCosta.md)
+- [Lisandra Rocha](profiles/lisandra_rocha.md)
 - [Luan Vicente](profiles/luan_vicente.md)
 - [Lucas Augusto](profiles/LucasAugusto.md)
 - [Lucas Capistrano](profiles/lucascapistrano.md)
