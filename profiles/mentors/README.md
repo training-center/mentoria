@@ -46,6 +46,7 @@
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
+* [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
 * [Guilherme Pontes](profiles/guilhermepontes.md)
 * [Jhonatan Pereira](profiles/jhonatan.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
@@ -116,10 +117,6 @@
 ## Agile e Startups
 
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
-
-## PHP
-
-* [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
 
 ## Python
 
