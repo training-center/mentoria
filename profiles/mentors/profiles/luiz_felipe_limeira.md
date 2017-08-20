@@ -34,10 +34,12 @@ Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e aju
 
 ## Pupilos
 
-* [Thiago Morastico Cruz](/profiles/pupils/profiles/ThiagoMorasticoCruz.md)
-* [Enrico Augusto Viceconti](/profiles/pupils/profiles/Eviceconti.md)
-* [Rafael Santana](/profiles/pupils/profiles/RafaelSantana.md)
-* [Caroline Alves](/profiles/pupils/profiles/CarolineAlves.md)
-* [Ronaiza Cardoso](/profiles/pupils/profiles/RonaizaCardoso.md)
-* [André Almeida](/profiles/pupils/profiles/AndreAlmeida.md)
-* [Kaique Xavier Atalla](/profiles/pupils/profiles/Kaique_Xavier_Atalla.md)
+* [Thiago Morastico Cruz](../../pupils/profiles/ThiagoMorasticoCruz.md)
+* [Enrico Augusto Viceconti](../../pupils/profiles/Eviceconti.md)
+* [Rafael Santana](../../pupils/profiles/RafaelSantana.md)
+* [Caroline Alves](../../pupils/profiles/CarolineAlves.md)
+* [Ronaiza Cardoso](../../pupils/profiles/RonaizaCardoso.md)
+* [André Almeida](../../pupils/profiles/AndreAlmeida.md)
+* [Kaique Xavier Atalla](../../pupils/profiles/Kaique_Xavier_Atalla.md)
+* [Lucas Lopes de Moura](../../pupils/profiles/LucasMoura.md)
+
