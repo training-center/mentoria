@@ -1,5 +1,5 @@
 # Mentor (a) responsável por mim
-[Wendell Adriel](/mentores/perfis/wendell_adriel.md)
+[Wendell Adriel](/profiles/mentors/profiles/wendell_adriel.md)
 
 ## Meu nome
 Giovanni Cruz

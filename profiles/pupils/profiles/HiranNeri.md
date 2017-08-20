@@ -1,6 +1,6 @@
 #Mentor responsável por mim:
 
-[Vinicius Tinguan](/mentores/perfis/vinicius_tinguan.md)
+[Vinicius Tinguan](/profiles/mentors/profiles/vinicius_tinguan.md)
 
 #Meu Nome:
 

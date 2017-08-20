@@ -1,5 +1,5 @@
 # Mentor (a) responsável por mim
-[William Bruno](/mentores/perfis/william_bruno.md)
+[William Bruno](/profiles/mentors/profiles/william_bruno.md)
 
 ## Meu nome
 Gabriel Ferreira

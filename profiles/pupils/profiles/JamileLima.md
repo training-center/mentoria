@@ -1,6 +1,6 @@
 ## Mentor responsável por mim
 
-[William Oliveira](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/william_oliveira.md)
+[William Oliveira](/profiles/mentors/profiles/william_oliveira.md)
 
 ## Meu Nome
 

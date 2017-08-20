@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+[Matheus Marsiglio](/profiles/mentors/profiles/matheus_marsiglio.md)
 
 ## Meu Nome
 

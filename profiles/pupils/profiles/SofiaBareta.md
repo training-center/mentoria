@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Abner Soares Alves Junior](https://github.com/sofiabareta/mentoria/blob/master/mentores/perfis/abner_alves.md)
+[Abner Soares Alves Junior](/profiles/mentors/profiles/abner_alves.md)
 
 ## Meu Nome:
 

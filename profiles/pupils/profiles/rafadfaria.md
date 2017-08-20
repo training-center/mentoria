@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wesley Queiroz](https://github.com/training-center/mentoria/blob/master/mentores/perfis/wesley_queiroz.md)
+[Wesley Queiroz](/profiles/mentors/profiles/wesley_queiroz.md)
 
 ## Meu Nome
 

@@ -26,7 +26,7 @@ Seu perfil profissional e alguma informação sobre você
 
 ## Pupilos de [Seu nome]
 
-* [Pupilo 1](pupilos/profiles/pupilo1.md)
-* [Pupilo 2](pupilos/profiles/pupilo2.md)
-* [Pupilo 3](pupilos/profiles/pupilo3.md)
+* [Pupilo 1](/profiles/pupils/profiles/pupilo1.md)
+* [Pupilo 2](/profiles/pupils/profiles/pupilo2.md)
+* [Pupilo 3](/profiles/pupils/profiles/pupilo3.md)
 ```

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Kiver Teixeira](/mentores/perfis/kiver.md)
+[Kiver Teixeira](/profiles/mentors/profiles/kiver.md)
 
 # Meu Nome
 

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Abner Soares](/mentores/perfis/abner_alves.md)
+[Abner Soares](/profiles/mentors/profiles/abner_alves.md)
 
 ## Meu Nome
 

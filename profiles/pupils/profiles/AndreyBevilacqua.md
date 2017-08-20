@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Ingo Hoffmann](/mentores/perfis/ingo_hoffmann.md)
+[Ingo Hoffmann](/profiles/mentors/profiles/ingo_hoffmann.md)
 
 ## Meu Nome
 

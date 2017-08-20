@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Thiago Paes](https://github.com/training-center/mentoria/blob/master/mentores/perfis/thiago_paes.md)
+[Thiago Paes](/profiles/mentors/profiles/thiago_paes.md)
 
 ## Meu Nome
 

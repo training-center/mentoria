@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Felipe Fialho](/mentores/perfis/felipe_fialho.md)
+[Felipe Fialho](/profiles/mentors/profiles/felipe_fialho.md)
 
 ## Meu Nome
 

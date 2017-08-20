@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Leonardo Saraiva](https://github.com/training-center/mentoria/blob/master/mentores/perfis/leonardo_saraiva.md)
+[Leonardo Saraiva](/profiles/mentors/profiles/leonardo_saraiva.md)
 
 ## Meu Nome
 

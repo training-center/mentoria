@@ -27,14 +27,14 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 
 ## Meus pupilos
 
-- [Gabrielle Dias](/pupilos/perfis/GabrielleDias.md)
-- [Genor Chiomento](/pupilos/perfis/GenorChiomento.md)
-- [Lucas Sales](/pupilos/perfis/LucasSales.md)
-- [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
-- [Marco Blos](/pupilos/perfis/marco_blos.md)
-- [Rafael Alves Duarte](/pupilos/perfis/rafadfaria.md)
-- [Raul Felipe](/pupilos/perfis/RaulFelipeDeMelo.md)
-- [Vitor Ferraz](/pupilos/perfis/VitorFerraz.md)
+- [Gabrielle Dias](/profiles/pupils/profiles/GabrielleDias.md)
+- [Genor Chiomento](/profiles/pupils/profiles/GenorChiomento.md)
+- [Lucas Sales](/profiles/pupils/profiles/LucasSales.md)
+- [Marcio Alves](/profiles/pupils/profiles/MarcioAlves.md)
+- [Marco Blos](/profiles/pupils/profiles/marco_blos.md)
+- [Rafael Alves Duarte](/profiles/pupils/profiles/rafadfaria.md)
+- [Raul Felipe](/profiles/pupils/profiles/RaulFelipeDeMelo.md)
+- [Vitor Ferraz](/profiles/pupils/profiles/VitorFerraz.md)
 
 ## Gostaria de retribuir minha ajuda?
 

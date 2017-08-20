@@ -1,6 +1,6 @@
-# Mentor(a) responsável por mim:
+# Mentor responsável por mim:
 
-[Ademílson Flores Tonato](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/ademilson_tonato.md)
+[Ademílson Flores Tonato](/profiles/mentors/profiles/ademilson_tonato.md)
 
 ## Meu Nome:
 
@@ -12,4 +12,4 @@ Ser um desenvolvedor backend e trabalhar como freelancer, criando meus próprios
 
 ## Alguns links para me conhecer melhor:
 
-[Facebook](https://www.facebook.com/amon.lucas.7)
+- [Facebook](https://www.facebook.com/amon.lucas.7)

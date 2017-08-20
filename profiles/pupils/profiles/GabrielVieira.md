@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Giovanni Cruz](https://github.com/training-center/mentoria/blob/master/mentores/perfis/giovannicruz97.md)
+[Giovanni Cruz](/profiles/mentors/profiles/giovannicruz97.md)
 
 ## Meu Nome
 

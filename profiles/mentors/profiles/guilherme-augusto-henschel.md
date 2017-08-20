@@ -16,8 +16,8 @@ Também posso dar algumas dicas sobre Fotografia e Música :)
 * [Instagram](https://instagr.am/seunoura)
 * [LinkedIn](https://linkedin.com/in/guilhermeah/)
 
-## Gostaria de retribuir a ajuda do(a) [Seu nome]?
+## Gostaria de retribuir a ajuda do Guilherme Augusto Henschel?
 
-Deixe uma recomendação (escrita ou vote nas minhas habilidades) no LinkedIn
+Deixe uma recomendação (escrita ou votando nas minhas skills) no meu LinkedIn
 
 ## Pupilos de Guilherme Augusto
