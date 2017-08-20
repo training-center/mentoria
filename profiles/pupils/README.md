@@ -151,6 +151,7 @@
 - [Victor Maciel](profiles/VictorMaciel.md)
 - [Victor Pragana](profiles/VictorPragana.md)
 - [Vitor Ferraz](profiles/VitorFerraz.md)
+- [Waldrey Souza Silva](profiles/WaldreySouzaSilva.md)
 - [Washington Oliveira](profiles/WashingtonOliveira.md)
 - [Werberth Vinícius](profiles/WerberthVinicius.md)
 - [William Meneses](profiles/WilliamMeneses.md)
