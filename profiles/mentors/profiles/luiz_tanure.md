@@ -35,6 +35,4 @@ Posso ajudar em diversos níveis e assunstos, principalmente:
 * [LinkedIn](https://www.linkedin.com/in/letanure/)
 
 
-## Pupilos de [Seu nome]
-
-* [Seu nome aqui!](pupilos/profiles/null.md)
+## Pupilos de Luiz Tanure
