@@ -58,6 +58,7 @@
 * [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Marcus Beckenlamp](profiles/marcus_beckenkamp.md)
+* [Reinaldo Oliveira](profiles/reinaldo_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vinicius Alonso](profiles/vinicius_alonso.md)
 * [Vinicius Reis](profiles/vinicius_reis.md)
