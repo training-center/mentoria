@@ -21,9 +21,7 @@ Entre em contato pelo meu email: giovanni.cruz97@hotmail.com
 
 * [Victor Maciel](/profiles/pupils/profiles/VictorMaciel.md)
 * [Luiz Glatz](/profiles/pupils/profiles/LuizGlatz.md)
-* [Osmar Villalba](/profiles/pupils/profiles/OsmarVillalba.md)
 * [Vicente Martins](/profiles/pupils/profiles/vicentimartins.md)
-* [Victor Pragana](/profiles/pupils/profiles/VictorPragana.md)
 * [Anderson Altíssimo](/profiles/pupils/profiles/AndersonAltissimo.md)
 * [Matheus Henrique de Souza](/profiles/pupils/profiles/MatheusSouza.md)
 * [Jeyziel Gama](/profiles/pupils/profiles/jeyzielgama.md)
