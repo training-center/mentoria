@@ -15,5 +15,5 @@ dessas areas.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/lisandra.rocha1)
-[LinkedIn](https://www.linkedin.com/in/lisandra-rocha-de-medeiros-14a6384b/)
+- [Facebook](https://www.facebook.com/lisandra.rocha1)
+- [LinkedIn](https://www.linkedin.com/in/lisandra-rocha-de-medeiros-14a6384b/)
