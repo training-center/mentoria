@@ -5,6 +5,7 @@
 - [Alex Avila](profiles/AlexAvila.md)
 - [Alex Santana Barazal](profiles/AlexBarazal.md)
 - [Allan Ramos](profiles/AllanRamos.md)
+- [Allan Santos](profiles/AllanSantos.md)
 - [Allyson Thales](profiles/allysonthales.md)
 - [Amon Lucas](profiles/AmonLucas.md)
 - [Anderson Altissimo](profiles/AndersonAltissimo.md)
