@@ -40,5 +40,7 @@ Mande um salve para hi@felipefialho.com ou nas redes sociais.
 - [Guilherme Martins](https://github.com/freebox) 
 - [Igor Oliveira](https://github.com/devigor)
 - [Jefferson de Souza](https://github.com/jeffersondesouza)
+- [Lucas Silva](https://github.com/lucasjs)
+- [Marcelo Gomes](https://github.com/marcgomes)
 - [Mauricio Mutte](https://github.com/mauriciomutte)
 - [Tangriane](https://github.com/tangriane)
