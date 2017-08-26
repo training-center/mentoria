@@ -17,7 +17,7 @@ Adicione qual seu sonho de carreira aqui.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](link)
-[Twitter](link)
-[LinkedIn](link)
+- [Facebook](link)
+- [Twitter](link)
+- [LinkedIn](link)
 ```
