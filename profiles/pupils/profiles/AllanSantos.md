@@ -12,5 +12,5 @@ Apaixonado por tecnologia, tenho por objetivo desenvolver soluções que melhore
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/allsotk)
-[LinkedIn](https://www.linkedin.com/in/allandesouza)
+- [Facebook](https://www.facebook.com/allsotk)
+- [LinkedIn](https://www.linkedin.com/in/allandesouza)
