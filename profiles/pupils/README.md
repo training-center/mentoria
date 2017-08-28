@@ -25,6 +25,7 @@
 - [Caio Flávio](profiles/caio.md)
 - [Carlos Proença](profiles/carlos-proenca.md)
 - [Celso Lopes](profiles/CelsoLopes.md)
+- [Daniel de Jesus Oliveira](profiles/DanielDeJesusOliveira.md)
 - [Daniel Diniz](profiles/DanielDiniz.md)
 - [Daniel Neri](profiles/danielneri.md)
 - [Daniel Simão da Silva](profiles/danielsimaodasilva.md)
