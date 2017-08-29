@@ -21,6 +21,7 @@
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
+* [Henrique Maich](profiles/henrique_maich.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
