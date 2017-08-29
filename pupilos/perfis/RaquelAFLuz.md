@@ -12,6 +12,6 @@ Quero estudar e me aperfeiçoar em desenvolvimento web (no momento focado em fro
 
 ## Alguns links para me conhecer melhor:
 
-[Twitter](http://www.twitter.com/kellfluz)
-[Facebook](http://www.facebook.com/kell.fluz)
-[LinkedIn](https://br.linkedin.com/in/raquel-andrello-formagin-da-luz-93136126)
+- [Twitter](http://www.twitter.com/kellfluz)
+- [Facebook](http://www.facebook.com/kell.fluz)
+- [LinkedIn](https://br.linkedin.com/in/raquel-andrello-formagin-da-luz-93136126)
