@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Diego Malone ](/mentores/perfis/diegomalone.md)
+[Diego Malone](/mentores/perfis/diegomalone.md)
 
 ## Meu Nome
 
@@ -12,6 +12,9 @@ Busco retornar as minhas origens no mundo Mobile, aprimorar minhas habilidades c
 
 ## Alguns links para me conhecer melhor
 
-https://www.facebook.com/eltonc.dev
-https://twitter.com/eltoncdev
-https://www.linkedin.com/in/eltonc-dev/
+- [Facebook](https://www.facebook.com/eltonc.dev)
+- [Twitter](https://twitter.com/eltoncdev)
+- [Linkedin](https://www.linkedin.com/in/eltonc-dev/)
+
+
+
