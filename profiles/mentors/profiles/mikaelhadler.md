@@ -15,7 +15,6 @@ Desenvolvedores Front End e opensource life style.
 
 ## Links
 
-* [Site](http://mikaelhadler.com.br)
 * [Facebook](https://www.facebook.com/profile.php?id=100011593187579)
 * [Twitter](https://twitter.com/mikaelhadler)
 * [LinkedIn](https://www.linkedin.com/in/mikaelhadler)

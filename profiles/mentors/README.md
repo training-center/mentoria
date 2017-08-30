@@ -95,6 +95,7 @@
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Mikael Hadler](profiles/mikaelhadler.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
