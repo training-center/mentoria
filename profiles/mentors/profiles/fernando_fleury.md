@@ -21,4 +21,4 @@ Nada, só ajudar os outros quando puder.
 
 ## Pupilos(as) de Fernando Moreira
 
-[Erik Matos](profiles/ErikG_matos.md) 
+[Erik Matos](profiles/pupils/profiles/ErikG_matos.md) 
