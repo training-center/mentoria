@@ -37,7 +37,7 @@
 - [Enieber Cunha da Silva](profiles/EnieberCunha.md)
 - [Enrico Viceconti](profiles/Eviceconti.md)
 - [Eric Madureira](profiles/EricMadureira.md)
-- [Erik Matos](profiles/ErikG_matos.md) 
+- [Erik Matos](profiles/ErikG_matos.md)
 - [Estevam de Moraes Rodrigues](profiles/estevammr.md)
 - [Feçoé Medeiros](profiles/eubond.md)
 - [Felipe Acelino](profiles/FelipeAcelino.md)

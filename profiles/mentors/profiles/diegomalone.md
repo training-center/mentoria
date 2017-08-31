@@ -21,7 +21,8 @@ Sou formado em Ciência da Computação pela PUC Rio e já trabalho com desenvol
 
 ## Pupilos
 
-- [Matheus Vieira do Nascimento Araujo](/profiles/pupils/MatheusAraujo.md)
+- [Matheus Vieira do Nascimento Araujo](../../pupils/profiles/MatheusAraujo.md)
+- [Elton Coelho](../../pupils/profiles/elton_coelho.md)
 
 ## Gostaria de retribuir a ajuda do Malone?
 
