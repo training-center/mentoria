@@ -90,6 +90,7 @@
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
+* [Fernando Fleury](profiles/fernando_fleury.md)
 * [Gian Souza](profiles/gian_souza.md)
 * [Gustavo Cardoso](profiles/gustavo_cardoso.md)
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
