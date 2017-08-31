@@ -18,3 +18,7 @@ Trabalho como desenvolvedor front-end há uns 6 anos e adoro de verdade o que fa
 ## Gostaria de retribuir a ajuda do Fernando?
 
 Nada, só ajudar os outros quando puder.
+
+## Pupilos(as) de Fernando Moreira
+
+[Erik Matos](/profiles/pupils/profiles/ErikG_matos.md) 
