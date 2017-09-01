@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Diego Malone Seixas Dantas](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/diegomalone.md)
+[Diego Malone](/profiles/mentors/profiles/diegomalone.md)
 
 ## Meu Nome
 
