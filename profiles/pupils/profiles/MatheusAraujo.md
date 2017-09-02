@@ -1,7 +1,5 @@
 # Mentor(a) responsável por mim
 
-[Diego Malone](/profiles/mentors/profiles/diegomalone.md)
-
 ## Meu Nome
 
 Matheus Vieira do Nascimento Araujo
