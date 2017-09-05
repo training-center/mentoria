@@ -23,6 +23,7 @@
 * [Giovanni Cruz](profiles/giovannicruz97.md)
 * [Henrique Maich](profiles/henrique_maich.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+* [Iury Alves de Souza](profiles/iuryalves.md)
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
