@@ -77,6 +77,7 @@
 - [Kaique Xavier Atalla](profiles/Kaique_Xavier_Atalla.md)
 - [Larissa Mourullo](profiles/LarissaMourullo.md)
 - [Laryssa Rocha](profiles/laryro.md)
+- [Leandro Fialho](profiles/leandro_fialho.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
 - [Leonardo Maturano](profiles/LeonardoMaturano.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
