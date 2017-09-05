@@ -8,11 +8,13 @@
 
 ## Arquitetura
 
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Rafael Koga](profiles/rafael_koga.md)
 
 ## Back End
 
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
@@ -75,6 +77,7 @@
 
 ## DevOps
 
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
@@ -121,6 +124,7 @@
 
 ## Java
 
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 
 ## Agile e Startups
