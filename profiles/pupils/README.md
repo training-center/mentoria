@@ -106,6 +106,7 @@
 - [Mateus Medeiros](profiles/MateusMedeiros.md)
 - [Mateus Rodrigues](profiles/mateusrdgs.md)
 - [Matheus Henrique de Souza](profiles/MatheusSouza.md)
+- [Matheus Mazeto](profiles/matheus_mazeto.md)
 - [Matheus Vieira do Nascimento Araujo](profiles/MatheusAraujo.md)
 - [Maxwel Ferreira](profiles/MaxwelFerreira.md)
 - [Mayara Pimentel](profiles/mayarapimentel.md)
