@@ -8,7 +8,7 @@ Gleyson Santos
 
 ## Qual meu sonho na carreira?
 
-Tenho um sonho de ser um otimo programador e ter minha agênica.
+Tenho um sonho de ser um otimo programador e ter minha agência.
 
 ## Alguns links para me conhecer melhor
 
