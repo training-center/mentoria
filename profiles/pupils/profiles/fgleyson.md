@@ -1,7 +1,6 @@
 # Mentor(a) responsável por mim
 
-Luiz Felipe de Oliva Limeira 
-https://github.com/lflimeira
+[Luiz Felipe de Oliva Limeira](https://github.com/lflimeira)
 
 ## Meu Nome
 
@@ -13,4 +12,4 @@ Tenho um sonho de ser um otimo programador e ter minha agênica.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook] https://www.facebook.com/fgleyson
+* [Facebook](https://www.facebook.com/fgleyson)
