@@ -36,3 +36,6 @@ Posso ajudar em diversos níveis e assunstos, principalmente:
 
 
 ## Pupilos de Luiz Tanure
+
+- Lucas Barbosa
+- Magno Lemos
