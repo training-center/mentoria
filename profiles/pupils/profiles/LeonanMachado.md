@@ -12,7 +12,7 @@ Poder ajudar muito a comunidade com novos projetos e dar continuidade de projeto
 
 ## Alguns links para me conhecer melhor:
 
-Email: leonantvrs@gmail.com
-[Linkedin](https://www.linkedin.com/in/leonanmachado/)
-[Github](https://github.com/leonantvrs)
-[Twitter](https://twitter.com/leonantvrs)
+- Email: leonantvrs@gmail.com
+- [Linkedin](https://www.linkedin.com/in/leonanmachado/)
+- [Github](https://github.com/leonantvrs)
+- [Twitter](https://twitter.com/leonantvrs)
