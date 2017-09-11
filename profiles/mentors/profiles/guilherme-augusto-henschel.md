@@ -12,12 +12,14 @@ Também posso dar algumas dicas sobre Fotografia e Música :)
 
 ## Links
 
+* [LinkedIn](https://linkedin.com/in/guilhermeah/)
 * [Facebook](https://fb.com/guilhermeah)
 * [Instagram](https://instagr.am/seunoura)
-* [LinkedIn](https://linkedin.com/in/guilhermeah/)
 
 ## Gostaria de retribuir a ajuda do Guilherme Augusto Henschel?
 
 Deixe uma recomendação (escrita ou votando nas minhas skills) no meu LinkedIn
 
 ## Pupilos de Guilherme Augusto
+
+- [Thiago Phillip](/profiles/pupils/profiles/ThiagoPhillip.md)
