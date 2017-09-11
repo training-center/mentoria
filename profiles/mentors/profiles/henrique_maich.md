@@ -11,11 +11,36 @@ Sou desenvolvedor a 6 anos, passando por diversas linguagens, principalmente em 
 Também gosto bastante da modelagem relacional para bancos SQL e tenho um breve conhecimento em bancos NO-SQL (pricipalmente MongoDB), destinado ou não a aplicações .NET.
 Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud, buscando um processo de integração continua para um desenvolvimento ágil.
 
+### Skills
+
+* C#
+* ASP.NET MVC
+* ASP.NET WebAPI
+* .NET CORE
+* ASP.NET CORE
+* Entity Framework
+* Entity Framework Core
+* SQL SERVER (T-SQL)
+* MySQL
+* MongoDB
+* ElasticSearch
+* HTML5
+* CSS3
+* JavaScript (ES5, ES6+)
+	* Angular
+	* React.js
+* Docker
+* AWS
+* Azure
+* Jenkins
+* VSTS
+
 ## Links
 
-* [Seu Facebook](https://www.facebook.com/henrique.maich)
-* [Seu Twitter](https://twitter.com/hdamaich)
-* [Seu LinkedIn](https://www.linkedin.com/in/henriquemaich/)
+* E-mail(hdamaich@gmail.com)
+* [Facebook](https://www.facebook.com/henrique.maich)
+* [Twitter](https://twitter.com/hdamaich)
+* [LinkedIn](https://www.linkedin.com/in/henriquemaich/)
 
 ## Gostaria de retribuir a ajuda do Henrique?
 
