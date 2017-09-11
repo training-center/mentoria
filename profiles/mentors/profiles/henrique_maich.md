@@ -13,27 +13,27 @@ Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud,
 
 ### Skills
 
-*C#
-*ASP.NET MVC
-*ASP.NET WebAPI
-*.NET CORE
-*ASP.NET CORE
-*Entity Framework
-*Entity Framework Core
-*SQL SERVER (T-SQL)
-*MySQL
-*MongoDB
-*ElasticSearch
-*HTML5
-*CSS3
-*JavaScript (ES5, ES6+)
+* C#
+* ASP.NET MVC
+* ASP.NET WebAPI
+* .NET CORE
+* ASP.NET CORE
+* Entity Framework
+* Entity Framework Core
+* SQL SERVER (T-SQL)
+* MySQL
+* MongoDB
+* ElasticSearch
+* HTML5
+* CSS3
+* JavaScript (ES5, ES6+)
 	* Angular
 	* React.js
-*Docker
-*AWS
-*Azure
-*Jenkins
-*VSTS
+* Docker
+* AWS
+* Azure
+* Jenkins
+* VSTS
 
 ## Links
 
