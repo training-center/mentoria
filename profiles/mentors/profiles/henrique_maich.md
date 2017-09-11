@@ -37,7 +37,7 @@ Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud,
 
 ## Links
 
-* [E-mail](hdamaich@gmail.com)
+* E-mail(hdamaich@gmail.com)
 * [Facebook](https://www.facebook.com/henrique.maich)
 * [Twitter](https://twitter.com/hdamaich)
 * [LinkedIn](https://www.linkedin.com/in/henriquemaich/)
