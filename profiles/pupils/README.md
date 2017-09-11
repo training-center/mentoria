@@ -53,6 +53,7 @@
 - [Gabriel Vieira](profiles/GabrielVieira.md)
 - [Gabrielle Dias](profiles/GabrielleDias.md)
 - [Genor Chiomento](profiles/GenorChiomento.md)
+- [Graciane Xavier](profiles/cianetech.md)
 - [Guilherme de Oliveira Costa](profiles/GuilhermeDeOliveiraCosta.md)
 - [Gustavo Aguiar](profiles/GustavoAguiar.md)
 - [Gustavo César Domingos Siqueira](profiles/G18Siqueira.md)
