@@ -13,6 +13,7 @@ Front-end, Back-end. Atualmente estou me formando em Ciência da Computação e 
 
 ## Alguns links para me conhecer melhor
 
-* [Facebook](fb.com/waldrey)
-* [Twitter](https://twitter.com/waldreys)
-* [LinkedIn](https://www.linkedin.com/in/waldrey/)
+- [Facebook](fb.com/waldrey)
+- [Twitter](https://twitter.com/waldreys)
+- [LinkedIn](https://www.linkedin.com/in/waldrey/)
+- [waldreysouzasilva@outlook.com](waldreysouzasilva@outlook.com)
