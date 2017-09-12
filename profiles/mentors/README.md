@@ -131,7 +131,7 @@
 
 ## Agile e Startups
 
-* [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Evaldo Barbosa](profiles/evaldo-barbosa.md)
 * [Rafael Koga](profiles/rafael_koga.md)
 
 ## Python
