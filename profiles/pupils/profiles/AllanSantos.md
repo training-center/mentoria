@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Cássio Batista Pereira](profiles/cassio_pereira.md)
+[Cássio Batista Pereira](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/cassio_pereira.md)
 
 ## Meu Nome
 
@@ -14,3 +14,4 @@ Apaixonado por tecnologia, tenho por objetivo desenvolver soluções que melhore
 
 - [Facebook](https://www.facebook.com/allsotk)
 - [LinkedIn](https://www.linkedin.com/in/allandesouza)
+- E-Mail - allansouzatk@gmail.com
