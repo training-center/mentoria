@@ -12,7 +12,7 @@ Em busca de um trabalho onde possa contribuir tanto no projeto quanto no ambient
 
 ## Alguns links para me conhecer melhor
 
-[Facebook] (https://www.facebook.com/people/Anderson-Altissimo/100004568926089)
-[Twitter](https://twitter.com/ander_altissimo)
-[LinkedIn](https://www.linkedin.com/in/andersonaltissimo/)
-[Email](ander.altissimo@gmail.com)
+- [Facebook](https://www.facebook.com/people/Anderson-Altissimo/100004568926089)
+- [Twitter](https://twitter.com/ander_altissimo)
+- [LinkedIn](https://www.linkedin.com/in/andersonaltissimo/)
+- [Email](ander.altissimo@gmail.com)
