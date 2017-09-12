@@ -17,5 +17,5 @@ Mentor para Desenvolvedores Front End e opensource life style.
 
 ## Gostaria de retribuir a ajuda do(a) [Mikael Hadler]?
 
-Abra uma issue em [seus repositório](https://github.com/mikaelhadler), mande um abraço para ele(a) no email mikaelhadler@gmail.com ou nas redes sociais.
+Abra uma issue em [seus repositório](https://github.com/mikaelhadler?tab=repositories), mande um abraço para ele(a) no email mikaelhadler@gmail.com ou nas redes sociais.
 
