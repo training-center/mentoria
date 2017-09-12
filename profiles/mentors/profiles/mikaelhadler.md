@@ -1,8 +1,3 @@
-# Template de perfil de Mentor(a)
-
-Template para cadastramento de profiles dos Mentores(as).
-
-```
 # Mentor(a)
 
 ## Nome
@@ -22,4 +17,3 @@ Desenvolvedores Front End e opensource life style.
 ## Gostaria de retribuir a ajuda do(a) [Mikael Hadler]?
 
 Abra uma issue em algum repositório dele, mande um abraço para ele(a) no email mikaelhadler@gmail.com ou nas redes sociais.
-```
