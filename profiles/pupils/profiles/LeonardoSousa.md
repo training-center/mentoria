@@ -12,4 +12,4 @@ Conseguir um emprego como Backend e me aperfeiçoar cada vez mais na área.
 
 ## Alguns links para me conhecer melhor
 
-[GitHub](https://github.com/leonardolsousa)
+- [GitHub](https://github.com/leonardolsousa)

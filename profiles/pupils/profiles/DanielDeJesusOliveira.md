@@ -14,8 +14,8 @@ Quero adquirir experiência e conhecimento para no futuro me tornar um mentor da
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/danieloliveira138)
+- [Facebook](https://www.facebook.com/danieloliveira138)
 
-[GitHub](https://github.com/danieloliveira138)
+- [GitHub](https://github.com/danieloliveira138)
 
-[LinkedIn](https://www.linkedin.com/in/daniel-de-jesus-oliveira-bb26b770/)
+- [LinkedIn](https://www.linkedin.com/in/daniel-de-jesus-oliveira-bb26b770/)

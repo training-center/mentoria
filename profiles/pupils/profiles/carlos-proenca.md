@@ -12,5 +12,5 @@ Quero expandir meus conhecimentos em DEV crescendo cada vez mais na carreira e q
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/proencasilva)
-[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-proen%C3%A7a-silva-ab628b26/)
+- [Facebook](https://www.facebook.com/proencasilva)
+- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-proen%C3%A7a-silva-ab628b26/)

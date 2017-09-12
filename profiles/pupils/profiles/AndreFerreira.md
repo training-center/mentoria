@@ -12,6 +12,6 @@ Ser um programador especialista em blockchain, construir um projeto de sucesso p
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/aferreira44)
-[Twitter](https://www.facebook.com/aferreira44)
-[LinkedIn](https://www.linkedin.com/in/aferreira44/)
+- [Facebook](https://www.facebook.com/aferreira44)
+- [Twitter](https://www.facebook.com/aferreira44)
+- [LinkedIn](https://www.linkedin.com/in/aferreira44/)

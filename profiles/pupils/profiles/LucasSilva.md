@@ -12,4 +12,4 @@ Ser um desenvolvedor melhor, porém nunca deixar de me importar com UX, UI. Tamb
 
 ## Alguns links para me conhecer melhor
 
-* [Twitter](https://twitter.com/lucas_dejsilva)
+- [Twitter](https://twitter.com/lucas_dejsilva)

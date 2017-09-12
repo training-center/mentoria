@@ -14,6 +14,6 @@ Bruno Cavalcante
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/brncavalcante)
-[Twitter](https://twitter.com/brncavalcante)
-[LinkedIn](https://br.linkedin.com/in/brncavalcante)
+- [Facebook](https://www.facebook.com/brncavalcante)
+- [Twitter](https://twitter.com/brncavalcante)
+- [LinkedIn](https://br.linkedin.com/in/brncavalcante)

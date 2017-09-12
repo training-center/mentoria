@@ -16,9 +16,8 @@ HTML, CSS, Javascript básico faço tutoriais mais quando é para fazer algo do 
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Marcelo Henrique](https://www.facebook.com/maassilva)
-[Twitter do Marcelo Henrique](https://twitter.com/marcelossilva)
-[LinkedIn do Pupilo de Castro](https://www.linkedin.com/in/cvmarcelosilva)
-[Github do Marcelo Henrique](https://github.com/Marcelosilva10)
-[Codepen do Marcelo Henrique](https://codepen.io/marcelossilva)
-```
+- [Facebook do Marcelo Henrique](https://www.facebook.com/maassilva)
+- [Twitter do Marcelo Henrique](https://twitter.com/marcelossilva)
+- [LinkedIn do Pupilo de Castro](https://www.linkedin.com/in/cvmarcelosilva)
+- [Github do Marcelo Henrique](https://github.com/Marcelosilva10)
+- [Codepen do Marcelo Henrique](https://codepen.io/marcelossilva)

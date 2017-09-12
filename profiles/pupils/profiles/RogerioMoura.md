@@ -12,5 +12,6 @@ Compartilho também o sonho de poder adquirir um nível de conhecimento o qual p
 Tenho conhecimentos básicos/intermediários de linguagens como HTML, CSS, JavaScript, PHP, C#, e de alguns frameworks das mesmas.
 
 ## Alguns links para me conhecer melhor
-[Facebook](https://www.facebook.com/rogerio.moura3)
-[LinkedIn](https://www.linkedin.com/in/rogerio-moura-6a65548b)
+
+- [Facebook](https://www.facebook.com/rogerio.moura3)
+- [LinkedIn](https://www.linkedin.com/in/rogerio-moura-6a65548b)

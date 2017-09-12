@@ -12,10 +12,10 @@ Quero me aperfeiçoar para trocar de carreira e seguir como front-end dev fullti
 
 ## Alguns links para me conhecer melhor:
 
-[Twitter](http://www.twitter.com/adeonir)
+- [Twitter](http://www.twitter.com/adeonir)
 
-[Facebook](http://www.facebook.com/adeonir)
+- [Facebook](http://www.facebook.com/adeonir)
 
-[LinkedIn](https://br.linkedin.com/in/adeonir-kohl-85599420)
+- [LinkedIn](https://br.linkedin.com/in/adeonir-kohl-85599420)
 
-[adeonir@gmail.com](adeonir@gmail.com)
+- [adeonir@gmail.com](adeonir@gmail.com)

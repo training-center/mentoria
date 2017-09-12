@@ -26,7 +26,7 @@ Estou aberto para qualquer esclarecimento e duvidas.
 
 ## Alguns links para me conhecer melhor
 
-[Meu Facebook](https://facebook.com/varelavf)<br/>
-[Perfil do Codepen](http://codepen.io/Vitor_Ferraz/)<br/>
-[Meu LinkedIn](https://br.linkedin.com/in/vitor-ferraz-ba143466)<br/>
-[Meu GitHub](https://github.com/VitorFerraz)<br/>
+- [Facebook](https://facebook.com/varelavf)<br/>
+- [Codepen](http://codepen.io/Vitor_Ferraz/)<br/>
+- [LinkedIn](https://br.linkedin.com/in/vitor-ferraz-ba143466)<br/>
+- [GitHub](https://github.com/VitorFerraz)<br/>

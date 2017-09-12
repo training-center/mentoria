@@ -11,6 +11,6 @@ Ser um bom desenvolvedor front-end e trabalhar na start-up pagar.me ou então na
 
 ## Alguns links para me conhecer melhor:
 
+- [Twitter](https://twitter.com/adelmojnr)
 
-[Twitter](https://twitter.com/adelmojnr)
-[Github](https://github.com/adelmojnr)
+- [Github](https://github.com/adelmojnr)

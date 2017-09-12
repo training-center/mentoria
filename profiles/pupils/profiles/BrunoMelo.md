@@ -12,6 +12,6 @@ Quero conseguir um emprego como Front-End
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/brunooomelo)
+- [Facebook](https://www.facebook.com/brunooomelo)
 
-[LinkedIn](https://www.linkedin.com/in/brunomelo94?trk=hp-identity-photo)
+- [LinkedIn](https://www.linkedin.com/in/brunomelo94?trk=hp-identity-photo)

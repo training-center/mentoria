@@ -14,5 +14,5 @@ Iniciar uma carreira como front-end developer, de preferência como home office,
 ## Alguns links para me conhecer melhor:
 
 
-[Twitter do Alex Ávila](http://www.twitter.com/alexavila)
-[LinkedIn do Alex Ávila](http://www.linkedin.com/alexdeavila)
+- [Twitter](http://www.twitter.com/alexavila)
+- [LinkedIn](http://www.linkedin.com/alexdeavila)

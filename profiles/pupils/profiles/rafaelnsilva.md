@@ -12,5 +12,5 @@ Aperfeiçoar os estudos para melhorar todo meu trabalho como front-end e buscar 
 
 ## Alguns links para me conhecer melhor:
 
-[Twitter](http://www.twitter.com/rafaelnogueira)
-[Facebook](http://www.facebook.com/rafaelnogueira1)
+- [Twitter](http://www.twitter.com/rafaelnogueira)
+- [Facebook](http://www.facebook.com/rafaelnogueira1)

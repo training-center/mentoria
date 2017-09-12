@@ -11,6 +11,6 @@ Marcio Alves
 
 ## Contatos
 
-[E-mail](mailto:marciiosouza@outlook.com)
-[Facebook](https://www.facebook.com/MarciioSouzah)
-[Twitter](https://twitter.com/MarciioSouz)
+- [E-mail](mailto:marciiosouza@outlook.com)
+- [Facebook](https://www.facebook.com/MarciioSouzah)
+- [Twitter](https://twitter.com/MarciioSouz)

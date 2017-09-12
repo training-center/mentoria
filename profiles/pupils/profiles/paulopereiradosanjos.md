@@ -21,10 +21,10 @@ Ser um expert em Front e poder passar os conhecimentos aprendidos à novos desen
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://facebook.com/paulopereiradosanjos)
+- [Facebook](https://facebook.com/paulopereiradosanjos)
 
-[Twitter](https://twitter.com/K3yboard)
+- [Twitter](https://twitter.com/K3yboard)
 
- [LinkedIn](https://www.linkedin.com/in/paulopereiradosanjos)
+- [LinkedIn](https://www.linkedin.com/in/paulopereiradosanjos)
 
 **Gmail**: paulopereiradosanjos@gmail.com

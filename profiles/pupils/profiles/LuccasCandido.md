@@ -12,4 +12,4 @@ Meu sonho de carreira é trabalhar com tecnologia, mas tenho um desejo enorme po
 
 ## Alguns links para me conhecer melhor
 
-[Twitter do Luccas Candido](http://twitter.com/luccasdebarros)  
+- [Twitter](http://twitter.com/luccasdebarros)  

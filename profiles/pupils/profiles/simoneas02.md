@@ -15,10 +15,10 @@ Conheço básico em HTML, CSS e JS, mas com uma vontade enorme de aprimorar meus
 
 ## Alguns links para me conhecer melhor
 
-[Facebook da Simone Amorim](https://www.facebook.com/simone.amorim.33)
+- [Facebook](https://www.facebook.com/simone.amorim.33)
 
-[Twitter da Simone Amorim](https://twitter.com/samorim02)
+- [Twitter](https://twitter.com/samorim02)
 
-[LinkedIn da Simone Amorim](https://www.linkedin.com/in/simone-amorim-311a3a87)
+- [LinkedIn](https://www.linkedin.com/in/simone-amorim-311a3a87)
 
-[GitHub da Simone Amorim](https://github.com/simoneas02)
+- [GitHub](https://github.com/simoneas02)

@@ -12,6 +12,6 @@ Me tornar um desenvolvedor apto para contribuir com projetos para a comunidade e
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](http://www.facebook.com/LajackBR)
-[Twitter](http://www.twitter.com/LajackBR)
-[Google+](https://plus.google.com/u/0/108706624896557923324)
+- [Facebook](http://www.facebook.com/LajackBR)
+- [Twitter](http://www.twitter.com/LajackBR)
+- [Google+](https://plus.google.com/u/0/108706624896557923324)

@@ -13,6 +13,6 @@ Concretizando esses eu sonho mais um pouco :)
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Diego Zanelatti](http://www.facebook.com/diego.zanelatti)
-[E-mail do Diego Zanelatti](diegozanelatti@hotmail.com)
-[LinkedIn do Diego Zanelatti](https://www.linkedin.com/in/diego-zanelatti-21501a100?trk=nav_responsive_tab_profile)
+- [Facebook](http://www.facebook.com/diego.zanelatti)
+- [E-mail](diegozanelatti@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/diego-zanelatti-21501a100?trk=nav_responsive_tab_profile)

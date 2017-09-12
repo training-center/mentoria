@@ -11,4 +11,5 @@ Iniciar minha carreira como desenvolvedor Front-end e aprofundar meus estudos pa
 Como desenvolvedor Front-end tenho conhecimento nas tecnologias HTML, CSS, JavaScript, Bootstrap, Gulp.
 
 ## Alguns links para me conhecer melhor
-[facebook](https://www.facebook.com/romarioccoimbra)
+
+- [Facebook](https://www.facebook.com/romarioccoimbra)

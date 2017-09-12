@@ -17,7 +17,7 @@ Dominio basico do inglês e francês.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/NikolasBrandao)
+- [Facebook](https://www.facebook.com/NikolasBrandao)
 
 
-[Twitter](https://twitter.com/ofabricante)
+- [Twitter](https://twitter.com/ofabricante)

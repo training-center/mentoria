@@ -13,5 +13,5 @@ Me tornar um profissional de Front End, aprendendo de forma contínua, sempre co
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/matosg_erik)
-[LinkedIn](https://www.linkedin.com/in/erikgarcesmatos/)
+- [Twitter](https://twitter.com/matosg_erik)
+- [LinkedIn](https://www.linkedin.com/in/erikgarcesmatos/)

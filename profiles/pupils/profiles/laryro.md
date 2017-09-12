@@ -19,8 +19,8 @@ Queria ou trampar numa empresa que tenha uma causa legal pra apoiar e uma estrut
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://facebook.com/laryro)
+- [Facebook](https://facebook.com/laryro)
 
-[Twitter](https://twitter.com/laryro)
+- [Twitter](https://twitter.com/laryro)
 
-[LinkedIn](https://linkedin.com/in/laryro)
+- [LinkedIn](https://linkedin.com/in/laryro)

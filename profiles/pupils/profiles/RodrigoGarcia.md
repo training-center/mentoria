@@ -16,10 +16,10 @@ Atualmente estou fazendo estagio na Pipefy uma das melhores startups não só do
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Rodrigo Garcia](https://www.facebook.com/rodrigo.garciahern)
+- [Facebook](https://www.facebook.com/rodrigo.garciahern)
 
-[Twitter do Rodrigo Garcia](https://twitter.com/Im_rodrigho)
+- [Twitter](https://twitter.com/Im_rodrigho)
 
-[LinkedIn do Rodrigo Garcia](https://www.linkedin.com/in/rodrigogarciahernandez)
+- [LinkedIn](https://www.linkedin.com/in/rodrigogarciahernandez)
 
-[GitHub do Rodrigo Garcia](https://github.com/rodrigogarh)
+- [GitHub](https://github.com/rodrigogarh)

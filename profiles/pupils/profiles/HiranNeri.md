@@ -12,5 +12,5 @@ Conseguir iniciar a minha carreira (Desenvolvedor Java) em uma média/grande emp
 
 ##Alguns links para me conhecer melhor:
 
-[Twitter](https://twitter.com/devhiranneri)
-[LinkedIn](https://br.linkedin.com/in/hiranneri)
+- [Twitter](https://twitter.com/devhiranneri)
+- [LinkedIn](https://br.linkedin.com/in/hiranneri)

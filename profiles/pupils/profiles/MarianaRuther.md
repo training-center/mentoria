@@ -12,6 +12,6 @@ Aprender tudo que eu puder, me tornar uma desenvolvedora Full Stack e contribuir
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/mariana.ruther)
-[Twitter](https://twitter.com/mruther)
-[LinkedIn](https://www.linkedin.com/in/marianaruther/)
+- [Facebook](https://www.facebook.com/mariana.ruther)
+- [Twitter](https://twitter.com/mruther)
+- [LinkedIn](https://www.linkedin.com/in/marianaruther/)
