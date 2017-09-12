@@ -131,7 +131,7 @@
 - [Rafael Araujo Dias](profiles/rafaeldias.md)
 - [Rafael Ferreira Vianna](profiles/RafaelVianna.md)
 - [Rafael Martins dos Santos](profiles/rafaelmartinsja.md)
-- [Rafael Nogueira Silva](profiles/rafaelnsilva)
+- [Rafael Nogueira Silva](profiles/rafaelnsilva.md)
 - [Rafael Santana da Silva](profiles/RafaelSantana.md)
 - [Rafaela Cassiano Campos](profiles/Rafaela_Cassiano_Campos.md)
 - [Raquel Andrello Formagin da Luz](profiles/RaquelAFLuz.md)
