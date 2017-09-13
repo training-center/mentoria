@@ -15,4 +15,4 @@ Em busca de um trabalho onde possa contribuir tanto no projeto quanto no ambient
 - [Facebook](https://www.facebook.com/people/Anderson-Altissimo/100004568926089)
 - [Twitter](https://twitter.com/ander_altissimo)
 - [LinkedIn](https://www.linkedin.com/in/andersonaltissimo/)
-- [ander.altissimo@gmail.com](mailto:ander.altissimo@gmail.com)
+- [Email](mailto:ander.altissimo@gmail.com)
