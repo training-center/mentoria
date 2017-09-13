@@ -19,4 +19,4 @@ Espero deixar esta lista  de conhecimentos mais extensa muito em breve. :)
 
 ## Alguns links para me conhecer melhor
 
-Email: [lgabriell.araujo@gmail.com](mailto:lgabriell.araujo@gmail.com?subject="Contato GitHub")
+- [lgabriell.araujo@gmail.com](lgabriell.araujo@gmail.com)
