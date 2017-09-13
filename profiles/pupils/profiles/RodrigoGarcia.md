@@ -10,7 +10,7 @@ Rodrigo Garcia Hernandez
 
 Quero poder criar uma nova perspectiva do desenvolvimento Web, aprender, melhorar e poder algum dia incentivar as demais pessoas neste mundo incrível.
 
-# Conhecimentos
+## Conhecimentos
 
 Tenho conhecimientos basicos de linguagem como HTML, CSS, JavaScript, PHP. mas considero que meus cohecimientos ainda são muito fracos e por isso fico sempre com muita vontade de aprender. 
 Atualmente estou fazendo estagio na Pipefy uma das melhores startups não só do Brasil ao lado do meu mentor Fernado Moreira e sem duvidas sei que pronto através deste programa de mentorias vou poder ser um master no desenvolvimiento Web.  
