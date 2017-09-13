@@ -31,7 +31,7 @@ Já trabalhei com todo tipo de tecnologia possível, mas tenho como experiência
 
 Só mandar um salve para [@guiiipontes](http://twitter.com/guiiipontes) no Twitter!
 
-## Mentorados
+## Mentorados(as)
 
 * [Maicon Gomes](/profiles/pupils/profiles/atreyucore.md)
 * [Marcos Borges](/profiles/pupils/profiles/marcosabb.md)

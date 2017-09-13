@@ -18,7 +18,7 @@ Sou formado em Analise e Desenvolvimento de Software desde 2010 e possuo especia
 
 Mande um abraço para ele no email.
 
-## Mentorados
+## Mentorados(as)
 
 * [Gabriel Berto](/profiles/pupils/profiles/GabrielBerto.md)
 * [Leticia Costa](/profiles/pupils/profiles/LeticiaCosta.md)

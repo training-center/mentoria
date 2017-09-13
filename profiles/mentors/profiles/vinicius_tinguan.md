@@ -20,6 +20,6 @@ Mentor para desenvolvedores Back-end
 Faça uma doação pra alguma causa animal ou de crianças carentes.  
 Ou me manda um alô nas redes sociais. :)
 
-## Mentorados
+## Mentorados(as)
 
 [Hiran Neri](/profiles/pupils/profiles/HiranNeri.md)

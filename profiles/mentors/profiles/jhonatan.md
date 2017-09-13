@@ -20,4 +20,4 @@ Atualmente trabalho em uma Escola como Desenvolvedor Web.
 
 Repasse todo o conhecimento adquirido, da forma que conseguir. Isso não custa dinheiro e pode mudar o mundo!
 
-## Mentorados
+## Mentorados(as)

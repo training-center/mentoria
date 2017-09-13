@@ -21,4 +21,4 @@ Mentor para Desenvolvedores Backend
 
 Mande um abraço para ele nas redes sociais.
 
-## Mentorados
+## Mentorados(as)

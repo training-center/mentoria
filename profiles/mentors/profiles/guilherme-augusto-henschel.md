@@ -20,6 +20,6 @@ Também posso dar algumas dicas sobre Fotografia e Música :)
 
 Deixe uma recomendação (escrita ou votando nas minhas skills) no meu LinkedIn
 
-## Mentorados
+## Mentorados(as)
 
 - [Thiago Phillip](/profiles/pupils/profiles/ThiagoPhillip.md)

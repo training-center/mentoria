@@ -20,4 +20,4 @@ Sou formato em análise de sistemas com pós-graduação em animação, e possuo
 
 Mande um abraço para ele no email felipefernandesweb@gmail.com ou nas redes sociais.
 
-## Mentorados
+## Mentorados(as)

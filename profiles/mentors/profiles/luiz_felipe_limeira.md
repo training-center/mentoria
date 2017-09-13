@@ -32,7 +32,7 @@ Possuo conhecimento nas seguintes tecnologias:
 
 Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e ajude outras pessoas.
 
-## Mentorados
+## Mentorados(as)
 
 * [Thiago Morastico Cruz](../../pupils/profiles/ThiagoMorasticoCruz.md)
 * [Enrico Augusto Viceconti](../../pupils/profiles/Eviceconti.md)

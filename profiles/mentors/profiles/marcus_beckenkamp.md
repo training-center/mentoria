@@ -23,4 +23,4 @@ Hoje trabalha em uma startup como desenvolvedor sênior.
 
 Mande um abraço para ele no email contato@mbeck.com.br ou nas redes sociais.
 
-## Mentorados
+## Mentorados(as)

@@ -28,4 +28,4 @@ CVC, Serasa Experian, ITAU e EY
 
 Mande um abraço para ele no email rafaelkoga@gmail.com ou nas redes sociais.
 
-## Mentorados
+## Mentorados(as)

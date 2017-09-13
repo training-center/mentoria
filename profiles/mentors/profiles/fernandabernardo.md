@@ -21,5 +21,4 @@ Tenho 22 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Inform
 
 Mande um abraço para ela no email fernandabernardo94@gmail.com ou nas redes sociais.
 
-## Mentorados
-* 
+## Mentorados(as)

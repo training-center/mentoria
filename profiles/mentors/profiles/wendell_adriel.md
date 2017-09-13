@@ -42,7 +42,7 @@ Gosto de trabalhar com desenvolvimento Front-end e Back-end. Trabalho com divers
 
 Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com.br ou pelas redes sociais!!!
 
-## Mentorados
+## Mentorados(as)
 
 - [Giovanni Cruz (giovannicruz97)](/profiles/pupils/profiles/giovannicruz97.md)
 - [Danilo Agostinho (DaniloAgostinho)](/profiles/pupils/profiles/DaniloAgostinho.md)

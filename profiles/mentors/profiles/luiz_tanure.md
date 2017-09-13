@@ -34,8 +34,7 @@ Posso ajudar em diversos níveis e assunstos, principalmente:
 * [Twitter](https://twitter.com/tanure)
 * [LinkedIn](https://www.linkedin.com/in/letanure/)
 
-
-## Mentorados
+## Mentorados(as)
 
 - Lucas Barbosa
 - Magno Lemos

@@ -19,7 +19,7 @@ Mentor para Desenvolvedores Front End UX/UI, CSS e semântica
 
 Manda aquele abraço nas redes sociais, da o joinha se inscreve aquele like ou pode mandar um e-mail para me@abnersajr.net
 
-## Mentorados
+## Mentorados(as)
 
 * [Mateus Rodrigues](/profiles/pupils/profiles/mateusrdgs.md)
 * Sofia Bareta - Aguardando Profile

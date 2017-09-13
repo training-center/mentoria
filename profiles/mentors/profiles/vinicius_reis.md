@@ -24,7 +24,7 @@ Atualmente trabalho como Engenheiro de aplicações na [decision6](https://decis
 
 Mande um abraço para ele no email luiz.vinicius73@gmail.com ou nas redes sociais.
 
-## Mentorados
+## Mentorados(as)
 
 * [Emanuel Gonçalves](/profiles/pupils/profiles/EmanuelG.md)
 * [Daniel Diniz](/profiles/pupils/profiles/DanielDiniz.md)

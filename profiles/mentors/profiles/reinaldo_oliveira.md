@@ -34,6 +34,6 @@ serem adotados.
 
 Mande um tweet, me add no LinkedIn!
 
-## Mentorados
+## Mentorados(as)
 
 Nenhum :(

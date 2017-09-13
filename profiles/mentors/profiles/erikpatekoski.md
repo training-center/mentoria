@@ -19,5 +19,4 @@ Mentor para QA's e Automatizadores
 
 Manda salve nas redes sociais :)
 
-## Mentorados
-
+## Mentorados(as)
