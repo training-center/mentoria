@@ -28,6 +28,6 @@ Posso ajudá-lo com: Desenvolvimento web, Melhorar como palestrante, Agile e Com
 
 Remende o trabalho dele no linkedin e outras redes sociais. Se for o caso, tem também o [PagSeguro](https://pag.ae/bjmht6d).
 
-## Pupilos de Evaldo Barbosa
+## Mentorados
 
-* Quer ser meu pupilo?
+* Quer ser meu mentorado?

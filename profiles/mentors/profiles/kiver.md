@@ -18,10 +18,8 @@ Sou formado em Analise e Desenvolvimento de Software desde 2010 e possuo especia
 
 Mande um abraço para ele no email.
 
-## Pupilos do Kiver Teixeira
+## Mentorados
 
 * [Gabriel Berto](/profiles/pupils/profiles/GabrielBerto.md)
 * [Leticia Costa](/profiles/pupils/profiles/LeticiaCosta.md)
 * [Eduardo S. Araujo](/profiles/pupils/profiles/EduardoSdeAraujo.md)
-
-

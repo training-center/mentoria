@@ -18,6 +18,6 @@ Arquiteto de Sistemas Java, com profundo conhecimento de integração, SOA, micr
 
 [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alesaudate%40gmail%2ecom&lc=BR&item_name=Alexandre%20Saudate&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) ou mande um abraço para ele(a) no email alesaudate@gmail.com ou nas redes sociais.
 
-## Pupilos de [Alexandre Saudate]
+## Mentorados
 
 Em breve

@@ -27,7 +27,8 @@ Gostaria de retribuir um pouco à comunidade com o conhecimento que consegui adq
 
 Só dar um chego nas redes sociais e mandar um `_o/`
 
-## Pupilos
+## Mentorados
+
 - [Henri Oiwa](/profiles/pupils/profiles/HenriOiwa.md)
 - [Marcelo Luiz Leite](/profiles/pupils/profiles/marceloluizleite.md)
 - [Phillip Freitas](/profiles/pupils/profiles/PhillipFreitas.md)

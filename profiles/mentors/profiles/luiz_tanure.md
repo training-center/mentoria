@@ -35,7 +35,7 @@ Posso ajudar em diversos níveis e assunstos, principalmente:
 * [LinkedIn](https://www.linkedin.com/in/letanure/)
 
 
-## Pupilos de Luiz Tanure
+## Mentorados
 
 - Lucas Barbosa
 - Magno Lemos

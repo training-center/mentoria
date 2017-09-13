@@ -25,7 +25,7 @@ Tenho conhecimentos variados e posso tentar auxiliar em tecnologias como:
 - Outras linguagens de back-end como Ruby, Python, ASP.Net, PHP; porém não me garanto em nenhuma e nem tenho orgulho das últimas duas mencinadas (rsrs).
 - Bancos de dados relacionais e não relacionais como MySQL, Postgres, Sqlite, MongoDB, Redis, Elastic Search, CouchDB, MemcacheDB e IndexedDB (no navegador).
 
-## Meus pupilos
+## Meus mentorados
 
 - [Gabrielle Dias](/profiles/pupils/profiles/GabrielleDias.md)
 - [Genor Chiomento](/profiles/pupils/profiles/GenorChiomento.md)

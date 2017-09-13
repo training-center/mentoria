@@ -19,7 +19,7 @@ Mentor para Desenvolvedores Front End
 
 Mande um abraço no email williamozsouza@gmail.com com o assunto `#mentoria` ou nas redes sociais.
 
-## Pupilos
+## Mentorados
 
 - [Gabriel Brito](/profiles/pupils/profiles/GabrielBrito.md)
 - [Lucas Stoque](/profiles/pupils/profiles/Stoque.md)

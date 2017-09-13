@@ -40,9 +40,8 @@ Tenha a base, que você domina o mundo ! ;)
 
 Dá um feedback lá no https://br.linkedin.com/in/lucashenriqueps93 e é nois !
 
-## Pupilos
+## Mentorados
 
 * [Gustavo César Domingos Siqueira](/profiles/pupils/profiles/G18Siqueira.md)
 * [Alex Avila](/profiles/pupils/profiles/AlexAvila.md) 
 * [LeonanMachado](/profiles/pupils/profiles/LeonanMachado.md)
-

@@ -19,4 +19,4 @@ Mentor para Desenvolvedores Front End
 
 Mande um abraço, obrigado, thank you ou gracias para ele no email giansouzafreitas@gmail.com ou nas redes sociais.
 
-## Pupilos
+## Mentorados

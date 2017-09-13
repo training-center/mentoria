@@ -34,6 +34,6 @@ serem adotados.
 
 Mande um tweet, me add no LinkedIn!
 
-## Pupilos do Reinaldo Oliveira
+## Mentorados
 
 Nenhum :(

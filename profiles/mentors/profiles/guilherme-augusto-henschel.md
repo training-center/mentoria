@@ -20,6 +20,6 @@ Também posso dar algumas dicas sobre Fotografia e Música :)
 
 Deixe uma recomendação (escrita ou votando nas minhas skills) no meu LinkedIn
 
-## Pupilos de Guilherme Augusto
+## Mentorados
 
 - [Thiago Phillip](/profiles/pupils/profiles/ThiagoPhillip.md)

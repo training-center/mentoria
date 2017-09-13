@@ -12,7 +12,8 @@ Mentor para Desenvolvedores Front End e opensource life style.
 * [Twitter](https://twitter.com/mikaelhadler)
 * [LinkedIn](https://www.linkedin.com/in/mikaelhadler)
 
-## Pupilos
+## Mentorados
+
 - [Matheus Mazeto](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/matheus_mazeto.md)
 
 ## Gostaria de retribuir a ajuda do(a) [Mikael Hadler]?

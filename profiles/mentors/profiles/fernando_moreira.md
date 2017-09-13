@@ -22,7 +22,7 @@ Hoje sou especializado em desenvolvimento web usando Wordpress com foco em front
 
 Mande um abraço para ele no email nandomoreira.me@gmail.com ou nas redes sociais.
 
-## Pupilos(as) de Fernando Moreira
+## Mentorados(as)
 
 [Eduardo S. de Araujo](/profiles/pupils/profiles/edusar.md)
 [Ingrid Rauany Dias Soares](/profiles/pupils/profiles/IngridRauany.md)

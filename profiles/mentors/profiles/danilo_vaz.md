@@ -31,7 +31,7 @@ Fora codar, também amo escrever. Tenho alguns textos no meu [Medium](https://me
 
 Mande um salve para danilovaz@hotmail.com.br ou nas redes sociais.
 
-## Pupilos
+## Mentorados
 
 * [Hugo Almeida](/profiles/pupils/profiles/hugo_almeida.md)
 * [Safire Lauene](/profiles/pupils/profiles/SafireLauene.md)

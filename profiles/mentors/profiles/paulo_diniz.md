@@ -21,7 +21,7 @@ Sempre disponível para ajudar
 Ainda não defini uma instituição de preferência, mas se você gostou de qualquer ajuda que eu forneci e tem condição de ajudar outras pessoas,
 por favor considere doar para uma instituição de caridade.
 
-## Pupilos
+## Mentorados
 
 * Leonardo L. Sousa
 * [Jamile Lima](/profiles/pupils/profiles/JamileLima.md)

@@ -18,6 +18,6 @@ Eterno estudante, desenvolvedor web e mobile [iOs/android (react-native)]
 
 Conta paypal: fernandoaff1@gmail.com ou mande um abraço para ele(a) no email fernandoaff1@gmail.com ou nas redes sociais.
 
-## Pupilos de Luiz Fernando
+## Mentorados
 
 - [Adeonir Kohl](/profiles/pupils/profiles/AdeonirKohl.md)

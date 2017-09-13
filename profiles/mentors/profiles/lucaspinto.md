@@ -21,7 +21,7 @@ Tecnologias que possuo know-how para mentor: Javascript (AngularJS, EmberJS, Nod
 
 Mande um alô! para lucas.henrique223@gmail.com ou nas redes sociais.
 
-## Pupilos
+## Mentorados
 
 - Heitor Augusto Borges Pereira
 - Antonio Marcos
