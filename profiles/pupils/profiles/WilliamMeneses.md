@@ -15,7 +15,5 @@ William Meneses
 ## Alguns links para me conhecer melhor
 
 - [Facebook](https://www.facebook.com/williameneses)
-
 - [Twitter](https://twitter.com/JwilliamAnjos)
-
 - [GitHub](https://github.com/WilliamMeneses)
