@@ -1,4 +1,4 @@
-# Lista de Pupilos
+# Lista de Mentorados
 
 - [Adelmo Junior](profiles/AdelmoJunior.md)
 - [Adeonir Kohl](profiles/AdeonirKohl.md)
