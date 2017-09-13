@@ -23,5 +23,5 @@ Adicione qual seu sonho de carreira aqui.
 
 - [LinkedIn](link)
 
-- [Email](email)
+- [Email](mailto:seu@email.com)
 ```
