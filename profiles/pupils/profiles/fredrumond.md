@@ -14,4 +14,4 @@ Me tornar um otimo profissional e um dia ajudar as pessoas que estao querendo en
 
 - [Facebook](https://www.facebook.com/frederico.drumond.33)
 - [Github](https://github.com/Fredrumond)
-- [LinkedIn](https://www.linkedin.com/in/frederico-xavier-drumond-85ab7483?trk=nav_responsive_tab_profile)
+- [LinkedIn](https://www.linkedin.com/in/frederico-xavier-drumond-85ab7483)

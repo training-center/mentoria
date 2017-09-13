@@ -11,6 +11,6 @@ Espero um dia trabalhar para uma empresa com grandes projetos, Quero me aperfei√
 
 ## Alguns links para me conhecer melhor
 
-- [Facebook](https://www.facebook.com/pedrogermano232)<br/>
-- [Twitter](https://twitter.com/PedroGermano6)<br/>
+- [Facebook](https://www.facebook.com/pedrogermano232)
+- [Twitter](https://twitter.com/PedroGermano6)
 - [GitHub](https://github.com/pedroGermano)

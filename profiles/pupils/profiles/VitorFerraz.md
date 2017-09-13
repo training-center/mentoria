@@ -12,7 +12,7 @@ Quero me aperfeiçoar tecnicamente e seguir carreira como desenvolvedor web.
 Estou em uma fase de transição da área de gerenciamento de projetos para a de desenvolvimento, e gostaria de orientação para poder me tornar um profissional completo baseado na experiencia de programadores mais experientes.
 
 
-#Conhecimentos
+## Conhecimentos
 
 Tenho conhecimento de algumas linguagens como Java, JavaEE e C# na parte de back-end e html5,css3,javascript (ES6) , jQuery, Bootstrap e React na parte do front. Já fiz alguns cursos de programação além de estudar muito por fora. 
 
@@ -26,7 +26,7 @@ Estou aberto para qualquer esclarecimento e duvidas.
 
 ## Alguns links para me conhecer melhor
 
-- [Facebook](https://facebook.com/varelavf)<br/>
-- [Codepen](http://codepen.io/Vitor_Ferraz/)<br/>
-- [LinkedIn](https://br.linkedin.com/in/vitor-ferraz-ba143466)<br/>
-- [GitHub](https://github.com/VitorFerraz)<br/>
+- [Facebook](https://facebook.com/varelavf)
+- [Codepen](http://codepen.io/Vitor_Ferraz/)
+- [LinkedIn](https://br.linkedin.com/in/vitor-ferraz-ba143466)
+- [GitHub](https://github.com/VitorFerraz)

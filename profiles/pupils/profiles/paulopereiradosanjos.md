@@ -25,4 +25,4 @@ Ser um expert em Front e poder passar os conhecimentos aprendidos à novos desen
 - [Facebook](https://facebook.com/paulopereiradosanjos)
 - [Twitter](https://twitter.com/K3yboard)
 - [LinkedIn](https://www.linkedin.com/in/paulopereiradosanjos)
-- [Email](paulopereiradosanjos@gmail.com)
+- [Email](mailto:paulopereiradosanjos@gmail.com)

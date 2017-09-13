@@ -6,7 +6,7 @@
 
 Rafael Nogueira Silva
 
-## Qual meu sonho na carreira?
+## Qual o meu sonho na carreira?
 
 Aperfeiçoar os estudos para melhorar todo meu trabalho como front-end e buscar novas oportunidades no futuro, tanto voltado para trabalho quanto para ajudar novos membros da comunidade
 

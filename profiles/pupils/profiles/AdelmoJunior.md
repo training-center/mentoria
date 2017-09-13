@@ -8,7 +8,6 @@ Adelmo Junior
 
 Ser um bom desenvolvedor front-end e trabalhar na start-up pagar.me ou então na globo.com
 
-
 ## Alguns links para me conhecer melhor:
 
 - [Twitter](https://twitter.com/adelmojnr)

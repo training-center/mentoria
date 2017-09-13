@@ -8,7 +8,7 @@ Rogerio Faria Moura
 Meu sonho consiste em conhecimentos. Conseguir adquirir e entender o máximo possível sobre as linguagens, tanto front end quanto back end, e um dia quem sabe desenvolver uma aplicação que seja capaz de ajudar a galera com suas necessidades.
 Compartilho também o sonho de poder adquirir um nível de conhecimento o qual posso repassar e ser útil para outras pessoas que futuramente estarão como eu estou agora :)
 
-#Conhecimentos
+## Conhecimentos
 Tenho conhecimentos básicos/intermediários de linguagens como HTML, CSS, JavaScript, PHP, C#, e de alguns frameworks das mesmas.
 
 ## Alguns links para me conhecer melhor
