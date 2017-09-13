@@ -10,8 +10,6 @@ Daniel Diniz Rainha da Cunha
 
 Criar uma start up e trabalhar com aplicativos.
 
-
 ## Alguns links para me conhecer melhor:
-
 
 - [Github](https://github.com/danieldnz)
