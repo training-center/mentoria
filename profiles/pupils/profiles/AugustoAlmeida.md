@@ -16,4 +16,4 @@ Quero conseguir um emprego como desenvolvedor, trabalhando com o que eu gosto e 
 - [Site pessoal](http://agadev.com.br)
 - [Linkedin](https://br.linkedin.com/in/agadev)
 - [GitHub](https://github.com/agadev-bh)
-agadevbh@gmail.com
+- [Email](agadevbh@gmail.com)
