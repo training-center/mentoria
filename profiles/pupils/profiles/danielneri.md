@@ -12,5 +12,4 @@ Evoluir sempre e me tornar um grande profissional.
 
 ## Alguns links para me conhecer melhor
 
-
 - [Twitter](http://twitter.com/nedango)
