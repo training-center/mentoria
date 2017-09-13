@@ -22,6 +22,6 @@ Trabalho atualmente com Javascript, Ruby on Rails, HTML, CSS, SASS, SCSS, jQuery
 
 Segue no Github, Twitter e chama pra uns café. ☕️
 
-## Pupilos de [Seu nome]
+## Pupilos de Felipe
 
 **vemnimim**
