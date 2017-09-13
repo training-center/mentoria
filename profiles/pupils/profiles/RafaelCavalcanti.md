@@ -14,4 +14,4 @@ Quero aprender desenvolvimento Full-Stack para contribuir com a comunidade e pod
 
 - [Facebook](https://facebook.com/rafael.g.cavalcanti)  
 - [Twitter](https://twitter.com/meli_dev)  
-- [LinkedIn](https://www.linkedin.com/in/rafael-gomes-cavalcanti-1226b5b8?trk=nav_responsive_tab_profile)
+- [LinkedIn](https://www.linkedin.com/in/rafael-gomes-cavalcanti-1226b5b8)
