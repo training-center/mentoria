@@ -15,5 +15,5 @@ Conseguir iniciar carreira na área, mas especificamente com desenvolvimento web
 
 - [Facebook](https://www.facebook.com/maiconhenriquekcond)
 - [Twitter](https://twitter.com/Maicon2013SP)
-- [LinkedIn](https://www.linkedin.com/in/maicon-henrique-raimundo-8441b368?trk=nav_responsive_tab_profile)
+- [LinkedIn](https://www.linkedin.com/in/maicon-henrique-raimundo-8441b368)
 - [Git](https://github.com/maiconkcond)
