@@ -15,12 +15,11 @@ Aprendi HTML, CSS e JS na raça, gostei da coisa, fiz um curso técnico, consegu
 ## Qual meu sonho na carreira?
 
 Manjar das arquiteturas de software tudo e repassar meu conhecimento (que hoje em dia é pouco, muito pouco, quase nada) pros próximos pupulinhos (tenho alma de professora <3).
+
 Queria ou trampar numa empresa que tenha uma causa legal pra apoiar e uma estrutura foda OU viver de freelas e poder me dedicar a causas socias (quem sabe um dia, né).
 
 ## Alguns links para me conhecer melhor
 
 - [Facebook](https://facebook.com/laryro)
-
 - [Twitter](https://twitter.com/laryro)
-
 - [LinkedIn](https://linkedin.com/in/laryro)
