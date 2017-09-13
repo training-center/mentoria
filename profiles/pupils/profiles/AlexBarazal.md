@@ -19,7 +19,7 @@ Estou aberto para qualquer esclarecimento e duvidas.
 
 ## Alguns links para me conhecer melhor
 
-- [Facebook](https://www.facebook.com/alex.santanabarazal)<br/>
-- [Twitter](https://twitter.com/_LastResort)<br/>
-- [LinkedIn](https://br.linkedin.com/in/alex-santana-barazal-0938a821)<br/>
-- [GitHub](https://github.com/AlexBarazal)<br/>
+- [Facebook](https://www.facebook.com/alex.santanabarazal)
+- [Twitter](https://twitter.com/_LastResort)
+- [LinkedIn](https://br.linkedin.com/in/alex-santana-barazal-0938a821)
+- [GitHub](https://github.com/AlexBarazal)
