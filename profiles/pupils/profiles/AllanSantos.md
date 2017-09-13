@@ -14,4 +14,4 @@ Apaixonado por tecnologia, tenho por objetivo desenvolver soluções que melhore
 
 - [Facebook](https://www.facebook.com/allsotk)
 - [LinkedIn](https://www.linkedin.com/in/allandesouza)
-- E-Mail - allansouzatk@gmail.com
+- [Email](allansouzatk@gmail.com)
