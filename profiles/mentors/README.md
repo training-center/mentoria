@@ -53,6 +53,7 @@
 * [Alex Junior](profiles/alexjunior012.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Felipe Orlando](profiles/felipe_orlando.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
