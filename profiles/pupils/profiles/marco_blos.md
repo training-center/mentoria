@@ -13,5 +13,4 @@ Meu sonho é igual discurso de Miss Universo... Ser autossuficiente a ponto de p
 ## Alguns links para me conhecer melhor
 
 - [Facebook](https://pt-br.facebook.com/people/Marco-Antonio/1394020870)
-
-- [LinkedIn](https://www.linkedin.com/in/marco-antonio-blos-de-souza-09471645?trk=nav_responsive_tab_profile_pic)
+- [LinkedIn](https://www.linkedin.com/in/marco-antonio-blos-de-souza-09471645)
