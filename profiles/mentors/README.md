@@ -93,6 +93,7 @@
 * [Danilo Vaz](profiles/danilo_vaz.md)
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
+* [Felipe Orlando](profiles/felipe_orlando.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
 * [Fernando Fleury](profiles/fernando_fleury.md)

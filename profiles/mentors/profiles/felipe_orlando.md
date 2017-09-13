@@ -6,7 +6,9 @@ Felipe Orlando B. Souza
 
 ## Perfil
 
-Felipe Orlando, Software Developer On-Demand, clean-coder e metido a designer. Trabalha atualmente no [GetNinjas](https://getninjas.com.br)
+Felipe Orlando, Software Developer On-Demand, clean-coder e metido a designer. Trabalha atualmente no [GetNinjas](https://getninjas.com.br).
+
+Trabalho atualmente com Javascript, Ruby on Rails, HTML, CSS, SASS, SCSS, jQuery.
 
 ## Links
 
