@@ -8,9 +8,25 @@ Victor Maciel
 
 ## Qual meu sonho na carreira?
 
-Migrar para área de desenvolvimento e futuramente morar no exterior e viver de trabalho remoto ! xD
+Ser reconhecido e ajudar pessoas com o meu trabalho.
+
+## Habilidades
+
+PHP
+
+JavaScript
+
+HTML
+
+CSS
+
+C#
+
+Git
 
 ## Alguns links para me conhecer melhor
 
-facebook.com/vmaciell07
-twitter.com/vmaciel7
+[Facebook](facebook.com/vmaciell07)
+[LinkedIn](linkedin.com/in/vmaciel7/)
+[victor.maciel07@hotmail.com](victor.maciel07@hotmail.com)
+[GitHub](https://github.com/vmaciel7)
