@@ -17,16 +17,9 @@ Skills: conhecimentos básicos em html, css e uma boa lógica de programação.
 ## Alguns links para me conhecer melhor
 
 - [mgmazeto@gmail.com](mgmazeto@gmail.com)
-
 - [Github](https://github.com/matheusmazeto)
-
 - [Facebook](https://www.facebook.com/matheusmazeto)
-
 - [Twitter](https://twitter.com/matheusmazeto)
-
 - [Instagram](https://www.instagram.com/mmazeto/)
-
 - [Linkedin](https://www.linkedin.com/in/matheus-mazeto-94076680/)
-
 - [Medium](https://medium.com/@matheusmazeto)
-
