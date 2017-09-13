@@ -20,10 +20,7 @@ Poder algum dia poder estar ativamente como contribuidor de uma distribuição l
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://facebook.com/quatroka)
-
-[Twitter](https://twitter.com/quatroka)
-
-[Blog](https://quatroka.github.io)
-
-[LinkedIn](https://linkedin.com/in/quatroka)
+- [Facebook](https://facebook.com/quatroka)
+- [Twitter](https://twitter.com/quatroka)
+- [Blog](https://quatroka.github.io)
+- [LinkedIn](https://linkedin.com/in/quatroka)
