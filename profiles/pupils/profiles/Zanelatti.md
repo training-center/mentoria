@@ -14,5 +14,5 @@ Concretizando esses eu sonho mais um pouco :)
 ## Alguns links para me conhecer melhor
 
 - [Facebook](http://www.facebook.com/diego.zanelatti)
-- [E-mail](diegozanelatti@hotmail.com)
+- [Email](mailto:diegozanelatti@hotmail.com)
 - [LinkedIn](https://www.linkedin.com/in/diego-zanelatti-21501a100?trk=nav_responsive_tab_profile)

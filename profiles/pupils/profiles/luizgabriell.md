@@ -19,4 +19,4 @@ Espero deixar esta lista  de conhecimentos mais extensa muito em breve. :)
 
 ## Alguns links para me conhecer melhor
 
-- [lgabriell.araujo@gmail.com](lgabriell.araujo@gmail.com)
+- [Email](mailto:lgabriell.araujo@gmail.com)
