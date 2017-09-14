@@ -1,7 +1,5 @@
 # Mentor responsável por mim
 
-[Felipe Rank](https://github.com/training-center/mentoria/blob/master/profiles/mentors/profiles/felipe_rank.md)
-
 ## Lucas Augusto
 
 ## Qual meu sonho na carreira?
