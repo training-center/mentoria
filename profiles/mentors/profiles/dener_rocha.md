@@ -18,7 +18,7 @@ Sócio na Unicorns Factory (https://www.unicornsfactory.com), uma equipe de espe
 * [Linkedin](https://www.linkedin.com/in/dener-rocha)
 * [Twitter](https://twitter.com/denernun)
 * [Facebook](https://www.facebook.com/denernun)
-* [E-mail](denernun@gmail.com)
+* [E-mail](mailto:denernun@gmail.com)
 
 ## Gostaria de retribuir a ajuda do Dener Rocha?
 
