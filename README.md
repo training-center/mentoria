@@ -159,9 +159,6 @@ O uso do Git e do GitHub será necessário durante a sua vida profissional, e a 
 Temos um artigo muito bom ensinando a criar, passo a passo, o seu perfil aqui:
 - [Como criar seu perfil no GitHub do Training Center](https://medium.com/trainingcenter/como-criar-seu-perfil-no-github-do-training-center-580530506147)
 
-Se você ainda não sabe usar o Git e o GitHub e quer aprender, indicamos este curso gratuito:
-- [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
-
 
 OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
