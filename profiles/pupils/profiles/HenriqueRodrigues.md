@@ -16,7 +16,6 @@ Henrique Rodrigues
 
 ## Alguns links para me conhecer melhor:
 
-
 [Facebook](https://www.facebook.com/hjFrontEnd)
 [Twitter](https://twitter.com/coisadedev)
 [LinkedIn](https://www.linkedin.com/in/coisadedev/)

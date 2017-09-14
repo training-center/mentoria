@@ -14,6 +14,6 @@ ajudar os que estejam entrando na programação e que tenha dificuldades!!
 
 ## Alguns links para me conhecer melhor
 
-[Facebook] (https://www.facebook.com/people/Anderson-Altissimo/100004568926089)
-[Twitter](https://twitter.com/ander_altissimo)
-[LinkedIn](https://www.linkedin.com/in/andersonaltissimo/)
+- [Facebook](https://www.facebook.com/people/Anderson-Altissimo/100004568926089)
+- [Twitter](https://twitter.com/ander_altissimo)
+- [LinkedIn](https://www.linkedin.com/in/andersonaltissimo/)

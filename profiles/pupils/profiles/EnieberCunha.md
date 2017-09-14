@@ -19,6 +19,6 @@ coisas, e por isso sei um pouco de programação funcional, com Erlang e Elixir.
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/enieber)
-[Github](https://github.com/enieber)
-[Blog](https://enieber.github.io/)
+- [Twitter](https://twitter.com/enieber)
+- [Github](https://github.com/enieber)
+- [Blog](https://enieber.github.io/)

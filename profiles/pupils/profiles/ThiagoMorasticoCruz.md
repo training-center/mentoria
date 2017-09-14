@@ -13,5 +13,5 @@ me tornar um fullstack
 
 ## Alguns links para me conhecer melhor:
 
-[Facebook](http://www.facebook.com/thiago.morasticocruz)
-[LinkedIn](https://br.linkedin.com/in/thiago-morástico-cruz-3bb14666)
+- [Facebook](http://www.facebook.com/thiago.morasticocruz)
+- [LinkedIn](https://br.linkedin.com/in/thiago-morástico-cruz-3bb14666)

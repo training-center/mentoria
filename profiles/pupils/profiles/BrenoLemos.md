@@ -12,6 +12,6 @@ Me desenvolver como um bom desenvolvedor front end, conseguir um emprego na áre
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/breno.lemos.9)
-[Github](http://github.com/brennolemos)
-[LinkedIn](https://www.linkedin.com/in/breno-lemos-049374104)
+- [Facebook](https://www.facebook.com/breno.lemos.9)
+- [Github](http://github.com/brennolemos)
+- [LinkedIn](https://www.linkedin.com/in/breno-lemos-049374104)

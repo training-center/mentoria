@@ -10,9 +10,7 @@ Sofia Bareta
 
 Ser ninja no front-end, manjar de UX e me virar bem no back-end :)
 
-
 ## Alguns links para me conhecer melhor:
 
-[Facebook](https://www.facebook.com/sofibareta)
-
-[Github](https://github.com/sofiabareta)
+- [Facebook](https://www.facebook.com/sofibareta)
+- [Github](https://github.com/sofiabareta)

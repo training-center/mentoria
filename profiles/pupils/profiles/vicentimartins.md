@@ -14,6 +14,6 @@ seja repassando conhecimento.
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/vicentimartins)
-[Github](https://github.com/vicentimartins)
-[Telegram](https://telegram.me/vicentimartins)
+- [Twitter](https://twitter.com/vicentimartins)
+- [Github](https://github.com/vicentimartins)
+- [Telegram](https://telegram.me/vicentimartins)

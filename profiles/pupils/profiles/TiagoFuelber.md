@@ -13,6 +13,6 @@ Tiago Saft Fuelber
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/tiago.fuelber)
-[Twitter](https://twitter.com/TiagoSaft)
-[LinkedIn](https://br.linkedin.com/in/tiagofuelber)
+- [Facebook](https://www.facebook.com/tiago.fuelber)
+- [Twitter](https://twitter.com/TiagoSaft)
+- [LinkedIn](https://br.linkedin.com/in/tiagofuelber)
