@@ -152,6 +152,17 @@ Não se esqueça de ler as [Dicas para novos(as) pupilos(as)](https://medium.com
 3. Atualize o [README.md](/profiles/pupils/README.md) da pasta pupilos com o link para o seu perfil
 4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
 
+**Sobre a importância de aprender a usar o GitHub**
+
+O uso do Git e do GitHub será necessário durante a sua vida profissional, e a necessidade de saber usar já começa agora, para criar o seu perfil aqui no Training Center.
+
+Temos um artigo muito bom ensinando a criar, passo a passo, o seu perfil aqui:
+- [Como criar seu perfil no GitHub do Training Center](https://medium.com/trainingcenter/como-criar-seu-perfil-no-github-do-training-center-580530506147)
+
+Se você ainda não sabe usar o Git e o GitHub e quer aprender, indicamos este curso gratuito:
+- [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
+
+
 OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 ## Regras de conduta
