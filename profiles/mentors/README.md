@@ -10,6 +10,7 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Back End
 
@@ -38,11 +39,13 @@
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Delphi
 
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
 
@@ -135,6 +138,7 @@
 
 * [Evaldo Barbosa](profiles/evaldo-barbosa.md)
 * [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Python
 
