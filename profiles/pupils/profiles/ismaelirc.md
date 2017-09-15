@@ -12,5 +12,5 @@ Quero estudar e me aperfeiçoar em OO e tecnologias para backend
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](http://twitter.com/ismaelirc)
-[LinkedIn](http://linkedin.com/in/ismaelricardocosta/)
+- [Twitter](http://twitter.com/ismaelirc)
+- [LinkedIn](http://linkedin.com/in/ismaelricardocosta/)

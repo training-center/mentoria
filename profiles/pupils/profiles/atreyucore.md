@@ -12,5 +12,5 @@ Quero ser um ótimo profissional front-end
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/atreyu.maicon)
-[LinkedIn](https://www.linkedin.com/in/mrgomes86)
+- [Facebook](https://www.facebook.com/atreyu.maicon)
+- [LinkedIn](https://www.linkedin.com/in/mrgomes86)

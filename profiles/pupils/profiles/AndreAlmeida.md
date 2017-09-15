@@ -12,4 +12,4 @@ Ser um desenvolvedor Full-Stack e além de trabalhar na área, ajudar quem preci
 
 ## Alguns links para me conhecer melhor
 
-[GitHub](https://github.com/alfalmeida)
+- [GitHub](https://github.com/alfalmeida)

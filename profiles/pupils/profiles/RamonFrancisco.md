@@ -12,6 +12,6 @@ Me torna uma referência na comunidade, e contribuir para que outros devs possam
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/ramon.francisco.901)
-[Twitter](https://twitter.com/FrontEndRamon)
-[LinkedIn](https://www.linkedin.com/in/ramon-f-354340125?trk=nav_responsive_tab_profile_pic)
+- [Facebook](https://www.facebook.com/ramon.francisco.901)
+- [Twitter](https://twitter.com/FrontEndRamon)
+- [LinkedIn](https://www.linkedin.com/in/ramon-f-354340125)
