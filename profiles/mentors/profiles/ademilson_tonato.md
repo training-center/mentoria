@@ -34,10 +34,10 @@ Ei, estou aqui para auxiliar no seu desenvolvimento, se você quiser minha ajuda
 ## Mentorados(as)
 
 - [Seu perfil pode estar aqui...](#)
+- [Melissa Balsante (mibsbalsante)](/profiles/pupils/profiles/mibsbalsante.md)
 
 **Últimos mentorados(as)**
 
 - [Amon Lucas (amonlucas)](/profiles/pupils/profiles/AmonLucas.md)
-- [Melissa Balsante (mibsbalsante)](/profiles/pupils/profiles/mibsbalsante.md)
 - [Richard Manzoli (richardmanzoli)](/profiles/pupils/profiles/RichardManzoli.md)
 - [Werberth Vinícius (Werberth)](/profiles/pupils/profiles/WerberthVinicius.md)
