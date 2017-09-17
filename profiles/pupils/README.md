@@ -115,6 +115,7 @@
 - [Mayron Ceccon](profiles/MayronThomasCeccon.md)
 - [Melissa Balsante](profiles/mibsbalsante.md)
 - [Michel Dias](profiles/MichelDias.md)
+- [Mikael Hadler](profiles/mikaelhadler.md)
 - [Murilo Marchesi](profiles/MuriloMarchesi.md)
 - [Nikolas Brandao](profiles/NikolasBrandao.md)
 - [Odilton Junior](profiles/odilton_junior.md)
