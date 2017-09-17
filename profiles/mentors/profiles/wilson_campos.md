@@ -22,9 +22,7 @@ Mentor para Desenvolvedores Front End
 
 Mande um abraço no email wilsoncampoz@outlook.com com o assunto `#mentoria` ou nas redes sociais.
 
-## Pupilos
+## Mentorados(as)
 
 - [Allan Ramos](/profiles/pupils/profiles/AllanRamos.md)
 - [Mayara Pimentel](/profiles/pupils/profiles/mayarapimentel.md)
-
-

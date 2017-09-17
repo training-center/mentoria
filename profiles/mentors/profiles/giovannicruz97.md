@@ -17,7 +17,7 @@ Me chamo Giovanni Cruz, sou desenvolvedor Backend com foco em PHP. Amante de Lar
 
 Entre em contato pelo meu email: giovanni.cruz97@hotmail.com
 
-## Pupilos
+## Mentorados(as)
 
 * [Victor Maciel](/profiles/pupils/profiles/VictorMaciel.md)
 * [Luiz Glatz](/profiles/pupils/profiles/LuizGlatz.md)

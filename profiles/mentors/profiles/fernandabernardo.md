@@ -7,7 +7,7 @@ Fernanda Bernardo
 
 Desenvolvimento Frontend
 
-Tenho 22 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Informação na USP Leste e cai na área de tecnologia meio que por sorte. Gosto tanto de back-end quanto de front-end e também de assuntos relacionados a UX. Adoro palestrar e estudar assuntos novos. Gosto de assuntos relacionados à saúde, sou diabética e tenho um blog sobre o assunto. Apesar disso, adoro doces.
+Tenho 23 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Informação na USP Leste e cai na área de tecnologia meio que por sorte. Gosto tanto de back-end quanto de front-end e também de assuntos relacionados a UX. Adoro palestrar e estudar assuntos novos. Gosto de assuntos relacionados à saúde, sou diabética e tenho um blog sobre o assunto. Apesar disso, adoro doces.
 
 ## Contatos:
 
@@ -21,7 +21,7 @@ Tenho 22 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Inform
 
 Mande um abraço para ela no email fernandabernardo94@gmail.com ou nas redes sociais.
 
-## Pupilos de Fernanda Bernardo
+## Mentorados(as)
 * [Henrique Rodrigues](/profiles/pupils/profiles/HenriqueRodrigues.md)
 * [Pedro Leão](/profiles/pupils/profiles/PedroLeao.md)
 * [Pedro Sampaio](/profiles/pupils/profiles/PedroSampaio.md)

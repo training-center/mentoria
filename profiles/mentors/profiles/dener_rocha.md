@@ -24,7 +24,4 @@ Sócio na Unicorns Factory (https://www.unicornsfactory.com), uma equipe de espe
 
 Mande um abraço para ele no email.
 
-## Pupilos
-
-
-
+## Mentorados(as)
