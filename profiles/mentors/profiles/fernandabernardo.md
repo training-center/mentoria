@@ -14,7 +14,7 @@ Tenho 22 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Inform
 * [Github](https://github.com/FernandaBernardo)
 * [Facebook](https://www.facebook.com/fernanda.m.bernardo)
 * [Twitter](https://twitter.com/Feh_Bernardo)
-* [Website](https://diabetesmaisdoce.wordpress.com/)
+* [Website](http://fernandabernardo.com.br/)
 * [Linkedin](https://br.linkedin.com/in/fernandabernardo )
 
 ## Gostaria de retribuir a ajuda da Fernanda Bernardo?
@@ -22,4 +22,7 @@ Tenho 22 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Inform
 Mande um abraço para ela no email fernandabernardo94@gmail.com ou nas redes sociais.
 
 ## Pupilos de Fernanda Bernardo
-* 
+* [Henrique Rodrigues](/profiles/pupils/profiles/HenriqueRodrigues.md)
+* [Pedro Leão](/profiles/pupils/profiles/PedroLeao.md)
+* [Pedro Sampaio](/profiles/pupils/profiles/PedroSampaio.md)
+* [Waldrey Souza Silva](/profiles/pupils/profiles/WaldreySouzaSilva.md)
