@@ -12,5 +12,5 @@ Meus sonhos atualmente é de me formar na faculdade e conseguir algum estágio/e
 
 ## Alguns links para me conhecer melhor
 
-[Facebook ](https://facebook.com/fernando.martins.3551)
-[LinkedIn ](https://br.linkedin.com/in/fernando-antônio-martins-vieira-júnior-b09524a4)
+- [Facebook](https://facebook.com/fernando.martins.3551)
+- [LinkedIn](https://br.linkedin.com/in/fernando-antônio-martins-vieira-júnior-b09524a4)

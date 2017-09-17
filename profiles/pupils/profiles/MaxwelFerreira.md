@@ -12,5 +12,5 @@ Quero me tornar um desenvolvedor full stack e ajudar a comunidade.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/maxwel.ferreira.58)
-[Twitter](https://twitter.com/maxwelfe04)
+- [Facebook](https://www.facebook.com/maxwel.ferreira.58)
+- [Twitter](https://twitter.com/maxwelfe04)

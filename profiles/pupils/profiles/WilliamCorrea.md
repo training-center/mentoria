@@ -19,8 +19,6 @@ William Correa
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do William Correa](https://www.facebook.com/wilcorrea.site)
-
-[Twitter do William Correa](https://twitter.com/wilcorrea)
-
-[GitHub do William Correa](https://github.com/wilcorrea)
+- [Facebook](https://www.facebook.com/wilcorrea.site)
+- [Twitter](https://twitter.com/wilcorrea)
+- [GitHub](https://github.com/wilcorrea)

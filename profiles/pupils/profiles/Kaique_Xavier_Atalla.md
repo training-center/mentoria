@@ -14,6 +14,6 @@ Virar programador Front, com conhecimentos em back-end. Saber construir projetos
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://pt-br.facebook.com/kaique.xavieratalla)
-[Twitter](@kaique_xavier)
-[LinkedIn](https://www.linkedin.com/in/kaique-atalla-3a1562125/)
+- [Facebook](https://pt-br.facebook.com/kaique.xavieratalla)
+- [Twitter](https://twitter.com/kaique_xavier)
+- [LinkedIn](https://www.linkedin.com/in/kaique-atalla-3a1562125/)

@@ -12,5 +12,5 @@ Tenho como objetivo me especializar e me tornar referência na área de FrontEnd
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/mateusrdgs01)</br>
-[LinkedIn](https://br.linkedin.com/in/mateusrdgs)
+- [Facebook](https://www.facebook.com/mateusrdgs01)
+- [LinkedIn](https://br.linkedin.com/in/mateusrdgs)

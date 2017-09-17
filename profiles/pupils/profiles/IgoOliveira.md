@@ -14,6 +14,6 @@ Me tornar um bom desenvolvedor e sempre melhorar minhas habilidades!
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/devigor17)
-[Twitter](https://twitter.com/_devigor)
-[Github](https://github.com/devigor)
+- [Facebook](https://www.facebook.com/devigor17)
+- [Twitter](https://twitter.com/_devigor)
+- [Github](https://github.com/devigor)

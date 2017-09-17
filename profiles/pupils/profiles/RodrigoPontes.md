@@ -12,5 +12,5 @@ Ser bem-sucedido como front-end dev depois de uma mudança (tardia) de carreira.
 
 ## Alguns links para me conhecer melhor
 
-[LinkedIn](https://br.linkedin.com/in/rodrigohgpontes)
-[Twitter](twitter.com/sousoneca)
+- [LinkedIn](https://br.linkedin.com/in/rodrigohgpontes)
+- [Twitter](twitter.com/sousoneca)

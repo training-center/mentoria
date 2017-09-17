@@ -22,5 +22,5 @@ Resumo da ópera: me estabilizar profissionalmente/financeiramente e ter o praze
 -  [Facebook](https://www.facebook.com/vinicius.azevedo.775)
 -  [Medium](https://medium.com/@viniazvd/)
 -  [LinkedIn](https://www.linkedin.com/in/vinicius-azevedo-a5a226100/)
--  [Github ](https://github.com/viniazvd)
+-  [Github](https://github.com/viniazvd)
 

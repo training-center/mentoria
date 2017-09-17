@@ -8,4 +8,5 @@ Lucas Gabriel Pereira Cavalheiro
 Um grande: Me tornar Java Web Full Stack
 
 ## Alguns links para me conhecer melhor
-[Facebook](https://www.facebook.com/luckagabriel)
+
+- [Facebook](https://www.facebook.com/luckagabriel)

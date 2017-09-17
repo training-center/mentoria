@@ -12,6 +12,5 @@ Ser um bom desenvolvedor beck-end e trabalhar  na área como contratado ou free 
 
 ## Alguns links para me conhecer melhor:
 
-
-[Facebook](https://www.facebook.com/wwgtoliveira)
-[Github](https://github.com/wgtoliveira)
+- [Facebook](https://www.facebook.com/wwgtoliveira)
+- [Github](https://github.com/wgtoliveira)
