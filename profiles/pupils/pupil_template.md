@@ -1,6 +1,6 @@
-# Template de perfil de Pupilo(a)
+# Template de perfil de Mentorado(a)
 
-Template para cadastramento de perfis dos Pupilos(as).
+Template para cadastramento de perfis dos Mentorados(as).
 
 ```
 # Mentor(a) responsável por mim
@@ -23,5 +23,5 @@ Adicione qual seu sonho de carreira aqui.
 
 - [LinkedIn](link)
 
-- [Email](email)
+- [Email](mailto:seu@email.com)
 ```

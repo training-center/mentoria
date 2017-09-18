@@ -25,7 +25,7 @@ Nós esperamos que você leia esse documento sobre como funciona o projeto Mento
 - [Como funciona](#como-funciona)
 - [O que é um(a) Mentor(a)](#o-que-é-uma-mentora)
 - [Nossos Mentores(as)](#nossos-mentoresas)
-- [Nossos Pupilos(as)](#nossos-pupilosas)
+- [Nossos Mentorados(as)](#nossos-mentoradosas)
 - [Quero ser Mentor(a)](#quero-ser-mentora)
 - [Preciso de um(a) Mentor(a)](#preciso-de-uma-mentora)
 - [Regras de conduta](#regras-de-conduta)
@@ -79,7 +79,7 @@ Todos aqui envolvidos devem buscar ser auto-gerenciáveis e ambas as partes deve
 
 [Lista dos Mentores(as)](profiles/mentors)
 
-## Nossos Pupilos(as)
+## Nossos Mentorados(as)
 
 [Lista de quem já recebe ajuda de algum Mentor(a)](profiles/pupils)
 
@@ -95,11 +95,11 @@ Assim que o seu PR for analisado e aprovado pelos outros mentores e mentoras e a
 
 Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1). Porém não tenha medo, nossos maiores critérios são sua vontade de ajudar, como trata outras pessoas e disponibilidade.
 
-**Numero mínimo e máximo de pupilos(as)**
+**Numero mínimo e máximo de mentorados(as)**
 
 Cada mentor(a) deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
-É de extrema importância que você nos informe, sempre, se está tendo problemas com o(a) pupilo(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) ou avisar em nosso grupo privado no [Telegram](https://telegram.me/).
+É de extrema importância que você nos informe, sempre, se está tendo problemas com o(a) mentorado(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) ou avisar em nosso grupo privado no [Telegram](https://telegram.me/).
 
 Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
 
@@ -116,7 +116,7 @@ Aproveite para tirar algumas dúvidas no artigo ["Dicas para novos mentores(as)"
 1. Você abre um PR
 2. Os [mentores e mentoras](profiles/mentors) e [moderadores(as)](admin/MODERATORS.md) avaliam seu perfil
 3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar nessa ORG, no nosso [Slack](https://ctgroups.herokuapp.com/) e em nosso board no Trello
-4. Entre no nosso board no Trello para procurar candidatos a pupilos e pupilas e entrar em contato com eles
+4. Entre no nosso board no Trello para procurar candidatos a mentorados e mentoradas e entrar em contato com eles
 5. No board, de uma olhada nos cards que estão na primeira coluna, são os cards que lhe servirão de guia sobre como tudo funciona no nosso Trello
 
 A escolha por ajudar alguém deve partir de você com base nos seus critérios como tempo disponível para ajudar e tempo que a pessoa precisa de ajuda, skills que a pessoa busca e os que você possui, compatibilidade de personalidade com a pessoa, etc.
@@ -125,7 +125,7 @@ OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [
 
 ## Preciso de um(a) Mentor(a)
 
-Primeiro leia as [responsabilidades de um(a) pupilo(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [esse formulário](http://bit.ly/preciso-de-mentoria) e aguardar o contato de algum mentor ou mentora.
+Primeiro leia as [responsabilidades de um(a) mentorado(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [esse formulário](http://bit.ly/preciso-de-mentoria) e aguardar o contato de algum mentor ou mentora.
 
 Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue aqui para esclarecimento ou perguntar no canal `#mentoria-project` no nosso [Slack](https://ctgroups.herokuapp.com/).
 
@@ -143,26 +143,26 @@ Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que 
 
 É de sua responsabilidade a comunicação com seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa comunicação, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
 
-Não se esqueça de ler as [Dicas para novos(as) pupilos(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a).
+Não se esqueça de ler as [Dicas para novos(as) mentorados(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a).
 
 **Resumindo**
 
 1. Você responde [nosso formulário](http://bit.ly/preciso-de-mentoria) e aguarda o contato de um mentor ou de uma mentora
 2. Se tudo deu certo, você poderá adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
-3. Atualize o [README.md](/profiles/pupils/README.md) da pasta pupilos com o link para o seu perfil
+3. Atualize o [README.md](/profiles/pupils/README.md) da pasta mentorados com o link para o seu perfil
 4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
 
 OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 ## Regras de conduta
 
-Temos regras de conduta para o(a) **mentor(a)** e para o(a) **pupilo(a)**, leia as regras [aqui](admin/CONDUTA.md) antes de assumir qualquer responsabilidade.
+Temos regras de conduta para o(a) **mentor(a)** e para o(a) **mentorado(a)**, leia as regras [aqui](admin/CONDUTA.md) antes de assumir qualquer responsabilidade.
 
 ## Mantenha o contato conosco
 
-Durante o processo de auxílio ao pupilo(a) podem aparecer problemas como: abandono por parte do pupilo,  por parte do mentor ou mesmo mal convívio entre ambos. Caso algo esteja indo mal, avise-nos!
+Durante o processo de auxílio ao mentorado(a) podem aparecer problemas como: abandono por parte do mentorado,  por parte do mentor ou mesmo mal convívio entre ambos. Caso algo esteja indo mal, avise-nos!
 
-Precisamos que mentores(as) e pupilos(as) estejam no nosso [Slack](https://ctgroups.herokuapp.com/) para que haja comunicação entre organização e participantes/contribuintes, pois qualquer problema entre vocês deve ser tratado. Não queremos causar problemas para nenhuma das partes.
+Precisamos que mentores(as) e mentorados(as) estejam no nosso [Slack](https://ctgroups.herokuapp.com/) para que haja comunicação entre organização e participantes/contribuintes, pois qualquer problema entre vocês deve ser tratado. Não queremos causar problemas para nenhuma das partes.
 
 ## Desejo contribuir financeiramente
 

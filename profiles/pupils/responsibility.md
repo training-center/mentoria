@@ -1,6 +1,6 @@
-# Responsabilidades do Pupilo
+# Responsabilidades do Mentorado
 
-Como Pupilo:
+Como Mentorado:
 
 * Você deve seguir o [código de conduta](/admin/CONDUTA.md)
 * Você deve criar seu [perfil](/pupils) nesse repositório seguindo o [template](/profiles/pupils/pupil_template.md)
@@ -9,6 +9,6 @@ Como Pupilo:
 
 *Observações*
 
-**1:** Caso você passe duas semanas sem atualizar seu(sua) Mentor(a), ele(a) poderá "abandonar" o trabalho contigo e mudar para outro(a) pupilo(a).
+**1:** Caso você passe duas semanas sem atualizar seu(sua) Mentor(a), ele(a) poderá "abandonar" o trabalho contigo e mudar para outro(a) mentorado(a).
 Se você precisar se ausentar por algum tempo, pode avisar seu(sua) Mentor(a), então não precisará enviar o email.
 O importante é manter a comunicação entre vocês.
