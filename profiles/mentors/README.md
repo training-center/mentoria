@@ -40,6 +40,7 @@
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
 * [Dener Rocha](profiles/dener_rocha.md)
+* [Felipe Andrade](profiles/felipe_andrade.md)
 
 ## Delphi
 
