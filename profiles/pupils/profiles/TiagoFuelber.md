@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Jessuir Cleydson](/mentores/perfis/jessuir_cleydson.md)
+[Jessuir Cleydson](/profiles/mentors/profiles/jessuir_cleydson.md)
 
 ## Meu Nome
 
@@ -13,6 +13,6 @@ Tiago Saft Fuelber
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/tiago.fuelber)
-[Twitter](https://twitter.com/TiagoSaft)
-[LinkedIn](https://br.linkedin.com/in/tiagofuelber)
+- [Facebook](https://www.facebook.com/tiago.fuelber)
+- [Twitter](https://twitter.com/TiagoSaft)
+- [LinkedIn](https://br.linkedin.com/in/tiagofuelber)

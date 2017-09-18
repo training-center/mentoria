@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Giovanni Cruz](/mentores/perfis/giovannicruz97.md)
+[Giovanni Cruz](/profiles/mentors/profiles/giovannicruz97.md)
 
 ## Meu Nome
 
@@ -14,3 +14,6 @@ Migrar para área de desenvolvimento e futuramente morar no exterior e viver de 
 
 facebook.com/vmaciell07
 twitter.com/vmaciel7
+
+- [Facebook](https://facebook.com/vmaciell07)
+- [Twitter](https://twitter.com/vmaciel7)

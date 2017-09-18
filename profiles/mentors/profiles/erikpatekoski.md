@@ -19,4 +19,4 @@ Mentor para QA's e Automatizadores
 
 Manda salve nas redes sociais :)
 
-## Pupilos do Mentor Érik Patekoski
+## Mentorados(as)

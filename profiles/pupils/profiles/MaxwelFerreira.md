@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wilson Campos Gomes](/mentores/perfis/wilson_campos.md)
+[Wilson Campos Gomes](/profiles/mentors/profiles/wilson_campos.md)
 
 ## Meu Nome
 
@@ -12,5 +12,5 @@ Quero me tornar um desenvolvedor full stack e ajudar a comunidade.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/maxwel.ferreira.58)
-[Twitter](https://twitter.com/maxwelfe04)
+- [Facebook](https://www.facebook.com/maxwel.ferreira.58)
+- [Twitter](https://twitter.com/maxwelfe04)

@@ -1,16 +1,18 @@
 # Mentor
 
-## Anderson Juhasc
+## Nome
+
+Anderson Juhasc
+
+## Perfil
+
+Mentor para Desenvolvedores Bitcoin e Blockchain
 
 Desenvolvedor Full-stack e Blockchain Engineer, administrador e mentor no grupo [Bitcoin Brasil Desenvolvedores](https://www.facebook.com/groups/btcbrdev), ajudei a orientar vários desenvolvedores na área de desenvolvimento com bitcoin e blockchain. Trabalho desde 2009 como desenvolvedor e comecei a focar na área de bitcoin e blockchain desde 2013, sou um profissional autodidata.
 
 Montei algumas startups: [BitVagas](https://bitvagas.com/) e [Pague.nu](https://pague.nu/)
 
 Especialidades: HTML, CSS, JS, Node.js, Bitcoin e Blockchain
-
-## Perfil
-
-Mentor para Desenvolvedores Bitcoin e Blockchain
 
 ## Links
 
@@ -23,4 +25,8 @@ Mentor para Desenvolvedores Bitcoin e Blockchain
 
 Endereço bitcoin: 32hDGBp6CnVEuFBSQ9Xn9kfj3Z12XZFzFv ou mande um abraço para ele no email anderson.juhasc@gmail.com ou nas redes sociais.
 
-## Pupilos de Anderson Juhasc
+## Mentorados(as)
+
+* [Rafael Dias](/profiles/pupils/profiles/rafaeldias.md)
+* [André Ferreira](/profiles/pupils/profiles/AndreFerreira.md)
+* [Murilo Marchesi](/profiles/pupils/profiles/MuriloMarchesi.md)

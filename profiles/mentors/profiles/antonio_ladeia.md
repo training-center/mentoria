@@ -21,5 +21,4 @@ Mentor para Desenvolvedores Backend
 
 Mande um abraço para ele nas redes sociais.
 
-## Pupilos do Mentor da Sila Souza
-
+## Mentorados(as)

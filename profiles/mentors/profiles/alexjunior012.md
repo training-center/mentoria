@@ -6,10 +6,9 @@ Alex Junior
 
 ## Perfil
 
-Meu nome é Alex Junior, trabalho atualmente como Analista Programador PHP, mas atuo como desenvolvedor full stack.<br>
-Possuo 4 anos de experiencia com desenvolvimento, mesclando front-end com back-end.<br>
+Meu nome é Alex Junior, trabalho atualmente como Analista Programador PHP, mas atuo como desenvolvedor full stack.  
+Possuo 4 anos de experiencia com desenvolvimento, mesclando front-end com back-end.  
 Estou cursando 7º semestre de Ciência da Computação.
-
 
 ## Links
 
@@ -24,6 +23,6 @@ Estou cursando 7º semestre de Ciência da Computação.
 
 Só adicionar nas redes sociais, mandar um abraço e repassar o conhecimento adquirido.
 
-## Pupilos(as) do Alex Junior  
-[Romário Coimbra](/pupilos/perfis/RomarioCoimbra.md)
+## Mentorados(as)
 
+[Romário Coimbra](/profiles/pupils/profiles/RomarioCoimbra.md)

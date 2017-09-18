@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wilson Campos Gomes](/mentores/perfis/wilson_campos.md)
+[Wilson Campos Gomes](/profiles/mentors/profiles/wilson_campos.md)
 
 ## Meu Nome
 
@@ -12,5 +12,5 @@ Quero ser um desenvolvedor front-end fullstack, com fortes competências na part
 
 ## Alguns links para me conhecer melhor
 
-[Linkedin](https://br.linkedin.com/in/allangabrielrds)
-[Facebook](https://www.facebook.com/allangabrielrds)
+- [Linkedin](https://br.linkedin.com/in/allangabrielrds)
+- [Facebook](https://www.facebook.com/allangabrielrds)

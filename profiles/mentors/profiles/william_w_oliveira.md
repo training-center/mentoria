@@ -19,6 +19,17 @@ Mentor para Desenvolvedores Front End e Back End (Full Stack)
 
 Mande um abraço para ele no email sudowilliam@gmail.com ou nas redes sociais.
 
-## Pupilos do William
+## Mentorados(as)
 
-Nenhum no momento
+- [Bruno Martins](/profiles/pupils/profiles/Bruno_Martins.md)
+- [Celso Lopes](/profiles/pupils/profiles/CelsoLopes.md)
+- [Eric Madureira](/profiles/pupils/profiles/EricMadureira.md)
+- [Jonatan Vianna](/profiles/pupils/profiles/jonatan_vianna.md)
+- Késsia Castro
+- [Raul de Melo](/profiles/pupils/profiles/RaulFelipeDeMelo.md)
+- Rafael Gonçalves
+- [Rafael Nogueira](/profiles/pupils/profiles/rafaelnsilva.md)
+- Victor Carli
+- Rafael Dias
+- [Richard Manzoli](/profiles/pupils/profiles/RichardManzoli.md)
+- Washington Oliveira

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Fernando Moreira](/mentores/perfis/fernando_moreira.md)
+[Fernando Moreira](/profiles/mentors/profiles/fernando_moreira.md)
 
 ## Meu Nome
 
@@ -12,8 +12,6 @@ Atualmente trabalho com design gráfico, mas quero me especializar na área de U
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/poleandr)
-
-[Behance](https://www.behance.net/polyandrade)
-
-[LinkedIn](https://www.linkedin.com/in/polyandrade/)
+- [Facebook](https://www.facebook.com/poleandr)
+- [Behance](https://www.behance.net/polyandrade)
+- [LinkedIn](https://www.linkedin.com/in/polyandrade/)

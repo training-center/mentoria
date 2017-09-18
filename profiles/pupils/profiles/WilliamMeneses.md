@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Dorian Neto](/mentores/perfis/dorian_neto.md)
+[Dorian Neto](/profiles/mentors/profiles/dorian_neto.md)
 
 ## Meu Nome
 
@@ -14,8 +14,6 @@ William Meneses
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do William Meneses](https://www.facebook.com/williameneses)
-
-[Twitter do William Meneses](https://twitter.com/JwilliamAnjos)
-
-[GitHub do William Meneses](https://github.com/WilliamMeneses)
+- [Facebook](https://www.facebook.com/williameneses)
+- [Twitter](https://twitter.com/JwilliamAnjos)
+- [GitHub](https://github.com/WilliamMeneses)

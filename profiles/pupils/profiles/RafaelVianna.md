@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Gustavo Godoi](/mentores/perfis/gustavo_godoi.md)
+[Gustavo Godoi](/profiles/mentors/profiles/gustavo_godoi.md)
 
 ## Meu Nome
 
@@ -12,5 +12,5 @@ Me aperfeiçoar como desenvolvedor front end, e futuramente me tornar fullstack
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/rafael.ferreira.1806)
-[LinkedIn](https://www.linkedin.com/in/rafael-ferreira-52009996?trk=nav_responsive_tab_profile)
+- [Facebook](https://www.facebook.com/rafael.ferreira.1806)
+- [LinkedIn](https://www.linkedin.com/in/rafael-ferreira-52009996)

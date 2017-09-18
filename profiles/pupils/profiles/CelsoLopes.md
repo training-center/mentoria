@@ -12,5 +12,5 @@ Ser um bom desenvolvedor fullstack e trabalhar em start-up ou ter uma carteira d
 
 ## Alguns links para me conhecer melhor
 
-[Github](https://github.com/celsodavid)
-[LinkedIn](https://www.linkedin.com/in/celso-david-lopes-dos-santos)
+- [Github](https://github.com/celsodavid)
+- [LinkedIn](https://www.linkedin.com/in/celso-david-lopes-dos-santos)

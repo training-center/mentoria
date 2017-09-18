@@ -19,10 +19,10 @@ Mentora para desenvolvedores(as) Front End
 
 "Chega junto" nas redes sociais e manda um abraço.  
 
-## Pupilos(as) da Andréa Zambrana  
+## Mentorados(as)
 
-[Ítalo Bessa](/pupilos/perfis/italobessa.md)  
-[Josélia Costa](/pupilos/perfis/JoseliaCosta.md)  
-[Laryssa Rocha](/pupilos/perfis/laryro.md)  
-[Luccas Candido](/pupilos/perfis/LucasCandido.md)  
-[Paulo Pereira dos Anjos](/pupilos/perfis/paulopereiradosanjos.md)  
+[Ítalo Bessa](/profiles/pupils/profiles/italobessa.md)  
+[Josélia Costa](/profiles/pupils/profiles/JoseliaCosta.md)  
+[Laryssa Rocha](/profiles/pupils/profiles/laryro.md)  
+[Luccas Candido](/profiles/pupils/profiles/LucasCandido.md)  
+[Paulo Pereira dos Anjos](/profiles/pupils/profiles/paulopereiradosanjos.md)  
