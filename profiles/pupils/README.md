@@ -80,6 +80,7 @@
 - [Leandro Fialho](profiles/leandro_fialho.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
 - [Leonardo Maturano](profiles/LeonardoMaturano.md)
+- [Leonardo Santos Monteiro](profiles/LeonardoSantosMonteiro.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Leonardo de Souza Faria](profiles/leonardofaria.md)
 - [Letícia Costa](profiles/LeticiaCosta.md)

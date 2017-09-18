@@ -12,5 +12,5 @@ Quero me tornar uma desenvolvedora front-end, que tem entende bem de html, css, 
 
 ## Alguns links para me conhecer melhor
 
-[Linkedin](https://www.linkedin.com/in/mayara-pimentel-497a8630)
-[Facebook](https://www.facebook.com/mayaraluck)
+- [Linkedin](https://www.linkedin.com/in/mayara-pimentel-497a8630)
+- [Facebook](https://www.facebook.com/mayaraluck)

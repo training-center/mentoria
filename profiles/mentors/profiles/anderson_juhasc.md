@@ -25,7 +25,7 @@ Especialidades: HTML, CSS, JS, Node.js, Bitcoin e Blockchain
 
 Endereço bitcoin: 32hDGBp6CnVEuFBSQ9Xn9kfj3Z12XZFzFv ou mande um abraço para ele no email anderson.juhasc@gmail.com ou nas redes sociais.
 
-## Pupilos de Anderson Juhasc
+## Mentorados(as)
 
 * [Rafael Dias](/profiles/pupils/profiles/rafaeldias.md)
 * [André Ferreira](/profiles/pupils/profiles/AndreFerreira.md)

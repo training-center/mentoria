@@ -12,7 +12,7 @@ Me tornar um desenvolvedor back-end reconhecido, versátil e competente
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/mh.matheussouza)
-[Twitter](https://twitter.com/mh_matheussouza)
-[LinkedIn](https://www.linkedin.com/in/matheushsouza)
-[GitHub](https://www.github.com/matheus-souza)
+- [Facebook](https://www.facebook.com/mh.matheussouza)
+- [Twitter](https://twitter.com/mh_matheussouza)
+- [LinkedIn](https://www.linkedin.com/in/matheushsouza)
+- [GitHub](https://www.github.com/matheus-souza)

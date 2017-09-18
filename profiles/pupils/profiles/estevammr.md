@@ -12,4 +12,4 @@ Ser um desenvolvedor back end e ajudar as pessoas que estão iniciando e tem o m
 
 ## Alguns links para me conhecer melhor
 
-[LinkedIn](https://www.linkedin.com/in/estevamrodrigues/)
+- [LinkedIn](https://www.linkedin.com/in/estevamrodrigues/)

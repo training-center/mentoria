@@ -12,7 +12,7 @@ Quero participar ativamente de uma comunidade que compartilhe experiências e id
 
 ## Alguns links para me conhecer melhor
 
-* [Site Pessoal](http://twobanks.github.io/)
-* [Facebook](https://www.facebook.com/twobanks)
-* [Twitter](https://twitter.com/thbanks)
-* [LinkedIn](https://www.linkedin.com/in/thiago-gon%C3%A7alves-19867a84)
+- [Site Pessoal](http://twobanks.github.io/)
+- [Facebook](https://www.facebook.com/twobanks)
+- [Twitter](https://twitter.com/thbanks)
+- [LinkedIn](https://www.linkedin.com/in/thiago-gon%C3%A7alves-19867a84)

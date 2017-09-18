@@ -18,7 +18,6 @@ Dominio basico do inglês e portugues, meu idioma oficial e Espanhol
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/osmar.luc)
-
-[Twitter](https://twitter.com/osmar_luc)
+- [Facebook](https://www.facebook.com/osmar.luc)
+- [Twitter](https://twitter.com/osmar_luc)
 

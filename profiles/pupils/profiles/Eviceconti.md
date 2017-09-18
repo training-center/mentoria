@@ -12,4 +12,4 @@ Quero conseguir um emprego como Front-End
 
 ## Alguns links para me conhecer melhor 
 
-[Twitter](https://mobile.twitter.com/vicecontie)
+- [Twitter](https://mobile.twitter.com/vicecontie)
