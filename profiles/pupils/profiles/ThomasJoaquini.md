@@ -13,11 +13,7 @@ Me tornar desenvolvedor front-end com profundo conhecimento em JavaScript e, que
 ## Alguns links para me conhecer melhor
 
 - [Facebook](https://www.facebook.com/tho.joaquini)
-
 - [Twitter](https://twitter.com/tjoaquini)
-
 - [LinkedIn](https://www.linkedin.com/in/thomasjoaquini)
-
 - [GitHub](https://github.com/tjoaquini)
-
 - [Email](mailto:thomas.joaquini@gmail.com)
