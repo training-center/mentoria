@@ -36,12 +36,12 @@ Sou voluntário e membro ativo da comunidade [PHP com Rapadura](http://phpcomrap
 
 ou mande um abraço para ele no email doriansampaioneto@gmail.com ou nas redes sociais.
 
-## Pupilos
+## Mentorados(as)
 
 - [Iago Queiroz](/profiles/pupils/profiles/IagoQueiroz.md)
 - [Ismael Costa](/profiles/pupils/profiles/ismaelirc.md)
 
-### Últimos pupilos
+### Últimos mentorados(as)
 - [Alex Santana Barazal](/profiles/pupils/profiles/AlexBarazal.md)
 - [William Meneses](/profiles/pupils/profiles/WilliamMeneses.md)
 - [Fernando Martins](/profiles/pupils/profiles/FernandoMartins.md)

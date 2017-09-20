@@ -10,6 +10,7 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Back End
 
@@ -38,11 +39,14 @@
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
+* [Dener Rocha](profiles/dener_rocha.md)
+* [Felipe Andrade](profiles/felipe_andrade.md)
 
 ## Delphi
 
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
 
@@ -53,6 +57,7 @@
 * [Alex Junior](profiles/alexjunior012.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Felipe Orlando](profiles/felipe_orlando.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
@@ -93,6 +98,7 @@
 * [Danilo Vaz](profiles/danilo_vaz.md)
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
+* [Felipe Orlando](profiles/felipe_orlando.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
 * [Fernando Fleury](profiles/fernando_fleury.md)
@@ -131,8 +137,9 @@
 
 ## Agile e Startups
 
-* [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Evaldo Barbosa](profiles/evaldo-barbosa.md)
 * [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Python
 

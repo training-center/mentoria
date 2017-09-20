@@ -12,5 +12,5 @@ Quero ser uma profissional de TI completa e competente
 
 ## Alguns links para me conhecer melhor
 
-* [LinkedIn](https://www.linkedin.com/in/ingrid-martins-356ab412b/)
-* [GitHub](https://github.com/imingrid)
+- [LinkedIn](https://www.linkedin.com/in/ingrid-martins-356ab412b/)
+- [GitHub](https://github.com/imingrid)

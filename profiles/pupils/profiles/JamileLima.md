@@ -12,4 +12,4 @@ Me aprofundar no Desenvolvimento Web e poder fazer a diferença na comunidade. :
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/fromgenes)
+- [Twitter](https://twitter.com/fromgenes)

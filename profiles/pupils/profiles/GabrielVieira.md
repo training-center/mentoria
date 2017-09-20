@@ -12,5 +12,5 @@ Meu objetivo é me tornar um programador PHP profissional!
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/gabriel.vieirateodoro)
-[LinkedIn](https://www.linkedin.com/in/gabriel-vieira-teodoro-b60932a7?trk=nav_responsive_tab_profile_pic)
+- [Facebook](https://www.facebook.com/gabriel.vieirateodoro)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-vieira-teodoro-b60932a7?trk=nav_responsive_tab_profile_pic)

@@ -22,7 +22,7 @@ estudo de forma autodidata campos da ciência da computação, arquitetura de so
 
 Mande um upa para matmarsiglio@gmail.com ou nas redes sociais.
 
-## Pupilos
+## Mentorados(as)
 
 * [Luan Vicente](/profiles/pupils/profiles/luan_vicente.md)
 * [Luiz Lázaro](/profiles/pupils/profiles/LuizLazaro.md)

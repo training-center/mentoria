@@ -1,4 +1,4 @@
-# Lista de Pupilos
+# Lista de Mentorados
 
 - [Adelmo Junior](profiles/AdelmoJunior.md)
 - [Adeonir Kohl](profiles/AdeonirKohl.md)
@@ -80,6 +80,7 @@
 - [Leandro Fialho](profiles/leandro_fialho.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
 - [Leonardo Maturano](profiles/LeonardoMaturano.md)
+- [Leonardo Santos Monteiro](profiles/LeonardoSantosMonteiro.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Leonardo de Souza Faria](profiles/leonardofaria.md)
 - [Letícia Costa](profiles/LeticiaCosta.md)
@@ -131,7 +132,7 @@
 - [Rafael Araujo Dias](profiles/rafaeldias.md)
 - [Rafael Ferreira Vianna](profiles/RafaelVianna.md)
 - [Rafael Martins dos Santos](profiles/rafaelmartinsja.md)
-- [Rafael Nogueira Silva](profiles/rafaelnsilva)
+- [Rafael Nogueira Silva](profiles/rafaelnsilva.md)
 - [Rafael Santana da Silva](profiles/RafaelSantana.md)
 - [Rafaela Cassiano Campos](profiles/Rafaela_Cassiano_Campos.md)
 - [Raquel Andrello Formagin da Luz](profiles/RaquelAFLuz.md)
@@ -152,6 +153,7 @@
 - [Thiago Gonçalves (twobanks)](profiles/twobanks.md)
 - [Thiago Morastico Cruz](profiles/ThiagoMorasticoCruz.md)
 - [Thiago Phillip](profiles/ThiagoPhillip.md)
+- [Thomas Joaquini](profiles/ThomasJoaquini.md)
 - [Vicente Martins](profiles/vicentimartins.md)
 - [Victor Copque](profiles/victorcopque.md)
 - [Victor Grossi](profiles/VictorGrossi.md)
