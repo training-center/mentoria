@@ -26,7 +26,7 @@ Git
 
 ## Alguns links para me conhecer melhor
 
-- [Facebook](facebook.com/vmaciell07)
-- [LinkedIn](linkedin.com/in/vmaciel7/)
+- [Facebook](https://www.facebook.com/vmaciel07)
+- [LinkedIn](https://www.linkedin.com/in/vmaciel7/)
 - [GitHub](https://github.com/vmaciel7)
 - [Email](mailto:victor.maciel07@hotmail.com)
