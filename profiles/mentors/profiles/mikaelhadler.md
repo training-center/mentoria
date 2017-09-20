@@ -14,7 +14,8 @@ Mentor para Desenvolvedores Front End e opensource life style.
 
 ## Mentorados(as)
 
-- [Matheus Mazeto](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/matheus_mazeto.md)
+- [Matheus Mazeto](/profiles/pupils/profiles/matheus_mazeto.md)
+- [Thomas Joaquini](/profiles/pupils/profiles/ThomasJoaquini.md)
 
 ## Gostaria de retribuir a ajuda do(a) [Mikael Hadler]?
 
