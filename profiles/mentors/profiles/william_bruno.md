@@ -20,7 +20,7 @@ William Bruno é desenvolvedor web apaixonado por boas práticas e design patter
 
 Mande um abraço para ele no email wbrunom@gmail.com ou nas redes sociais.
 
-## Pupilos William Bruno
+## Mentorados(as)
 
 * [Renê Soares](/profiles/pupils/profiles/renesoares.md)
 * [Gabriel Ferreira](/profiles/pupils/profiles/gabriel_ferreira.md)

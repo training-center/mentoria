@@ -12,4 +12,4 @@ Ser um Desenvolvedor Jedi nos paranauês do Frontend! :smile:
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/Marcos.abb10)
+- [Facebook](https://www.facebook.com/Marcos.abb10)

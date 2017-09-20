@@ -8,12 +8,12 @@ Jonatan Vianna da Silva
 
 ## Qual meu sonho na carreira?
 
-Ter conhecimento e experiência para trabalhar como dev em projetos legais.<br />
-Ajudar pessoas a se desenvolverem.<br />
-Poder trabalhar remoto / freelance.<br />
+Ter conhecimento e experiência para trabalhar como dev em projetos legais.  
+Ajudar pessoas a se desenvolverem.  
+Poder trabalhar remoto / freelance.  
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://facebook.com/jonatan.vianna)
-[Twitter](https://twitter.com/jonatanvianna)
-[LinkedIn](https://linkedin.com/in/jonatanvianna/)
+- [Facebook](https://facebook.com/jonatan.vianna)
+- [Twitter](https://twitter.com/jonatanvianna)
+- [LinkedIn](https://linkedin.com/in/jonatanvianna/)

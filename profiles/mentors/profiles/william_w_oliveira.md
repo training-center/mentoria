@@ -19,7 +19,7 @@ Mentor para Desenvolvedores Front End e Back End (Full Stack)
 
 Mande um abraço para ele no email sudowilliam@gmail.com ou nas redes sociais.
 
-## Pupilos do William
+## Mentorados(as)
 
 - [Bruno Martins](/profiles/pupils/profiles/Bruno_Martins.md)
 - [Celso Lopes](/profiles/pupils/profiles/CelsoLopes.md)

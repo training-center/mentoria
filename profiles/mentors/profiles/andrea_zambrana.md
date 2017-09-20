@@ -19,7 +19,7 @@ Mentora para desenvolvedores(as) Front End
 
 "Chega junto" nas redes sociais e manda um abraço.  
 
-## Pupilos(as) da Andréa Zambrana  
+## Mentorados(as)
 
 [Ítalo Bessa](/profiles/pupils/profiles/italobessa.md)  
 [Josélia Costa](/profiles/pupils/profiles/JoseliaCosta.md)  

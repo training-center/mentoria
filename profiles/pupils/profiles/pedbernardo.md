@@ -8,10 +8,7 @@ Pedro Bernardo
 
 ## Alguns links para me conhecer melhor
 
-> **FB**: [facebook.com/pedrovbernardo](http://facebook.com/pedrovbernardo)
-
-> **Twitter**: [twitter.com/pedbernardo](http://twitter.com/pedbernardo)
-
-> **Codepen**: [codepen.io/pedbernardo](http://codepen.io/pedbernardo)
-
-> **Email**: pedrovbernardo@gmail.com
+- [Codepen](http://codepen.io/pedbernardo)
+- [Twitter](http://twitter.com/pedbernardo)
+- [Facebook](http://facebook.com/pedrovbernardo)
+- [Email](mailto:pedrovbernardo@gmail.com)

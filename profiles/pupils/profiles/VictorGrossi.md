@@ -12,4 +12,4 @@ Aprender e contribuir.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/victor.grossi.14)
+- [Facebook](https://www.facebook.com/victor.grossi.14)

@@ -12,6 +12,6 @@ Sonho em montar meu proprio negócio e ou fazer parte de uma startup, home offic
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/ThivieiraTAV)
-[Twitter](https://twitter.com/thivieiratav)
-[LinkedIn](https://www.linkedin.com/in/thivieiratav)
+- [Facebook](https://www.facebook.com/ThivieiraTAV)
+- [Twitter](https://twitter.com/thivieiratav)
+- [LinkedIn](https://www.linkedin.com/in/thivieiratav)

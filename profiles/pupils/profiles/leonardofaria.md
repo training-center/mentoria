@@ -12,4 +12,4 @@ Atuar no mercado como Front-end e contruir minha carreira com base nisso.
 
 ## Alguns links para me conhecer melhor
 
-[GitHub](https://www.github.com/lecoleco45)
+- [GitHub](https://www.github.com/lecoleco45)

@@ -21,6 +21,6 @@ Quero ser mentor pra ajudar principalmente quem está iniciando na carreira com 
 
 Mande um tweet, apareça num meetup, mande um emoji e tamo junto!
 
-## Pupilos do Ramon Sanches
+## Mentorados(as)
 
 Nenhum :(

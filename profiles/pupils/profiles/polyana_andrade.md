@@ -12,8 +12,6 @@ Atualmente trabalho com design gráfico, mas quero me especializar na área de U
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/poleandr)
-
-[Behance](https://www.behance.net/polyandrade)
-
-[LinkedIn](https://www.linkedin.com/in/polyandrade/)
+- [Facebook](https://www.facebook.com/poleandr)
+- [Behance](https://www.behance.net/polyandrade)
+- [LinkedIn](https://www.linkedin.com/in/polyandrade/)

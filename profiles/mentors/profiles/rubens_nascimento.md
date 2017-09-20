@@ -24,4 +24,4 @@ Gosto muito de lecionar e espero que possa ajudar diversas pessoas :)
 
 Manda um "olá" pelas redes sociais ou pelo e-mail.
 
-## Pupilos do Rubens Pereira do Nascimento
+## Mentorados(as)

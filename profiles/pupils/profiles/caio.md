@@ -10,13 +10,12 @@ Caio Flávio
 
 Meu sonho é criar algo de útil, utilizando os conhecimentos de programação e matemática.
 
-#Conhecimentos
+## Conhecimentos
+
 Conheço pouco sobre as linguagens, porém tenho facilidade de aprender, meu foco tem sido PHP devido ao trabalho que estou realizando.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Caio FLavio](https://www.facebook.com/kaioflavioo)
-
-[Twitter do Caio FLavio](https://twitter.com/kaioflavio123)
-
-[GitHub do Caio FLavio](https://github.com/CaioFlavio)
+- [Facebook](https://www.facebook.com/kaioflavioo)
+- [Twitter](https://twitter.com/kaioflavio123)
+- [GitHub](https://github.com/CaioFlavio)
