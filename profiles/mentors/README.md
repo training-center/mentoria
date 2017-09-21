@@ -2,6 +2,13 @@
 
 > Conheça os(as) mentores(as) do projeto.
 
+## Agile e Startups
+
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
+* [Evaldo Barbosa](profiles/evaldo-barbosa.md)
+* [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
+
 ## Android
 
 * [Diego Malone](profiles/diegomalone.md)
@@ -30,6 +37,7 @@
 * [Khauê Viana](profiles/khaue_viana.md)
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
@@ -89,6 +97,10 @@
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
 
+## Elixir e Erlang
+
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
+
 ## Front End
 
 * [Aline Bastos](profiles/aline_bastos.md)
@@ -134,16 +146,16 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
-
-## Agile e Startups
-
-* [Evaldo Barbosa](profiles/evaldo-barbosa.md)
-* [Rafael Koga](profiles/rafael_koga.md)
-* [Dener Rocha](profiles/dener_rocha.md)
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
 
 ## Python
 
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
+
+## QA
+
+* [Érik Patekoski](profiles/erikpatekoski.md)
+* [Lucas Santos](profiles/lucas_santos.md)
 
 ## Segurança
 
@@ -153,7 +165,6 @@
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
 
-## QA
+## Trabalho no Exterior
 
-* [Érik Patekoski](profiles/erikpatekoski.md)
-* [Lucas Santos](profiles/lucas_santos.md)
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
