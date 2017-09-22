@@ -61,6 +61,9 @@
 ## Dot.Net
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
+## Informação Geográfica (GIS)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
+
 ## Desenvolvimento Bitcoin e Blockchain
 
 * [Anderson Juhasc](profiles/anderson_juhasc.md)
