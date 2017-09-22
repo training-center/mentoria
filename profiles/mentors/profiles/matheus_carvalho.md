@@ -13,6 +13,11 @@ Tenho como experiência em minha carreiras, empresas como Optimus GIS e IT, Adva
 
 Conhecimento em : 
 
+* Arquitetura de Sistemas
+* Arquitetura de Projetos
+* Desenvolvimento Modular
+* Desenvolvimento focado em performance
+
 * Javascript Vue.js
 * Javascript Angular 1~4
 * Javascript Knockout.js
@@ -22,9 +27,12 @@ Conhecimento em :
 * Javascript Node e bibliotecas.
 * Javascript ECMA 2017
 * Javascript Task Runners e Ferramentas de Deploy (Gulp, Grunt, Webpack entre outras)
+* Javascript Aplicações Hibridas
 
 * CSS 3
 * CSS SASS
+* CSS Responsivo
+* CSS Mobile First
 
 * C# Dot.Net MVC
 * C# Dot.Net WCF
@@ -33,11 +41,12 @@ Conhecimento em :
 * C# Dot.Net Windows Forms
 * C# Dot.Net Xamarin
 * C# Dot.Net Core
-* C# Dot.Net Entity Framework entre outras ferramentas de Desenvolvimento da Plataforma Dot.Net
+* C# Dot.Net Entity Framework entre outras ferramentas de desenvolvimento da Plataforma Dot.Net
 
 * Java Spring Framework
 * Java Swing
 * Java Hibernate
+* Java Android
 
 * GIS Arcgis API
 * GIS GoogleMaps API
@@ -60,6 +69,6 @@ Conhecimento em :
 
 ## Gostaria de retribuir a ajuda do Matheus?
 
-Me recomende no Linkedin pelas tecnologias com a qual ajudei, depoimentos sempre são bem vindos !
+Me recomende no Linkedin pelas tecnologias pelas quais ajudei, depoimentos sempre são bem vindos !
 
 Mande um salve para mtw.nda@gmail.com ou nas redes sociais!
