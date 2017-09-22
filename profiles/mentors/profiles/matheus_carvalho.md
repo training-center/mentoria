@@ -39,9 +39,16 @@ Conhecimento em :
 * Java Swing
 * Java Hibernate
 
+* GIS Arcgis API
+* GIS GoogleMaps API
+* GIS Leaflet API
+* GIS Teoria de Informações Geográficas
+
 * DB MSSQL
 * DB MYSQL
+* DB Oracle
 * DB PostGreeSQL
+* DB Extensões Geográficas
 
 * Docker
 
