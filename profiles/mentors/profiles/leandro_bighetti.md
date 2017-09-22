@@ -28,4 +28,4 @@ Mande um salve para lbighetti@gmail.com
 
 ## Mentorados(as)
 
-- Mikael Hadler (aka Cabrito)
+- [Mikael Hadler](/profiles/mentors/profiles/mikaelhadler.md)
