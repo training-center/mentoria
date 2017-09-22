@@ -11,7 +11,6 @@ Um projeto para ajudar pessoas em início de carreira (ou não) a irem ao infini
   <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
   <li><a href="https://bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
   <li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
-  <li><a href="https://www.reddit.com/r/trainingcentr/" target="_blank" title="Participe do nosso forum no Reddit">Participe do nosso forum no Reddit</a></li>
 </ul>
 
 Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
