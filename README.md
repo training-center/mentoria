@@ -2,7 +2,7 @@
 
 > Em constante evolução
 
-Um projeto para ajudar pessoas em início de carreira (ou não) a irem ao infinito e além em seus objetivos!
+Uma iniciativa para guiar pessoas em início de carreira, quem almeja seu primeiro emprego na área de desenvolvimento de software ou quem quer evoluir profissionalmente!
 
 <ul>
   <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
@@ -36,23 +36,25 @@ Nós esperamos que você leia esse documento sobre como funciona o projeto Mento
 
 ## O que é o Mentoria
 
-O Mentoria é um projeto com a premissa de unir pessoas com experiência em uma área de atuação com quem deseja entrar nessa área ou precisa melhorar suas habilidades para crescer em sua carreira.
+O Mentoria é uma iniciativa comunitária com a premissa de unir pessoas com experiência em uma área de atuação com quem deseja entrar nessa área ou deseja eveluir profissionalmente.
 
-Queremos ajudar iniciantes a não passarem por certos problemas que nós passamos e também quem já está no mercado e sente necessidade de direcionamento para crescer seu nível profissional.
+Queremos ajudar iniciantes a não passarem por certos problemas que passamos e também quem já está no mercado e sente necessidade de direcionamento para crescer seu nível profissional.
 
-**Não somos coaches**, somos profissionais de mercado que queremos ajudar alguém pelas comunidades afora **em nosso tempo livre**. Por isso tenha paciência, nós respondemos quando temos tempo.
+**Não somos coaches**, somos profissionais de mercado que desejam ajudar alguém pelas comunidades afora **em nosso tempo livre**. Por isso tenha paciência, nós respondemos quando temos tempo.
+
+**Não ministramos cursos**, nós guiamos você para aprender algo de nossa área, porém não é a mesma coisa que fazer um curso específico de tecnologia xyz. Nós tiramos suas dúvidas de carreira e indicamos materiais, porém não damos aulas completas sobre desenvolvimento, design, mobile, etc.
 
 ## Como surgiu o Mentoria
 
-O Mentoria surgiu a partir da ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr). Da uma conferida lá.
+O Mentoria surgiu a partir da ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr). Na issue você consegue entender um pouco mais do por que esse projeto ter nascido.
 
 ## Como funciona
 
-O projeto Mentoria tenta **conectar** pessoas com experiência na áreas de desenvolvimento de software ou áreas relacionadas com pessoas que estão começando e/ou necessitam de alguém para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar experiências.
+O projeto Mentoria visa **conectar** pessoas com experiência na áreas de desenvolvimento de software ou áreas relacionadas com pessoas que estão começando e/ou necessitam de alguém para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar experiências.
 
-Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). Por isso que não temos um processo específico para os(as) mentores(as) seguirem ao auxiliar alguém.
+Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). Por isso não temos um processo específico para os(as) mentores(as) seguirem ao auxiliar alguém.
 
-Caso você tenha dúvida sobre como mentorar alguém, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4)
+Caso você tenha dúvida sobre como mentorar alguém, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4).
 
 ### O que é um(a) Mentor(a)
 
@@ -70,7 +72,7 @@ O(A) mentor(a) faz isso através de **disciplina** contínua das partes envolvid
 
 ~[@danilovaz](https://github.com/training-center/mentoria/issues/1#issuecomment-207592225)
 
-OBS: Ter um(a) mentor(a) não significa ter um **Google** via email, então essa pessoa não vai te dar respostas de problemas para a faculdade/curso/trabalho. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns* pela internet.
+OBS: Ter um(a) mentor(a) não significa ter um **Google** via slack, então essa pessoa não vai te dar respostas de problemas para a faculdade/curso/trabalho. Ele(a) está aqui para ajudar a planejar sua carreira e não para te passar códigos prontos ou tirar dúvidas técnicas que você consegue encontrar em *foruns* pela internet.
 
 Todos aqui envolvidos devem buscar ser auto-gerenciáveis e ambas as partes devem assumir suas responsabilidades com base no código de conduta (link mais abaixo) e manter seu compromisso uns com os outros.
 
@@ -84,13 +86,27 @@ Todos aqui envolvidos devem buscar ser auto-gerenciáveis e ambas as partes deve
 
 ## Quero ser Mentor(a)
 
+**TLDR**
+
+1. Você abre um PR
+2. Os [mentores e mentoras](profiles/mentors) e [moderadores(as)](admin/MODERATORS.md) avaliam seu perfil
+3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar nessa ORG, no nosso [Slack](https://ctgroups.herokuapp.com/) e em nosso board no Trello
+4. Entre no nosso board no Trello para procurar candidatos a mentorados e mentoradas e entrar em contato com eles
+5. No board, de uma olhada nos cards que estão na primeira coluna, são os cards que lhe servirão de guia sobre como tudo funciona no nosso Trello
+
+A escolha por ajudar alguém deve partir de você com base nos seus critérios como tempo disponível para ajudar e tempo que a pessoa precisa de ajuda, skills que a pessoa busca e os que você possui, compatibilidade de personalidade com a pessoa, etc.
+
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato conosco pelo [Slack](https://ctgroups.herokuapp.com/) no canal `#mentoria-project`.
+
+--
+
 Antes de tudo, leia as [responsabilidades do(a) Mentor(a)](profiles/mentors/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como se tornar mentor(a).
 
 Basicamente você só precisa abrir um pull request nesse repositório adicionando seu perfil com os dados necessários conforme esse [nosso template](profiles/mentors/mentor_template.md). Lembre-se que o nome do arquivo deve ser seu nome e sobrenome ou seu usuário do GitHub com a extensão `.md`. Também precisa alterar a nossa lista de [mentores(as)](profiles/mentors) com o link para esse novo arquivo conforme os demais.
 
 Caso você tenha alguma dúvida nesse processo, também pode nos questionar no canal `#mentoria-project` no nosso [Slack](https://ctgroups.herokuapp.com/).
 
-Assim que o seu PR for analisado e aprovado pelos outros mentores e mentoras e admins do projeto, então iremos lhe adicionar em nosso Board no Trello, onde recebemos nossos pedidos de mentoria. Se você não tem usuário no Trello ou não sabe bem como o utilizar, não se preocupe, nós vamos te ajudar com isso.
+Assim que o seu PR for analisado e aprovado pelos outros mentores e mentoras e admins do projeto, então iremos lhe adicionar em nosso Board no Trello, onde recebemos os pedidos de mentoria. Se você não tem usuário no Trello ou não sabe bem como o utilizar, não se preocupe, te ajudaremos com isso.
 
 Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1). Porém não tenha medo, nossos maiores critérios são sua vontade de ajudar, como trata outras pessoas e disponibilidade.
 
@@ -98,7 +114,7 @@ Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do pro
 
 Cada mentor(a) deverá ajudar entre [1 até, **no máximo**, 10 pessoas](https://github.com/training-center/mentoria/issues/2), dependendo de sua disponibilidade, disposição, etc.
 
-É de extrema importância que você nos informe, sempre, se está tendo problemas com o(a) mentorado(a) e para isso você pode entrar em contato com qualquer [moderador](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) ou avisar em nosso grupo privado no [Telegram](https://telegram.me/).
+É de extrema importância que você nos informe, sempre, se está tendo problemas com o(a) mentorado(a) e para isso você pode entrar em contato com qualquer pessoa do nosso projeto ou pelo [Slack](https://ctgroups.herokuapp.com/).
 
 Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
 
@@ -110,27 +126,26 @@ Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
 
 Aproveite para tirar algumas dúvidas no artigo ["Dicas para novos mentores(as)"](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4#.6boq4nwvz)
 
-**Resumindo**
-
-1. Você abre um PR
-2. Os [mentores e mentoras](profiles/mentors) e [moderadores(as)](admin/MODERATORS.md) avaliam seu perfil
-3. Se seu perfil for aprovado, você vira mentor(a) e é convidado a entrar nessa ORG, no nosso [Slack](https://ctgroups.herokuapp.com/) e em nosso board no Trello
-4. Entre no nosso board no Trello para procurar candidatos a mentorados e mentoradas e entrar em contato com eles
-5. No board, de uma olhada nos cards que estão na primeira coluna, são os cards que lhe servirão de guia sobre como tudo funciona no nosso Trello
-
-A escolha por ajudar alguém deve partir de você com base nos seus critérios como tempo disponível para ajudar e tempo que a pessoa precisa de ajuda, skills que a pessoa busca e os que você possui, compatibilidade de personalidade com a pessoa, etc.
-
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/) no canal `#mentoria-project`.
-
 ## Preciso de um(a) Mentor(a)
+
+**TLDR**
+
+1. Você responde [nosso formulário](http://bit.ly/preciso-de-mentoria) e aguarda o contato de um mentor ou de uma mentora
+2. Se tudo deu certo, você poderá adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
+3. Atualize o [README.md](/profiles/pupils/README.md) da pasta mentorados com o link para o seu perfil
+4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada :raised_hands:
+
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato conosco no canal `#mentoria-project` no [Slack](https://ctgroups.herokuapp.com/)
+
+--
 
 Primeiro leia as [responsabilidades de um(a) mentorado(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [esse formulário](http://bit.ly/preciso-de-mentoria) e aguardar o contato de algum mentor ou mentora.
 
 Caso você tenha alguma dúvida quanto ao funcionamento do projeto, pode abrir uma issue aqui para esclarecimento ou perguntar no canal `#mentoria-project` no nosso [Slack](https://ctgroups.herokuapp.com/).
 
-A maneira de vocês se comunicarem e darem andamento ao processo de mentoria vai variar de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc.
+A maneira de vocês se comunicarem e darem andamento ao processo de mentoria vai variar de cada pessoa, portanto fiquem a vontade para escolher o melhor canal, horários, etc. Indiamos o uso do Slack para centralizar a comunicação.
 
-É de extrema importância que você nos informe, sempre, se tiver qualquer problema com o(a) mentor(a) e para isso você pode entrar em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/).
+É de extrema importância que você nos informe, sempre, se tiver qualquer problema com o(a) mentor(a) e para isso você pode enviar qualquer feedback anonimamente através [deste formulário](https://trainingcenter2.typeform.com/to/T3zgTq).
 
 **Só aceite mentoria dos membros da [lista de mentores(as)](profiles/mentors), pois foram aprovados por uma bancada e se comprometeram com a causa desse projeto.**
 
@@ -138,20 +153,11 @@ Você **NÃO** é obrigado a pagar **NADA** a nenhum(a) mentor(a).
 
 Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhado e aqui o fazemos de maneira **gratuita**.
 
-Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do Slack, email, ou qualquer outro canal com os moderadores, pois o mesmo será expulso do projeto.
+Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do [formulário de feedback](https://trainingcenter2.typeform.com/to/T3zgTq), pois o(a) mesmo(a) será expulso(a) do projeto.
 
 É de sua responsabilidade a comunicação com seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa comunicação, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
 
 Não se esqueça de ler as [Dicas para novos(as) mentorados(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a).
-
-**Resumindo**
-
-1. Você responde [nosso formulário](http://bit.ly/preciso-de-mentoria) e aguarda o contato de um mentor ou de uma mentora
-2. Se tudo deu certo, você poderá adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
-3. Atualize o [README.md](/profiles/pupils/README.md) da pasta mentorados com o link para o seu perfil
-4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
-
-OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
 
 ## Regras de conduta
 
@@ -161,15 +167,13 @@ Temos regras de conduta para o(a) **mentor(a)** e para o(a) **mentorado(a)**, le
 
 Durante o processo de auxílio ao mentorado(a) podem aparecer problemas como: abandono por parte do mentorado,  por parte do mentor ou mesmo mal convívio entre ambos. Caso algo esteja indo mal, avise-nos!
 
-Precisamos que mentores(as) e mentorados(as) estejam no nosso [Slack](https://ctgroups.herokuapp.com/) para que haja comunicação entre organização e participantes/contribuintes, pois qualquer problema entre vocês deve ser tratado. Não queremos causar problemas para nenhuma das partes.
+Precisamos que mentores(as) e mentorados(as) estejam no nosso [Slack](https://ctgroups.herokuapp.com/) para que haja comunicação entre organização e participantes/contribuintes, pois qualquer problema entre vocês deve ser tratado. Não queremos causar transtornos para nenhuma das partes.
 
 ## Desejo contribuir financeiramente
 
-Esse projeto **não possui fins lucrativos**, porém, você pode doar para cada mentor(a) individualmente, se quiser/for possível.
+Este projeto **não possui fins lucrativos**, porém, você pode doar para nossa comunidade através do [apoia.se](https://trainingcenter2.typeform.com/to/T3zgTq) ou para seu/sua mentor(a) individualmente, se quiser/for possível.
 
-Isso é um incentivo para quem está colaborando e disponibilizando seu tempo para ajudar.
-
-Basta entrar na [lista de mentores(as)](profiles/mentors) e doar através dos links para PayPal, PagSeguro, etc existentes no próprio perfil do(a) mentor(a).
+Isso é um incentivo para quem está colaborando e disponibilizando seu tempo para ajudar e garante o funcionamento de nossas ferramentas de automação.
 
 ## O que é o CT (Centro de Treinamento)
 
