@@ -13,10 +13,6 @@ Ser um profissional de desenvolvimento e qualidade de software competente e ajud
 ## Alguns links para me conhecer melhor
 
 - [Facebook](https://www.facebook.com/simoesfe)
-
 - [Twitter](https://twitter.com/simoescid)
-
 - [LinkedIn](https://www.linkedin.com/in/felipelsimoes/)
-
 - [Email](mailto:felipe_lima_simoes@hotmail.com)
-```
