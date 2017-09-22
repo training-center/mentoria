@@ -42,6 +42,7 @@
 - [Feçoé Medeiros](profiles/eubond.md)
 - [Felipe Acelino](profiles/FelipeAcelino.md)
 - [Felipe Lacerda](profiles/FelipeLacerda.md)
+- [Felipe Lima Simões](profiles/felipe_simoes.md)
 - [Felipe Medeiros](profiles/eubond.md)
 - [Felipe R S Abbud](profiles/FelipeRSAbbud.md)
 - [Fernando Costa](profiles/FernandoCosta.md)
