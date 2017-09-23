@@ -31,6 +31,7 @@
 - [Daniel Simão da Silva](profiles/danielsimaodasilva.md)
 - [Danilo Agostinho](profiles/DaniloAgostinho.md)
 - [Diego Zanelatti](profiles/Zanelatti.md)
+- [Eder Christian](profiles/eder_christian.md)
 - [Eduardo S. de Araujo](profiles/EduardoSdeAraujo.md)
 - [Elton Coelho](profiles/elton_coelho.md)
 - [Emanuel Gonçalves](profiles/EmanuelG.md)
