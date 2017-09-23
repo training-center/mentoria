@@ -42,7 +42,7 @@ Queremos ajudar iniciantes a não passarem por certos problemas que passamos e t
 
 **Não somos coaches**, somos profissionais de mercado que desejam ajudar alguém pelas comunidades afora **em nosso tempo livre**. Por isso tenha paciência, nós respondemos quando temos tempo.
 
-**Não ministramos cursos**, nós guiamos você para aprender algo de nossa área, porém não é a mesma coisa que fazer um curso específico de tecnologia xyz. Nós tiramos suas dúvidas de carreira e indicamos materiais, porém não damos aulas completas sobre desenvolvimento, design, mobile, etc.
+**Não ministramos cursos**, nós guiamos você para aprender algo de nossa área, porém não é a mesma coisa que fazer um curso específico de determinada tecnologia. Nós tiramos suas dúvidas de carreira e indicamos materiais, porém não damos aulas completas sobre desenvolvimento, design, mobile, etc.
 
 ## Como surgiu o Mentoria
 
