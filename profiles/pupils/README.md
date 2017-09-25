@@ -157,6 +157,7 @@
 - [Thiago Morastico Cruz](profiles/ThiagoMorasticoCruz.md)
 - [Thiago Phillip](profiles/ThiagoPhillip.md)
 - [Thomas Joaquini](profiles/ThomasJoaquini.md)
+- [Tuanny Ruiz](profiles/TuannyRuiz.md)
 - [Vicente Martins](profiles/vicentimartins.md)
 - [Victor Copque](profiles/victorcopque.md)
 - [Victor Grossi](profiles/VictorGrossi.md)
