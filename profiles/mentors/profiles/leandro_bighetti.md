@@ -29,3 +29,7 @@ Mande um salve para lbighetti@gmail.com
 ## Mentorados(as)
 
 - [Mikael Hadler](/profiles/mentors/profiles/mikaelhadler.md)
+- [Felipe Simões](/profiles/pupils/profiles/felipe_simoes.md)
+- Douglas Eleutério
+- Fábio Moreira
+- Andressa Santana
