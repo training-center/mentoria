@@ -12,6 +12,6 @@ Conseguir um emprego na área.
 
 ## Alguns links para me conhecer melhor
 
-- [Facebook] https://www.facebook.com/luiz.guilherme.9484
+- [Facebook](https://www.facebook.com/luiz.guilherme.9484)
 
-- [Email] luizg7@hotmail.com
+- [Email](mailto:luizg7@hotmail.com)
