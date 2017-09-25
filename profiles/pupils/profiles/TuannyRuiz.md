@@ -12,5 +12,5 @@ Me tornar uma boa desenvolvedora full-stack e ajudar mais mulheres a entrarem na
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/tuannyruiz)
-[LinkedIn](https://br.linkedin.com/in/tuannyruiz)
+- [Facebook](https://www.facebook.com/tuannyruiz)
+- [LinkedIn](https://br.linkedin.com/in/tuannyruiz)
