@@ -145,6 +145,7 @@
 - [Thiago Alves Vieira](profiles/thivieiratav.md)
 - [Thiago Gonçalves (twobanks)](profiles/twobanks.md)
 - [Thiago Morastico Cruz](profiles/ThiagoMorasticoCruz.md)
+- [Tuanny Ruiz](profiles/TuannyRuiz.md)
 - [Vicente Martins](profiles/vicentimartins.md)
 - [Victor Copque](profiles/victorcopque.md)
 - [Victor Grossi](profiles/VictorGrossi.md)
