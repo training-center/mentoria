@@ -97,6 +97,7 @@
 - [Lucas Stoque](profiles/Stoque.md)
 - [Luiz Gabriel](profiles/luizgabriell.md)
 - [Luiz Glatz](profiles/LuizGlatz.md)
+- [Luiz Guilherme Franchim](profiles/luizfranchim.md)
 - [Luiz Lazaro](profiles/LuizLazaro.md)
 - [Maicon Gomes](profiles/atreyucore.md)
 - [Maicon Henrique](profiles/maiconkcond.md)
