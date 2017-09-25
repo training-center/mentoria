@@ -8,6 +8,6 @@ Gustavo Aguiar
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/gustavo.aguiar.359)
-[Twitter](https://twitter.com/gusttavoaguiarr)
-[LinkedIn](https://br.linkedin.com/in/gustavo-aguiar-926463110)
+- [Facebook](https://www.facebook.com/gustavo.aguiar.359)
+- [Twitter](https://twitter.com/gusttavoaguiarr)
+- [LinkedIn](https://br.linkedin.com/in/gustavo-aguiar-926463110)

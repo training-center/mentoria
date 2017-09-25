@@ -4,7 +4,7 @@
 
 ## Meu Nome
 
-Marcelo Luiz Leite
+[Marcelo Luiz Leite](/https://www.linkedin.com/in/marceloluizleite/)
 
 ## Qual meu sonho na carreira?
 
@@ -14,6 +14,7 @@ apto a implmenta-la.
 
 ## Alguns links para me conhecer melhor
 
+- [Email](mailto:marceloluiz.developer@gmail.com)
 - [Facebook](https://www.facebook.com/marcelo.luiz.1426)
 - [Twitter](https://twitter.com/marceloluiz86)
 - [LinkedIn](https://br.linkedin.com/in/marceloluizleite)

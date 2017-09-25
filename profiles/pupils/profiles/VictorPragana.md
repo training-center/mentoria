@@ -13,8 +13,8 @@ Participar mais de eventos e comunidade.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](facebook.com/victorcesarmeriguepragana)
+- [Facebook](facebook.com/victorcesarmeriguepragana)
 
-[Twitter](https://twitter.com/victoorceesaar)
+- [Twitter](https://twitter.com/victoorceesaar)
 
-[LinkedIn](https://www.linkedin.com/in/victor-césar-merigue-pragana-689b2392)
+- [LinkedIn](https://www.linkedin.com/in/victor-césar-merigue-pragana-689b2392)

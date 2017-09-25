@@ -31,7 +31,7 @@ Desenvolvimento Web em geral (Full Stack)
 
 Mande um abraço para ele no email contato@webdevbr.com.br ou nas redes sociais.
 
-## Pupilos do Erik
+## Mentorados(as)
 
 * [Igor Oliveira](/profiles/pupils/profiles/IgoOliveira.md)
 * [Felipe Lacerda](/profiles/pupils/profiles/FelipeLacerda.md)

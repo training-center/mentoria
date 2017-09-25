@@ -2,13 +2,27 @@
 
 > Conheça os(as) mentores(as) do projeto.
 
+## Agile e Startups
+
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
+* [Evaldo Barbosa](profiles/evaldo-barbosa.md)
+* [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
+
 ## Android
 
 * [Diego Malone](profiles/diegomalone.md)
 
+## Arquitetura
+
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
+* [Rafael Koga](profiles/rafael_koga.md)
+* [Dener Rocha](profiles/dener_rocha.md)
+
 ## Back End
 
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
@@ -17,9 +31,13 @@
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
+* [Henrique Maich](profiles/henrique_maich.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+* [Iury Alves de Souza](profiles/iuryalves.md)
+* [Khauê Viana](profiles/khaue_viana.md)
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
@@ -29,11 +47,14 @@
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
+* [Dener Rocha](profiles/dener_rocha.md)
+* [Felipe Andrade](profiles/felipe_andrade.md)
 
 ## Delphi
 
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
 
@@ -44,6 +65,7 @@
 * [Alex Junior](profiles/alexjunior012.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Felipe Orlando](profiles/felipe_orlando.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
@@ -70,9 +92,14 @@
 
 ## DevOps
 
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
+
+## Elixir e Erlang
+
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
 
 ## Front End
 
@@ -83,14 +110,17 @@
 * [Danilo Vaz](profiles/danilo_vaz.md)
 * [Diogo Cercílio](profiles/diogo_cercilio.md)
 * [Felipe Fernandes](profiles/felipe_fernandes.md)
+* [Felipe Orlando](profiles/felipe_orlando.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernanda Bernardo](profiles/fernandabernardo.md)
+* [Fernando Fleury](profiles/fernando_fleury.md)
 * [Gian Souza](profiles/gian_souza.md)
 * [Gustavo Cardoso](profiles/gustavo_cardoso.md)
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Mikael Hadler](profiles/mikaelhadler.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
@@ -114,15 +144,18 @@
 
 ## Java
 
+* [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
-
-## Agile e Startups
-
-* [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
 
 ## Python
 
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
+
+## QA
+
+* [Érik Patekoski](profiles/erikpatekoski.md)
+* [Lucas Santos](profiles/lucas_santos.md)
 
 ## Segurança
 
@@ -132,7 +165,6 @@
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
 
-## QA
+## Trabalho no Exterior
 
-* [Érik Patekoski](profiles/erikpatekoski.md)
-* [Lucas Santos](profiles/lucas_santos.md)
+* [Leandro Bighetti](profiles/leandro_bighetti.md)

@@ -12,7 +12,7 @@ Ser um bom desenvolvedor, que possa contribuir com a web de forma a torná-la ma
 
 ## Alguns links para me conhecer melhor
 
-[Meu Facebook](https://www.facebook.com/emanuelgdev)
-[Meu Github](https://github.com/emanuelgsouza)
-[Meu Linkedin](https://br.linkedin.com/in/emanuelgsouza)
-[Meu site](http://emanuelgdev.com.br/)
+- [Facebook](https://www.facebook.com/emanuelgdev)
+- [Github](https://github.com/emanuelgsouza)
+- [Linkedin](https://br.linkedin.com/in/emanuelgsouza)
+- [Site](http://emanuelgdev.com.br/)

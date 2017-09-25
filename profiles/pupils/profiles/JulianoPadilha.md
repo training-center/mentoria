@@ -10,6 +10,6 @@ Meu sonho de carreira é poder me consolidar como um desenvolvedor front-end, se
 
 ## Alguns links para me conhecer melhor
 
-[Facebook ](https://www.facebook.com/JulianoPadilha)
-[LinkedIn ](https://br.linkedin.com/in/julianopadilha)
-[Twitter ](https://twitter.com/padilhano)
+- [Facebook](https://www.facebook.com/JulianoPadilha)
+- [LinkedIn](https://br.linkedin.com/in/julianopadilha)
+- [Twitter](https://twitter.com/padilhano)

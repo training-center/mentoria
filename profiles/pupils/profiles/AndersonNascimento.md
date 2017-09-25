@@ -10,7 +10,6 @@ Anderson Nascimento
 
 Evoluir profissionalmente e alcançar maturidade intelectual que me possibilite resolver problemas elegantemente; contribuir com a comunidade open source.
 
-
 ## Alguns links para me conhecer melhor:
 
 - [Twitter](https://twitter.com/theandersonn)

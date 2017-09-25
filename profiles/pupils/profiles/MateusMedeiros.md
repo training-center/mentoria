@@ -12,5 +12,5 @@ Quero conseguir um emprego como Desenvolvedor Front End e contribuir com a comun
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/mateussousam)
-[GitHub](https://github.com/mateussmedeiros)
+- [Twitter](https://twitter.com/mateussousam)
+- [GitHub](https://github.com/mateussmedeiros)
