@@ -22,7 +22,9 @@ Tenho 23 anos e trabalho como front-end no Elo7. Me formei em Sistemas de Inform
 Mande um abraço para ela no email fernandabernardo94@gmail.com ou nas redes sociais.
 
 ## Mentorados(as)
+* [Eder Christian](/profiles/pupils/profiles/eder_christian.md)
 * [Henrique Rodrigues](/profiles/pupils/profiles/HenriqueRodrigues.md)
 * [Pedro Leão](/profiles/pupils/profiles/PedroLeao.md)
 * [Pedro Sampaio](/profiles/pupils/profiles/PedroSampaio.md)
+* [Tuanny Ruiz](/profiles/pupils/profiles/TuannyRuiz.md)
 * [Waldrey Souza Silva](/profiles/pupils/profiles/WaldreySouzaSilva.md)
