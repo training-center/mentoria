@@ -52,7 +52,7 @@ O Mentoria surgiu a partir da ideia do [@baltazarparra](https://github.com/balta
 
 O projeto Mentoria visa **conectar** pessoas com experiência na áreas de desenvolvimento de software ou áreas relacionadas com pessoas que estão começando e/ou necessitam de alguém para ajudar a nortear o seu futuro profissional, buscando remover barreiras e repassar experiências.
 
-Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). É por isso não temos um processo específico para os(as) mentores(as) seguirem ao auxiliar alguém.
+Existem diversas maneiras de se ajudar alguém através de um processo de mentoria e isso varia de mentor(a) para mentor(a). E por isso não temos um processo específico para os(as) mentores(as) seguirem ao auxiliar alguém.
 
 Caso você tenha dúvida sobre como mentorar alguém, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4).
 
