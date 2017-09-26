@@ -36,4 +36,4 @@ Sou voluntário da Mozilla, ajudando a comunidade no desenvolvimento dos projeto
 
 [![paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7LMY7F6YL4VXQ&lc=BR&item_name=Jonathan%20Lamim&item_number=CT%2ddoacao&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
-Ou mande um abraço para ele no email contato@jlamim.com.br ou nas redes sociais.
+Ou mande um abraço para ele no email contato@jonathanlamim.com.br ou nas redes sociais.
