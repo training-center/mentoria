@@ -50,6 +50,7 @@
 - [Felipe R S Abbud](profiles/FelipeRSAbbud.md)
 - [Fernando Costa](profiles/FernandoCosta.md)
 - [Frederico Drumond](profiles/fredrumond.md)
+- [Filippo Barcellos](profiles/filippobarcellos.md)
 - [Gabriel Berto](profiles/Gabrielbdd.md)
 - [Gabriel Brito](profiles/GabrielBrito.md)
 - [Gabriel Ferreira](profiles/GabrielFerreira.md)
