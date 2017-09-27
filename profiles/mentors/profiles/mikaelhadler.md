@@ -16,6 +16,7 @@ Mentor para Desenvolvedores Front End e opensource life style.
 
 - [Matheus Mazeto](/profiles/pupils/profiles/matheus_mazeto.md)
 - [Thomas Joaquini](/profiles/pupils/profiles/ThomasJoaquini.md)
+- [Emerson Nóbrega](/profiles/pupils/profiles/emersonnobrega.md)
 
 ## Mentor responsável por mim
 [Leandro Bighetti](/profiles/mentors/profiles/leandro_bighetti.md)
