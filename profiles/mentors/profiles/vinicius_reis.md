@@ -24,9 +24,9 @@ Atualmente trabalho como Engenheiro de aplicações na [decision6](https://decis
 
 Mande um abraço para ele no email luiz.vinicius73@gmail.com ou nas redes sociais.
 
-## Pupilos do Vinicius Reis
+## Mentorados(as)
 
-* [Emanuel Gonçalves](/pupilos/perfis/EmanuelG.md)
-* [Daniel Diniz](/pupilos/perfis/DanielDiniz.md)
-* [Larissa Mourullo](/pupilos/perfis/LarissaMourullo.md)
-* [Vinicius Azevedo](/pupilos/perfis/ViniciusAzevedo.md)
+* [Emanuel Gonçalves](/profiles/pupils/profiles/EmanuelG.md)
+* [Daniel Diniz](/profiles/pupils/profiles/DanielDiniz.md)
+* [Larissa Mourullo](/profiles/pupils/profiles/LarissaMourullo.md)
+* [Vinicius Azevedo](/profiles/pupils/profiles/ViniciusAzevedo.md)

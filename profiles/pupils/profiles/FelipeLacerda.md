@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Erik Figueiredo](/mentores/perfis/erik_figueiredo.md)
+[Erik Figueiredo](/profiles/mentors/profiles/erik_figueiredo.md)
 
 ## Meu Nome
 
@@ -16,5 +16,5 @@ Tenho conehcimento em PHP, banco de dados MySql. E tenho estudado bastante o Lar
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/lipe.lacerda)
-[Twitter](https://twitter.com/flacerda)
+- [Facebook](https://www.facebook.com/lipe.lacerda)
+- [Twitter](https://twitter.com/flacerda)

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Vinicius Reis](/mentores/perfis/vinicius_reis.md)
+[Vinicius Reis](/profiles/mentors/profiles/vinicius_reis.md)
 
 ## Meu Nome
 
@@ -12,8 +12,8 @@ Atualmente quero continuar adquirindo conhecimento e aprender cada dia mais com 
 
 ## Alguns links para me conhecer melhor
 
-[WebSite](http://larismourullo.github.io)
-[Twitter](https://twitter.com/larismourullo)
-[GitHub](https://github.com/larismourullo)
-[Facebook](https://www.facebook.com/larissamourullo)
-[Linkedin](https://br.linkedin.com/in/larissa-mourullo-040073b9/)
+- [WebSite](http://larismourullo.github.io)
+- [Twitter](https://twitter.com/larismourullo)
+- [GitHub](https://github.com/larismourullo)
+- [Facebook](https://www.facebook.com/larissamourullo)
+- [Linkedin](https://br.linkedin.com/in/larissa-mourullo-040073b9/)

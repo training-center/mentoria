@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Paulo Diniz](https://github.com/training-center/mentoria/blob/master/mentores/perfis/paulo_diniz.md)
+[Paulo Diniz](/profiles/mentors/profiles/paulo_diniz.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Conseguir um emprego como Backend e me aperfeiçoar cada vez mais na área.
 
 ## Alguns links para me conhecer melhor
 
-[GitHub](https://github.com/leonardolsousa)
+- [GitHub](https://github.com/leonardolsousa)

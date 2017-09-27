@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Matheus Marsiglio](/mentores/perfis/matheus_marsiglio.md)
+[Matheus Marsiglio](/profiles/mentors/profiles/matheus_marsiglio.md)
 
 ## Meu Nome
 
@@ -12,6 +12,6 @@ Utilizar o conhecimento como designer gráfico e iniciar uma carreira como front
 
 ## Alguns links para me conhecer melhor
 
-[Portfolio](www.pamelasouza.com)
-[Perfil do Facebook](https://www.facebook.com/pamdora10)
-[Perfil do Pinterest](https://br.pinterest.com/pamqk10)
+- [Portfolio](www.pamelasouza.com)
+- [Perfil do Facebook](https://www.facebook.com/pamdora10)
+- [Perfil do Pinterest](https://br.pinterest.com/pamqk10)

@@ -42,11 +42,11 @@ Gosto de trabalhar com desenvolvimento Front-end e Back-end. Trabalho com divers
 
 Entre em contato pelo e-mail wendelladriel.ti@gmail.com ou wendell@codeshare.com.br ou pelas redes sociais!!!
 
-## Pupilos
+## Mentorados(as)
 
-- [Giovanni Cruz (giovannicruz97)](/pupilos/perfis/giovannicruz97.md)
-- [Danilo Agostinho (DaniloAgostinho)](/pupilos/perfis/DaniloAgostinho.md)
-- [Lucas Gabriel (lukao98)](/pupilos/perfis/lucas_gabriel.md)
-- [Guilherme Costa (guilhermeocosta)](/pupilos/perfis/GuilhermeDeOliveiraCosta.md)
-- [Nikolas Brandão (nikolasbrandao)](/pupilos/perfis/NikolasBrandao.md)
-- [Igor Alves (igoralvess)](/pupilos/perfis/IgorAlves.md)
+- [Giovanni Cruz (giovannicruz97)](/profiles/pupils/profiles/giovannicruz97.md)
+- [Danilo Agostinho (DaniloAgostinho)](/profiles/pupils/profiles/DaniloAgostinho.md)
+- [Lucas Gabriel (lukao98)](/profiles/pupils/profiles/lucas_gabriel.md)
+- [Guilherme Costa (guilhermeocosta)](/profiles/pupils/profiles/GuilhermeDeOliveiraCosta.md)
+- [Nikolas Brandão (nikolasbrandao)](/profiles/pupils/profiles/NikolasBrandao.md)
+- [Igor Alves (igoralvess)](/profiles/pupils/profiles/IgorAlves.md)

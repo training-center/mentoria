@@ -20,6 +20,6 @@ Mentor para desenvolvedores Back-end
 Faça uma doação pra alguma causa animal ou de crianças carentes.  
 Ou me manda um alô nas redes sociais. :)
 
-## Pupilos do Vinicius
+## Mentorados(as)
 
-[Hiran Neri](https://github.com/vtinguan/mentoria/blob/master/pupilos/perfis/HiranNeri.md)
+[Hiran Neri](/profiles/pupils/profiles/HiranNeri.md)

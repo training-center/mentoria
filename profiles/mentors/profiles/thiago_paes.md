@@ -18,9 +18,9 @@ Mentor para Desenvolvedores Front End, Back End e Full Stack
 
 Escreva software livre, publique código aberto.. contribua com a comunidade. Um "obrigado" também já basta :)
 
-## Pupilos do Thiago Paes
+## Mentorados(as)
 
-* [Gustavo Aguiar](/pupilos/perfis/GustavoAguiar.md)
-* [Frederico Xavier Drumond](/pupilos/perfis/fredrumond.md)
-* [Paulo Robert Menezes](/pupilos/perfis/jalawz.md)
-* [Vicente Martins](/pupilos/perfis/vicentimartins.md)
+* [Gustavo Aguiar](/profiles/pupils/profiles/GustavoAguiar.md)
+* [Frederico Xavier Drumond](/profiles/pupils/profiles/fredrumond.md)
+* [Paulo Robert Menezes](/profiles/pupils/profiles/jalawz.md)
+* [Vicente Martins](/profiles/pupils/profiles/vicentimartins.md)

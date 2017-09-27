@@ -19,16 +19,17 @@ Mentor para Desenvolvedores Front End e Back End (Full Stack)
 
 Mande um abraço para ele no email sudowilliam@gmail.com ou nas redes sociais.
 
-## Pupilos do William
+## Mentorados(as)
 
-- [Jonatan Vianna](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/jonatan_vianna.md)
-- [Bruno Martins](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/Bruno_Martins.md)
-- [Celso Lopes](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/CelsoLopes.md)
-- [Richard Manzoli](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/RichardManzoli.md)
-- [Eric Madureira](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/EricMadureira.md)
+- [Bruno Martins](/profiles/pupils/profiles/Bruno_Martins.md)
+- [Celso Lopes](/profiles/pupils/profiles/CelsoLopes.md)
+- [Eric Madureira](/profiles/pupils/profiles/EricMadureira.md)
+- [Jonatan Vianna](/profiles/pupils/profiles/jonatan_vianna.md)
 - Késsia Castro
-- Washington Oliveira
+- [Raul de Melo](/profiles/pupils/profiles/RaulFelipeDeMelo.md)
 - Rafael Gonçalves
-- Rafael Nogueira
+- [Rafael Nogueira](/profiles/pupils/profiles/rafaelnsilva.md)
 - Victor Carli
 - Rafael Dias
+- [Richard Manzoli](/profiles/pupils/profiles/RichardManzoli.md)
+- Washington Oliveira

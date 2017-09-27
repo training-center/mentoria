@@ -20,7 +20,7 @@ Mentor para desenvolvedores Back-end
 Faça uma doação pra alguma causa animal ou de crianças carentes :D  
 Ou me manda um salve nas redes sociais.
 
-## Pupilos do Diego
+## Mentorados(as)
 
-- [Beatriz Harumi Uezu](/pupilos/perfis/BeatrizUezu.md)
-- [Josué Rodrigues](/pupilos/perfis/josue23.md)
+- [Beatriz Harumi Uezu](/profiles/pupils/profiles/BeatrizUezu.md)
+- [Josué Rodrigues](/profiles/pupils/profiles/josue23.md)

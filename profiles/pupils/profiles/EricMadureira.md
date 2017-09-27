@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[William Oliveira](/mentores/perfis/william_w_oliveira.md)
+[William Oliveira](/profiles/mentors/profiles/william_w_oliveira.md)
 
 ## Meu Nome
 
@@ -12,6 +12,6 @@ Ter experiência de Home Office, trabalhar em outro país e aprender bastante pr
 
 ## Alguns links para me conhecer melhor
 
-* [Facebook](https://www.facebook.com/eric.madureira.2)
-* [Twitter](https://twitter.com/housemadx)
-* [LinkedIn](https://www.linkedin.com/in/eric-madureira-23b6aa100/)
+- [Facebook](https://www.facebook.com/eric.madureira.2)
+- [Twitter](https://twitter.com/housemadx)
+- [LinkedIn](https://www.linkedin.com/in/eric-madureira-23b6aa100/)

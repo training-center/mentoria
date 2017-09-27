@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim:
 
-[Diego Ponciano](/mentores/perfis/diego_ponciano.md)
+[Diego Ponciano](/profiles/mentors/profiles/diego_ponciano.md)
 
 ## Meu Nome:
 
@@ -12,5 +12,5 @@ Ser desenvolvedora full stack e trabalhar fora do país.
 
 ## Alguns links para me conhecer melhor:
 
-[Twitter](http://www.twitter.com/beatrizuezu)
-[LinkedIn](https://br.linkedin.com/in/beatrizuezu)
+- [Twitter](http://www.twitter.com/beatrizuezu)
+- [LinkedIn](https://br.linkedin.com/in/beatrizuezu)

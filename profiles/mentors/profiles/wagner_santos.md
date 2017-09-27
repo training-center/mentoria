@@ -28,7 +28,7 @@ Vivo em constante atualização, sempre antenado com o que está acontecendo na 
 
 Mande um oi para contato@wagnersantos.com ou nas redes sociais.
 
-## Pupilos
+## Mentorados(as)
 
-- [Luiz Gabriel Silva de Araujo](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/luizgabriell.md)
-- [Rafael Martins dos Santos](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/rafaelmartinsja.md)
+- [Luiz Gabriel Silva de Araujo](/profiles/pupils/profiles/luizgabriell.md)
+- [Rafael Martins dos Santos](/profiles/pupils/profiles/rafaelmartinsja.md)

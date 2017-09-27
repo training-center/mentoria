@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Guilherme Pontes](/mentores/perfis/guilhermepontes.md)
+[Guilherme Pontes](/profiles/mentors/profiles/guilhermepontes.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Ser um Desenvolvedor Jedi nos paranauês do Frontend! :smile:
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/Marcos.abb10)
+- [Facebook](https://www.facebook.com/Marcos.abb10)

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
+[Andréa Zambrana](/profiles/mentors/profiles/andrea_zambrana.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Meu sonho de carreira é trabalhar com tecnologia, mas tenho um desejo enorme po
 
 ## Alguns links para me conhecer melhor
 
-[Twitter do Luccas Candido](http://twitter.com/luccasdebarros)  
+- [Twitter](http://twitter.com/luccasdebarros)  
