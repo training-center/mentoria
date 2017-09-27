@@ -18,6 +18,7 @@
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Rafael Koga](profiles/rafael_koga.md)
 * [Dener Rocha](profiles/dener_rocha.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## Back End
 
@@ -42,6 +43,7 @@
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Paulo Diniz](profiles/paulo_diniz.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
 * [Thiago Paes](profiles/thiago_paes.md)
@@ -55,6 +57,12 @@
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
 * [Dener Rocha](profiles/dener_rocha.md)
+
+## Dot.Net
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
+
+## Informação Geográfica (GIS)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## Desenvolvimento Bitcoin e Blockchain
 
@@ -80,6 +88,7 @@
 * [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Marcus Beckenlamp](profiles/marcus_beckenkamp.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Reinaldo Oliveira](profiles/reinaldo_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vinicius Alonso](profiles/vinicius_alonso.md)
@@ -96,6 +105,7 @@
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## Elixir e Erlang
 
@@ -121,6 +131,7 @@
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
@@ -147,10 +158,12 @@
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## Python
 
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
+* [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## QA
 
