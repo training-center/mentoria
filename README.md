@@ -157,7 +157,26 @@ Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que 
 
 É de sua responsabilidade a comunicação com seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa comunicação, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
 
+Não se esqueça de ler as [Dicas para novos(as) pupilos(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a).
+
+**Resumindo**
+
+1. Você responde [nosso formulário](http://bit.ly/preciso-de-mentoria) e aguarda o contato de um mentor ou de uma mentora
+2. Se tudo deu certo, você poderá adicionar seu [perfil a lista](/profiles/pupils) seguindo o [template](profiles/pupils/pupil_template.md) e [absorver](./img/cell.png) a experiência do(a) seu/sua Mentor(a)
+3. Atualize o [README.md](/profiles/pupils/README.md) da pasta pupilos com o link para o seu perfil
+4. Entre no nosso [Slack](https://ctgroups.herokuapp.com/) e avise sobre sua chegada
+
+**Sobre a importância de aprender a usar o GitHub**
+
+O uso do Git e do GitHub será necessário durante a sua vida profissional, e a necessidade de saber usar já começa agora, para criar o seu perfil aqui no Training Center.
+
+Temos um artigo muito bom ensinando a criar, passo a passo, o seu perfil aqui:
+- [Como criar seu perfil no GitHub do Training Center](https://medium.com/trainingcenter/como-criar-seu-perfil-no-github-do-training-center-580530506147)
+
 Não se esqueça de ler as [Dicas para novos(as) mentorados(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a).
+
+OBS: Caso esqueçamos de te adicionar a organização, entre em contato com os [moderadores](admin/MODERATORS.md) ou pelo [Slack](https://ctgroups.herokuapp.com/)
+
 
 ## Regras de conduta
 
