@@ -12,10 +12,15 @@ Mentor para Desenvolvedores Front End e opensource life style.
 * [Twitter](https://twitter.com/mikaelhadler)
 * [LinkedIn](https://www.linkedin.com/in/mikaelhadler)
 
-## Pupilos
-- [Matheus Mazeto](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/matheus_mazeto.md)
+## Mentorados(as)
+
+- [Matheus Mazeto](/profiles/pupils/profiles/matheus_mazeto.md)
+- [Thomas Joaquini](/profiles/pupils/profiles/ThomasJoaquini.md)
+- [Emerson Nóbrega](/profiles/pupils/profiles/emersonnobrega.md)
+
+## Mentor responsável por mim
+[Leandro Bighetti](/profiles/mentors/profiles/leandro_bighetti.md)
 
 ## Gostaria de retribuir a ajuda do(a) [Mikael Hadler]?
 
 Abra uma issue em [seus repositório](https://github.com/mikaelhadler?tab=repositories), mande um abraço para ele(a) no email mikaelhadler@gmail.com ou nas redes sociais.
-

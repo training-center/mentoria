@@ -14,7 +14,7 @@ apto a implmenta-la.
 
 ## Alguns links para me conhecer melhor
 
-- [Email](marceloluiz.developer@gmail.com)
+- [Email](mailto:marceloluiz.developer@gmail.com)
 - [Facebook](https://www.facebook.com/marcelo.luiz.1426)
 - [Twitter](https://twitter.com/marceloluiz86)
 - [LinkedIn](https://br.linkedin.com/in/marceloluizleite)

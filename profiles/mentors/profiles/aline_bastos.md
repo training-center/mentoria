@@ -18,4 +18,4 @@ Mentora para iniciantes no desenvolvimento front-end.
 
 Retribua a mentoria ajudando outros iniciantes :)
 
-## Mentoradas(os) da Aline Bastos
+## Mentorados(as)

@@ -33,7 +33,7 @@ Quem me conhece sabe que apesar de estar estudando JavaScript a todo vapor, sou 
 
 Mande um salve para hi@felipefialho.com ou nas redes sociais.
 
-## Pupilos
+## Mentorados(as)
 
 - [André Mendes](https://github.com/andre-mendes)
 - [Felipe Medeiros](https://github.com/eubond)

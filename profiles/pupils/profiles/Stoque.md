@@ -12,4 +12,4 @@ Me tornar uma referência na área de front end, criar/particiar de grandes proj
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/ostoque)
+- [Twitter](https://twitter.com/ostoque)

@@ -12,4 +12,4 @@ Ser um excelente desenvolvedor Java. Ser independente profissionalmente, crescer
 
 ## Alguns links para me conhecer melhor
 
-[LinkedIn](https://br.linkedin.com/in/andreybevilacqua)
+- [LinkedIn](https://br.linkedin.com/in/andreybevilacqua)

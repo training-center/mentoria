@@ -17,10 +17,7 @@ Mentor para Desenvolvedores Front End
 
 Mande um abraço para ele no email jessuircleydson@gmail.com ou deixe um depoimento no [LinkedIn](https://br.linkedin.com/in/jessuir-cleydson-8223b640) :)
 
-## Pupilos
+## Mentorados(as)
 
-
-* [Bruno Xavier de Melo](/profiles/pupils/profiles/BrunoMelo.md)
 * [Marcelo Henrique de Souza e Silva](/profiles/pupils/profiles/MarceloHenrique.md)
-* [Tiago Fuelber](/profiles/pupils/profiles/TiagoFuelber.md)
 * [Victor Grossi](/profiles/pupils/profiles/VictorGrossi.md)

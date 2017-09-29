@@ -19,6 +19,6 @@ Trabalho como desenvolvedor front-end há uns 6 anos e adoro de verdade o que fa
 
 Nada, só ajudar os outros quando puder.
 
-## Pupilos(as) de Fernando Moreira
+## Mentorados(as)
 
 [Erik Matos](/profiles/pupils/profiles/ErikG_matos.md) 

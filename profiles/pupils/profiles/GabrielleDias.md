@@ -12,4 +12,4 @@ Ser uma analista desenvolvedora.
 
 ## Alguns links para me conhecer melhor
 
-[Email](mailto:gabi_dias5@hotmail.com)
+- [Email](mailto:gabi_dias5@hotmail.com)

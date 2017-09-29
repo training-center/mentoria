@@ -15,8 +15,6 @@ Conhecimento em HTML5, CSS3, JAVASCRIPT, BOOTSTRAP e DESIGN.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/brenda.rayane.564)
-
-[LinkedIn](https://br.linkedin.com/in/ítalo-bessa-1a291111a)
-
-[GitHub](https://github.com/ytalobessa)
+- [Facebook](https://www.facebook.com/brenda.rayane.564)
+- [LinkedIn](https://br.linkedin.com/in/ítalo-bessa-1a291111a)
+- [GitHub](https://github.com/ytalobessa)
