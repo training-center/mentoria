@@ -1,5 +1,5 @@
 # Mentor(a) responsável por mim
-[Henrique Maich](/profiles/mentors/profiles/Henrique_Maich.md)
+[Henrique Maich](/profiles/mentors/profiles/henrique_maich.md)
 
 ## Meu Nome
 
