@@ -28,7 +28,7 @@ Possuo conhecimento nas seguintes tecnologias:
 * [WatchMyCar](https://watchmycar.com.br/)
 * [Twitter](https://twitter.com/lflimeira02)
 
-## Gostaria de retribuir a ajuda do Mentor da Sila Souza?
+## Gostaria de retribuir a ajuda do Mentor?
 
 Mande um "Hello World" no email lflimeira02@gmail.com ou nas redes sociais e ajude outras pessoas.
 
