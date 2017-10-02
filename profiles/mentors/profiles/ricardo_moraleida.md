@@ -11,9 +11,9 @@ Mentor para desenvolvedores web em geral, front e back-end. Minha especialidade
 interesse em conhecer outros autodidatas.
 
 Sou Senior Web Engineer na [10up](http://10up.com) desde 2015 e antes trabalhei 
-como freelancer desde 2010 quando abandoneia carreira de publicitário/relações públicas. 
+como freelancer desde 2010 quando abandonei a carreira de publicitário/relações públicas. 
 Minha formação universitária é em Comunicação Social, com pós-graduação 
-em Gestão de Projetos, minha experiência como desenvolvedor é 100% autodidata.
+em Gestão de Projetos; minha experiência como desenvolvedor é 100% autodidata.
 
 
 ## Links
