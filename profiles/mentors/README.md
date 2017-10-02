@@ -19,6 +19,7 @@
 * [Rafael Koga](profiles/rafael_koga.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 
 ## Back End
 
@@ -43,6 +44,7 @@
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Paulo Diniz](profiles/paulo_diniz.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
@@ -87,6 +89,7 @@
 * [Lucas Henrique](profiles/lucas_henrique.md)
 * [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 * [Marcus Beckenlamp](profiles/marcus_beckenkamp.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Reinaldo Oliveira](profiles/reinaldo_oliveira.md)
@@ -131,6 +134,7 @@
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
