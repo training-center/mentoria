@@ -20,6 +20,8 @@ Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud,
 * ASP.NET CORE
 * Entity Framework
 * Entity Framework Core
+* NodeJS
+	* Express
 * SQL SERVER (T-SQL)
 * MySQL
 * MongoDB
@@ -37,7 +39,7 @@ Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud,
 
 ## Links
 
-* E-mail(hdamaich@gmail.com)
+* [E-mail](mailto:hdamaich@gmail.com)
 * [Facebook](https://www.facebook.com/henrique.maich)
 * [Twitter](https://twitter.com/hdamaich)
 * [LinkedIn](https://www.linkedin.com/in/henriquemaich/)
@@ -47,3 +49,5 @@ Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud,
 Busque o conhecimento, busque o que te faz feliz e depois tente mostrar para aqueles que te seguem o caminhos que sequistes.
 
 ## Mentorados(as)
+
+* [Luiz Guilherme Franchim](../../pupils/profiles/luizfranchim.md)
