@@ -13,6 +13,10 @@
 
 * [Diego Malone](profiles/diegomalone.md)
 
+## iOS
+
+* [Narlei Américo Moreira](profiles/narlei_moreira.md)
+
 ## Arquitetura
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
