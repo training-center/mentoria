@@ -85,6 +85,7 @@
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Miguel Soares](profiles/miguel_soares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [William Bruno](profiles/william_bruno.md)
