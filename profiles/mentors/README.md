@@ -60,6 +60,7 @@
 
 ## Dot.Net
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Khauê Viana](profiles/khaue_viana.md)
 
 ## Informação Geográfica (GIS)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
