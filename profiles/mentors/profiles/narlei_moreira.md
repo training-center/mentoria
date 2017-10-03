@@ -17,7 +17,7 @@ Mentor para desenvolvedores(as) iOS (Swift / Objective-C)
 
 ## Gostaria de retribuir a ajuda da Narlei Américo Moreira?
 
-De uma olhada no [Github](https://github.com/narlei) dele e avalie seus trabalhos!
+De uma olhada no [Github](https://github.com/narlei) dele e avalie seus trabalhos! Ou envie um email para contato@narlei.com contando como ele te ajudou a conquistar seus objetivos.
 
 ## Mentorados(as)
 
