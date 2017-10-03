@@ -30,6 +30,7 @@
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
+* [Bruno Casella](profiles/bruno_casella.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
@@ -177,6 +178,7 @@
 
 ## Python
 
+* [Bruno Casella](profiles/bruno_casella.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
