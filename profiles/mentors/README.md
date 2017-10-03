@@ -27,9 +27,11 @@
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Felipe Andrade](profiles/felipe_andrade.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
@@ -51,14 +53,12 @@
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
-* [Dener Rocha](profiles/dener_rocha.md)
-* [Felipe Andrade](profiles/felipe_andrade.md)
 
 ## Delphi
 
+* [Dener Rocha](profiles/dener_rocha.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
-* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Dot.Net
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -94,6 +94,7 @@
 * [Marcus Beckenlamp](profiles/marcus_beckenkamp.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Reinaldo Oliveira](profiles/reinaldo_oliveira.md)
+* [Ricardo Moraleida](profiles/ricardo_moraleida.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vinicius Alonso](profiles/vinicius_alonso.md)
 * [Vinicius Reis](profiles/vinicius_reis.md)
@@ -165,6 +166,10 @@
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
+## PHP
+
+* [Ricardo Moraleida](profiles/ricardo_moraleida.md)
+
 ## Python
 
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
@@ -186,3 +191,7 @@
 ## Trabalho no Exterior
 
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
+
+## Trabalho Remoto
+
+* [Ricardo Moraleida](profiles/ricardo_moraleida.md)
