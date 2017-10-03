@@ -159,9 +159,6 @@
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
-## JavaScript
-* [Leo Cavalcante](profiles/leocavalcante.md)
-
 ## Java
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
@@ -175,15 +172,6 @@
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## PHP
-* [Leo Cavalcante](profiles/leocavalcante.md)
-
-## Haxe
-* [Leo Cavalcante](profiles/leocavalcante.md)
-
-## Mobile
-
-### React Native
-
 * [Leo Cavalcante](profiles/leocavalcante.md)
 
 ## QA
