@@ -148,6 +148,7 @@
 * [William Bruno](profiles/william_bruno.md)
 * [William Oliveira](profiles/william_oliveira.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
+* [Willian Santos](profiles/willian_santos.md)
 * [Wilson Campos](profiles/wilson_campos.md)
 
 ## Front End e UX/UI
