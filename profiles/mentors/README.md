@@ -19,6 +19,7 @@
 * [Rafael Koga](profiles/rafael_koga.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 
 ## Back End
 
@@ -38,6 +39,7 @@
 * [Khauê Viana](profiles/khaue_viana.md)
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
@@ -81,6 +83,7 @@
 * [Jhonatan Pereira](profiles/jhonatan.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Kiver Teixeira](profiles/kiver.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Leonardo Saraiva](profiles/leonardo_saraiva.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
@@ -103,6 +106,7 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -128,6 +132,7 @@
 * [Gustavo Cardoso](profiles/gustavo_cardoso.md)
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
@@ -149,9 +154,13 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernando Moreira](profiles/fernando_moreira.md)
 * [Leandro Lima](profiles/leandro_lima.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Luiz Tanure](profiles/luiz_tanure.md)
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
+
+## JavaScript
+* [Leo Cavalcante](profiles/leocavalcante.md)
 
 ## Java
 
@@ -164,6 +173,18 @@
 
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+
+## PHP
+* [Leo Cavalcante](profiles/leocavalcante.md)
+
+## Haxe
+* [Leo Cavalcante](profiles/leocavalcante.md)
+
+## Mobile
+
+### React Native
+
+* [Leo Cavalcante](profiles/leocavalcante.md)
 
 ## QA
 
