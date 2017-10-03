@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Thiago Paes](https://github.com/training-center/mentoria/blob/master/mentores/perfis/thiago_paes.md)
+[Thiago Paes](/profiles/mentors/profiles/thiago_paes.md)
 
 ## Meu Nome
 
@@ -12,6 +12,6 @@ Me tornar um otimo profissional e um dia ajudar as pessoas que estao querendo en
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/frederico.drumond.33)
-[Github](https://github.com/Fredrumond)
-[LinkedIn](https://www.linkedin.com/in/frederico-xavier-drumond-85ab7483?trk=nav_responsive_tab_profile)
+- [Facebook](https://www.facebook.com/frederico.drumond.33)
+- [Github](https://github.com/Fredrumond)
+- [LinkedIn](https://www.linkedin.com/in/frederico-xavier-drumond-85ab7483)

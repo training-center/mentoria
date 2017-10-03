@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Fernando Moreira](/mentores/perfis/fernando_moreira.md)
+[Fernando Moreira](/profiles/mentors/profiles/fernando_moreira.md)
 
 ## Meu Nome
 
@@ -12,6 +12,6 @@ Sempre gostei muito de programação no geral, mas nunca tive um foco, até porq
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/ingrid.rauany)<br/>
-[Twitter](https://twitter.com/ingridrauany)<br/>
-[LinkedIn](https://br.linkedin.com/in/ingridrauany)
+- [Facebook](https://www.facebook.com/ingrid.rauany)
+- [Twitter](https://twitter.com/ingridrauany)
+- [LinkedIn](https://br.linkedin.com/in/ingridrauany)

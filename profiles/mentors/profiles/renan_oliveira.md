@@ -17,6 +17,6 @@ Mentor para Desenvolvedores Front End
 
 Mande um abraço para ele no [email](mailto:renansdeoliveira@gmail.com) ou deixe sua recomendação no [LinkedIn](https://linkedin.com/in/renanoliver).
 
-## Pupilos de Renan Oliveira
+## Mentorados(as)
 
-* [Jamile Lima](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/JamileLima.md)
+* [Jamile Lima](/profiles/pupils/profiles/JamileLima.md)

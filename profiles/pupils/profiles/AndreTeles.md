@@ -12,6 +12,6 @@ Desejo ingressar no mercado de trabalho como desenvolvedor Web e ser o melhor no
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/andre.pereirateles)
-[Twitter](https://twitter.com/andretpsimply)
-[Trampos](https://trampos.co/andre-teles)
+- [Facebook](https://www.facebook.com/andre.pereirateles)
+- [Twitter](https://twitter.com/andretpsimply)
+- [Trampos](https://trampos.co/andre-teles)

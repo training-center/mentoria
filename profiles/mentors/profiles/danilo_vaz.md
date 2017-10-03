@@ -31,10 +31,10 @@ Fora codar, também amo escrever. Tenho alguns textos no meu [Medium](https://me
 
 Mande um salve para danilovaz@hotmail.com.br ou nas redes sociais.
 
-## Pupilos
+## Mentorados(as)
 
-* [Hugo Almeida](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/hugo_almeida.md)
-* [Safire Lauene](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/SafireLauene.md)
-* [Yuri Brunetto](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/YuriBrunetto.md)
+* [Hugo Almeida](/profiles/pupils/profiles/hugo_almeida.md)
+* [Safire Lauene](/profiles/pupils/profiles/SafireLauene.md)
+* [Yuri Brunetto](/profiles/pupils/profiles/YuriBrunetto.md)
 
 

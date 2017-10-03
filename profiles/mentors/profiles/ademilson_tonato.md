@@ -28,9 +28,15 @@ Eu gosto de construir aplicações web, dividir conhecimento, escrevendo artigos
 
 ## Gostaria de retribuir a ajuda do Ademílson Flores Tonato?
 
-Manda um "olá" pelas redes sociais ou pelo e-mail `ademilsonft@outlook.com` e depois retribua a mentoria ajudando outros iniciantes :)
+Manda um "Olá" através das redes sociais ou pelo e-mail `ademilsonft@outlook.com` e depois retribua a mentoria ajudando outros iniciantes :)  
+Ei, estou aqui para auxiliar no seu desenvolvimento, se você quiser minha ajuda, não hesite em entrar em contato, ainda que meu perfil diga que não estou disponível para novos mentorados.
 
-## Pupilos
+## Mentorados(as)
+
+- [Seu perfil pode estar aqui...](#)
+- [Melissa Balsante (mibsbalsante)](/profiles/pupils/profiles/mibsbalsante.md)
+
+**Últimos mentorados(as)**
 
 - [Amon Lucas (amonlucas)](/profiles/pupils/profiles/AmonLucas.md)
 - [Richard Manzoli (richardmanzoli)](/profiles/pupils/profiles/RichardManzoli.md)

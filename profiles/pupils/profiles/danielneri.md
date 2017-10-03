@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Leandro Lima](/mentores/perfis/leandro_lima.md)
+[Leandro Lima](/profiles/mentors/profiles/leandro_lima.md)
 
 ## Meu Nome
 
@@ -12,5 +12,4 @@ Evoluir sempre e me tornar um grande profissional.
 
 ## Alguns links para me conhecer melhor
 
-
-[Twitter do Daniel Neri](http://twitter.com/nedango)
+- [Twitter](http://twitter.com/nedango)

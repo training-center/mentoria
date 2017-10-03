@@ -9,7 +9,8 @@ Meu sonho é ser alguém que faça uma diferença enorme! Seja na comunidade ou 
 E meu sonho de vida é ter um Apê em Vancouver/Canadá xD
 
 ## Alguns links para me conhecer melhor
-[WebSite](https://gabriel-brito.github.io)
-[Twitter](https://twitter.com/mr_gabrielbp)
-[GitHub](https://github.com/gabriel-brito)
-[LinkedIn](https://www.linkedin.com/in/gbsantos)
+
+- [WebSite](https://gabriel-brito.github.io)
+- [Twitter](https://twitter.com/mr_gabrielbp)
+- [GitHub](https://github.com/gabriel-brito)
+- [LinkedIn](https://www.linkedin.com/in/gbsantos)

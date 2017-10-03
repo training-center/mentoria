@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Ingo Hoffmann](/mentores/perfis/ingo_hoffmann.md)
+[Ingo Hoffmann](/profiles/mentors/profiles/ingo_hoffmann.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Ser um excelente desenvolvedor Java. Ser independente profissionalmente, crescer
 
 ## Alguns links para me conhecer melhor
 
-[LinkedIn](https://br.linkedin.com/in/andreybevilacqua)
+- [LinkedIn](https://br.linkedin.com/in/andreybevilacqua)

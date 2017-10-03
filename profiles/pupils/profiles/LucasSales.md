@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wésley Queiroz](/mentores/perfis/wesley_queiroz.md)
+[Wésley Queiroz](/profiles/mentors/profiles/wesley_queiroz.md)
 
 
 ## Meu Nome
@@ -13,7 +13,7 @@ Lucas Sales
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://facebook.com/luvetica)
-[Twitter](https://twitter.com/luvetica)
-[LinkedIn](http://ow.ly/YvzC303qN9P)
+- [Facebook](https://facebook.com/luvetica)
+- [Twitter](https://twitter.com/luvetica)
+- [LinkedIn](http://ow.ly/YvzC303qN9P)
 

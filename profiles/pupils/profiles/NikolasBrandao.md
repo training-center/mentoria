@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Wendell Adriel](/mentores/perfis/wendell_adriel.md)
+[Wendell Adriel](/profiles/mentors/profiles/wendell_adriel.md)
 
 ## Meu Nome
 
@@ -17,7 +17,5 @@ Dominio basico do inglês e francês.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/NikolasBrandao)
-
-
-[Twitter](https://twitter.com/ofabricante)
+- [Facebook](https://www.facebook.com/NikolasBrandao)
+- [Twitter](https://twitter.com/ofabricante)

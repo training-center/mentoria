@@ -24,9 +24,9 @@ Seu perfil profissional e alguma informação sobre você
 
 [Link para o PayPal, PagSeguro, etc](link) ou mande um abraço para ele(a) no email xxx@xxx.com ou nas redes sociais.
 
-## Pupilos de [Seu nome]
+## Mentorados(as)
 
-* [Pupilo 1](pupilos/profiles/pupilo1.md)
-* [Pupilo 2](pupilos/profiles/pupilo2.md)
-* [Pupilo 3](pupilos/profiles/pupilo3.md)
+* [Mentorado 1](/profiles/pupils/profiles/mentorado1.md)
+* [Mentorado 2](/profiles/pupils/profiles/mentorado2.md)
+* [Mentorado 3](/profiles/pupils/profiles/mentorado3.md)
 ```
