@@ -58,6 +58,10 @@
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
+* [Dener Rocha](profiles/dener_rocha.md)
+* [Felipe Andrade](profiles/felipe_andrade.md)
+* [William Correa](profiles/william_correa.md)
+
 
 ## Delphi
 
@@ -108,6 +112,7 @@
 * [Wendell Adriel](profiles/wendell_adriel.md)
 * [William Bruno](profiles/william_bruno.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
+* [William Correa](profiles/william_correa.md)
 
 ## DevOps
 
@@ -152,6 +157,7 @@
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Willian Santos](profiles/willian_santos.md)
 * [Wilson Campos](profiles/wilson_campos.md)
+* [William Correa](profiles/william_correa.md)
 
 ## Front End e UX/UI
 
