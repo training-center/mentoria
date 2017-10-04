@@ -140,6 +140,7 @@
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Miguel Soares](profiles/miguel_soares.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
 * [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
