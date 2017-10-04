@@ -151,6 +151,7 @@
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
+* [Tailo Mateus Gonsalves](profiles/tailo_mateus.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [William Bruno](profiles/william_bruno.md)
 * [William Oliveira](profiles/william_oliveira.md)
