@@ -17,14 +17,15 @@ Areas possíveis de mentorar:
 
 ## Links
 
-* [YouTube](https://www.youtube.com/c/LittleAlchemistio)
+* [YouTube - Programando na Gringa](https://www.youtube.com/channel/UCKN63lTXUgCSjR5gPNDUjmw/videos)
+* [YouTube - LittleAlchemist.io (inglês)](https://www.youtube.com/c/LittleAlchemistio)
 * [LinkedIn](https://www.linkedin.com/in/leandrobighetti/)
 * [Site pessoal](http://littlealchemist.io)
 * [Twitter](https://twitter.com/leandrobighetti)
 
 ## Gostaria de retribuir a ajuda do Leandro?
 
-Mande um salve para lbighetti@gmail.com
+Recomende habilidades no LinkedIn e se inscreva nos canais de Youtube acima!
 
 ## Mentorados(as)
 
@@ -33,3 +34,7 @@ Mande um salve para lbighetti@gmail.com
 - Douglas Eleutério
 - Fábio Moreira
 - Andressa Santana
+- Jessica Lewinter
+- Vinícius de Saraiva Chagas
+- Vinícius Lopes
+- Dieg Fortunato
