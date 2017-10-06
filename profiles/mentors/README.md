@@ -13,22 +13,30 @@
 
 * [Diego Malone](profiles/diegomalone.md)
 
+## iOS
+
+* [Narlei Américo Moreira](profiles/narlei_moreira.md)
+
 ## Arquitetura
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Rafael Koga](profiles/rafael_koga.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 
 ## Back End
 
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
+* [Bruno Casella](profiles/bruno_casella.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
+* [Dener Rocha](profiles/dener_rocha.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
 * [Dorian Neto](profiles/dorian_neto.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Felipe Andrade](profiles/felipe_andrade.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
@@ -43,6 +51,7 @@
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
 * [Luiz Paulo Ferreira](profiles/luiz_paulof.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Paulo Diniz](profiles/paulo_diniz.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
@@ -51,12 +60,14 @@
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Felipe Andrade](profiles/felipe_andrade.md)
+* [William Correa](profiles/william_correa.md)
+
 
 ## Delphi
 
+* [Dener Rocha](profiles/dener_rocha.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
-* [Dener Rocha](profiles/dener_rocha.md)
 
 ## Dot.Net
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -88,9 +99,11 @@
 * [Lucas Henrique](profiles/lucas_henrique.md)
 * [Luiz Fernando A. dos Santos](profiles/luiz_fernando.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 * [Marcus Beckenlamp](profiles/marcus_beckenkamp.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Reinaldo Oliveira](profiles/reinaldo_oliveira.md)
+* [Ricardo Moraleida](profiles/ricardo_moraleida.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vinicius Alonso](profiles/vinicius_alonso.md)
 * [Vinicius Reis](profiles/vinicius_reis.md)
@@ -100,6 +113,7 @@
 * [William Bruno](profiles/william_bruno.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Renan Birlem](profiles/renanbirlem.md)
+* [William Correa](profiles/william_correa.md)
 
 ## DevOps
 
@@ -132,15 +146,20 @@
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Miguel Soares](profiles/miguel_soares.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
+* [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
+* [Tailo Mateus Gonsalves](profiles/tailo_mateus.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [William Bruno](profiles/william_bruno.md)
 * [William Oliveira](profiles/william_oliveira.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
+* [Willian Santos](profiles/willian_santos.md)
 * [Wilson Campos](profiles/wilson_campos.md)
+* [William Correa](profiles/william_correa.md)
 
 ## Front End e UX/UI
 
@@ -162,8 +181,13 @@
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
+## PHP
+
+* [Ricardo Moraleida](profiles/ricardo_moraleida.md)
+
 ## Python
 
+* [Bruno Casella](profiles/bruno_casella.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
@@ -183,3 +207,7 @@
 ## Trabalho no Exterior
 
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
+
+## Trabalho Remoto
+
+* [Ricardo Moraleida](profiles/ricardo_moraleida.md)
