@@ -112,6 +112,7 @@
 * [Wendell Adriel](profiles/wendell_adriel.md)
 * [William Bruno](profiles/william_bruno.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
+* [Renan Birlem](profiles/renanbirlem.md)
 * [William Correa](profiles/william_correa.md)
 
 ## DevOps
