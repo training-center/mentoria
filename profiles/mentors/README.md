@@ -20,10 +20,11 @@
 ## Arquitetura
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
-* [Rafael Koga](profiles/rafael_koga.md)
 * [Dener Rocha](profiles/dener_rocha.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Marcos Furtado](profiles/marcos_furtado.md)
+* [Rafael Koga](profiles/rafael_koga.md)
 
 ## Back End
 
@@ -46,6 +47,7 @@
 * [Khauê Viana](profiles/khaue_viana.md)
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
@@ -93,6 +95,7 @@
 * [Jhonatan Pereira](profiles/jhonatan.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Kiver Teixeira](profiles/kiver.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Leonardo Saraiva](profiles/leonardo_saraiva.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
@@ -119,6 +122,7 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -144,6 +148,7 @@
 * [Gustavo Cardoso](profiles/gustavo_cardoso.md)
 * [Gustavo Godoi](profiles/gustavo_godoi.md)
 * [Jessuir Cleydson](profiles/jessuir_cleydson.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Miguel Soares](profiles/miguel_soares.md)
@@ -170,6 +175,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Fernando Moreira](profiles/fernando_moreira.md)
 * [Leandro Lima](profiles/leandro_lima.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Luiz Tanure](profiles/luiz_tanure.md)
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
@@ -190,6 +196,9 @@
 * [Bruno Casella](profiles/bruno_casella.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+
+## PHP
+* [Leo Cavalcante](profiles/leocavalcante.md)
 
 ## QA
 
