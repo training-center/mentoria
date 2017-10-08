@@ -4,7 +4,7 @@ Giovanni Cruz
 
 ## Perfil
 
-Me chamo Giovanni Cruz, sou desenvolvedor Backend com foco em PHP. Amante de Laravel e Frameworks inteligentes. Entusiasta de Docker, APIs RESTful e em busca do Design Pattern perfeito. Sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo em Campos do Jordão, porém residente de Taubaté - SP. Vamos bater um papo! Que a Força esteja com todos vocês!
+Me chamo Giovanni Cruz, sou desenvolvedor Backend (PHP :heart:). Amante de aplicaçes escaláveis, microserviços e _software as a service_. Entusiasta de Docker, APIs RESTful, NodeJS e em busca do Design Pattern perfeito. Atualmente, estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo em Campos do Jordão, porém residente de Taubaté - SP. Vamos bater um papo! Que a Força esteja com todos vocês!
 
 
 ## Links
