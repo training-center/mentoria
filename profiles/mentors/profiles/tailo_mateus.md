@@ -24,4 +24,5 @@ Sou apaixonado por leitura e incentivo as pessoas a lerem e escreverem, acredito
 Mande um abraço para ele no email tailogonsalves@gmail.com ou nas redes sociais.
 
 ## Mentorados(as) 
-Seja meu mentorado, vai ser louco \0/
+
+* [Carlos Eduardo Vieira](/profiles/pupils/profiles/CarlosEduardoVieira.md)

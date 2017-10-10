@@ -23,6 +23,7 @@
 - [Bruno Martins](profiles/Bruno_Martins.md)
 - [Bruno Melo](profiles/BrunoMelo.md)
 - [Caio Flávio](profiles/caio.md)
+- [Carlos Eduardo Vieira](profiles/CarlosEduardoVieira.md)
 - [Carlos Proença](profiles/carlos-proenca.md)
 - [Celso Lopes](profiles/CelsoLopes.md)
 - [Daniel de Jesus Oliveira](profiles/DanielDeJesusOliveira.md)
