@@ -16,7 +16,7 @@ Conquistar meu espaço no mercado de trabalho, expandir meus conhecimentos, ser 
 
 - [LinkedIn](https://www.linkedin.com/in/fabiomsnet/)
 
-- [LinkedIn](https://twitter.com/fabiomsnet)
+- [Twitter](https://twitter.com/fabiomsnet)
 
 - [Facebook](https://www.facebook.com/profile.php?id=100002283139480)
 
