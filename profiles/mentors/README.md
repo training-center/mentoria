@@ -20,6 +20,7 @@
 ## Arquitetura
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -32,6 +33,7 @@
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Antonio Ladeia](profiles/antonio_ladeia.md)
 * [Bruno Casella](profiles/bruno_casella.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Diego Ponciano](profiles/diego_ponciano.md)
@@ -68,11 +70,13 @@
 
 ## Delphi
 
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Rubens Pereira do Nascimento](profiles/rubens_nascimento.md)
 
 ## Dot.Net
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Khauê Viana](profiles/khaue_viana.md)
 
@@ -86,6 +90,7 @@
 ## Desenvolvimento Web em geral (Full Stack)
 
 * [Alex Junior](profiles/alexjunior012.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Erik Figueiredo](profiles/erik_figueiredo.md)
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
 * [Felipe Orlando](profiles/felipe_orlando.md)
@@ -123,6 +128,7 @@
 ## DevOps
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Santos](profiles/lucas_santos.md)
@@ -137,6 +143,7 @@
 
 * [Aline Bastos](profiles/aline_bastos.md)
 * [Andréa Zambrana](profiles/andrea_zambrana.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Cezar Luiz](profiles/cezar_luiz.md)
 * [Danilo Agostinho](profiles/danilo_agostinho.md)
 * [Danilo Vaz](profiles/danilo_vaz.md)
@@ -178,29 +185,30 @@
 * [Fernando Moreira](profiles/fernando_moreira.md)
 * [Leandro Lima](profiles/leandro_lima.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
-* [Luiz Tanure](profiles/luiz_tanure.md)
+* [Luiz Tanure](profiles/luiz_tanure.md) 
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
 ## Java
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
 ## PHP
 
+* [Carlos Augusto](profiles/carlos_augusto.md)
+* [Leo Cavalcante](profiles/leocavalcante.md)
 * [Ricardo Moraleida](profiles/ricardo_moraleida.md)
 
 ## Python
 
 * [Bruno Casella](profiles/bruno_casella.md)
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
-
-## PHP
-* [Leo Cavalcante](profiles/leocavalcante.md)
 
 ## QA
 
@@ -209,6 +217,7 @@
 
 ## Segurança
 
+* [Carlos Augusto](profiles/carlos_augusto.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 
 ## SEO
