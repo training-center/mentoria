@@ -6,7 +6,7 @@ Matheus Barone
 
 ## Perfil
 
-Seu perfil profissional e alguma informação sobre você
+Mentor para Desenvolvedores Front End e UX
 
 ## Links
 
