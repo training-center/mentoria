@@ -157,6 +157,7 @@
 - [Simone Amorim](profiles/simoneas02.md)
 - [Sofia Bareta](profiles/SofiaBareta.md)
 - [Tiago Fuelber](profiles/TiagoFuelber.md)
+- [Thaysa Mara M. Santos](profiles/thaysa_santos.md)
 - [Thiago Alves Vieira](profiles/thivieiratav.md)
 - [Thiago Gonçalves (twobanks)](profiles/twobanks.md)
 - [Thiago Morastico Cruz](profiles/ThiagoMorasticoCruz.md)
