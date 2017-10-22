@@ -112,6 +112,7 @@
 - [Marcio Alves](profiles/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](profiles/marco_blos.md)
 - [Marcos Borges](profiles/marcosabb.md)
+- [Marcos Paulo Cezar de Mendonça](profiles/MarcosPaulo.md)
 - [Mariana Ruther](profiles/MarianaRuther.md)
 - [Mateus Medeiros](profiles/MateusMedeiros.md)
 - [Mateus Rodrigues](profiles/mateusrdgs.md)
