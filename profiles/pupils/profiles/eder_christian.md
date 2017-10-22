@@ -12,4 +12,4 @@ Dominar a criação e desenvolvimento de aplicações web, bem como impactar a v
 - [Twitter](https://twitter.com/ederchristian92)
 - [LinkedIn](https://linkedin.com/in/ederchristian92)
 - [GitHub](https://github.com/ederchristian)
-- [Webite](http://ederchristian.com)
+- [Website](http://ederchristian.com)
