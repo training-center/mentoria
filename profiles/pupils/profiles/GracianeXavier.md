@@ -17,4 +17,3 @@ Tornar-me desenvolvedora web e contribuir com projetos open source.
 - [LinkedIn](https://www.linkedin.com/in/graciane-xavier-89a63266/)
 
 - [Email](mailto:cianemibs@hotmail.com)
-```
