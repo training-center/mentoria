@@ -28,8 +28,8 @@ Mentor de desenvolvimento fullstack: Front-End, Back-End, Infraestrutura e DevOp
 
 Doe um valor no [pagseguro](https://pag.ae/bblYF88), [paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25FDHU9XUD7UL) ou também mande um abraço para ele(a) no email [lhs.santoss@gmail.com](mailto:lhs.santoss@gmail.com) ou nas redes sociais.
 
-## Pupilos de Lucas
+## Mentorados(as)
 
-- [Victor Copque](../../pupils/profiles/victorcopque.md)
-- [Allyson Thales](../../pupils/profiles/allysonthales.md)
-- [Felipe R S Abbud](../../pupils/profiles/FelipeRSAbbud.md)
+- [Victor Copque](/profiles/pupils/profiles/victorcopque.md)
+- [Allyson Thales](/profiles/pupils/profiles/allysonthales.md)
+- [Felipe R S Abbud](/profiles/pupils/profiles/FelipeRSAbbud.md)

@@ -31,9 +31,9 @@ Desenvolvimento Web em geral (Full Stack)
 
 Mande um abraço para ele no email contato@webdevbr.com.br ou nas redes sociais.
 
-## Pupilos do Erik
+## Mentorados(as)
 
-* [Igor Oliveira](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/IgoOliveira.md)
-* [Felipe Lacerda](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/FelipeLacerda.md)
-* [Bruno Cavalcante](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/BrunoCavalcante.md)
-* [Elton Coelho](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/elton_coelho.md)
+* [Igor Oliveira](/profiles/pupils/profiles/IgoOliveira.md)
+* [Felipe Lacerda](/profiles/pupils/profiles/FelipeLacerda.md)
+* [Bruno Cavalcante](/profiles/pupils/profiles/BrunoCavalcante.md)
+* [Elton Coelho](/profiles/pupils/profiles/elton_coelho.md)

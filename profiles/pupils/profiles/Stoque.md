@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[William de Oliveira Souza](/mentores/perfis/william_oliveira_souza.md)
+[William de Oliveira Souza](/profiles/mentors/profiles/william_oliveira_souza.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Me tornar uma referência na área de front end, criar/particiar de grandes proj
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/ostoque)
+- [Twitter](https://twitter.com/ostoque)

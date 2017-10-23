@@ -31,8 +31,8 @@ Já trabalhei com todo tipo de tecnologia possível, mas tenho como experiência
 
 Só mandar um salve para [@guiiipontes](http://twitter.com/guiiipontes) no Twitter!
 
-## Pupilos
+## Mentorados(as)
 
-* [Maicon Gomes](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/atreyucore.md)
-* [Marcos Borges](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/marcosabb.md)
-* [Pedro Bernardo](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/pedbernardo.md)
+* [Maicon Gomes](/profiles/pupils/profiles/atreyucore.md)
+* [Marcos Borges](/profiles/pupils/profiles/marcosabb.md)
+* [Pedro Bernardo](/profiles/pupils/profiles/pedbernardo.md)

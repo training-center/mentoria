@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Giovanni Cruz](/mentores/perfis/giovannicruz97.md)
+[Giovanni Cruz](/profiles/mentors/profiles/giovannicruz97.md)
 
 ## Meu Nome
 
@@ -14,6 +14,6 @@ seja repassando conhecimento.
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/vicentimartins)
-[Github](https://github.com/vicentimartins)
-[Telegram](https://telegram.me/vicentimartins)
+- [Twitter](https://twitter.com/vicentimartins)
+- [Github](https://github.com/vicentimartins)
+- [Telegram](https://telegram.me/vicentimartins)

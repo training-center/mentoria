@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Dorian Neto](mentoria/mentores/perfis/dorian_neto.md)
+[Dorian Neto](/profiles/mentors/profiles/dorian_neto.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Montar uma agência de soluções Web e Mobile. Mas até lá, desejo me tornar u
 
 ## Alguns links para me conhecer melhor
 
-[Facebook do Iago Queiroz](https://www.facebook.com/iago.queiroz.14)
+- [Facebook](https://www.facebook.com/iago.queiroz.14)

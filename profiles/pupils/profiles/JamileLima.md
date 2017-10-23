@@ -1,6 +1,6 @@
-# Mentor responsável por mim
+## Mentor responsável por mim
 
-[Paulo Diniz](/mentores/perfis/paulo_diniz.md)
+[William Oliveira](/profiles/mentors/profiles/william_oliveira.md)
 
 ## Meu Nome
 
@@ -8,8 +8,8 @@ Jamile Lima
 
 ## Qual meu sonho na carreira?
 
-Me aprofundar no Desenvolvimento Back-end e poder fazer a diferença na Web.
+Me aprofundar no Desenvolvimento Web e poder fazer a diferença na comunidade. :heart:
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](https://twitter.com/fromgenes)
+- [Twitter](https://twitter.com/fromgenes)

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Kiver Teixeira](/mentores/perfis/kiver.md)
+[Kiver Teixeira](/profiles/mentors/profiles/kiver.md)
 
 # Meu Nome
 
@@ -13,5 +13,5 @@ Eduardo S. de Araujo
 
 # Alguns links para me conhecer melhor
 
-https://www.facebook.com/eduardo.s.de.araujo
-https://www.linkedin.com/in/edusaraujo
+- [Facebook](https://www.facebook.com/eduardo.s.de.araujo)
+- [LinkedIn](https://www.linkedin.com/in/edusaraujo)

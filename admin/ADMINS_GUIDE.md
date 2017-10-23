@@ -27,8 +27,8 @@ Documentação de como funciona o fluxo do Mentoria (esse projeto).
 	- adicionamos a pessoa no nosso board no Trello
 	- enviamos um email de boas vindas com o conteúdo do nosso [email para novos mentores e mentoras](https://docs.google.com/document/d/1mBr5J5XXnH-3an3eQgMTXcqqATwunOi3cWn2B0Gj9L8/edit?usp=sharing)
 
-## Novos(as) pupilos(as)
+## Novos(as) mentorados(as)
 
-- devemos analisar se essa pessoa seguiu o guia de como criar o documento de novo(a) pupilo(a)
+- devemos analisar se essa pessoa seguiu o guia de como criar o documento de novo(a) mentorado(a)
 - se estiver tudo OK, faça um code review no GitHub como `aproved`
 - assim que o PR com o novo perfil for aceito por pelo menos uma pessoa da organização, então fazemos o merge e adicionamos a pessoa a nossa org

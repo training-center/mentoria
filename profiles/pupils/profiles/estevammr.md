@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Paulo Diniz](/mentores/perfis/paulo_diniz.md)
+[Paulo Diniz](/profiles/mentors/profiles/paulo_diniz.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Ser um desenvolvedor back end e ajudar as pessoas que estão iniciando e tem o m
 
 ## Alguns links para me conhecer melhor
 
-[LinkedIn](https://www.linkedin.com/in/estevamrodrigues/)
+- [LinkedIn](https://www.linkedin.com/in/estevamrodrigues/)

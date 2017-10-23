@@ -27,7 +27,8 @@ Gostaria de retribuir um pouco à comunidade com o conhecimento que consegui adq
 
 Só dar um chego nas redes sociais e mandar um `_o/`
 
-## Pupilos
-- [Henri Oiwa](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/HenriOiwa.md)
-- [Marcelo Luiz Leite](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/marceloluizleite.md)
-- [Phillip Freitas](https://github.com/training-center/mentoria/blob/master/pupilos/perfis/PhillipFreitas.md)
+## Mentorados(as)
+
+- [Henri Oiwa](/profiles/pupils/profiles/HenriOiwa.md)
+- [Marcelo Luiz Leite](/profiles/pupils/profiles/marceloluizleite.md)
+- [Phillip Freitas](/profiles/pupils/profiles/PhillipFreitas.md)

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[William Bruno](/mentores/perfis/william_bruno.md)
+[William Bruno](/profiles/mentors/profiles/william_bruno.md)
 
 ## Meu Nome
 
@@ -18,5 +18,5 @@ Sou um pequeno gafanhoto. Trabalho com PHP mas sou apaixonado por desenvolviment
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/felipesilva10)
-[Twitter](https://twitter.com/felipe_acelino)
+- [Facebook](https://www.facebook.com/felipesilva10)
+- [Twitter](https://twitter.com/felipe_acelino)

@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Andréa Zambrana](/mentores/perfis/andrea_zambrana.md)
+[Andréa Zambrana](/profiles/mentors/profiles/andrea_zambrana.md)
 
 ## Meu Nome
 
@@ -12,5 +12,5 @@ Quero dominar HTML/CSS e JavaScript a ponto de escrever um código claro, limpo 
 
 ## Alguns links para me conhecer melhor
 
-[Twitter](http://twitter.com/meninadoviolao)  
-[LinkedIn](http//linkedin.com/in/joselialcosta)  
+- [Twitter](http://twitter.com/meninadoviolao)  
+- [LinkedIn](http//linkedin.com/in/joselialcosta)  

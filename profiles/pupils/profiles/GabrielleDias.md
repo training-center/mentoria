@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wesley Queiroz](/mentores/perfis/wesley_queiroz.md)
+[Wesley Queiroz](/profiles/mentors/profiles/wesley_queiroz.md)
 
 ## Meu Nome
 
@@ -12,4 +12,4 @@ Ser uma analista desenvolvedora.
 
 ## Alguns links para me conhecer melhor
 
-[Email](mailto:gabi_dias5@hotmail.com)
+- [Email](mailto:gabi_dias5@hotmail.com)

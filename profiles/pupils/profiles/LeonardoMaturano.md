@@ -14,7 +14,7 @@ Aprimorar meus conhecimentos como Desenvolvedor Web, e poder contribuir com a co
 
 ## Alguns links para me conhecer melhor
 
-* [Facebook](https://www.facebook.com/leomaturano)
-* [LinkedIn](https://www.linkedin.com/in/leonardomaturano)
-* [GitHub](https://github.com/leomaturano)
-* [Twitter](https://twitter.com/leomaturano)
+- [Facebook](https://www.facebook.com/leomaturano)
+- [LinkedIn](https://www.linkedin.com/in/leonardomaturano)
+- [GitHub](https://github.com/leomaturano)
+- [Twitter](https://twitter.com/leomaturano)
