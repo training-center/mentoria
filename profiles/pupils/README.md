@@ -87,6 +87,7 @@
 - [Laryssa Rocha](profiles/laryro.md)
 - [Leandro Fialho](profiles/leandro_fialho.md)
 - [Leonan Machado](profiles/LeonanMachado.md)
+- [Leonardo Bressan](profiles/LeonardoBressan.md)
 - [Leonardo Maturano](profiles/LeonardoMaturano.md)
 - [Leonardo Santos Monteiro](profiles/LeonardoSantosMonteiro.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
