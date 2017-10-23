@@ -14,6 +14,6 @@ Me tornar uma referencia na comunidade de desenvolvimento, trabalhando em uma gr
 
 - [Facebook](https://www.facebook.com/profile.php?id=100009011189259)
 
-- [Facebook](https://www.linkedin.com/in/leonardo-bressan-a1ab69122)
+- [LinkedIn](https://www.linkedin.com/in/leonardo-bressan-a1ab69122)
 
 - [Email](mailto:leo_bressan@icloud.com)
