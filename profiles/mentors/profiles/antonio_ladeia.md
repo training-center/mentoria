@@ -22,3 +22,5 @@ Mentor para Desenvolvedores Backend
 Mande um abraço para ele nas redes sociais.
 
 ## Mentorados(as)
+
+* [Leonardo Monteiro](/profiles/pupils/profiles/LeonardoSantosMonteiro.md)
