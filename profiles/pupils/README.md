@@ -32,6 +32,7 @@
 - [Daniel Simão da Silva](profiles/danielsimaodasilva.md)
 - [Danilo Agostinho](profiles/DaniloAgostinho.md)
 - [David Alex Sylvestre](profiles/DavidSylvestre.md)
+- [Diego Filipe Bolina](profiles/DiegoFilipe.md)
 - [Diego Zanelatti](profiles/Zanelatti.md)
 - [Eder Christian](profiles/eder_christian.md)
 - [Eduardo S. de Araujo](profiles/EduardoSdeAraujo.md)
