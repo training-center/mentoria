@@ -23,6 +23,7 @@ Sou formado em sistema de informações e pós-graduado em engenharia de softwar
 
 * [Facebook](https://www.facebook.com/igor.andrade.75)
 * [LinkedIn](https://www.linkedin.com/in/andradeigor/)
+* [Github](https://github.com/IgorAndrade)
 
 ## Gostaria de retribuir a ajuda do(a) Igor?
 
