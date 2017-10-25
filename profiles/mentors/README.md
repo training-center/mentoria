@@ -66,7 +66,7 @@
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Felipe Andrade](profiles/felipe_andrade.md)
 * [William Correa](profiles/william_correa.md)
-
+* [Igor Andrade](profiles/igorAndrade.md)
 
 ## Delphi
 
@@ -124,6 +124,7 @@
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Renan Birlem](profiles/renanbirlem.md)
 * [William Correa](profiles/william_correa.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 
 ## DevOps
 
@@ -196,6 +197,7 @@
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 
 ## PHP
 
@@ -219,6 +221,10 @@
 
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
+
+## Node
+
+* [Igor Andrade](profiles/igorAndrade.md)
 
 ## SEO
 
