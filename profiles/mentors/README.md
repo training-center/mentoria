@@ -200,6 +200,7 @@
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Rodolfo Mendes](profiles/rodolfo_mendes.md)
 
 ## PHP
 
