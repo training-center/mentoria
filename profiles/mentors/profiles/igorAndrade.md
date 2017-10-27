@@ -7,6 +7,7 @@ Igor Ramos Soares de Andrade
 ## Perfil
 
 Sou formado em sistema de informações e pós-graduado em engenharia de software. Trabalho como desenvolvedor full stack a quase 10 anos, desde que comecei minha carreira profissional, passei por empresas de grande e médio porte, hoje trabalho como lider técnico num projeto utilizando java, spring, angular , MQ, DevOps e integração continua.
+
 Email: andrade.igor@gmail.com
 
  Áreas possíveis de mentorar:
@@ -29,6 +30,7 @@ Email: andrade.igor@gmail.com
 ## Gostaria de retribuir a ajuda do(a) Igor?
 
 Recomende habilidades no [LinkedIn](https://www.linkedin.com/in/andradeigor/) 
+andrade.igor@gmail.com
 
 ## Mentorados(as)
 
