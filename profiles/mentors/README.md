@@ -160,6 +160,7 @@
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Matheus Barone](profiles/matheus_barone.md)
 * [Miguel Soares](profiles/miguel_soares.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
 * [Marcos Furtado](profiles/marcos_furtado.md)
@@ -186,6 +187,7 @@
 * [Leandro Lima](profiles/leandro_lima.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Luiz Tanure](profiles/luiz_tanure.md) 
+* [Matheus Barone](profiles/matheus_barone.md)
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
