@@ -23,4 +23,6 @@ Mande um abraço para ele nas redes sociais.
 
 ## Mentorados(as)
 
+* [David Allysson](/profiles/pupils/profiles/DavidAllysson.md)
 * [Leonardo Monteiro](/profiles/pupils/profiles/LeonardoSantosMonteiro.md)
+
