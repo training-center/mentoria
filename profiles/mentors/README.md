@@ -44,6 +44,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
 * [Henrique Maich](profiles/henrique_maich.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Iury Alves de Souza](profiles/iuryalves.md)
 * [Khauê Viana](profiles/khaue_viana.md)
@@ -66,7 +67,6 @@
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Felipe Andrade](profiles/felipe_andrade.md)
 * [William Correa](profiles/william_correa.md)
-* [Igor Andrade](profiles/igorAndrade.md)
 
 ## Delphi
 
@@ -98,6 +98,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
 * [Guilherme Pontes](profiles/guilhermepontes.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 * [Jhonatan Pereira](profiles/jhonatan.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Kiver Teixeira](profiles/kiver.md)
@@ -124,7 +125,6 @@
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Renan Birlem](profiles/renanbirlem.md)
 * [William Correa](profiles/william_correa.md)
-* [Igor Andrade](profiles/igorAndrade.md)
 
 ## DevOps
 
@@ -194,10 +194,10 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Carlos Augusto](profiles/carlos_augusto.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
-* [Igor Andrade](profiles/igorAndrade.md)
 
 ## PHP
 
