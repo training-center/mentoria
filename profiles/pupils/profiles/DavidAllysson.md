@@ -14,6 +14,6 @@ Evoluir como profissional na área de Desenvolvimento Web, contribuir com a comu
 
 - [Facebook](https://www.facebook.com/david.allysson.9)
 - [Twitter](https://twitter.com/DaviDAllysson)
-- [Email](davidmoreirainformatica@gmail.com)
+- [Email](mailto:davidmoreirainformatica@gmail.com)
 - [Github](https://github.com/davidallysson)
 - [LinkedIn](https://www.linkedin.com/in/david-allysson-527791118/)
