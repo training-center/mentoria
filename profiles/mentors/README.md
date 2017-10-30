@@ -61,6 +61,7 @@
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Paulo Diniz](profiles/paulo_diniz.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
@@ -79,6 +80,10 @@
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Khauê Viana](profiles/khaue_viana.md)
+
+## In-Memory Databases
+
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
 
 ## Informação Geográfica (GIS)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -136,7 +141,12 @@
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 
-## Elixir e Erlang
+## Elixir
+
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
+
+## Erlang
 
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 
@@ -232,6 +242,10 @@
 ## SEO
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
+
+## Tecnologias SAP (ABAP, HANA, UI5, etc...)
+
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
 
 ## Trabalho no Exterior
 
