@@ -26,7 +26,4 @@ Mande um abraço para ele no email luiz.vinicius73@gmail.com ou nas redes sociai
 
 ## Mentorados(as)
 
-* [Emanuel Gonçalves](/profiles/pupils/profiles/EmanuelG.md)
-* [Daniel Diniz](/profiles/pupils/profiles/DanielDiniz.md)
-* [Larissa Mourullo](/profiles/pupils/profiles/LarissaMourullo.md)
 * [Vinicius Azevedo](/profiles/pupils/profiles/ViniciusAzevedo.md)

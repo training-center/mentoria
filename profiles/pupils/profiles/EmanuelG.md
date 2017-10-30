@@ -1,6 +1,6 @@
 # Mentor responsável por mim
 
-[Vinicius Reis](/profiles/mentors/profiles/vinicius_reis.md)
+~
 
 ## Meu Nome
 
