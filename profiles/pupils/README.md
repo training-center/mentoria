@@ -34,6 +34,7 @@
 - [David Alex Sylvestre](profiles/DavidSylvestre.md)
 - [David Allysson](profiles/DavidAllysson.mid)
 - [Diego Zanelatti](profiles/Zanelatti.md)
+- [Diogo Majela](https://github.com/DiogoMajela/mentoria/blob/master/profiles/pupils/profiles/Diogo%20Majela.md)
 - [Eder Christian](profiles/eder_christian.md)
 - [Eduardo S. de Araujo](profiles/EduardoSdeAraujo.md)
 - [Elton Coelho](profiles/elton_coelho.md)
