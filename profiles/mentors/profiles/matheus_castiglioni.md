@@ -26,6 +26,7 @@ Gosto bastante de ajudar as pessoas o máximo que eu conseguir, os conhecimentos
 - Unity
 - C# (Recentemente)
 - Linux
+- Docker
 
 Experiências com front, back end e configurações a manutenção em servidores.
 
@@ -43,6 +44,12 @@ Já sou moderador no fórum da Alura e quero ser capaz de ajudar a comunidade ai
 
 ## Gostaria de retribuir a ajuda do Matheus ?
 
-[Link para o PayPal, PagSeguro, etc](link) ou mande um abraço para ele(a) no email xxx@xxx.com ou nas redes sociais.
+Mande um abraço para ele no email matheushcastiglioni@gmail.com ou nas redes sociais:
+
+* [Facebook](https://www.facebook.com/matheus.castiglioni.5)
+* [Github](https://github.com/mahenrique94)
+* [GooglePlus](https://plus.google.com/116607343343494563581)
+* [LinkedIn](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/)
+* [Twitter](https://twitter.com/mahenrique94)
 
 ## Mentorados(as)
