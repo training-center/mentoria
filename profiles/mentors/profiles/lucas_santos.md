@@ -33,3 +33,6 @@ Doe um valor no [pagseguro](https://pag.ae/bblYF88), [paypal](https://www.paypal
 - [Victor Copque](/profiles/pupils/profiles/victorcopque.md)
 - [Allyson Thales](/profiles/pupils/profiles/allysonthales.md)
 - [Felipe R S Abbud](/profiles/pupils/profiles/FelipeRSAbbud.md)
+- [Nicholas Pedroso](/profiles/pupils/profiles/nicholas_pedroso.md)
+- [Lisandra Rocha](/profiles/pupils/profiles/lisandra_rocha.md)
+- [Adriano Canofre](/profiles/pupils/profiles/adriano_canofre.md)
