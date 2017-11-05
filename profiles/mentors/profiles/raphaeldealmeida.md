@@ -15,6 +15,7 @@ Desenvolvedor de software com mais de dez anos de experiência, sendo a maior pa
 * [Twitter](https://twitter.com/raph_almeida)
 * [Linkedin](https://www.linkedin.com/in/raphaeldealmeida/)
 * [Telegram](https://web.telegram.org/#/im?p=@raphaeldealmeida)
+* [Email](mailto:jaguarnet7@gmail.com)
 
 
 ## Gostaria de retribuir a ajuda do Raphael de Almeida?
