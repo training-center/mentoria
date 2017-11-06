@@ -23,6 +23,7 @@ dicas sobre Ruby ou qualquer coisa do tipo, é só mandar um alô ;)
 * [Facebook](https://facebook.com/gionaufal)
 * [Twitter](https://twitter.com/gionaufal)
 * [LinkedIn](https://br.linkedin.com/in/gionaufal)
+* [E-mail](mailto:gionaufal@gmail.com)
 
 ## Gostaria de retribuir a ajuda do Giovanni?
 
