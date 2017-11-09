@@ -48,6 +48,7 @@
 * [Felipe Pimenta](profiles/felipe_pimenta.md)
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
+* [Giovanni Naufal](profiles/gionaufal.md)
 * [Henrique Maich](profiles/henrique_maich.md)
 * [Igor Andrade](profiles/igorAndrade.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
@@ -243,6 +244,10 @@
 * [Érik Patekoski](profiles/erikpatekoski.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 
+## Ruby
+
+* [Giovanni Naufal](profiles/gionaufal.md)
+
 ## Segurança
 
 * [Carlos Augusto](profiles/carlos_augusto.md)
@@ -269,3 +274,7 @@
 ## Trabalho Remoto
 
 * [Ricardo Moraleida](profiles/ricardo_moraleida.md)
+
+## Transição de carreira
+
+* [Giovanni Naufal](profiles/gionaufal.md)
