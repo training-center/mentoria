@@ -228,6 +228,7 @@
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Matheus Castiglioni](profiles/matheus_castiglioni.md)
+* [Raphael de Almeida](profiles/raphaeldealmeida.md)
 * [Ricardo Moraleida](profiles/ricardo_moraleida.md)
 
 ## Python
