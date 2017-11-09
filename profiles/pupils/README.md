@@ -69,6 +69,7 @@
 - [Henrique Rodrigues](profiles/HenriqueRodrigues.md)
 - [Hiran Neri](profiles/HiranNeri.md)
 - [Hugo Almeida](profiles/hugo_almeida.md)
+- [Iago Frota](https://github.com/iagofrota)
 - [Iago Queiroz](profiles/IagoQueiroz.md)
 - [Ingrid Martins](profiles/ingridmartins.md)
 - [Ingrid Rauany](profiles/IngridRauany.md)
