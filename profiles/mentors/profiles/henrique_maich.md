@@ -49,5 +49,5 @@ Conheco um pouco sobre DevOps, automatizando processos de Build/Deploy em Cloud,
 Busque o conhecimento, busque o que te faz feliz e depois tente mostrar para aqueles que te seguem o caminhos que sequistes.
 
 ## Mentorados(as)
-
+* [Leonardo Bressan](../../pupils/profiles/LeonardoBressan.md)
 * [Luiz Guilherme Franchim](../../pupils/profiles/luizfranchim.md)

@@ -12,6 +12,7 @@
 ## Android
 
 * [Diego Malone](profiles/diegomalone.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 
 ## iOS
 
@@ -26,6 +27,10 @@
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Marcos Furtado](profiles/marcos_furtado.md)
 * [Rafael Koga](profiles/rafael_koga.md)
+
+## C#
+
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 
 ## Back End
 
@@ -44,6 +49,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Giovanni Cruz](profiles/giovannicruz97.md)
 * [Henrique Maich](profiles/henrique_maich.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Iury Alves de Souza](profiles/iuryalves.md)
 * [Khauê Viana](profiles/khaue_viana.md)
@@ -58,15 +64,16 @@
 * [Marcos Furtado](profiles/marcos_furtado.md)
 * [Marcus Ortense](profiles/marcus_ortense.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 * [Paulo Diniz](profiles/paulo_diniz.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
 * [Thiago Paes](profiles/thiago_paes.md)
 * [Vanildo Souto Mangueira](profiles/vanildo_souto.md)
 * [Vinicius Tinguan](profiles/vinicius_tinguan.md)
 * [Dener Rocha](profiles/dener_rocha.md)
 * [Felipe Andrade](profiles/felipe_andrade.md)
 * [William Correa](profiles/william_correa.md)
-
 
 ## Delphi
 
@@ -79,6 +86,10 @@
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Khauê Viana](profiles/khaue_viana.md)
+
+## In-Memory Databases
+
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
 
 ## Informação Geográfica (GIS)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
@@ -98,6 +109,7 @@
 * [Felipe Rank](profiles/felipe_rank.md)
 * [Guilherme Augusto Henschel](profiles/guilherme-augusto-henschel.md)
 * [Guilherme Pontes](profiles/guilhermepontes.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 * [Jhonatan Pereira](profiles/jhonatan.md)
 * [Jonathan Lamim](profiles/jonathan_lamim.md)
 * [Kiver Teixeira](profiles/kiver.md)
@@ -112,6 +124,7 @@
 * [Marcus Beckenlamp](profiles/marcus_beckenkamp.md)
 * [Marcus Ortense](profiles/marcus_ortense.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 * [Reinaldo Oliveira](profiles/reinaldo_oliveira.md)
 * [Ricardo Moraleida](profiles/ricardo_moraleida.md)
 * [Thiago Paes](profiles/thiago_paes.md)
@@ -134,8 +147,14 @@
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Fidelis](profiles/matheus_fidelis.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 
-## Elixir e Erlang
+## Elixir
+
+* [Leandro Bighetti](profiles/leandro_bighetti.md)
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
+
+## Erlang
 
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 
@@ -160,10 +179,12 @@
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
+* [Matheus Barone](profiles/matheus_barone.md)
 * [Miguel Soares](profiles/miguel_soares.md)
 * [Mikael Hadler](profiles/mikaelhadler.md)
 * [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 * [Rafael Lage](profiles/rafael_lage_tavares.md)
 * [Renan Oliveira](profiles/renan_oliveira.md)
 * [Tailo Mateus Gonsalves](profiles/tailo_mateus.md)
@@ -186,6 +207,8 @@
 * [Leandro Lima](profiles/leandro_lima.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
 * [Luiz Tanure](profiles/luiz_tanure.md) 
+* [Matheus Barone](profiles/matheus_barone.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
@@ -193,14 +216,19 @@
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
 * [Carlos Augusto](profiles/carlos_augusto.md)
+* [Igor Andrade](profiles/igorAndrade.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
+* [Rodolfo Mendes](profiles/rodolfo_mendes.md)
 
 ## PHP
 
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
+* [Raphael de Almeida](profiles/raphaeldealmeida.md)
 * [Ricardo Moraleida](profiles/ricardo_moraleida.md)
 
 ## Python
@@ -220,9 +248,19 @@
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Cássio Batista Pereira](profiles/cassio_pereira.md)
 
+## Node
+
+* [Igor Andrade](profiles/igorAndrade.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
+
 ## SEO
 
 * [Fabíola Faria](profiles/fabiola_faria.md)
+* [Matheus Castiglioni](profiles/matheus_castiglioni.md)
+
+## Tecnologias SAP (ABAP, HANA, UI5, etc...)
+
+* [Raphael Pacheco](profiles/raphael_pacheco.md)
 
 ## Trabalho no Exterior
 
