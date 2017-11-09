@@ -27,7 +27,7 @@ dicas sobre Ruby ou qualquer coisa do tipo, é só mandar um alô ;)
 
 ## Gostaria de retribuir a ajuda do Giovanni?
 
-[https://pag.ae/bkqBcJL](Doe pelo PagSeguro) ou mande um abraço para @gionaufal
+[Doe pelo PagSeguro](https://pag.ae/bkqBcJL) ou mande um abraço para @gionaufal
 em qualquer rede!
 
 ## Mentorados(as)
