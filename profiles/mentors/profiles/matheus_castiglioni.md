@@ -54,7 +54,10 @@ Mande um abraço para ele no email matheushcastiglioni@gmail.com ou nas redes so
 * [Facebook](https://www.facebook.com/matheus.castiglioni.5)
 * [Github](https://github.com/mahenrique94)
 * [GooglePlus](https://plus.google.com/116607343343494563581)
+* [Instagram](https://www.instagram.com/mahenrique94/)
 * [LinkedIn](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/)
+* [Medium](https://medium.com/@mahenrique94)
 * [Twitter](https://twitter.com/mahenrique94)
 
 ## Mentorados(as)
+* Guilherme Thales
