@@ -44,7 +44,9 @@ Compartilho os conhecimentos que vou adiquirindo de acordo com o tempo em meu [b
 * [Facebook](https://www.facebook.com/matheus.castiglioni.5)
 * [Github](https://github.com/mahenrique94)
 * [GooglePlus](https://plus.google.com/116607343343494563581)
+* [Instagram](https://www.instagram.com/mahenrique94/)
 * [LinkedIn](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/)
+* [Medium](https://medium.com/@mahenrique94)
 * [Twitter](https://twitter.com/mahenrique94)
 
 ## Gostaria de retribuir a ajuda do Matheus ?
