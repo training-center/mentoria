@@ -64,6 +64,7 @@
 - [Genor Chiomento](profiles/GenorChiomento.md)
 - [Graciane Xavier](profiles/GracianeXavier.md)
 - [Guilherme de Oliveira Costa](profiles/GuilhermeDeOliveiraCosta.md)
+- [Guilherme Thales](profiles/GuilhermeThales.md)
 - [Gustavo Aguiar](profiles/GustavoAguiar.md)
 - [Gustavo César Domingos Siqueira](profiles/G18Siqueira.md)
 - [Henri Oiwa](profiles/HenriOiwa.md)
