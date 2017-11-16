@@ -29,4 +29,4 @@ Desenvolvedora Front-end freelancer e instrutora de programação da ONG Recode.
 Doe ou mande um abraço para ela no email oieusouamiguel@gmail.com ou nas redes sociais. Não fique com vergonha, #vamosjuntes!
 
 ## Mentorados(as) 
-Seja meu mentorado <3 Vai ser lindo, eu prometo! 
+- [Thaysa Mara](/profiles/pupils/profiles/thaysa_santos.md)
