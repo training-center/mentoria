@@ -21,5 +21,8 @@ Mentor para Desenvolvedores Backend
 
 Mande um abraço para ele nas redes sociais.
 
-## Pupilos do Mentor da Antonio Ladeia
+## Mentorados(as)
+
+* [David Allysson](/profiles/pupils/profiles/DavidAllysson.md)
+* [Leonardo Monteiro](/profiles/pupils/profiles/LeonardoSantosMonteiro.md)
 

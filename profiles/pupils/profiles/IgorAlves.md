@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Wendell Adriel](/mentores/perfis/wendell_adriel.md)
+[Wendell Adriel](/profiles/mentors/profiles/wendell_adriel.md)
 
 ## Meu Nome
 
@@ -18,5 +18,5 @@ Conheço o basico de HTML, JAVA, C, PHP mas sem conhecimento profundo, não sei 
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/igoralvess)
-[GitHub](https://github.com/igoralvess)
+- [Facebook](https://www.facebook.com/igoralvess)
+- [GitHub](https://github.com/igoralvess)

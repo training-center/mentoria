@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Lucas Henrique Pereira Souza](/mentoria/blob/master/mentores/perfis/lucas_henrique.md)
+[Lucas Henrique Pereira Souza](/profiles/mentors/profiles/lucas_henrique.md)
 
 ## Meu Nome
 
@@ -12,6 +12,5 @@ Me tornar um desenvolvedor front-end capaz de codar o que vier na cabeça e cons
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/GuhhSiqueira)
-
-[Twitter](https://twitter.com/Guhh_Siqueira)
+- [Facebook](https://www.facebook.com/GuhhSiqueira)
+- [Twitter](https://twitter.com/Guhh_Siqueira)

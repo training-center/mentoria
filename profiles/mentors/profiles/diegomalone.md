@@ -19,6 +19,11 @@ Sou formado em Ciência da Computação pela PUC Rio e já trabalho com desenvol
 * [Facebook](https://www.facebook.com/diegomalone)
 * Email: diegomalone@gmail.com
 
+## Mentorados(as)
+
+- [Elton Coelho](../../pupils/profiles/elton_coelho.md)
+- [Daniel de Jesus Oliveira](../../pupils/profiles/DanielDeJesusOliveira.md)
+
 ## Gostaria de retribuir a ajuda do Malone?
 
 Só mandar um salve para [@diegomalone](http://twitter.com/diegomalone) no Twitter!

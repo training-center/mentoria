@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-[Giovanni Cruz](mentoria/mentores/perfis/giovannicruz97.md)
+[Giovanni Cruz](/profiles/mentors/profiles/giovannicruz97.md)
 
 ## Meu Nome
 
@@ -12,5 +12,5 @@ Quero poder trabalhar como desenvolvedor back-end.
 
 ## Alguns links para me conhecer melhor
 
-[Facebook](https://www.facebook.com/luiz.glatz.9) | 
-[LinkedIn](https://br.linkedin.com/in/luiz-glatz)
+- [Facebook](https://www.facebook.com/luiz.glatz.9) | 
+- [LinkedIn](https://br.linkedin.com/in/luiz-glatz)
