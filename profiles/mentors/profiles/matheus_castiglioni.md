@@ -62,4 +62,4 @@ Mande um abraço para ele no email matheushcastiglioni@gmail.com ou nas redes so
 * [Twitter](https://twitter.com/mahenrique94)
 
 ## Mentorados(as)
-* Guilherme Thales
+* [Guilherme Thales](/profiles/pupils/profiles/GuilhermeThales.md)
