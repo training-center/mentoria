@@ -66,6 +66,7 @@
 * [Marcus Ortense](profiles/marcus_ortense.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Matheus Castiglioni](profiles/matheus_castiglioni.md)
+* [Mauricio Klein](profiles/mauricio_klein.md)
 * [Paulo Diniz](profiles/paulo_diniz.md)
 * [Ramon Sanches](profiles/raymonsanches.md)
 * [Raphael Pacheco](profiles/raphael_pacheco.md)
@@ -213,6 +214,10 @@
 * [Matheus Marsiglio](profiles/matheus_marsiglio.md)
 * [Wagner Santos](profiles/wagner_santos.md)
 
+## Golang
+
+* [Mauricio Klein](profiles/mauricio_klein.md)
+
 ## Java
 
 * [Alexandre Saudate](profiles/alexandre_saudate.md)
@@ -247,6 +252,7 @@
 ## Ruby
 
 * [Giovanni Naufal](profiles/gionaufal.md)
+* [Mauricio Klein](profiles/mauricio_klein.md)
 
 ## Segurança
 
@@ -270,6 +276,7 @@
 ## Trabalho no Exterior
 
 * [Leandro Bighetti](profiles/leandro_bighetti.md)
+* [Mauricio Klein](profiles/mauricio_klein.md)
 
 ## Trabalho Remoto
 
