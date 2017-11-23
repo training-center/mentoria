@@ -10,3 +10,7 @@ Entenda o por que e quando vamos voltar a ajudar as pessoas lendo este post: [O 
   <li><a href="https://bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
   <li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
 </ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/training-center/mentoria/master/img/39-800.jpg" alt="Freezed">
+</p>
