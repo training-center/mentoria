@@ -1,7 +1,5 @@
 # Mentor(a) responsável por mim
 
-[Leandro M. Bighetti](/profiles/mentors/profiles/leandro_bighetti.md)
-
 ## Meu Nome
 
 Fábio Moreira da Silva

@@ -19,7 +19,6 @@ Mentor para Desenvolvedores Front End e opensource life style.
 - [Emerson Nóbrega](/profiles/pupils/profiles/emersonnobrega.md)
 
 ## Mentor responsável por mim
-[Leandro Bighetti](/profiles/mentors/profiles/leandro_bighetti.md)
 
 ## Gostaria de retribuir a ajuda do(a) [Mikael Hadler]?
 

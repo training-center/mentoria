@@ -4,7 +4,6 @@
 
 ## Agile e Startups
 
-* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Evaldo Barbosa](profiles/evaldo-barbosa.md)
 * [Rafael Koga](profiles/rafael_koga.md)
 * [Dener Rocha](profiles/dener_rocha.md)
@@ -57,7 +56,6 @@
 * [Kirmayr Tomaz](profiles/kirmayr_tomaz.md)
 * [Kiver Teixeira](profiles/kiver.md)
 * [Leo Cavalcante](profiles/leocavalcante.md)
-* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Lucas Pinto](profiles/lucaspinto.md)
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Luiz Felipe de Oliva Limeira](profiles/luiz_felipe_limeira.md)
@@ -153,12 +151,7 @@
 
 ## Elixir
 
-* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Raphael Pacheco](profiles/raphael_pacheco.md)
-
-## Erlang
-
-* [Leandro Bighetti](profiles/leandro_bighetti.md)
 
 ## Front End
 
@@ -224,7 +217,6 @@
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Igor Andrade](profiles/igorAndrade.md)
 * [Ingo Hoffmann](profiles/ingo_hoffmann.md)
-* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Matheus Castiglioni](profiles/matheus_castiglioni.md)
 * [Rodolfo Mendes](profiles/rodolfo_mendes.md)
@@ -275,7 +267,6 @@
 
 ## Trabalho no Exterior
 
-* [Leandro Bighetti](profiles/leandro_bighetti.md)
 * [Mauricio Klein](profiles/mauricio_klein.md)
 
 ## Trabalho Remoto
