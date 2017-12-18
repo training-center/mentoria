@@ -155,7 +155,6 @@
 
 ## Front End
 
-* [Aline Bastos](profiles/aline_bastos.md)
 * [Andréa Zambrana](profiles/andrea_zambrana.md)
 * [Carlos Augusto](profiles/carlos_augusto.md)
 * [Cezar Luiz](profiles/cezar_luiz.md)
