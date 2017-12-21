@@ -1,6 +1,6 @@
 # Mentor(a) responsável por mim
 
-  [Carlos Augusto](https://github.com/DiogoMajela/mentoria/blob/master/profiles/mentors/profiles/carlos_augusto.md)
+  [Carlos Augusto](/profiles/mentors/profiles/carlos_augusto.md)
 
 ## Meu Nome
 
