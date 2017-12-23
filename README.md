@@ -43,6 +43,8 @@ Antes de tudo, leia as [responsabilidades do(a) mentor(a)](profiles/mentors/resp
 
 Você deverá responder [este formulário](http://bit.ly/form-mentor-mentoria) e aguardar nosso contato informando que você pode adicionar seu nome na [lista de mentores e mentoras](profiles/mentors). Você deverá enviar o PR com seu nome e especialidade e, depois do PR aceito, te daremos acesso a lista de pessoas que buscam ajuda.
 
+É obrigatório que você entre em nosso Slack e possua uma foto sua no seu perfil no chat para poder participar deste projeto. Para entrar no Slack acesse [este link](https://ctgroups.herokuapp.com).
+
 Caso você tenha dúvida sobre como mentorar alguém, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](http://bit.ly/mentor-guide-mentoria).
 
 Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
