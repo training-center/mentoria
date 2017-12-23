@@ -34,7 +34,7 @@ Cada mentor(a) ajuda 1 ou 2 pessoas por vez, durante 2 meses ou até, no máximo
 
 Caso a pessoa que busca ajuda não responda o contato em até 7 dias, o(a) mentor(a) que entrou em contato irá remover seus dados da lista.
 
-O mesmo se aplica para mentores e mentoras. Caso não responda as pessoas que estão sendo mentoradas, essas pessoas poderão nos alertar e então o(a) mentor(a) é removido(a) do projeto.
+O mesmo se aplica para mentores e mentoras. Caso não responda as pessoas que estão sendo mentoradas, essas pessoas devem nos alertar e então o(a) mentor(a) é removido(a) do projeto.
 
 ## Quero mentorar
 
