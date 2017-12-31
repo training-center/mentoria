@@ -30,7 +30,7 @@ Alguém que busca ajuda deverá responder um formulário e suas respostas ficam 
 
 Uma pessoa na posição de mentor ou mentora entrará em contato com esse alguém que busca ajuda e o processo de mentoria se iniciará.
 
-Cada mentor(a) ajuda 1 ou 2 pessoas por vez, durante 2 meses ou até, no máximo, 6, dependendo do nível de ajuda que a pessoa precisa.
+Cada mentor(a) ajuda 1 ou 2 pessoas por vez, pelo prazo máximo de 2 meses.
 
 Caso a pessoa que busca ajuda não responda o contato em até 7 dias, o(a) mentor(a) que entrou em contato irá remover seus dados da lista.
 
