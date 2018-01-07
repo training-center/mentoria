@@ -64,7 +64,7 @@ Nós limitamos a 1 ou duas pessoas para que você tenha tempo de ajudar de fato 
 
 ### Limite de tempo de mentoria
 
-Limitamos o tempo de mentoria para de 2 até, no máximo, 6 meses, dependendo do nível de ajuda que a pessoa precisa.
+Limitamos o tempo de mentoria para o prazo máximo de 2 meses.
 
 Esse limite não é uma barreira para que você nunca mais entre em contato depois dos 2 meses, mas para que aconteça uma rotatividade dentro do projeto e que ajudemos mais pessoas.
 
