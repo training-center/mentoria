@@ -175,7 +175,6 @@
 * [Lucas Santos](profiles/lucas_santos.md)
 * [Matheus Barone](profiles/matheus_barone.md)
 * [Miguel Soares](profiles/miguel_soares.md)
-* [Mikael Hadler](profiles/mikaelhadler.md)
 * [Marcos Furtado](profiles/marcos_furtado.md)
 * [Matheus Carvalho](profiles/matheus_carvalho.md)
 * [Matheus Castiglioni](profiles/matheus_castiglioni.md)
