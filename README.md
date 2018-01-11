@@ -70,7 +70,7 @@ Esse limite não é uma barreira para que você nunca mais entre em contato depo
 
 ## Preciso de mentoria
 
-Primeiro leia as [responsabilidades de um(a) mentorado(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [este formulário](http://bit.ly/form-mentoradoa-mentoria) e aguarde o contato de seu futuro mentor ou mentora.
+Primeiro leia as [responsabilidades de um(a) mentorado(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [este formulário](http://bit.ly/preciso-de-mentoria) e aguarde o contato de seu futuro mentor ou mentora.
 
 Não se esqueça de só aceitar ajuda de pessoas que estiverem [nesta lista](profiles/mentors), pois essas pessoas aceitaram nosso [código de conduta](http://bit.ly/coc-mentoria) e se responsabilizam publicamente com a comunidade através do pull request neste repositório.
 
