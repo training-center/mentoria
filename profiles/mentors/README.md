@@ -132,7 +132,6 @@
 * [Vinicius Reis](profiles/vinicius_reis.md)
 * [Vinicius Torves](profiles/vinicius_torves.md)
 * [Wésley Queiroz](profiles/wesley_queiroz.md)
-* [Wendell Adriel](profiles/wendell_adriel.md)
 * [William Bruno](profiles/william_bruno.md)
 * [William W. Oliveira](profiles/william_w_oliveira.md)
 * [Renan Birlem](profiles/renanbirlem.md)
