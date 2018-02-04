@@ -37,4 +37,4 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 
 | nome | especialização  |
 | -------  | --------------------  |
-|           |                           |
+| William Oliveira  | Frontend  |
