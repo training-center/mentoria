@@ -11,8 +11,8 @@ Eu sou a Miguel, desenvolvedora Front-end e entusiasta de desenvolvimento de gam
 * [Facebook](http://facebook.com/oieusouamiguel) 
 * [Twitter](http://twitter.com/oieusouamiguell)
 * [LinkedIn](http://linkedin.com/in/migueldenegocios)
-* [CodePen] (https://codepen.io/oieusouamiguel/)
-* [GitHub] (https://github.com/oieusouamiguel)
+* [CodePen](https://codepen.io/oieusouamiguel/)
+* [GitHub](https://github.com/oieusouamiguel)
  
 ## Gostaria de retribuir a ajuda da Miguel Soares? 
 
