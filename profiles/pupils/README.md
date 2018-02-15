@@ -96,6 +96,7 @@
 - [Leonardo Santos Monteiro](profiles/LeonardoSantosMonteiro.md)
 - [Leonardo Sousa](profiles/LeonardoSousa.md)
 - [Leonardo de Souza Faria](profiles/leonardofaria.md)
+- [Leonardo Vilarinho](profiles/LeonardoVilarinho.md)
 - [Letícia Costa](profiles/LeticiaCosta.md)
 - [Lisandra Rocha](profiles/lisandra_rocha.md)
 - [Luan Vicente](profiles/luan_vicente.md)
