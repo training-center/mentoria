@@ -18,18 +18,18 @@ Estas são as áreas de atuação, conforme acordado no formulário de cadastram
 
 | Especialidades |
 | -------------------- |
-| frontend |
-| backend |
-| bancos de dados |
-| infraestrutura |
-| fullstack |
-| data science |
-| agile |
-| seo |
-| marketing digital |
-| mobile-android |
-| mobile-ios |
-| segurança da informação |
+| Agile |
+| Backend |
+| Bancos de Dados |
+| Data Science |
+| Frontend |
+| Fullstack |
+| Infraestrutura |
+| Marketing Digital |
+| Mobile Android |
+| Mobile iOS |
+| Segurança da Informação |
+| Seo |
 
 Caso você queira adicionar outra área de atuação, deve abrir uma issue para informar as pessoas de sua necessidade.
 
@@ -37,6 +37,8 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 
 | nome | especialização  |
 | -------  | --------------------  |
-| William Oliveira  | Frontend  |
-| Miguel Soares  | Frontend  |
 | Khauê Viana | Backend |
+| Miguel Soares  | Frontend  |
+| Matheus Castiglioni  | Fullstack  |
+| William Oliveira  | Frontend  |
+
