@@ -39,4 +39,5 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 | -------  | --------------------  |
 | William Oliveira  | Frontend  |
 | Miguel Soares  | Frontend  |
+| Fernanda Bernardo  | Frontend  |
 | Khauê Viana | Backend |
