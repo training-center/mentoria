@@ -37,6 +37,7 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 
 | nome | especialização  |
 | -------  | --------------------  |
+| Fernanda Bernardo  | Frontend  |
 | Khauê Viana | Backend |
 | Miguel Soares  | Frontend  |
 | Matheus Castiglioni  | Fullstack  |
