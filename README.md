@@ -108,6 +108,14 @@ Artigos para você conhecer mais sobre nossa comunidade:
 - [Training Center: o que e por que fazemos](https://medium.com/trainingcenter/training-center-o-que-e-por-que-fazemos-4be062b36196)
 - [Training Center: o que planejamos para o futuro](https://medium.com/trainingcenter/training-center-o-que-planejamos-para-o-futuro-e9436079f594)
 
+## Tem alguma dúvida?
+
+Procure por um dos nossos moderadores no slack:
+
+- Luiz Paulo (**luizpf**)
+- Marcos Felipe (**omarkdev**)
+- Wendell Adriel (**wendell_adriel**)
+
 --- 
 
 > Todo conhecimento deve ser compartilhado.
