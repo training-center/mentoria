@@ -4,25 +4,20 @@ Giovanni Cruz
 
 ## Perfil
 
-Me chamo Giovanni Cruz, sou desenvolvedor Backend (PHP :heart:). Amante de aplicaçes escaláveis, microserviços e _software as a service_. Entusiasta de Docker, APIs RESTful, NodeJS e em busca do Design Pattern perfeito. Atualmente, estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo em Campos do Jordão, porém residente de Taubaté - SP. Vamos bater um papo! Que a Força esteja com todos vocês!
+Me chamo Giovanni Cruz, sou desenvolvedor Backend. Sempre aprendendo novas tecnologias e métodos de desenvolvimento. Atualmente, estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo em Campos do Jordão, porém residente de Taubaté - SP. Acredito que o aprendizado é uma via de duas mãos, vamos aprender juntos! Que a Força esteja com todos vocês!
 
+## Tecnologias
 
-## Links
+* PHP / Nodejs
+* REST / GraphQL
+* Docker
+* PostgreSQL / MySQL
+* MongoDB
+
+## Contato
 
 * [Facebook](https://www.facebook.com/giovanni.cruz.1485)
 * [Twitter](https://twitter.com/giovanni_cruz97)
 * [LinkedIn](https://www.linkedin.com/in/giovanni-cruz-1011a6104)
 
-## Deseja me enviar um Café?
-
-Entre em contato pelo meu email: giovanni.cruz97@hotmail.com
-
 ## Mentorados(as)
-
-* [Victor Maciel](/profiles/pupils/profiles/VictorMaciel.md)
-* [Luiz Glatz](/profiles/pupils/profiles/LuizGlatz.md)
-* [Vicente Martins](/profiles/pupils/profiles/vicentimartins.md)
-* [Anderson Altíssimo](/profiles/pupils/profiles/AndersonAltissimo.md)
-* [Matheus Henrique de Souza](/profiles/pupils/profiles/MatheusSouza.md)
-* [Jeyziel Gama](/profiles/pupils/profiles/jeyzielgama.md)
-* [Gabriel Vieira](/profiles/pupils/profiles/GabrielVieira.md)
