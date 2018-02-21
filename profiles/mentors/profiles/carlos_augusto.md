@@ -4,12 +4,78 @@
 
 Carlos Augusto
 
-## Perfil
+##Perfil
 
-Sou Eng. da Computacao com MBA em Gestao de Projetos, tenho vivencia em consultoria em diversas linguagens desde as mais antigas quanto as mais novas,
-atuo como arquiteto, consultor, analista funcional e etc...
+Mentor para desenvolvedores, arquitetos e consultores de Front End/Back End/Full Stack, interessados em ter uma boa base em Java, C#
+e desenvolvimento Web (JS/HTML/CSS).
 
-Gostaria de mentorar pessoas das areas de Agile, Frontend, Backend, Banco de dados, FullStack, Mobile IOs, Mobile Android e DevOps.
+Sou consultor de T.I., atuo principalmente na plataforma .NET e Java, possuo 10 anos de experiência profissional no mercado de TI, 
+Possuo experiências em Delphi,.NET, Sharepoint,VB6,VB.NET,WCF,PHP,Java,Java Spring, NodeJs, Javascript, Front e Backend, Bancos de dados (Sybase,SQL Server e Oracle).
+Já ministreis palestras e cursos de NodeJs, Java e .NET.
+
+Possuo graduação em Engenharia da Computação e MBA em Gestão de projetos pela FGV e sou Scrum Master pela SCRUM.ORG.
+
+Conhecimento  em:
+
+*Arquitetura de Sistemas
+
+*Arquitetura de Projetos
+
+*Gestão de Projetos
+
+*SCRUM
+
+*Orçamentos e vendas de sistemas (Freela !)
+
+*Desenvolvimento focado em performance
+
+*ALM
+
+*DevOps
+
+*Integração e delivery Continuo (Jenkins, scripts, ant, msbuild e etc...)
+
+*Shellscript
+
+*CSS
+
+*C# Dot.Net MVC
+
+*C# Dot.Net WCF
+
+*C# Dot.Net WPF
+
+*C# Dot.Net Web Api
+
+*C# Dot.Net Windows Forms
+
+*C# Dot.Net Entity Framework 
+
+*Java Spring Framework
+
+*Java Swing
+
+*Java Hibernate
+
+*DB MSSQL
+
+*DB MYSQL
+
+*DB Oracle
+
+*DB PostGreeSQL
+
+*Docker
+
+*PCI
+
+*PHP
+
+*BlueMix
+
+*AWS
+
+*Azure
 
 ## Links
 
@@ -18,11 +84,10 @@ Gostaria de mentorar pessoas das areas de Agile, Frontend, Backend, Banco de dad
 * [Seu Twitter](www.twitter.com/gutopro)
 * [Seu LinkedIn](www.linkedin.com/in/caugusto/)
 
-## Gostaria de retribuir a ajuda do(a) [Seu nome]?
+## Gostaria de retribuir a ajuda do(a) [Carlos Augusto]?
 
+mande um abraço para ele no email oliveira.caugusto@gmail.com ou nas redes sociais.
 [PayPal](http://bit.ly/2EJ8wfS)
-Me manda um abraco no guto.pro@gmail.com com o assunto da mentoria :)
-
 
 ## Mentorados(as)
 
