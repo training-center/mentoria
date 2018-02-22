@@ -41,3 +41,4 @@ Ei, estou aqui para auxiliar no seu desenvolvimento, se você quiser minha ajuda
 - [Amon Lucas (amonlucas)](/profiles/pupils/profiles/AmonLucas.md)
 - [Richard Manzoli (richardmanzoli)](/profiles/pupils/profiles/RichardManzoli.md)
 - [Werberth Vinícius (Werberth)](/profiles/pupils/profiles/WerberthVinicius.md)
+- [Danilo Soares Cardoso](/profiles/pupils/profiles/DaniloSoaresCardoso.md)

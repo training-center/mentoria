@@ -18,3 +18,9 @@ Mentor para desenvolvimento back-end .NET (Web), também posso auxiliar em outro
 ## Gostaria de retribuir a ajuda do Khauê?
 
 Manda no e-mail: khaueviana@gmail.com
+
+## Mentorados(as)
+
+- [Marcos Paulo Cezar de Mendonça](https://github.com/training-center/mentoria/blob/master/profiles/pupils/profiles/MarcosPaulo.md)
+
+- [João Paulo de Castro Lima](https://github.com/training-center/mentoria/blob/khaueviana-patch-1/profiles/pupils/profiles/JoaoPauloCastroLima)

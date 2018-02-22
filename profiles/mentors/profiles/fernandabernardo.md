@@ -23,6 +23,7 @@ Mande um abraço para ela no email fernandabernardo94@gmail.com ou nas redes soc
 
 ## Mentorados(as)
 * [Eder Christian](/profiles/pupils/profiles/eder_christian.md)
+* [Graciane Xaview](/profiles/pupils/profiles/GracianeXavier.md)
 * [Henrique Rodrigues](/profiles/pupils/profiles/HenriqueRodrigues.md)
 * [Pedro Leão](/profiles/pupils/profiles/PedroLeao.md)
 * [Pedro Sampaio](/profiles/pupils/profiles/PedroSampaio.md)

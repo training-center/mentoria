@@ -30,6 +30,4 @@ Doe um valor no [pagseguro](https://pag.ae/bblYF88), [paypal](https://www.paypal
 
 ## Mentorados(as)
 
-- [Victor Copque](/profiles/pupils/profiles/victorcopque.md)
-- [Allyson Thales](/profiles/pupils/profiles/allysonthales.md)
-- [Felipe R S Abbud](/profiles/pupils/profiles/FelipeRSAbbud.md)
+- No momento não estou mentorando devido a problemas pessoais :)
