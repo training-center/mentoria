@@ -115,6 +115,7 @@ Procure por um dos nossos moderadores no slack:
 - Luiz Paulo (**luizpf**)
 - Marcos Felipe (**omarkdev**)
 - Wendell Adriel (**wendell_adriel**)
+- Carlos Augusto  (**engaugusto**)
 
 --- 
 
