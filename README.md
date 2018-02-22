@@ -112,6 +112,7 @@ Artigos para você conhecer mais sobre nossa comunidade:
 
 Procure por um dos nossos moderadores no slack:
 
+- Carlos Augusto  (**engaugusto**)
 - Luiz Paulo (**luizpf**)
 - Marcos Felipe (**omarkdev**)
 - Wendell Adriel (**wendell_adriel**)

@@ -4,9 +4,8 @@
 
 Carlos Augusto
 
-## Perfil
+##Perfil
 
-Seu perfil profissional e alguma informação sobre você
 Mentor para desenvolvedores, arquitetos e consultores de Front End/Back End/Full Stack, interessados em ter uma boa base em Java, C#
 e desenvolvimento Web (JS/HTML/CSS).
 
@@ -74,18 +73,21 @@ Conhecimento  em:
 
 *BlueMix
 
+*AWS
+
 *Azure
 
 ## Links
 
-* https://www.facebook.com/oliveira.caugusto
-* https://twitter.com/gutopro
-* https://www.linkedin.com/in/caugusto/
+* [Seu site pessoal](www.caugusto.eng.br) (desativado por enquanto)
+* [Seu Facebook](https://www.facebook.com/oliveira.caugusto)  nao uso face, somente o messenger
+* [Seu Twitter](www.twitter.com/gutopro)
+* [Seu LinkedIn](www.linkedin.com/in/caugusto/)
 
 ## Gostaria de retribuir a ajuda do(a) [Carlos Augusto]?
 
 mande um abraço para ele no email oliveira.caugusto@gmail.com ou nas redes sociais.
+[PayPal](http://bit.ly/2EJ8wfS)
 
 ## Mentorados(as)
 
-Candidate-se :)
