@@ -37,6 +37,7 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 
 | nome | especialização  |
 | -------  | --------------------  |
+| Ana Luiza Portello Bastos | Fullstack  |
 | Fernanda Bernardo  | Frontend  |
 | Khauê Viana | Backend |
 | Matheus Castiglioni  | Fullstack  |
