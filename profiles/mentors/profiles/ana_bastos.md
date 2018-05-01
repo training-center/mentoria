@@ -28,13 +28,13 @@ Hobbies: Matematica, Jogos, Música.
 
 ## Links
 
-[Site pessoal](https://anabastos.me)  
-[Facebook](https://www.facebook.com/ana8bastos)
-[SpeakerDeck](https://speakerdeck.com/anabastos)
-[Twitter](https://twitter.com/naluhh)  
-[LinkedIn](https://br.linkedin.com/in/anabastos8/)  
-[Github](https://github.com/anabastos/)
-[Meetup](https://www.meetup.com/members/207120200/)
+- [Site pessoal](https://anabastos.me)  
+- [Facebook](https://www.facebook.com/ana8bastos)
+- [SpeakerDeck](https://speakerdeck.com/anabastos)
+- [Twitter](https://twitter.com/naluhh)
+- [LinkedIn](https://br.linkedin.com/in/anabastos8/)
+- [Github](https://github.com/anabastos/)
+- [Meetup](https://www.meetup.com/members/207120200/)
 
 ## Gostaria de retribuir a ajuda da Ana Luiza Portello Bastos?
 
