@@ -42,4 +42,5 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 | Matheus Castiglioni  | Fullstack  |
 | William Oliveira  | Frontend  |
 | Giovanni Cruz  | Backend  |
+| Igor Andrade  | Fullstack  |
 
