@@ -40,6 +40,7 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 | Ana Luiza Portello Bastos | Fullstack  |
 | Fernanda Bernardo  | Frontend  |
 | Khauê Viana | Backend |
+| Rodrigo Fraga | Fullstack |
 | Matheus Castiglioni  | Fullstack  |
 | William Oliveira  | Frontend  |
 | Giovanni Cruz  | Backend  |
