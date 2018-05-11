@@ -9,19 +9,17 @@ Template para cadastramento de perfis dos Mentorados(as).
 
 ## Meu Nome
 
-Seu nome
+Anderson Macedo
 
 ## Qual meu sonho na carreira?
 
-Adicione qual seu sonho de carreira aqui.
+Se tornar um desenvolvedor profissional, a alguns anos tive o primeiro contanto com programacao e resolvi tornar-se um.
 
 ## Alguns links para me conhecer melhor
 
-- [Facebook](link)
-
 - [Twitter](link)
 
-- [LinkedIn](link)
+- [LinkedIn](https://www.linkedin.com/in/anderson-macedo-065a3264/)
 
-- [Email](mailto:seu@email.com)
+- [Email](anderson.macedo@rocketmail.com)
 ```
