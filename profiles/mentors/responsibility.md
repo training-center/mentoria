@@ -2,7 +2,7 @@
 
 Como Mentor(a):
 
-* Você deve seguir o [código de conduta](/admin/CONDUTA.md)
+* Você deve seguir o [código de conduta](http://bit.ly/coc-mentoria)
 * Você deve criar seu [perfil](/profiles/mentors) nesse repositório seguindo o [template](/profiles/mentors/mentor_template.md)
 * Você precisa manter seu perfil atualizado
 * Você precisa garantir que o(a) mentorado(a) atualize o [perfil](/profiles/pupils) dele(a) seguindo o [template](/profiles/pupils/pupil_template.md)

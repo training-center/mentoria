@@ -2,8 +2,8 @@
 
 Como Mentorado:
 
-* Você deve seguir o [código de conduta](/admin/CONDUTA.md)
-* Você deve criar seu [perfil](/pupils) nesse repositório seguindo o [template](/profiles/pupils/pupil_template.md)
+* Você deve seguir o [código de conduta](http://bit.ly/coc-mentoria)
+* Você deve criar seu [perfil](/profiles/pupils) nesse repositório seguindo o [template](/profiles/pupils/pupil_template.md)
 * Você precisa manter seu perfil atualizado
 * Você deve manter seu(sua) Mentor(a) atualizado(a) sobre seu desenvolvimento lhe enviando um email toda semana com um resumo de como tem caminhado[1]
 
