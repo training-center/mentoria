@@ -14,7 +14,7 @@ Como desenvolvedor tenho experiência com Backend em C# .Net Full e Core. No Vis
 
 Construção de App com Xamarin Forms, consumindo Api Rest e Push Notifications através do Firebase.
 
-Backend:
+Backend
 - C# AspNet MVC 5 e WebApi
 - C# Dotnet Core 2, MVC e WebApi
 - Entity Framework
