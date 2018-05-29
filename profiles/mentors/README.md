@@ -46,4 +46,4 @@ Caso você queira adicionar outra área de atuação, deve abrir uma issue para 
 | Giovanni Cruz  | Backend  |
 | Igor Andrade  | Fullstack  |
 | Ricardo Tulio  | Backend |
-
+| Bruno Matuk  | Fullstack  |
