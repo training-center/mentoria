@@ -8,7 +8,7 @@ Ajudamos quem nunca trabalhou na área a conseguir seu primeiro emprego.
 
 Se você busca ajuda para aprender alguma tecnologia em específico, você pode participar ou criar um grupo de estudos neste projeto: [study-groups](http://bit.ly/study-groups-mentoria). O mentoria não serve para isso.
 
-Este projeto **não possui fins lucrativos**, porém, você pode doar mensalmente para nossa comunidade através do [apoia.se](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas. ;P
+Este projeto **não possui fins lucrativos**.
 
 ## O que fazemos
 
