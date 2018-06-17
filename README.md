@@ -92,4 +92,4 @@ Artigos para você conhecer mais sobre nossa comunidade:
 
 --- 
 
-## [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-training-center)
+## [Quem apoia o CT](https://github.com/training-center/sponsors)
