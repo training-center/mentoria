@@ -1,6 +1,6 @@
 # Template para a lista de mentores(as)
 
-Adicione seu nome ao próximo a outra pessoa que presta mentoria relacionado ao assunto que você deseja contribuir.
+Adicione seu nome ao final da lista de pessoas que prestam mentoria relacionada ao assunto que você deseja contribuir.
 
 Por exemplo:
 
@@ -8,7 +8,7 @@ Por exemplo:
 | --- | --- | --- |
 | William Oliveira | Front-End e Nodejs | @meutelegram
 
-Se você for mentorar sobre front-end, então adicione seu nome próximo a última pessoa que se cadastrou como front-end, nesse caso seria o William Oliveira.
+Se você for mentorar sobre front-end, então adicione seu nome **logo após** o da última pessoa que se cadastrou como front-end, nesse caso seria o William Oliveira
 
 A lista não segue ordem alfabética, mas ordem de chegada. Se você for a última pessoa que presta mentoria em X a entrar no projeto, adicione depois de quem já estava lá.
 
