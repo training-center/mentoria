@@ -42,7 +42,7 @@ Se você entrar em contato com alguém e essa pessoa não te responder em até u
 
 A pessoa que presta mentoria pelo Training Center assume o papel de agente ativo na sociedade com o objetivo de ajudar pessoas e mudar vidas, não de ganhar dinheiro. Por isso, se alguém te cobrar qualquer valor para prestar mentoria, nos avise através do formulário de denúncias, pois iremos banir essa pessoa, [formulário de denúncias](http://bit.ly/feedback-tc-mentoria).
 
-O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentor ou mentora. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe presta mentoria, caso ela aflija alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
+O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentor ou mentora. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe presta mentoria, caso ela infrinja alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
 
 Caso você goste muito da ajuda que recebeu ao final dos dois meses pode enviar um "depoimento" que ficará guardado neste repositório como forma de retorno ao apoio do mentor ou mentora. Para isso basta seguir este [template](./.github/testimony.template.md).
 
@@ -68,7 +68,7 @@ Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar p
 
 Nós estamos aqui para ajudar as pessoas de forma **gratuita**, a fim de garantir a inclusão social de todas as pessoas na área de desenvolvimento de software.
 
-O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentorado ou mentorada. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe recebe mentoria, caso ela aflija alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
+O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentorado ou mentorada. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe recebe mentoria, caso ela infrinja alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
 
 ## Regras gerais (TL;DR)
 
