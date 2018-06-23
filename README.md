@@ -1,102 +1,100 @@
-## Mentoria
+# Mentoria
 
-> Cuidado, este projeto está em constantes mudanças! Acompanhe. ;)
+> Todo conhecimento deve ser compartilhado, pois somente a educação é que pode mudar algo no mundo.
 
-Uma iniciativa que **junta** pessoas que podem guiar quem deseja entrar na área de desenvolvimento de software.
+## O que é mentoria
 
-Ajudamos quem nunca trabalhou na área a conseguir seu primeiro emprego.
+Mentoria tem como foco ajudar alguém a **alcançar objetivos**, aprimorando suas habilidades técnicas ou interpessoais, pois nosso propósito é auxiliar a pessoa a encontrar um caminho mais promissor, tendo como o alvo o progresso e o crescimento pessoal e profissional do mentorado ou da mentorada.
 
-Se você busca ajuda para aprender alguma tecnologia em específico, você pode participar ou criar um grupo de estudos neste projeto: [study-groups](http://bit.ly/study-groups-mentoria). O mentoria não serve para isso.
+Mentorar é dar conselhos baseado em nossa experiência profissional, por isso tende a ser um bate papo informal, não um curso ou aulas particulares de assunto x.
 
-Este projeto **não possui fins lucrativos**.
+O processo de mentoria não é o mesmo de ajudar em um fórum de discussões ou participar do nosso Slack, onde respondemos alguma dúvida e vamos embora. Mas é um acompanhamento pessoal onde buscamos conhecer as **necessidades** profissionais da pessoa, suas **dificuldades** e **limites** e então tentamos sobrepor esses limites, ajudando a pessoa a superar suas dificuldades até conseguir suprir suas necessidades profissionais.
 
-## O que fazemos
+**Exemplo**
 
-Conectamos gente com experiência na área de produtos digitais como pessoas desenvolvedoras de software (frontend, mobile, backend, embarcados, etc), UX e UI designers e profissões relacionadas.
+**uma necessidade** pode ser: desejo me tornar programador(a) front-end/mobile/back-end/etc;
+**uma dificuldade** pode ser: por mais que eu tente muito, não consigo me dar bem com lógica de programação;
+**um limite** pode ser: eu não tenho muito tempo livre durante a semana, pois moro longe do meu emprego, por isso saio às 5h e chego às 23h.
 
-Essas pessoas com experiência se tornam mentores e mentoras dentro do nosso projeto e vão guiar seus mentorados e suas mentoradas para conseguirem seu primeiro emprego em nossa área.
+Nosso papel, neste exemplo, é ajudar essa pessoa a superar o limite da falta de tempo, darmos os melhores conselhos para que ela supere a dificuldade em lógica de programação, mas o objetivo final é dar todas as dicas possíveis para que ela se torne programadora. Não vamos dar aulas de lógica de programação, mas dicas para que essa pessoa aprenda por sí própria baseada em nossa experiência de carreira.
 
-## Mentorar não é dar aulas particulares
+Entenda mais sobre mentoria neste artigo: [Significado de Mentoring](https://www.significados.com.br/mentoring/).
 
-Mentorar não implica em dar aulas de programação ou design, mentorar é guiar a pessoa em um caminho até o objetivo de conseguir seu primeiro emprego.
+E nestes aqui: 
 
-Nós ajudamos a pessoa mostrando o que é nossa área, como ela pode entrar, o que vai precisar, onde buscar conhecimento e damos dicas de carreira.
+- [Dicas para novos(as) mentores(as)](https://medium.com/trainingcenter/dicas-para-novos-as-mentores-as-9e87fa30b2b4).
+- [Dicas para novos(as) mentorados(as)](https://medium.com/trainingcenter/dicas-para-novos-as-pupilos-as-3f82f6237e9a)
 
-Devemos ensinar e estimular a pessoa a pesquisar, a perguntar em fóruns, participar de eventos, meetups e tudo o que nós achamos importante para nossa carreira.
+Qualquer pessoa pode mentorar, desde que tenha experiência em um assunto.
 
-## Como funciona
+## Como funciona o projeto Mentoria
 
-Alguém que busca ajuda deverá responder um formulário e suas respostas ficam armazenadas em uma planilha que somente as pessoas cadastradas em nosso projeto terão acesso.
+Este projeto conecta pessoas que desejam mentorar com pessoas buscando mentoria.
 
-Uma pessoa na posição de mentor ou mentora entrará em contato com esse alguém que busca ajuda e o processo de mentoria se iniciará.
+**Nós não fazemos micro gerenciamento**, então, uma vez que alguém se cadastra como mentor(a) é de sua responsabilidade gerenciar seu tempo, sua participação ativa na vida do(a) mentorado(a) e também de remover seu nome da lista caso não tenha mais tempo hábil para receber contatos.
 
-Cada mentor(a) ajuda 1 ou 2 pessoas por vez, pelo prazo máximo de 2 meses.
+O mesmo se encaixa para quem busca mentoria, é de sua responsabilidade entrar em contato com alguém da lista de mentores(as) e manter a comunicação ativa. A pessoa que presta mentoria não é obrigada a te cobrar ou manter contato contigo, por isso é necessário se manter de modo ativo buscando conselhos do mentor ou mentora.
 
-Caso a pessoa que busca ajuda não responda o contato em até 7 dias, o(a) mentor(a) que entrou em contato irá remover seus dados da lista.
+É extremamente importante que você entenda o que é mentoria e o que nós nos propomos a fazer neste projeto, por isso leia essa documentação até o final e não fique com dúvidas antes de participar.
 
-O mesmo se aplica para mentores e mentoras. Caso não responda as pessoas que estão sendo mentoradas, essas pessoas devem nos alertar e então o(a) mentor(a) é removido(a) do projeto.
+Se você tiver qualquer dúvida sobre o processo, abra uma issue neste repositório, clicando [aqui](https://github.com/training-center/mentoria/issues/new).
+
+## Preciso de ajuda
+
+Em primeiro lugar é necessário entender que **alguém que presta mentoria pelo Training Center não é um(a) professor(a) particular**. Essa pessoa não irá te dar aulas, mas dicas e conselhos para alcançar seu objetivo, seja aprender algo, entrar em um emprego novo, como conseguir um emprego, subir de cargo, se tornar um(a) profissional melhor, tirar dúvidas relacionadas a profissão, etc.
+
+**Você deve ler todo este documento para entender as responsabilidades de ambas as partes.**
+
+Cada mentor(a) possui seus métodos para transmitir conhecimento, mas todos seguem a regra de ajudar alguém por **2 meses**, o que pode mudar caso o mentor ou mentora perceba que é necessário.
+
+Caso você receba um conselho ou uma pergunta de seu/sua mentor(a) e não responda em até uma semana, essa pessoa pode “te abandonar” e partir para o auxílio a outro(a) mentorado(a).
+
+Se você entrar em contato com alguém e essa pessoa não te responder em até uma semana, provavelmente ela não consegue te ajudar agora e você pode partir para o próximo mentor ou mentora que atenda seu objetivo na lista de mentores(as).
+
+A pessoa que presta mentoria pelo Training Center assume o papel de agente ativo na sociedade com o objetivo de ajudar pessoas a mudar vidas de maneira voluntária. Por isso, se alguém te cobrar qualquer valor para prestar mentoria, nos avise através do formulário de denúncias, pois iremos banir essa pessoa, [formulário de denúncias](http://bit.ly/feedback-tc-mentoria).
+
+O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentor ou mentora. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe presta mentoria, caso ela infrinja alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
+
+Caso você goste muito da ajuda que recebeu ao final dos dois meses pode enviar um "depoimento" que ficará guardado neste repositório como forma de retorno ao apoio do mentor ou mentora. Para isso basta seguir este [template](./.github/testimony.template.md).
+
+Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça <a href="https://www.udemy.com/git-e-github-para-iniciantes/" title="Curso de Git e GitHub gratuito e sensacional do @willianjusten">esse curso</a> (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+
+Para conseguir mentoria, basta entrar [nesta lista](./mentors-list.md), encontrar alguém que corresponda com sua necessidade e entrar em contato com ela.
+
+Lembre-se que essa pessoa presta mentoria em seu tempo livre, não como profissão, por isso ela pode demorar para responder. Caso ela não te responda em uma semana siga a regra anterior de entrar em contato com outra pessoa. Não será tolerado nenhum tipo de ofença a mentores e mentoras em nenhum canal de comunicação, como redes sociais ou Slack, por conta da demora em responder ou mesmo caso essa pessoa nunca responda seu primeiro contato, pois as regras para denúncias se encontram neste documento.
+
+Não se esqueça de dar uma estrelinha neste repositório para sabermos que você gostou da iniciativa. ;)
 
 ## Quero mentorar
 
-Antes de tudo, leia as [responsabilidades do(a) mentor(a)](profiles/mentors/responsibility.md) e veja se está de acordo com isso. Em seguida leia toda essa sessão de como participar do projeto.
+**É importante que você leia todo este documento para entender como o projeto funciona, além de entender as responsabilidades do(a) mentorado(a).**
 
+Você deve enviar um pull request com os seus dados para [esta lista](./mentors-list.md), a lista de mentores(as) seguindo o padrão que encontra aqui: [template](./.github/mentor-list.template.md).
 
-Você deverá responder [este formulário](http://bit.ly/form-mentor-mentoria) e aguardar nosso contato informando que você pode adicionar seu nome na [lista de mentores e mentoras](profiles/mentors). Você deverá enviar o PR com seu nome e especialidade e, depois do PR aceito, te daremos acesso a lista de pessoas que buscam ajuda.
+As pessoas irão entrar em contato contigo pelo canal de contato que você colocar na lista e, caso o número de contatos seja muito alto, você pode remover esse canal da lista trocando por um emoji de congelado (`:snowflake:` :snowflake:) e depois colocar novamente, de acordo com seu tempo livre.
 
-É obrigatório que você entre em nosso Slack e possua uma foto sua no seu perfil no chat para poder participar deste projeto. Para entrar no Slack acesse [este link](https://ctgroups.herokuapp.com).
+Você não é obrigado(a) a responder todas as interações e, se ficar sem responder alguém por mais de uma semana, essa pessoa entenderá que você não vai conseguir ajudar nesse momento e vai partir para outro(a) mentor(a).
 
-Caso você tenha dúvida sobre como mentorar alguém, da uma olhada nesse post: [Dicas para novos(as) mentores(as)](http://bit.ly/mentor-guide-mentoria).
+Nós recomendamos que você preste mentoria para a pessoa durante dois meses. Caso você ache necessário ou crie um vínculo muito legal, pode continuar ajudando de acordo com sua própria gestão.
 
-Você será avaliado(a) pelos(as) outros [mentores(as)](profiles/mentors) do projeto antes de poder participar, levando em conta sua experiência, perfil interpessoal, dentre [outros pontos](https://github.com/training-center/mentoria/issues/1).
+Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO PODE** cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda aqui!
 
-Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO** pode cobrar para ser mentor(a) de nenhuma pessoa que pediu ajuda nesse repositório!
+**Por favor, não use este projeto para vender seus cursos/sites, etc. Se quiser nos doar cupons de descontos ou algo do tipo para incentivar as pessoas da nossa comunidade, basta entrar em contato em contact.trainingcentr@gmail.com.**
 
-Porém, as pessoas podem doar para você quando puderem e **SE** quiserem.
+Nós estamos aqui para ajudar as pessoas de forma **gratuita**, a fim de garantir a inclusão social de todas as pessoas na área de desenvolvimento de software.
 
-**Por favor, não use esse projeto para vender seus cursos/sites, etc. Se quiser nos doar cupons de descontos ou algo do tipo para incentivar as pessoas da nossa comunidade, basta entrar em contato em contact.trainingcentr@gmail.com.**
+O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentorado ou mentorada. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe recebe mentoria, caso ela infrinja alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
 
-Nós estamos aqui para ajudar as pessoas de forma **gratuita**.
+## Regras gerais (TL;DR)
 
-### Limite de pessoas sendo mentoradas
+- ambas as partes devem se responder em até uma semana, caso isso não aconteça devemos entender como quebra de vínculo/fim de mentoria
+- ambas as partes devem seguir nosso [código de conduta](http://bit.ly/coc-mentoria)
+- ambas as partes devem se gerenciar
+- o Training Center não fará micro gerenciamento
+- ambas as partes devem ter lido todo este documento para entender como tudo funciona
+- ambas as partes devem denunciar qualquer caso de desrespeito ao código de conduta pelo [formulário de denúncias](http://bit.ly/feedback-tc-mentoria)
 
-
-Nós limitamos a 1 ou duas pessoas para que você tenha tempo de ajudar de fato alguém e não ocupe todo o seu tempo livre no projeto.
-
-### Limite de tempo de mentoria
-
-Limitamos o tempo de mentoria para o prazo máximo de 2 meses.
-
-Esse limite não é uma barreira para que você nunca mais entre em contato depois dos 2 meses, mas para que aconteça uma rotatividade dentro do projeto e que ajudemos mais pessoas.
-
-## Preciso de mentoria
-
-Primeiro leia as [responsabilidades de um(a) mentorado(a)](profiles/pupils/responsibility.md) e veja se está de acordo com isso. Em seguida, basta responder [este formulário](http://bit.ly/form-buscando-mentoria) e aguarde o contato de seu futuro mentor ou mentora.
-
-Não se esqueça de só aceitar ajuda de pessoas que estiverem [nesta lista](profiles/mentors), pois essas pessoas aceitaram nosso [código de conduta](http://bit.ly/coc-mentoria) e se responsabilizam publicamente com a comunidade através do pull request neste repositório.
-
-**É de extrema importância que você nos informe, sempre, se tiver qualquer problema com o(a) mentor(a) e para isso você pode enviar qualquer feedback anonimamente através [deste formulário](http://bit.ly/feedback-tc-mentoria).**
-
-Caso alguém entre em contato com você e não esteja na lista, denuncie através do [mesmo formulário](http://bit.ly/feedback-tc-mentoria).
-
-Você **NÃO** tem obrigação de pagar **NADA** a nenhum(a) mentor(a).
-
-Esse projeto parte do princípio que todo conhecimento **deve** ser compartilhado e aqui o fazemos de maneira **gratuita**.
-
-Se algum(a) Mentor(a) **COBRAR** para te ajudar, é de extrema importância que você informe o ocorrido através do [formulário de feedback](http://bit.ly/feedback-tc-mentoria), pois o(a) mesmo(a) será expulso(a) do projeto.
-
-É de sua responsabilidade a comunicação com seu(sua) mentor(a) para que haja continuidade no processo. Caso você não mantenha essa comunicação, os(as) mentores(as) podem lhe abandonar e partir para ajudar outra pessoa.
-
-Não se esqueça de ler as [dicas para novos(as) mentorados(as)](http://bit.ly/mentoradoa-guide-mentoria).
-
-## Lista de mentores e mentoras
-
-Só aceite mentoria das pessoas cadastradas nesta lista.
-
-Essas pessoas aceitaram nosso [código de conduta](http://bit.ly/coc-mentoria) e se responsabilizam publicamente com a comunidade através do pull request neste repositório.
-
-[Lista dos Mentores(as)](profiles/mentors)
-
-## Como surgiu o Mentoria
+## Como surgiu o projeto Mentoria
 
 O Mentoria surgiu a partir da ideia do [@baltazarparra](https://github.com/baltazarparra) [nessa issue](https://github.com/frontendbr/open-source/issues/5) no forum do [Front End Brasil](https://github.com/frontendbr). Na issue você consegue entender um pouco mais do por que esse projeto ter nascido.
 
@@ -108,20 +106,13 @@ Artigos para você conhecer mais sobre nossa comunidade:
 - [Training Center: o que e por que fazemos](https://medium.com/trainingcenter/training-center-o-que-e-por-que-fazemos-4be062b36196)
 - [Training Center: o que planejamos para o futuro](https://medium.com/trainingcenter/training-center-o-que-planejamos-para-o-futuro-e9436079f594)
 
-## Tem alguma dúvida?
-
-Procure por um dos nossos moderadores no slack:
-
-- Carlos Augusto  (**engaugusto**)
-- Luiz Paulo (**luizpf**)
-- Marcos Felipe (**omarkdev**)
-- Wendell Adriel (**wendell_adriel**)
+- [Facebook](http://bit.ly/facebook-training-center)
+- [Twitter](http://bit.ly/seguir-o-training-center)
+- [LinkedIn](http://bit.ly/seguir-no-linkedin)
+- [Medium (conteúdo em texto)](http://bit.ly/tc-medium)
+- [YouTube (conteúdo em vídeo)](http://bit.ly/TrainingCenterChannel)
+- [Meetups (encontros presenciais)](http://bit.ly/tc-meetups)
 
 --- 
 
-> Todo conhecimento deve ser compartilhado.
-
-> Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
-
-## [Quem apoia o CT](https://github.com/training-center/sobre/blob/master/README.md#quem-apoia-o-training-center)
-
+## [Quem apoia o CT](https://github.com/training-center/sponsors)
