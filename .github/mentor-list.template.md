@@ -2,11 +2,13 @@
 
 Adicione seu nome ao final da lista de pessoas que prestam mentoria relacionada ao assunto que você deseja contribuir.
 
+Você pode deixar um link em seu nome com alguma rede social para a pessoa te conhecer melhor antes de entrar em contato contigo.
+
 Por exemplo:
 
 | NOME | TIPO DE MENTORIA | CONTATO
 | --- | --- | --- |
-| William Oliveira | Front-End e Nodejs | @meutelegram
+| [William Oliveira](https://twitter.com/w_oliveiras) | Front-End e Nodejs | @meutelegram
 
 Se você for mentorar sobre front-end, então adicione seu nome **logo após** o da última pessoa que se cadastrou como front-end, nesse caso seria o William Oliveira
 
