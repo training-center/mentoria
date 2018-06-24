@@ -6,13 +6,24 @@ Você pode deixar um link em seu nome com alguma rede social para a pessoa te co
 
 Por exemplo:
 
-| NOME | TIPO DE MENTORIA | CONTATO
-| --- | --- | --- |
-| [William Oliveira](https://twitter.com/w_oliveiras) | Front-End e Nodejs | @meutelegram
+| NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
+| --- | --- | --- | --- |
+| [William Oliveira](https://twitter.com/w_oliveiras) | Front-End e Nodejs | TELEGRAM | @meutelegram
 
 Se você for mentorar sobre front-end, então adicione seu nome **logo após** o da última pessoa que se cadastrou como front-end, nesse caso seria o William Oliveira
 
 A lista não segue ordem alfabética, mas ordem de chegada. Se você for a última pessoa que presta mentoria em X a entrar no projeto, adicione depois de quem já estava lá.
+
+## Meios de contato
+
+| MEIO DE CONTATO
+| --
+| TELEGRAM
+| SLACK
+
+Se for pelo Slack de outra comunidade, colocar o link para a pessoa entrar lá.
+
+**Não adicione seu número de telefone nesta lista.**
 
 ## Tipos de mentoria
 
