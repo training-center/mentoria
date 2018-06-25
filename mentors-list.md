@@ -3,7 +3,7 @@
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
-| [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
+| [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | @lucstoque |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | TELEGRAM | @maariabad |
-| [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
+| [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
