@@ -9,3 +9,4 @@
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK/ FUNCTIONAL PROG. | TWITTER | @cyberglot
+| [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet
