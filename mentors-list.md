@@ -8,4 +8,5 @@
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | TELEGRAM | @maariabad |
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
-| [Ju Gonçalves](https://cyberglot.me) | FULL-STACK/ FUNCTIONAL PROG. | TWITTER | @cyberglot
+| [Ju Gonçalves](https://cyberglot.me) | FULL-STACK/ FUNCTIONAL PROG. | TWITTER | @cyberglot |
+| [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos
