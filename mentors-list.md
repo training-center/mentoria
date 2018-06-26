@@ -7,4 +7,5 @@
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | @lucstoque |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | TELEGRAM | @maariabad |
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
+| [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK/ FUNCTIONAL PROG. | TWITTER | @cyberglot
