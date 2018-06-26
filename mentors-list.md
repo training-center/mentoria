@@ -2,7 +2,7 @@
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
-| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FRONTEND (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
+| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FRONT-END (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | @lucstoque |
