@@ -12,9 +12,9 @@ O processo de mentoria não é o mesmo de ajudar em um fórum de discussões ou 
 
 **Exemplo**
 
-**uma necessidade** pode ser: desejo me tornar programador(a) front-end/mobile/back-end/etc;
-**uma dificuldade** pode ser: por mais que eu tente muito, não consigo me dar bem com lógica de programação;
-**um limite** pode ser: eu não tenho muito tempo livre durante a semana, pois moro longe do meu emprego, por isso saio às 5h e chego às 23h.
+- **uma necessidade** pode ser: desejo me tornar programador(a) front-end/mobile/back-end/etc;
+- **uma dificuldade** pode ser: por mais que eu tente muito, não consigo me dar bem com lógica de programação;
+- **um limite** pode ser: eu não tenho muito tempo livre durante a semana, pois moro longe do meu emprego, por isso saio às 5h e chego às 23h.
 
 Nosso papel, neste exemplo, é ajudar essa pessoa a superar o limite da falta de tempo, darmos os melhores conselhos para que ela supere a dificuldade em lógica de programação, mas o objetivo final é dar todas as dicas possíveis para que ela se torne programadora. Não vamos dar aulas de lógica de programação, mas dicas para que essa pessoa aprenda por sí própria baseada em nossa experiência de carreira.
 
