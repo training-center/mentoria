@@ -13,3 +13,4 @@
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet
+| [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | @lricoy
