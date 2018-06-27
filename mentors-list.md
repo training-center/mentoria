@@ -11,3 +11,4 @@
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK/ FUNCTIONAL PROG. | TWITTER | @cyberglot
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | TELEGRAM | @matuklong |
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
+| [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos
