@@ -13,3 +13,4 @@
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet
+| [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | TWITTER/TELEGRAM/SLACK | @liviagabos
