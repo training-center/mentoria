@@ -9,4 +9,5 @@
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK/ FUNCTIONAL PROG. | TWITTER | @cyberglot
+| [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | TELEGRAM | @matuklong |
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
