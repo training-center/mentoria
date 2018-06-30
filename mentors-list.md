@@ -1,5 +1,9 @@
 # Lista de mentores e mentoras
 
+Se você busca **receber mentoria**, acione somente as pessoas que deixaram seus meios de contato (Telegram/Slack, etc) na coluna *CONTATO*.
+
+Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesmas já estão ajudando 3 ou mais pessoas e não tem tempo disponível para lhe ajudar neste momento. Siga essas pessoas no Twitter ou outra rede e aguarde elas avisarem que estão aceitando novos(as) mentorados(as).
+
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END/PYTHON | TELEGRAM/TWITTER | @anapaulagomess |
@@ -19,3 +23,4 @@
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
+| [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
