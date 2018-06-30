@@ -6,7 +6,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
-| [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / DATABASES | TWITTER | @maugzoide
+| [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON / DATABASES | TWITTER | @maugzoide
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END/PYTHON | TELEGRAM/TWITTER | @anapaulagomess |
 | [Thaly](https://twitter.com/AtemZero) | UX DESIGN / GAME DESIGN / EMPREENDEDORISMO | TELEGRAM | @AtemZero |
 | [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM/TWITTER | @omarkdev |
