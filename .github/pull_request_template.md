@@ -6,4 +6,4 @@ Adicione as seguintes informações neste pull request:
 
 ## Como validar
 
-Caso você esteja se cadastrando como mentor ou mentora, certifique-se de ter seguido o template para a lista de mentores(as): [template](https://github.com/training-center/mentoria/.github/mentor-list.template.md)
+Caso você esteja se cadastrando como mentor ou mentora, certifique-se de ter seguido o template para a lista de mentores(as): [template](https://github.com/training-center/mentoria/blob/master/.github/mentor-list.template.md)
