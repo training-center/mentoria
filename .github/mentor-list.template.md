@@ -1,10 +1,6 @@
 # Template para a lista de mentores(as)
 
-Adicione seu nome ao início da lista de mentores(as).
-
-**A lista não é ordenada alfabéticamente, mas por ordem de chegada. O último mentor ou a última mentora a entrar no projeto fica no começo da lista (como uma pilha).**
-
-Isso porque a pessoa que procura mentoria irá entrar em contato com a primeira pessoa que encontrar com o perfil relacionado a sua carreira, sempre de cima para baixo, visto que o comportamento padrão das pessoas é lerem uma lista do começo ao fim. Então os primeiros mentores e mentoras que entraram no projeto não serão sobrecarregados(as) de pedidos de ajuda.
+Adicione seu nome ao final da lista de pessoas que prestam mentoria relacionada ao assunto que você deseja contribuir.
 
 Você pode deixar um link em seu nome com alguma rede social para a pessoa te conhecer melhor antes de entrar em contato contigo.
 
@@ -14,7 +10,11 @@ Por exemplo:
 | --- | --- | --- | --- |
 | [William Oliveira](https://twitter.com/w_oliveiras) | Front-End e Nodejs | TELEGRAM | @meutelegram
 
-## Possíveis meios de contato
+Se você for mentorar sobre front-end, então adicione seu nome **logo após** o da última pessoa que se cadastrou como front-end, nesse caso seria o William Oliveira
+
+A lista não segue ordem alfabética, mas ordem de chegada. Se você for a última pessoa que presta mentoria em X a entrar no projeto, adicione depois de quem já estava lá.
+
+## Meios de contato
 
 | MEIO DE CONTATO
 | --

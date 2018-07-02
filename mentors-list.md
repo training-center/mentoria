@@ -18,6 +18,11 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos |
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara | / 
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | TELEGRAM | @matuklong |
+| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
+| [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos
+| [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet
+| [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | @lricoy
+| [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | TWITTER/TELEGRAM/SLACK | :snowflake: 
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / FUNCTIONAL PROG. | TWITTER | @cyberglot |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
@@ -26,3 +31,4 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
+
