@@ -4,6 +4,15 @@ Se você busca **receber mentoria**, acione somente as pessoas que deixaram seus
 
 Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesmas já estão ajudando 3 ou mais pessoas e não tem tempo disponível para lhe ajudar neste momento. Siga essas pessoas no Twitter ou outra rede e aguarde elas avisarem que estão aceitando novos(as) mentorados(as).
 
+## Legendas
+
+| ÍCONE | SIGNIFICADO | 
+| --- | --- |
+| :snowflake: | pessoa indisponível para contato |
+
+## Mentores e mentoras
+
+
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | TELEGRAM | @bianca_rosa |
