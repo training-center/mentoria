@@ -24,6 +24,12 @@ Durante o processo de mentoria executamos alguns passos padronizados:
 
 Vamos entender cada passo.
 
+### Entrevista inicial
+### Explicação de como funciona uma mentoria
+### Início do trabalho de criação de metas
+### Apoio para execução das ações que direcionam às metas
+### Trabalho de conclusão de Mentoria (TCM)
+
 ---
 
 Última revisão: 02/07/2018
