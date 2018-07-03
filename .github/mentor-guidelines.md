@@ -42,6 +42,15 @@ Nesta entrevista devemos questionar a pessoa afim de conseguir informações com
 - Você gosta de estudar e praticar?
 
 ### Explicação de como funciona uma mentoria
+
+Muita gente não entende o que é ou como funciona o processo de mentoria, mesmo lendo nossa documentação e isso é extremamente comum.
+
+Nesse primeiro momento também paramos para explicar para a pessoa como funciona o processo de mentoria baseado em nossa documentação ([aqui](https://github.com/training-center/mentoria/)) e em nossas reuniões de mentores(as).
+
+Também é nesse passo em que nós devemos enviar o formulário para novos(as) mentorados(as) para cadastro dessa pessoa.
+
+O formulário é [esse aqui](https://goo.gl/forms/F7kBUdLPpIml1yCa2) e é muito importante para conseguirmos enviar vagas para essas pessoas, assim como projetos para praticar.
+
 ### Início do trabalho de criação de metas
 ### Apoio para execução das ações que direcionam às metas
 ### Trabalho de conclusão de Mentoria (TCM)
