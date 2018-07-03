@@ -25,6 +25,22 @@ Durante o processo de mentoria executamos alguns passos padronizados:
 Vamos entender cada passo.
 
 ### Entrevista inicial
+
+A entrevista inicial é algo muito importante no processo de mentoria, pois iremos identificar as necessidades de quem está nos contatando.
+
+Nesta entrevista devemos questionar a pessoa afim de conseguir informações como:
+
+- Qual seu sonho de carreira?
+- Você realmente conhece essa área de atuação?
+- Por que você se interessa por essa área?
+- Você conhece mais alguém que trabalha na área?
+- Você se dispõe a estudar e praticar conforme eu lhe orientar?
+- Você acredita que podemos criar um plano para o seu futuro profissional em 2 meses?
+- O que você já sabe sobre essa área de atuação?
+- Como você estuda algo novo?
+- Como você pratica algo novo?
+- Você gosta de estudar e praticar?
+
 ### Explicação de como funciona uma mentoria
 ### Início do trabalho de criação de metas
 ### Apoio para execução das ações que direcionam às metas
