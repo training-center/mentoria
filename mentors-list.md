@@ -36,3 +36,4 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
+| [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | PYTHON / C++ / BACK-END | TELEGRAM | @marcelotrevisani |
