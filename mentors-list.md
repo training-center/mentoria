@@ -6,7 +6,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 ## Legendas
 
-| ÍCONE | SIGNIFICADO | 
+| ÍCONE | SIGNIFICADO |
 | --- | --- |
 | :snowflake: | pessoa indisponível para contato |
 
@@ -16,6 +16,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
+| [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | TELEGRAM | @brunoalano |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | TELEGRAM | @bianca_rosa |
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | TWITTER | @maugzoide
 | [Juliana Negreiros](https://twitter.com/juunegreiros) |  FRONT-END/INICIANTES EM PROGRAMAÇÃO/INICIANTES EM DESENVOLVIMENTO DE JOGOS | TELEGRAM/TWITTER | @juunegreiros |
@@ -24,10 +25,10 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM/TWITTER | @omarkdev |
 | [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | TWITTER | @glaubersamp |
 | [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | TWITTER/TELEGRAM/SLACK | :snowflake: |
-| [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | @lricoy |
+| [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | :snowflake: |
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet |
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos |
-| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara | / 
+| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | TELEGRAM | @matuklong |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / FUNCTIONAL PROG. | TWITTER | @cyberglot |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
