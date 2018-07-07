@@ -19,4 +19,4 @@
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
-| [Giovanni Cruz](https://github.com/giovannicruz97) | BACK-END (PHP) | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
+| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
