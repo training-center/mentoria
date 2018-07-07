@@ -15,7 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
-| [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / PYTHON / FULL-STACK / CRYPTO | TELEGRAM | @brunoalano |
+| [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | TELEGRAM | @brunoalano |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | TELEGRAM | @bianca_rosa |
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | TWITTER | @maugzoide
 | [Juliana Negreiros](https://twitter.com/juunegreiros) |  FRONT-END/INICIANTES EM PROGRAMAÇÃO/INICIANTES EM DESENVOLVIMENTO DE JOGOS | TELEGRAM/TWITTER | @juunegreiros |
