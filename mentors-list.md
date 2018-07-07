@@ -15,6 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | TELEGRAM | @marcelotrevisani |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | TELEGRAM | @brunoalano |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | TELEGRAM | @bianca_rosa |
