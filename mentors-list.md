@@ -2,6 +2,7 @@
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END/PYTHON | TELEGRAM/TWITTER | @anapaulagomess |
 | [Thaly](https://twitter.com/AtemZero) | UX DESIGN / GAME DESIGN / EMPREENDEDORISMO | TELEGRAM | @AtemZero |
 | [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM/TWITTER | @omarkdev |
@@ -19,4 +20,3 @@
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
-| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
