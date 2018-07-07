@@ -15,6 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | PYTHON / C++ / BACK-END | TELEGRAM | @marcelotrevisani |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | TELEGRAM | @bianca_rosa |
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | TWITTER | @maugzoide
 | [Juliana Negreiros](https://twitter.com/juunegreiros) |  FRONT-END/INICIANTES EM PROGRAMAÇÃO/INICIANTES EM DESENVOLVIMENTO DE JOGOS | TELEGRAM/TWITTER | @juunegreiros |
@@ -36,4 +37,3 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
-| [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | PYTHON / C++ / BACK-END | TELEGRAM | @marcelotrevisani |
