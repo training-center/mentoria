@@ -15,6 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | TWITTER | @alonsoemacao |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | TELEGRAM | @marcelotrevisani |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
@@ -39,5 +40,4 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
-| [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | TWITTER | @alonsoemacao |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
