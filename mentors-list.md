@@ -15,6 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | TWITTER| @cloudson |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | TELEGRAM | @marcelotrevisani |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
