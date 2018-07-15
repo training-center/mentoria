@@ -115,4 +115,4 @@ Artigos para você conhecer mais sobre nossa comunidade:
 
 --- 
 
-## [Quem apoia o CT](https://github.com/training-center/sponsors)
+## [Quem apoia o Training Center](https://github.com/training-center/sponsors)

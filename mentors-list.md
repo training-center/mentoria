@@ -16,6 +16,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | TELEGRAM | @okadaelaine
+| [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | TWITTER | @alonsoemacao |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | TELEGRAM | @marcelotrevisani |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
@@ -26,7 +27,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END/PYTHON | TELEGRAM/TWITTER | :snowflake: |
 | [Thaly](https://twitter.com/AtemZero) | UX DESIGN / GAME DESIGN / EMPREENDEDORISMO | TWITTER/TELEGRAM | @AtemZero |
 | [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM/TWITTER | @omarkdev |
-| [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | TWITTER | @glaubersamp |
+| [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | TWITTER | :snowflake: |
 | [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | TWITTER/TELEGRAM/SLACK | :snowflake: |
 | [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | :snowflake: |
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet |
