@@ -16,6 +16,8 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | TWITTER| @cloudson |
+| [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | TELEGRAM | @okadaelaine
+| [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | TWITTER | @alonsoemacao |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | TELEGRAM | @marcelotrevisani |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
@@ -31,10 +33,10 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | :snowflake: |
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | TWITTER | @alganet |
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | TELEGRAM/TWITTER | @jcserracampos |
-| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT (REACT) | TELEGRAM/TWITTER | @clucasalcantara |
+| [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT (REACT) | TELEGRAM/TWITTER | :snowflake: |
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | TELEGRAM | @matuklong |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / FUNCTIONAL PROG. | TWITTER | @cyberglot |
-| [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | @juuh42dias |
+| [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | :snowflake: |
 | [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | TELEGRAM | :snowflake: |
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | :snowflake: |
