@@ -2,15 +2,15 @@
 
 Este guia visa auxiliar novos mentores e mentoras e também padronizar os "processos" mais primordiais do processo de mentoria.
 
-O guia não é uma regra que deve ser seguida, afinal cada pessoa consegue mentorar de uma maneira visto seu modo como se organiza ou mesmo relacionado a sua experiência mentorando. Portanto devemos tentar ao máximo seguir este guia somente onde temos uma observação de **necessário***, o restante pode ser ignorado caso você tenha uma forma de mentorar que seja efetiva.
+O guia não é uma regra escrita em pedra, afinal cada pessoa consegue mentorar de uma maneira visto seu modo como organiza sua vida pessoal ou mesmo relacionado a sua experiência de vida. Portanto devemos tentar seguir este guia, mas caso encontremos um caso onde não se encaixa temos a liberdade de utilizar as técnicas que desejarmos.
 
-Caso você tenha um modelo de mentoria que vai utilizar, por favor, escreva um artigo para adicionarmos aqui para guiar outras pessoas que estejam entrando no Mentoria.
+Caso você tenha um modelo de mentoria que vai utilizar, por favor, escreva um artigo para adicionarmos aqui para guiar outras pessoas que estejam entrando no projeto Mentoria. Pode ser no Medium, para adicionarmos à nossa publicação, ou no seu blog pessoal/canal de conteúdo que quiser.
 
 ## Processo de mentoria
 
-O processo de mentoria consiste em ajudarmos a pessoa a conquistar seus objetivos, mas não necessáriamente em ensinarmos tudo para elas.
+O processo de mentoria consiste em ajudarmos a pessoa a conquistar seus objetivos, mas não necessariamente em ensinarmos tudo para elas.
 
-Caso venhamos a sentir que é necessário ensinar a pessoa, então podemos fazer isso conforme nosso tempo livre, mas, na maioria dos casos, enviar links, vídeos e tutoriais para as pessoas já os ajuda.
+Caso sentirmos que é necessário ensinar esta pessoa, então podemos fazer isso conforme nosso tempo livre, mas, na maioria dos casos, enviar links, vídeos e tutoriais para as pessoas já os ajuda o suficiente. Estamos aqui para fechar os problemas pessoais que as pessoas têm, algo que elas não encontrarão em artigos.
 
 A grande dificuldade das pessoas está em criar metas e seguir um plano para conquistá-las. Estamos aqui para ajudar a criar essa maturidade pessoal. :muscle:
 
@@ -57,4 +57,5 @@ O formulário é [esse aqui](https://goo.gl/forms/F7kBUdLPpIml1yCa2) e é muito 
 
 ---
 
-Última revisão: 02/07/2018
+Última revisão: 18/07/2018
+
