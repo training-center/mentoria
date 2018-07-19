@@ -62,8 +62,16 @@ Alguns modelos que podemos indicar para nossos(as) mentorados(as):
 - [Framework de Estudos por Regis Hattori - GURU SP Talks](https://www.youtube.com/watch?v=Hy0jKIGbQrM)
 
 ### Apoio para execução das ações que direcionam às metas
+
+Durante a evolução profissional dessa pessoa, nós como mentores(as) estamos aqui para tirar dúvidas que forem surgindo e também para “cobrar” que essa pessoa cumpra suas metas.
+
+Durante os 2 meses (ou mais) estaremos ali para relembrar a pessoa que ela precisa se esforçar para conquistar seu sonho e também para não deixar ela desistir de continuar tentando quando as dificuldades começam a surgir.
+
+De tempo em tempo (uma semana, por exemplo) lembre-se de questionar a pessoa se ela está caminhando em direção às suas metas, planejadas anteriormente. 
+
 ### Trabalho de conclusão de Mentoria (TCM)
 
 ---
 
 Última revisão: 18/07/2018
+
