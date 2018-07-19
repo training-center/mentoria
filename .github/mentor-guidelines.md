@@ -28,10 +28,10 @@ Vamos entender cada passo.
 
 A entrevista inicial é algo muito importante no processo de mentoria, pois iremos identificar as necessidades de quem está nos contatando.
 
-Nesta entrevista devemos questionar a pessoa afim de conseguir informações como:
+Nesta entrevista devemos questionar a pessoa a fim de conseguir informações como:
 
 - Qual seu sonho de carreira?
-- Você realmente conhece essa área de atuação?
+- Você realmente conhece a área de atuação na qual deseja se envolver?
 - Por que você se interessa por essa área?
 - Você conhece mais alguém que trabalha na área?
 - Você se dispõe a estudar e praticar conforme eu lhe orientar?
@@ -47,9 +47,7 @@ Muita gente não entende o que é ou como funciona o processo de mentoria, mesmo
 
 Nesse primeiro momento também paramos para explicar para a pessoa como funciona o processo de mentoria baseado em nossa documentação ([aqui](https://github.com/training-center/mentoria/)) e em nossas reuniões de mentores(as).
 
-Também é nesse passo em que nós devemos enviar o formulário para novos(as) mentorados(as) para cadastro dessa pessoa.
-
-O formulário é [esse aqui](https://goo.gl/forms/F7kBUdLPpIml1yCa2) e é muito importante para conseguirmos enviar vagas para essas pessoas, assim como projetos para praticar.
+Temos um formulário de cadastro de mentorados(as). Devemos enviar este form nesta etapa para manter este cadastro atualizado. O formulário é [esse aqui](https://goo.gl/forms/F7kBUdLPpIml1yCa2) e é muito importante para conseguirmos enviar vagas para essas pessoas, assim como projetos para praticar.
 
 ### Início do trabalho de criação de metas
 ### Apoio para execução das ações que direcionam às metas
