@@ -71,7 +71,13 @@ De tempo em tempo (uma semana, por exemplo) lembre-se de questionar a pessoa se 
 
 ### Trabalho de conclusão de Mentoria (TCM)
 
+Para fechar o ciclo de mentoria, pedimos que as pessoas criem algo para comprovar que estão prontas, que pode ser:
+
+- escrever um artigo e enviar para o Training Center
+- fazer um projeto pessoal para expormos (ou não)
+- fazer uma pequena palestra sobre seu novo conhecimento
+- realizar algum desafio pessoal que comprove seus conhecimentos
+
 ---
 
 Última revisão: 18/07/2018
-
