@@ -50,10 +50,20 @@ Nesse primeiro momento também paramos para explicar para a pessoa como funciona
 Temos um formulário de cadastro de mentorados(as). Devemos enviar este form nesta etapa para manter este cadastro atualizado. O formulário é [esse aqui](https://goo.gl/forms/F7kBUdLPpIml1yCa2) e é muito importante para conseguirmos enviar vagas para essas pessoas, assim como projetos para praticar.
 
 ### Início do trabalho de criação de metas
+
+Existem diversas maneiras de se criar metas pessoais, mas é importante que criemos estas metas.
+
+Nossos(as) mentorados(as) precisam ter pequenas metas objetivas para alcançar durante a mentoria e essas metas são alinhadas entre vocês de acordo com a disponibilidade/disposição e limites pessoais de ambas as partes.
+
+Alguns modelos que podemos indicar para nossos(as) mentorados(as):
+
+- [Organizando sua vida pessoal, profissional e estudos com Trello e Kanban (e um pouquinho de Scrum)](https://medium.com/trainingcenter/organizando-sua-vida-pessoal-profissional-e-estudos-com-trello-e-kanban-e-um-pouquinho-de-scrum-2bc3df5a93d8)
+- [Criando nosso plano de carreira e assumindo o controle do nosso futuro profissional](https://medium.com/trainingcenter/criando-nosso-plano-de-carreira-e-assumindo-o-controle-do-nosso-futuro-profissional-9d8032b077d9)
+- [Framework de Estudos por Regis Hattori - GURU SP Talks](https://www.youtube.com/watch?v=Hy0jKIGbQrM)
+
 ### Apoio para execução das ações que direcionam às metas
 ### Trabalho de conclusão de Mentoria (TCM)
 
 ---
 
 Última revisão: 18/07/2018
-
