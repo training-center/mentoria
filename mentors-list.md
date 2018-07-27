@@ -15,6 +15,8 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87 | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM | @eduardofg87 |
+|
 | [Júlio Fortunato](https://github.com/juliofortunato) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | TELEGRAM | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | TWITTER| :snowflake: |
 | [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | TELEGRAM | @okadaelaine
