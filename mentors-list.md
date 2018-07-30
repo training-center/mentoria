@@ -15,6 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / FUNCTIONAL PROG. | TELEGRAM/TWITTER | @anapbastos/@naluhh |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM | @eduardofg87 |
 | [Guilherme Gois](https://twitter.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | TWITTER | @guilhermejcgois |
 | [Júlio Fortunato](https://github.com/juliofortunato) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | TELEGRAM | :snowflake: |
