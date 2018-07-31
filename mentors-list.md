@@ -16,11 +16,15 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | TWITTER | @cassiodeveloper |
+| [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / FUNCTIONAL PROG. | TELEGRAM/TWITTER | @anapbastos/@naluhh |
+| [Francesco Perrotti‑Garcia](https://github.com/fpg1503) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | TWITTER/[SLACK iOS DEV BR](http://iosdevbr.herokuapp.com) | @fpg1503 |
+| [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM | @eduardofg87 |
+| [Guilherme Gois](https://twitter.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | TWITTER | @guilhermejcgois |
 | [Júlio Fortunato](https://github.com/juliofortunato) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | TELEGRAM | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | TWITTER| :snowflake: |
 | [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | TELEGRAM | @okadaelaine
 | [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | TWITTER | @alonsoemacao |
-| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | @gioc_ruz/@Gioc_ruz |
+| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | TWITTER/TELEGRAM | :snowflake: |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | TELEGRAM | @marcelotrevisani |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| TELEGRAM/TWITTER | @chicocvenancio|
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | TELEGRAM | @brunoalano |
@@ -29,7 +33,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Juliana Negreiros](https://twitter.com/juunegreiros) |  FRONT-END/INICIANTES EM PROGRAMAÇÃO/INICIANTES EM DESENVOLVIMENTO DE JOGOS | TELEGRAM/TWITTER | :snowflake: |
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END/PYTHON | TELEGRAM/TWITTER | :snowflake: |
 | [Thaly](https://twitter.com/AtemZero) | UX DESIGN / GAME DESIGN / EMPREENDEDORISMO | TWITTER/TELEGRAM | :snowflake: |
-| [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM/TWITTER | @omarkdev |
+| [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM/TWITTER | :snowflake: |
 | [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | TWITTER | :snowflake: |
 | [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | TWITTER/TELEGRAM/SLACK | :snowflake: |
 | [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | TELEGRAM | :snowflake: |
@@ -39,7 +43,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | TELEGRAM | @matuklong |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / FUNCTIONAL PROG. | TWITTER | @cyberglot |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END/RUBY(ON RAILS) | TELEGRAM/TWITTER | :snowflake: |
-| [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | @larienmf |
+| [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | TELEGRAM/TWITTER | :snowflake: |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | TELEGRAM | :snowflake: |
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | TELEGRAM | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
