@@ -48,3 +48,4 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
+| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | FULLSTACK WEB / UX / SOFT-SKILLS / INGLÊS | TWITTER | @edgarberlinck |
