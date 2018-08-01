@@ -15,6 +15,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 
 | NOME | TIPO DE MENTORIA | MEIO DE CONTATO | CONTATO
 | --- | --- | --- | --- |
+| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | FULL-STACK / UX DESIGN / SOFT-SKILLS / INGLÊS | TWITTER | @edgarberlinck |
 | [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / FUNCTIONAL PROG. | TELEGRAM/TWITTER | @anapbastos/@naluhh |
 | [Francesco Perrotti‑Garcia](https://github.com/fpg1503) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | TWITTER/[SLACK iOS DEV BR](http://iosdevbr.herokuapp.com) | @fpg1503 |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | TELEGRAM | @eduardofg87 |
@@ -48,4 +49,3 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | TELEGRAM | @mahenrique94 |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | TELEGRAM | @claytonssilva |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | TELEGRAM | :snowflake: |
-| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | FULLSTACK WEB / UX / SOFT-SKILLS / INGLÊS | TWITTER | @edgarberlinck |
