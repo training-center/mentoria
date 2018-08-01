@@ -22,7 +22,7 @@ Facebook -> [@user_name](https://www.facebook.com/user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :---: | :---: |
-| [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / FUNCTIONAL PROG. | [@anapbastos](https://telegram.me/anapbastos)/[@naluhh](https://twitter.com/naluhh) |
+| [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [@anapbastos](https://telegram.me/anapbastos) / [@naluhh](https://twitter.com/naluhh) |
 | [Francesco Perrotti‑Garcia](https://github.com/fpg1503) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [@fpg1503](https://twitter.com/fpg1503) |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | [@eduardofg87](https://telegram.me/eduardofg87) |
 | [Guilherme Gois](https://github.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | [@guilhermejcgois](https://twitter.com/guilhermejcgois) |
