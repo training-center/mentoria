@@ -44,12 +44,12 @@ Facebook -> [@user_name](https://www.facebook.com/user_name)
 | [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | :snowflake: |
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/PHP/SHELL | [@alganet](https://twitter.com/alganet) |
-| [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK/ ANÁLISE DE DADOS | [@jcserracampos](https://telegram.me/jcserracampos) |
+| [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK / ANÁLISE DE DADOS | [@jcserracampos](https://telegram.me/jcserracampos) |
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT / REACT | :snowflake: |
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | [@matuklong](https://telegram.me/matuklong) |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL | [@cyberglot](https://twitter.com/cyberglot) |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END / RUBY ON RAILS | :snowflake: |
-| [Lauren Ferreira](https://larien.me) | BACK-END/GOLANG | :snowflake: |
+| [Lauren Ferreira](https://larien.me) | BACK-END / GOLANG | :snowflake: |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | :snowflake: |
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | [@mahenrique94](https://telegram.me/mahenrique94) |
