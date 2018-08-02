@@ -20,9 +20,12 @@ Facebook -> [@user_name](https://www.facebook.com/user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | FULL-STACK / UX DESIGN / SOFT-SKILLS / INGLÊS | [@edgarberlinck](https://twitter.com/edgarberlinck) |
+| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | [@edgarberlinck](https://twitter.com/edgarberlinck) |
+| [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [@anacoimbrag](https://t.me/anacoimbrag) |
+| [Vinícius Oliveira](https://www.linkedin.com/in/viniciusmo/) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN | [@vinimoises](https://telegram.me/vinimoises) |
+| [Ingo Hoffmann](https://github.com/lasombra) | BACK-END / JAVA / INFRA (DEVOPS) | [@lasombra_br](https://twitter.com/lasombra_br) |
 | [Enzzo Cavallo](https://github.com/souenzzo) | FULL-STACK / CLOJURE(SCRIPT) | [@souenzzo](https://telegram.me/souenzzo) |
-| [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JS / GRAPHQL | [@felipe-da-silva-b8664562](http://linkedin.com/in/felipe-da-silva-b8664562) |
+| [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [@felipe-da-silva-b8664562](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | [@cassiodeveloper](https://twitter.com/cassiodeveloper) |
 | [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [@anapbastos](https://telegram.me/anapbastos) / [@naluhh](https://twitter.com/naluhh) |
 | [Francesco Perrotti‑Garcia](https://github.com/fpg1503) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [@fpg1503](https://twitter.com/fpg1503) |
