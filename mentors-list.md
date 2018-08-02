@@ -20,6 +20,7 @@ Facebook -> [@user_name](https://www.facebook.com/user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Ingo Hoffmann](https://github.com/lasombra) | BACK-END / JAVA / INFRA (DEVOPS) | [@lasombra_br](https://twitter.com/lasombra_br) |
 | [Enzzo Cavallo](https://github.com/souenzzo) | FULL-STACK / CLOJURE(SCRIPT) | [@souenzzo](https://telegram.me/souenzzo) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [@felipe-da-silva-b8664562](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | [@cassiodeveloper](https://twitter.com/cassiodeveloper) |
