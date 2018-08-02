@@ -27,7 +27,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Enzzo Cavallo](https://github.com/souenzzo) | FULL-STACK / CLOJURE(SCRIPT) | [Telegram](https://telegram.me/souenzzo) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | [Twitter](https://twitter.com/cassiodeveloper) |
-| [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/anapbastos) / [Twitter](https://twitter.com/naluhh) |
+| [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | :snowflake: |
 | [Francesco Perrotti‑Garcia](https://github.com/fpg1503) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Twitter](https://twitter.com/fpg1503) |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | [Telegram](https://telegram.me/eduardofg87) |
 | [Guilherme Gois](https://github.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | [Twitter](https://twitter.com/guilhermejcgois) |
