@@ -11,7 +11,7 @@ Você pode deixar um link em seu nome com alguma rede social para a pessoa te co
 Por exemplo:
 
 | NOME | TIPO DE MENTORIA | CONTATO |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | [@woliveiras](https://telegram.me/woliveiras) |
 
 **Explicação das colunas**
