@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Adriano Canofre](https://github.com/adrianocanofre) | BACK-END / PYTHON / INFRA(DEVOPS) | [LinkedIn](https://www.linkedin.com/in/adrianocanofre/) |
 | [Nícolas Tarzia](https://github.com/nicolastarzia) | BACK-END / C# / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/nicolastarzia) |
 | [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/anacoimbrag) |
 | [Vinícius Oliveira](https://www.linkedin.com/in/viniciusmo/) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN | [Telegram](https://telegram.me/vinimoises) |
