@@ -53,7 +53,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK / ANÁLISE DE DADOS | [Telegram](https://telegram.me/jcserracampos) |
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT / REACT | :snowflake: |
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | [Telegram](https://telegram.me/matuklong) |
-| [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL | [Twitter](https://twitter.com/cyberglot) |
+| [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL [[info]](https://gist.github.com/cyberglot/a0a2f5b280fe9ee808e66f845e627f2d) | [Twitter](https://twitter.com/cyberglot) |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END / RUBY ON RAILS | :snowflake: |
 | [Lauren Ferreira](https://larien.me) | BACK-END / GOLANG | :snowflake: |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | :snowflake: |
