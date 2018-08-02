@@ -12,15 +12,15 @@ Por exemplo:
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | [@woliveiras](https://telegram.me/woliveiras) |
+| [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | [Telegram](https://telegram.me/woliveiras) |
 
 **Explicação das colunas**
 
 * na coluna **NOME** fica seu nome e um link para a pessoa conhecer você e/ou seu trabalho;
 * na coluna **TIPO DE MENTORIA** fica uma ou mais *badges* indicando em que você pode ajudar as pessoas. Abaixo falamos mais sobre as *badges*. 
-* na coluna **CONTATO** você vai colocar `[@seu_nick](seu_link_de_contato)`. Se preferir, você pode adicionar vários meios de contato, mas sempre separando-os com uma `/` (barra).
+* na coluna **CONTATO** você vai colocar `[Site](seu_link_de_contato)`. Se preferir, você pode adicionar vários meios de contato, mas sempre separando-os com uma `/` (barra).
 
-**IMPORTANTE: Não adicione seu número de telefone ou e-mail como meio de contato.**
+**IMPORTANTE: Não adicione seu número de telefone ou e-mail como meio de contato. E apenas meios de contato com link direto para seu perfil serão aceitos.**
 
 ## Tipos de mentoria (badges)
 
