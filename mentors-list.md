@@ -20,7 +20,7 @@ Facebook -> [@user_name](https://www.facebook.com/user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | FULL-STACK / UX DESIGN / SOFT-SKILLS / INGLÊS | @edgarberlinck |
+| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | FULL-STACK / UX DESIGN / SOFT-SKILLS / INGLÊS | [@edgarberlinck](https://twitter.com/edgarberlinck) |
 | [Enzzo Cavallo](https://github.com/souenzzo) | FULL-STACK / CLOJURE(SCRIPT) | [@souenzzo](https://telegram.me/souenzzo) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JS / GRAPHQL | [@felipe-da-silva-b8664562](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | [@cassiodeveloper](https://twitter.com/cassiodeveloper) |
