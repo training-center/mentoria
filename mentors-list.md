@@ -59,7 +59,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | :snowflake: |
 | [Lucas Stoque](https://github.com/stoque) | FRONT-END | :snowflake: |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | :snowflake: |
-| [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | [Telegram](https://telegram.me/claytonssilva) |
+| [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
