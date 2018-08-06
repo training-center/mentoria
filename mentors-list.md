@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/bruno02221) |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | [LinkedIn](http://linkedin.com/in/edgarberlinck) [Twitter](https://twitter.com/edgarberlinck) |
 | [Mibs Balsante](https://github.com/mibsbalsante) | FRONT-END / JS / [[info]](https://twitter.com/futurefunkbot/status/1025382777796091905) | [Telegram](https://telegram.me/mibsbalsante) |
 | [Adriano Canofre](https://github.com/adrianocanofre) | BACK-END / PYTHON / INFRA(DEVOPS) | [LinkedIn](https://www.linkedin.com/in/adrianocanofre/) |
