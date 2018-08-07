@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | [Telegram](https://telegram.me/alinepegas) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
 | [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/bruno02221) |
