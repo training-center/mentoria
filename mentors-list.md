@@ -22,6 +22,13 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | GAME DESIGN / FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
+| [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
+| [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
+| [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/bruno02221) |
+| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | [LinkedIn](http://linkedin.com/in/edgarberlinck) [Twitter](https://twitter.com/edgarberlinck) [Telegram](https://telegram.me/edgarberlinck) |
+| [Mibs Balsante](https://github.com/mibsbalsante) | FRONT-END / JS / [[info]](https://twitter.com/futurefunkbot/status/1025382777796091905) | [Telegram](https://telegram.me/mibsbalsante) |
+| [Adriano Canofre](https://github.com/adrianocanofre) | BACK-END / PYTHON / INFRA(DEVOPS) | [LinkedIn](https://www.linkedin.com/in/adrianocanofre/) |
+| [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
 | [Nícolas Tarzia](https://github.com/nicolastarzia) | BACK-END / C# / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/nicolastarzia) |
 | [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/anacoimbrag) |
 | [Vinícius Oliveira](https://www.linkedin.com/in/viniciusmo/) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN | [Telegram](https://telegram.me/vinimoises) |
@@ -54,7 +61,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK / ANÁLISE DE DADOS | [Telegram](https://telegram.me/jcserracampos) |
 | [Caio Alcantara](https://sourcerer.io/clucasalcantara) | FULL-STACK / JAVASCRIPT / REACT | :snowflake: |
 | [Bruno Matuk](https://github.com/matuklong) | FULL-STACK / AGILE | :snowflake: |
-| [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL | [Twitter](https://twitter.com/cyberglot) |
+| [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL [[info]](https://gist.github.com/cyberglot/a0a2f5b280fe9ee808e66f845e627f2d) | [Twitter](https://twitter.com/cyberglot) |
 | [Juliana Dias](https://about.me/juuh42dias) | BACK-END / RUBY ON RAILS | :snowflake: |
 | [Lauren Ferreira](https://larien.me) | BACK-END / GOLANG | :snowflake: |
 | [Mariana Abad](https://github.com/maaryhabad) | FRONT-END / GESTÃO DE PROJETOS | :snowflake: |
