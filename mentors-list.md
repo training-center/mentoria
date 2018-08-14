@@ -21,7 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
+| [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
 | [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/bruno02221) |
