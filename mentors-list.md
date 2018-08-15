@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Diego Leme Domingues](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
 | [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | [Telegram](https://telegram.me/alinepegas) |
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | GAME DESIGN / FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
