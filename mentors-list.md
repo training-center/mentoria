@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Alef Janguas da Costa](https://twitter.com/alefjan)| INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
 | [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
 | [Diego Leme Domingues](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
 | [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | [Telegram](https://telegram.me/alinepegas) |
