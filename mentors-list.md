@@ -22,6 +22,11 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
+| [Alef Janguas da Costa](https://twitter.com/alefjan)| INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
+| [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
+| [Diego Leme Domingues](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
+| [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | [Telegram](https://telegram.me/alinepegas) |
+| [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | GAME DESIGN / FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
 | [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/bruno02221) |
