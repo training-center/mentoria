@@ -2,6 +2,17 @@
 
 > Todo conhecimento deve ser compartilhado, pois somente a educação é que pode mudar algo no mundo.
 
+## LEIA ESTE DOCUMENTO PARA ENTENDER O PROJETO
+
+## Regras gerais (TL;DR)
+
+- ambas as partes devem se responder em até uma semana, caso isso não aconteça devemos entender como quebra de vínculo/fim de mentoria
+- ambas as partes devem seguir nosso [código de conduta](http://bit.ly/coc-mentoria)
+- ambas as partes devem se gerenciar
+- o Training Center não fará micro gerenciamento
+- **ambas as partes devem ter lido todo este documento para entender como tudo funciona**
+- ambas as partes devem denunciar qualquer caso de desrespeito ao código de conduta pelo [formulário de denúncias](http://bit.ly/feedback-tc-mentoria)
+
 ## O que é mentoria
 
 Mentoria tem como foco ajudar alguém a **alcançar objetivos**, aprimorando suas habilidades técnicas ou interpessoais, pois nosso propósito é auxiliar a pessoa a encontrar um caminho mais promissor, tendo como o alvo o progresso e o crescimento pessoal e profissional do mentorado ou da mentorada.
@@ -84,15 +95,6 @@ Esse projeto **NÃO** tem fins lucrativos, por isso você **NÃO PODE** cobrar p
 Nós estamos aqui para ajudar as pessoas de forma **gratuita**, a fim de garantir a inclusão social de todas as pessoas na área de desenvolvimento de software.
 
 O Training Center possui um [código de conduta](http://bit.ly/coc-mentoria) que deve ser seguido e respeitado em todas as nossas iniciativas, você deve seguir estas regras, assim como seu mentorado ou mentorada. Caso você desrespeite o [código de conduta](http://bit.ly/coc-mentoria), será banido(a) do nosso projeto e da comunidade, o mesmo se aplica a pessoa que lhe recebe mentoria, caso ela infrinja alguma regra, nos avise através do [formulário de denúncias](http://bit.ly/feedback-tc-mentoria), pois iremos banir essa pessoa.
-
-## Regras gerais (TL;DR)
-
-- ambas as partes devem se responder em até uma semana, caso isso não aconteça devemos entender como quebra de vínculo/fim de mentoria
-- ambas as partes devem seguir nosso [código de conduta](http://bit.ly/coc-mentoria)
-- ambas as partes devem se gerenciar
-- o Training Center não fará micro gerenciamento
-- ambas as partes devem ter lido todo este documento para entender como tudo funciona
-- ambas as partes devem denunciar qualquer caso de desrespeito ao código de conduta pelo [formulário de denúncias](http://bit.ly/feedback-tc-mentoria)
 
 ## Como surgiu o projeto Mentoria
 

@@ -22,11 +22,17 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
 | [Gabriel Santos](https://github.com/gabriel-brito/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
+| [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
+| [Alef Janguas da Costa](https://twitter.com/alefjan)| INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
+| [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
+| [Diego Leme Domingues](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
+| [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | [Telegram](https://telegram.me/alinepegas) |
+| [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | GAME DESIGN / FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
-| [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/bruno02221) |
+| [Bruno Couto](https://github.com/imbrn) | FRONT-END / JAVASCRIPT / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | [LinkedIn](http://linkedin.com/in/edgarberlinck) [Twitter](https://twitter.com/edgarberlinck) [Telegram](https://telegram.me/edgarberlinck) |
-| [Mibs Balsante](https://github.com/mibsbalsante) | FRONT-END / JS / [[info]](https://twitter.com/futurefunkbot/status/1025382777796091905) | [Telegram](https://telegram.me/mibsbalsante) |
+| [Mibs Balsante](https://github.com/mibsbalsante) | FRONT-END / JS / [[info]](https://twitter.com/futurefunkbot/status/1025382777796091905) | :snowflake: |
 | [Adriano Canofre](https://github.com/adrianocanofre) | BACK-END / PYTHON / INFRA(DEVOPS) | [LinkedIn](https://www.linkedin.com/in/adrianocanofre/) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
 | [Nícolas Tarzia](https://github.com/nicolastarzia) | BACK-END / C# / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/nicolastarzia) |
