@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO  | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Gabriel Santos](https://github.com/gabriel-brito/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
 | [Alef Janguas da Costa](https://twitter.com/alefjan)| INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
@@ -75,6 +76,5 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | :snowflake: |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
-| [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO  | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
