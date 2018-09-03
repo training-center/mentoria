@@ -22,6 +22,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
 | [Cayo Rodrigues](https://www.linkedin.com/in/cayo-henrique-serra-rodrigues-a5a13337/) | BACK-END / PHP / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/CayoHenrique08) [Telegram](https://telegram.me/cayorodrigues)|
+| [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | [Twitter](https://twitter.com/gnuns) [Telegram](https://telegram.me/gnuns) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO  | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Gabriel Santos](https://github.com/gabriel-brito/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
@@ -50,7 +51,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Guilherme Gois](https://github.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | [Twitter](https://twitter.com/guilhermejcgois) |
 | [Júlio Fortunato](https://github.com/juliofortunato) | FRONT-END / INICIANTES EM PROGRAMAÇÃO| :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake: |
-| [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | [Telegram](https://telegram.me/okadaelaine) |
+| [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | [Twitter](https://twitter.com/alonsoemacao) |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | :snowflake: |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | [Telegram](https://telegram.me/marcelotrevisani) |
