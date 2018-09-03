@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | [Twitter](https://twitter.com/gnuns) [Telegram](https://telegram.me/gnuns) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO  | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Gabriel Santos](https://github.com/gabriel-brito/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
