@@ -57,7 +57,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | [Telegram](https://telegram.me/marcelotrevisani) |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| [Telegram](https://telegram.me/chicocvenancio) |
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | [Telegram](https://telegram.me/brunoalano) |
-| [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | [Telegram](https://telegram.me/bianca_rosa) |
+| [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / TESTES | :snowflake: |
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | [Twitter](https://twitter.com/maugzoide) |
 | [Juliana Negreiros](https://twitter.com/juunegreiros) |  FRONT-END / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM GAME DESIGN | :snowflake: |
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END/PYTHON | :snowflake: |
