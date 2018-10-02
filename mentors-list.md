@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Rafael Guerra](https://github.com/faelwar) | BACK-END/ INICIANTES EM PROGRAMAÇÃO /JAVA | [Twitter](https://twitter.com/faelwar) |
 | [Cayo Rodrigues](https://www.linkedin.com/in/cayo-henrique-serra-rodrigues-a5a13337/) | BACK-END / PHP / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/CayoHenrique08) [Telegram](https://telegram.me/cayorodrigues)|
 | [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | [Twitter](https://twitter.com/gnuns) [Telegram](https://telegram.me/gnuns) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO  | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
