@@ -55,7 +55,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake: |
 | [Elâine Okada](https://twitter.com/okadaelaine) | INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | [Twitter](https://twitter.com/alonsoemacao) |
-| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | :snowflake: |
+| [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | [Twitter](https://twitter.com/gioc_ruz) [Telegram](https://t.me/Gioc_ruz) |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | [Telegram](https://telegram.me/marcelotrevisani) |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS)| [Telegram](https://telegram.me/chicocvenancio) |
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | [Telegram](https://telegram.me/brunoalano) |
