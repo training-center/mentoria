@@ -34,7 +34,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | [Twitter](https://twitter.com/cassiodeveloper) |
 | [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | [Twitter](https://twitter.com/alonsoemacao) |
 | [Alexandre Gaigalas](https://github.com/alganet) | FULL-STACK/ PHP /SHELL | [Twitter](https://twitter.com/alganet) |
-| [Cayo Rodrigues](https://www.linkedin.com/in/cayo-henrique-serra-rodrigues-a5a13337/) | BACK-END / PHP / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/CayoHenrique08) [Telegram](https://telegram.me/cayorodrigues |
+| [Cayo Rodrigues](https://www.linkedin.com/in/cayo-henrique-serra-rodrigues-a5a13337/) | BACK-END / PHP / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/CayoHenrique08) [Telegram](https://telegram.me/cayorodrigues) |
 | [Vinícius Oliveira](https://www.linkedin.com/in/viniciusmo/) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN | [Telegram](https://telegram.me/vinimoises) |
 | [Enzzo Cavallo](https://github.com/souenzzo) | FULL-STACK / CLOJURE(SCRIPT) | [Telegram](https://telegram.me/souenzzo) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
