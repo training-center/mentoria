@@ -10,7 +10,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 | --- | --- |
 | :snowflake: | pessoa indisponível para contato |
 
-## Mentores e mentoras
+## Mentores e mentoras ativos
 
 <!-- TEMPLATES DE LINKS DE CONTATO
 Twitter -> [Twitter](https://twitter.com/seu_user_name)
@@ -56,6 +56,11 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | [LinkedIn](http://linkedin.com/in/edgarberlinck) [Twitter](https://twitter.com/edgarberlinck) [Telegram](https://telegram.me/edgarberlinck) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
+
+## Mentores e mentoras indisponíveis
+
+| NOME | TIPO DE MENTORIA | CONTATO |
+| :--- | :--- | :--- |
 | [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | :snowflake: |
