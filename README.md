@@ -70,7 +70,7 @@ Caso você goste muito da ajuda que recebeu ao final dos dois meses pode enviar 
 
 Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça <a href="https://www.udemy.com/git-e-github-para-iniciantes/" title="Curso de Git e GitHub gratuito e sensacional do @willianjusten">esse curso</a> (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
-Para conseguir mentoria, basta entrar [nesta lista](./mentors-list.md), encontrar alguém que corresponda com sua necessidade e entrar em contato com ela.
+Para conseguir mentoria, você pode acessar [este endereço](http://tc-mentor-search.herokuapp.com) ou entrar [nesta lista](./mentors-list.md), encontrar alguém que corresponda com sua necessidade e entrar em contato com ela.
 
 Lembre-se que essa pessoa presta mentoria em seu tempo livre, não como profissão, por isso ela pode demorar para responder. Caso ela não te responda em uma semana siga a regra anterior de entrar em contato com outra pessoa. Não será tolerado nenhum tipo de ofença a mentores e mentoras em nenhum canal de comunicação, como redes sociais ou Slack, por conta da demora em responder ou mesmo caso essa pessoa nunca responda seu primeiro contato, pois as regras para denúncias se encontram neste documento.
 
