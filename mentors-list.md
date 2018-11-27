@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+[André Rodrigues](www.linkedin.com/in/andrerferraz) |  INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto)  |
 | [Alana Weiss](https://www.linkedin.com/in/alana-lange-weiss-019908146/) |  INICIANTES EM PROGRAMAÇÃO / FRONT-END | [Telegram](https://telegram.me/alanaweiss)  |
 | [Victor Pragana](https://github.com/praganavictor) |  INICIANTES EM PROGRAMAÇÃO / FRONT-END / JAVASCRIPT | [Twitter](http://twitter.com/praganavictor)  |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | [Twitter](http://twitter.com/cloudson)  |
