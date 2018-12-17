@@ -72,7 +72,7 @@ Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça <a href
 
 Para conseguir mentoria, basta entrar [nesta lista](./mentors-list.md), encontrar alguém que corresponda com sua necessidade e entrar em contato com ela.
 
-Lembre-se que essa pessoa presta mentoria em seu tempo livre, não como profissão, por isso ela pode demorar para responder. Caso ela não te responda em uma semana siga a regra anterior de entrar em contato com outra pessoa. Não será tolerado nenhum tipo de ofença a mentores e mentoras em nenhum canal de comunicação, como redes sociais ou Slack, por conta da demora em responder ou mesmo caso essa pessoa nunca responda seu primeiro contato, pois as regras para denúncias se encontram neste documento.
+Lembre-se que essa pessoa presta mentoria em seu tempo livre, não como profissão, por isso ela pode demorar para responder. Caso ela não te responda em uma semana siga a regra anterior de entrar em contato com outra pessoa. Não será tolerado nenhum tipo de ofensa a mentores e mentoras em nenhum canal de comunicação, como redes sociais ou Slack, por conta da demora em responder ou mesmo caso essa pessoa nunca responda seu primeiro contato, pois as regras para denúncias se encontram neste documento.
 
 Não se esqueça de dar uma estrelinha neste repositório para sabermos que você gostou da iniciativa. ;)
 
