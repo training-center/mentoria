@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | [Telegram](https://telegram.me/mahenrique94) |
 | [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu)  |
 | [André Rodrigues](http://www.linkedin.com/in/andrerferraz) |  INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto)  |
 | [Ricardo Moraleida](https://www.linkedin.com/in/ricardomoraleida/) |  INICIANTES EM PROGRAMAÇÃO / FULL-STACK / WORDPRESS | [Telegram](https://telegram.me/co_di_go) [Twitter](https://twitter.com/co_di_go)  |
@@ -86,7 +87,6 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | :snowflake: |
 | [Thaly](https://twitter.com/AtemZero) | UX DESIGN / GAME DESIGN / EMPREENDEDORISMO | :snowflake: |
 | [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT  | :snowflake: |
-| [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | :snowflake: |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | :snowflake: |
