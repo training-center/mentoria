@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Paulo Vitor](www.linkedin.com/in/pvitor) | BACK-END / JAVA / INFRA (DEVOPS) | [Telegram](https://telegram.me/paulovitorbsb) [Linkedin](https://linkedin.com/in/pvitor) |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | [Telegram](https://telegram.me/mahenrique94) |
 | [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu)  |
 | [André Rodrigues](http://www.linkedin.com/in/andrerferraz) |  INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto)  |
