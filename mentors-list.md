@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Romulo Jovelli](https://www.linkedin.com/in/romulo-jovelli-08215860/) | BACK-END / JAVA / TESTES | TELEGRAM | @romulojovelli |
 | [Paulo Vitor](https://www.linkedin.com/in/pvitor) | BACK-END / JAVA / INFRA (DEVOPS) | [Telegram](https://telegram.me/paulovitorbsb) [Linkedin](https://linkedin.com/in/pvitor) |
 | [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | [Telegram](https://telegram.me/mahenrique94) |
 | [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu) |
