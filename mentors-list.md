@@ -16,7 +16,7 @@ Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesm
 Twitter -> [Twitter](https://twitter.com/seu_user_name)
 Telegram -> [Telegram](https://telegram.me/seu_user_name)
 Facebook -> [Facebook](https://www.facebook.com/seu_user_name)
-LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
+LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 -->
 
 | NOME | TIPO DE MENTORIA | CONTATO |
@@ -91,6 +91,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | :snowflake: |
+| [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
 
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
