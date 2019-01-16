@@ -28,7 +28,6 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Ricardo Moraleida](https://www.linkedin.com/in/ricardomoraleida/) |  INICIANTES EM PROGRAMAÇÃO / FULL-STACK / WORDPRESS | [Telegram](https://telegram.me/co_di_go) [Twitter](https://twitter.com/co_di_go)  |
 | [Alana Weiss](https://www.linkedin.com/in/alana-lange-weiss-019908146/) |  INICIANTES EM PROGRAMAÇÃO / FRONT-END | [Telegram](https://telegram.me/alanaweiss)  |
 | [Victor Pragana](https://github.com/praganavictor) |  INICIANTES EM PROGRAMAÇÃO / FRONT-END / JAVASCRIPT | [Twitter](http://twitter.com/praganavictor)  |
-| [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | [Twitter](http://twitter.com/cloudson)  |
 | [Nícolas Tarzia](https://github.com/nicolastarzia) | BACK-END / C# / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/nicolastarzia) |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | [Twitter](https://twitter.com/maugzoide) |
@@ -91,6 +90,7 @@ LinkedIn -> [LinkedIn](http://linkedin.com/in/seu_user_name)
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | :snowflake: |
+| [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
 
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
