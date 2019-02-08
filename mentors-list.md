@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | [@onhernandes](https://twitter.com/onhernandes) [Telegram](https://telegram.me/onhernandes)
 | [Tiago Danin](https://tiagodanin.github.io) | INICIANTES EM PROGRAMAÇÃO / JAVASCRIPT / TELEGRAM BOT | [Telegram](https://telegram.me/tiagoedge) |
 | [Romulo Jovelli](https://www.linkedin.com/in/romulo-jovelli-08215860/) | BACK-END / JAVA / TESTES | [Telegram](https://telegram.me/romulojovelli) |
 | [Paulo Vitor](https://www.linkedin.com/in/pvitor) | BACK-END / JAVA / INFRA (DEVOPS) | [Telegram](https://telegram.me/paulovitorbsb) [Linkedin](https://linkedin.com/in/pvitor) |
