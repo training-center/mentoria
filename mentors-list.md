@@ -1,5 +1,7 @@
 # Lista de mentores e mentoras
 
+Ao modificar essa lista, por favor, procure colocar seus dados no topo da lista, assim quem lê o documento conseguirá identificar mentores e mentoras recém adicionados/adicionadas.
+
 Se você busca **receber mentoria**, acione somente as pessoas que deixaram seus meios de contato (Telegram/Slack, etc) na coluna *CONTATO*.
 
 Não acione as pessoas que deixam um :snowflake: na coluna CONTATO, pois as mesmas já estão ajudando 3 ou mais pessoas e não tem tempo disponível para lhe ajudar neste momento. Siga essas pessoas no Twitter ou outra rede e aguarde elas avisarem que estão aceitando novos(as) mentorados(as).
@@ -95,6 +97,3 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Aline Pêgas](https://alinepegas.com.br) | INFRA (DEVOPS) / AWS | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
 | [Diego Leme Domingues](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | :snowflake: |
-
-
-<!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
