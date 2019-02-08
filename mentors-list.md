@@ -62,6 +62,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
 | [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | [@onhernandes](https://twitter.com/onhernandes) [Telegram](https://telegram.me/onhernandes)
+| [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / JAVASCRIPT / C# | [LinkedIn](http://linkedin.com/in/grave) [Telegram](https://telegram.me/itsmegrave)
 
 ## Mentores e mentoras indisponíveis
 
