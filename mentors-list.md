@@ -48,7 +48,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Vinícius Oliveira](https://www.linkedin.com/in/viniciusmo/) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN | [Telegram](https://telegram.me/vinimoises) |
 | [Enzzo Cavallo](https://github.com/souenzzo) | FULL-STACK / CLOJURE(SCRIPT) | [Telegram](https://telegram.me/souenzzo) |
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
-| [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://telegram.me/metmelo) |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | [Telegram](https://telegram.me/marcelotrevisani) |
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK / ANÁLISE DE DADOS | [Telegram](https://telegram.me/jcserracampos) |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | [Telegram](https://telegram.me/eduardofg87) |
@@ -68,6 +67,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | :snowflake: |
 | [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | :snowflake: |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | :snowflake: |
