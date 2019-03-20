@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Allan Brito](https://github.com/allanbritosd) | BACK-END / BANCOS DE DADOS / INICIANTES EM PROGRAMAÇÃO / PHP / JAVASCRIPT | [LinkedIn](http://linkedin.com/in/allan-brito) [Telegram](https://telegram.me/allanbrito) |
 | [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / JAVASCRIPT / C# | [LinkedIn](http://linkedin.com/in/grave) [Telegram](https://telegram.me/itsmegrave) |
 | [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | [@onhernandes](https://twitter.com/onhernandes) [Telegram](https://telegram.me/onhernandes) |
 | [Tiago Danin](https://tiagodanin.github.io) | INICIANTES EM PROGRAMAÇÃO / JAVASCRIPT / TELEGRAM BOT | [Telegram](https://telegram.me/tiagoedge) |
