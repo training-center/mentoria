@@ -21,7 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [Otavio Henrique](https://github.com/otaviohenrique) | BACK-END / INICIANTES / RUBY | [Email](otaviopvaladares@gmail.com) / [Linkedin](https://www.linkedin.com/in/otavio-henrique/) |
+| [Otavio Henrique](https://github.com/otaviohenrique) | BACK-END / INICIANTES EM PROGRAMAÇÃO / RUBY | [Email](otaviopvaladares@gmail.com) / [Linkedin](https://www.linkedin.com/in/otavio-henrique/) |
 | [Thiago Galvani](https://github.com/thiagopaiva99) | FULL-STACK / INICIANTES / AGILE / CARREIRA | [Linkedin](https://www.linkedin.com/in/thiago-galvani/) / [Facebook](https://www.facebook.com/thiago.paivagalvani) / [Telegram](https://telegram.me/thiagopaiva99) |
 | [Allan Brito](https://github.com/allanbrito) | BACK-END / BANCOS DE DADOS / INICIANTES EM PROGRAMAÇÃO / PHP / JAVASCRIPT | [LinkedIn](http://linkedin.com/in/allan-brito) [Telegram](https://telegram.me/allanbrito) |
 | [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / JAVASCRIPT / C# | [LinkedIn](http://linkedin.com/in/grave) [Telegram](https://telegram.me/itsmegrave) |
