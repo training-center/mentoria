@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Alison do Nascimento Cassis](https://github.com/alisoncassis) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/alisoncassis/) |
 | [Fernando Bueno Dansi](https://github.com/FBuenoD) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/FernandoBuenoDansi) / [LinkedIn](https://linkedin.com/in/fernandobuenodansi) / [Twitter](https://twitter.com/fernandobdansi)|
 | [Ernandes Ferreira](https://github.com/ernandesferreira) | FRONT-END/ WORDPRESS / REACT | [Email](ernandes.dev@gmail.com) / [Linkedin](https://www.linkedin.com/in/ernandesferreira/) |
 | [Otavio Henrique](https://github.com/otaviohenrique) | BACK-END / INICIANTES EM PROGRAMAÇÃO / RUBY | [Email](otaviopvaladares@gmail.com) / [Linkedin](https://www.linkedin.com/in/otavio-henrique/) |
