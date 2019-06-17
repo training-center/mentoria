@@ -28,7 +28,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Thiago Galvani](https://github.com/thiagopaiva99) | FULL-STACK / INICIANTES / AGILE / CARREIRA | [Linkedin](https://www.linkedin.com/in/thiago-galvani/) / [Facebook](https://www.facebook.com/thiago.paivagalvani) / [Telegram](https://telegram.me/thiagopaiva99) |
 | [Allan Brito](https://github.com/allanbrito) | BACK-END / BANCOS DE DADOS / INICIANTES EM PROGRAMAÇÃO / PHP / JAVASCRIPT | [LinkedIn](http://linkedin.com/in/allan-brito) [Telegram](https://telegram.me/allanbrito) |
 | [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / JAVASCRIPT / C# | [LinkedIn](http://linkedin.com/in/grave) [Telegram](https://telegram.me/itsmegrave) |
-| [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | [@onhernandes](https://twitter.com/onhernandes) [Telegram](https://telegram.me/onhernandes) |
 | [Tiago Danin](https://tiagodanin.github.io) | INICIANTES EM PROGRAMAÇÃO / JAVASCRIPT / TELEGRAM BOT | [Telegram](https://telegram.me/tiagoedge) |
 | [Romulo Jovelli](https://www.linkedin.com/in/romulo-jovelli-08215860/) | BACK-END / JAVA / TESTES | [Telegram](https://telegram.me/romulojovelli) |
 | [Paulo Vitor](https://www.linkedin.com/in/pvitor) | BACK-END / JAVA / INFRA (DEVOPS) | [Telegram](https://telegram.me/paulovitorbsb) [Linkedin](https://linkedin.com/in/pvitor) |
@@ -73,6 +72,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | :snowflake: |
 | [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | :snowflake: |
 | [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | :snowflake: |
