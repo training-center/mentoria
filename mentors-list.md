@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/glaubersamp) / [LinkedIn](https://linkedin.com/in/glaubersampaio) |
 | [Alison do Nascimento Cassis](https://github.com/alisoncassis) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/alisoncassis/) |
 | [Fernando Bueno Dansi](https://github.com/FBuenoD) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/FernandoBuenoDansi) / [LinkedIn](https://linkedin.com/in/fernandobuenodansi) / [Twitter](https://twitter.com/fernandobdansi)|
 | [Ernandes Ferreira](https://github.com/ernandesferreira) | FRONT-END/ WORDPRESS / REACT | [Email](ernandes.dev@gmail.com) / [Linkedin](https://www.linkedin.com/in/ernandesferreira/) |
@@ -77,7 +78,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | UX DESIGN / SOFT-SKILLS / INGLÊS | :snowflake: |
 | [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | :snowflake: |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | :snowflake: |
-| [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Livia Gabos](http://liviagabos.com) | UX DESIGN / ACESSIBILIDADE / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Lucas Ricoy](https://github.com/lricoy) | FULL-STACK / JS / FP | :snowflake: |
 | [Mibs Balsante](https://github.com/mibsbalsante) | FRONT-END / JS / [[info]](https://twitter.com/futurefunkbot/status/1025382777796091905) | :snowflake: |
