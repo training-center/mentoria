@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Paulo Vagner](https://www.linkedin.com/in/paulo-vagner/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://telegram.me/paulovagner) |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | INICIANTES EM PROGRAMAÇÃO / CARREIRA / SVELTE / REACT / NODE | [Telegram](https://t.me/edgarberlinck) |
 | [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | AGILE / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/glaubersamp) / [LinkedIn](https://linkedin.com/in/glaubersampaio) |
 | [Alison do Nascimento Cassis](https://github.com/alisoncassis) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/alisoncassis/) |
