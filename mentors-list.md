@@ -23,6 +23,8 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | :--- | :--- | :--- |
 | [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu)
 | [André Rodrigues](http://www.linkedin.com/in/andrerferraz) |  INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto)
+| [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu)  |
+| [André Rodrigues](http://www.linkedin.com/in/andrerferraz) |  INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto)  |
 | [Ricardo Moraleida](https://www.linkedin.com/in/ricardomoraleida/) |  INICIANTES EM PROGRAMAÇÃO / FULL-STACK / WORDPRESS | [Telegram](https://telegram.me/co_di_go) [Twitter](https://twitter.com/co_di_go)  |
 | [Alana Weiss](https://www.linkedin.com/in/alana-lange-weiss-019908146/) |  INICIANTES EM PROGRAMAÇÃO / FRONT-END | [Telegram](https://telegram.me/alanaweiss)  |
 | [Victor Pragana](https://github.com/praganavictor) |  INICIANTES EM PROGRAMAÇÃO / FRONT-END / JAVASCRIPT | [Twitter](http://twitter.com/praganavictor)  |
