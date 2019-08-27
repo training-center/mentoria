@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [Twitter](https://twitter.com/gstrb) / [E-mail](mailto:gustavo@straube.co) |
 | [Bruno Barbosa](https://github.com/brunubarbosa) | INICIANTES EM PROGRAMAÇÃO / FRONT-END / CARREIRA | [Linkedin](https://www.linkedin.com/in/thedevjs/) / [Twitter](https://twitter.com/brunubarbosa) |
 | [Paulo Vagner](https://www.linkedin.com/in/paulo-vagner/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://telegram.me/paulovagner) |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | INICIANTES EM PROGRAMAÇÃO / CARREIRA / SVELTE / REACT / NODE | [Telegram](https://t.me/edgarberlinck) |
