@@ -71,6 +71,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Adriano Canofre](https://github.com/adrianocanofre) | BACK-END / PYTHON / INFRA(DEVOPS) | [LinkedIn](https://www.linkedin.com/in/adrianocanofre/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
+| [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [Twitter](https://twitter.com/gstrb) / [E-mail](mailto:gustavo@straube.co) |
 
 ## Mentores e mentoras indisponíveis
 
