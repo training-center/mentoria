@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Diego Leme](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
 | [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [Twitter](https://twitter.com/gstrb) / [E-mail](mailto:gustavo@straube.co) |
 | [Bruno Barbosa](https://github.com/brunubarbosa) | INICIANTES EM PROGRAMAÇÃO / FRONT-END / CARREIRA | [Linkedin](https://www.linkedin.com/in/thedevjs/) / [Twitter](https://twitter.com/brunubarbosa) |
 | [Paulo Vagner](https://www.linkedin.com/in/paulo-vagner/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://telegram.me/paulovagner) |
@@ -103,7 +104,5 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
-| [Diego Leme Domingues](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | :snowflake: |
-
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
