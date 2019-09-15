@@ -79,7 +79,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
 | [Adriano Canofre](https://github.com/adrianocanofre) | INFRA(DEVOPS) | :snowflake: |
-| [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) |  |
+| [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | :snowflake: |
 | [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | :snowflake: |
 | [Giovanni Cruz](https://github.com/giovannicruz97) | FULL-STACK / PHP / JAVASCRIPT | :snowflake: |
