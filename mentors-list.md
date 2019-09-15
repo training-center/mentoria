@@ -71,7 +71,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | BACK-END / PHP / NODEJS | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
-| [Adriano Canofre](https://github.com/adrianocanofre) | BACK-END / PYTHON / INFRA(DEVOPS) | [LinkedIn](https://www.linkedin.com/in/adrianocanofre/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
 
@@ -79,6 +78,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Adriano Canofre](https://github.com/adrianocanofre) | INFRA(DEVOPS) | :snowflake: |
 | [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | :snowflake: |
 | [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 | [Gabriel Nunes](https://multiverso.me/) | FULL-STACK / JAVASCRIPT / INFRA (DEVOPS) | :snowflake: |
