@@ -42,9 +42,9 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Romulo Jovelli](https://www.linkedin.com/in/romulo-jovelli-08215860/) | BACK-END / JAVA / TESTES | [Telegram](https://telegram.me/romulojovelli) |
 | [Paulo Vitor](https://www.linkedin.com/in/pvitor) | BACK-END / JAVA / INFRA (DEVOPS) | [Telegram](https://telegram.me/paulovitorbsb) [Linkedin](https://linkedin.com/in/pvitor) |
 | [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu) |
-| [André Rodrigues](http://www.linkedin.com/in/andrerferraz) | INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto)
+| [André Rodrigues](http://www.linkedin.com/in/andrerferraz) | INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto) |
 | [Ricardo Moraleida](https://www.linkedin.com/in/ricardomoraleida/) | INICIANTES EM PROGRAMAÇÃO / FULL-STACK / WORDPRESS | [Telegram](https://telegram.me/co_di_go) [Twitter](https://twitter.com/co_di_go) |
-| [Alana Weiss](https://www.linkedin.com/in/alana-lange-weiss-019908146/) | INICIANTES EM PROGRAMAÇÃO / FRONT-END | [Telegram](https://telegram.me/alanaweiss)
+| [Alana Weiss](https://www.linkedin.com/in/alana-lange-weiss-019908146/) | INICIANTES EM PROGRAMAÇÃO / FRONT-END | [Telegram](https://telegram.me/alanaweiss) |
 | [Victor Pragana](https://github.com/praganavictor) | INICIANTES EM PROGRAMAÇÃO / FRONT-END / JAVASCRIPT | [Twitter](http://twitter.com/praganavictor) |
 | [Nícolas Tarzia](https://github.com/nicolastarzia) | BACK-END / C# / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/nicolastarzia) |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
