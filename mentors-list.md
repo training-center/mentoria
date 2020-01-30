@@ -21,7 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
+| [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL-STACK | [Email](wesley.coder@gmail.com) / [Telegram](https://t.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
 | [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) |
 | [Fernando Migliorini Tenório](https://github.com/dotenorio) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / NODEJS / KOTLIN | [@dotenorio](https://t.me/dotenorio) |
 | [Diogo Felix](https://www.linkedin.com/in/onlurking/) | FRONT-END / CSS / JAVASCRIPT / VUE.JS / PYTHON| [LinkedIn](https://linkedin.com/in/onlurking) / [Telegram](https://telegram.me/onlurking) |
