@@ -64,7 +64,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Rodrigo Placido Goncalez](https://www.linkedin.com/in/rodrigoplacido/) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Telegram](https://telegram.me/rpgsp) |
 | [Marcelo Duarte Trevisani](https://www.linkedin.com/in/marcelodtrevisani/) | BACK-END / PYTHON / C++ | [Telegram](https://telegram.me/marcelotrevisani) |
 | [Júlio Campos](https://linkedin.com/in/jcserracampos) | FULL-STACK / ANÁLISE DE DADOS | [Telegram](https://telegram.me/jcserracampos) |
-| [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | [Telegram](https://telegram.me/eduardofg87) |
 | [Chico Venancio](https://twitter.com/chicocvenancio) | INFRA (DEVOPS) | [Telegram](https://telegram.me/chicocvenancio) |
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | [Telegram](https://telegram.me/brunoalano) |
 | [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
@@ -107,5 +106,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
+| [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | :snowflake:  |
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
