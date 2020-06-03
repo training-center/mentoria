@@ -68,7 +68,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | [Telegram](https://telegram.me/brunoalano) |
 | [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
 | [Alef Janguas da Costa](https://twitter.com/alefjan) | INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
-| [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/anacoimbrag) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | BACK-END / PHP / NODEJS | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
@@ -79,6 +78,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | :snowflake: |
 | [Adriano Canofre](https://github.com/adrianocanofre) | INFRA(DEVOPS) | :snowflake: |
 | [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | :snowflake: |
 | [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
