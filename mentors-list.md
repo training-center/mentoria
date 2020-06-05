@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Willian Emboava](https://github.com/wemboava) | FRONT-END / REACT / VUE / CSS / JAVASCRIPT | [LinkedIn](https://www.linkedin.com/in/willian-emboava-de-oliveira-20b82414b/) |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  |
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
 | [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) |
@@ -73,7 +74,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
-| [Willian Emboava](https://github.com/wemboava) | FRONT-END / REACT / VUE / CSS / JAVASCRIPT | [LinkedIn](https://www.linkedin.com/in/willian-emboava-de-oliveira-20b82414b/) |
 
 ## Mentores e mentoras indisponíveis
 
