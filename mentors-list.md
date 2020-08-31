@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Leonardo Vitale](https://github.com/LeoVitale) | FRONT-END / CSS / JAVASCRIPT / REACT | [LinkedIn](https://linkedin.com/in/leonardovitale)
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL-STACK | [Email](wesley.coder@gmail.com) / [Telegram](https://t.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
 | [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) |
 | [Ingrid Pitta](https://www.linkedin.com/in/ingridpitta/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO / REACT / JAVASCRIPT / CSS | [@ingridpitta](https://telegram.me/ingridpitta) / [Linkedin](https://www.linkedin.com/in/ingridpitta/)  |
