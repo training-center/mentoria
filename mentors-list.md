@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Felipe Fernandes](https://github.com/felipefernandes) | GESTÃO PROJETOS / KANBAN / SCRUM / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM UX/UI DESIGN | [@felipefernand3s](https://telegram.me/felipefernandesweb) / [LinkedIn](https://www.linkedin.com/in/felipefernand3s) |
 | [Letícia Costa](https://www.linkedin.com/in/devleticia/) | FRONT-END / JAVASCRIPT / REACT JS / REDUX | [Telegram](https://telegram.me/letsCosta) / [LinkedIn](https://www.linkedin.com/in/devleticia/) |
 | [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
@@ -77,6 +78,9 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
+
+
+INICIANTES EM PROGRAMAÇÃO
 
 ## Mentores e mentoras indisponíveis
 
