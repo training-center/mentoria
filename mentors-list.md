@@ -85,7 +85,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | :--- | :--- | :--- |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  | :snowflake: |
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) | :snowflake: |
-| [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [Twitter](https://twitter.com/gstrb) / [E-mail](mailto:gustavo@straube.co) |
+| [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | :snowflake: |
 | [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | :snowflake: |
 | [Adriano Canofre](https://github.com/adrianocanofre) | INFRA(DEVOPS) | :snowflake: |
 | [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | :snowflake: |
