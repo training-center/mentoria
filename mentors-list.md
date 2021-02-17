@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Felipe Fernandes](https://github.com/felipefernandes) | GESTÃO PROJETOS / KANBAN / SCRUM / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM UX/UI DESIGN | [@felipefernand3s](https://telegram.me/felipefernandesweb) / [LinkedIn](https://www.linkedin.com/in/felipefernand3s) |
 | [Tarsis de Lima](https://github.com/tmvdl) | FULL-STACK / OPEN SOURCE / JAVASCRIPT | [Telegram](https://t.me/tmvdl) / [LinkedIn](https://www.linkedin.com/in/tmvdl/) / [Twitter](https://twitter.com/tarsisdev) |
 | [Letícia Costa](https://www.linkedin.com/in/devleticia/) | FRONT-END / JAVASCRIPT / REACT JS / REDUX | [Telegram](https://telegram.me/letsCosta) / [LinkedIn](https://www.linkedin.com/in/devleticia/) |
 | [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
