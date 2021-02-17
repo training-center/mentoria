@@ -80,8 +80,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
 
 
-INICIANTES EM PROGRAMAÇÃO
-
 ## Mentores e mentoras indisponíveis
 
 | NOME | TIPO DE MENTORIA | CONTATO |
