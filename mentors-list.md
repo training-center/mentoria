@@ -22,15 +22,22 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
 | [Luan Fonseca](https://github.com/luanfonceca) | PYTHON / DJANGO / FRONT-END | [@luanfonceca](https://telegram.me/luanfonceca) / Telegram |
+| [Felipe Fernandes](https://github.com/felipefernandes) | GESTÃO PROJETOS / KANBAN / SCRUM / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM UX/UI DESIGN | [@felipefernand3s](https://telegram.me/felipefernandesweb) / [LinkedIn](https://www.linkedin.com/in/felipefernand3s) |
+| [Tarsis de Lima](https://github.com/tmvdl) | FULL-STACK / OPEN SOURCE / JAVASCRIPT | [Telegram](https://t.me/tmvdl) / [LinkedIn](https://www.linkedin.com/in/tmvdl/) / [Twitter](https://twitter.com/tarsisdev) |
+| [Letícia Costa](https://www.linkedin.com/in/devleticia/) | FRONT-END / JAVASCRIPT / REACT JS / REDUX | [Telegram](https://telegram.me/letsCosta) / [LinkedIn](https://www.linkedin.com/in/devleticia/) |
+| [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
+| [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
+| [Willian Emboava](https://github.com/wemboava) | FRONT-END / REACT / VUE / CSS / JAVASCRIPT | [LinkedIn](https://www.linkedin.com/in/willian-emboava-de-oliveira-20b82414b/) |
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  |
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
+| [Leonardo Vitale](https://github.com/LeoVitale) | FRONT-END / CSS / JAVASCRIPT / REACT | [LinkedIn](https://linkedin.com/in/leonardovitale)
 | [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) |
+| [Ingrid Pitta](https://www.linkedin.com/in/ingridpitta/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO / REACT / JAVASCRIPT / CSS | [@ingridpitta](https://telegram.me/ingridpitta) / [Linkedin](https://www.linkedin.com/in/ingridpitta/)  |
+| [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
 | [Fernando Migliorini Tenório](https://github.com/dotenorio) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / NODEJS / KOTLIN | [@dotenorio](https://t.me/dotenorio) |
 | [Diogo Felix](https://www.linkedin.com/in/onlurking/) | FRONT-END / CSS / JAVASCRIPT / VUE.JS / PYTHON| [LinkedIn](https://linkedin.com/in/onlurking) / [Telegram](https://telegram.me/onlurking) |
 | [Diego Leme](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
-| [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [Twitter](https://twitter.com/gstrb) / [E-mail](mailto:gustavo@straube.co) |
 | [Bruno Barbosa](https://github.com/brunubarbosa) | INICIANTES EM PROGRAMAÇÃO / FRONT-END / CARREIRA | [Linkedin](https://www.linkedin.com/in/thedevjs/) / [Twitter](https://twitter.com/brunubarbosa) |
-| [Paulo Vagner](https://www.linkedin.com/in/paulo-vagner/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://telegram.me/paulovagner) |
 | [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | INICIANTES EM PROGRAMAÇÃO / CARREIRA / SVELTE / REACT / NODE | [Telegram](https://t.me/edgarberlinck) |
 | [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | SCRUM / KANBAN / INICIANTES EM PROGRAMAÇÃO / JAVA / BANCO DE DADOS | [LinkedIn](https://linkedin.com/in/glaubersampaio) |
 | [Alison do Nascimento Cassis](https://github.com/alisoncassis) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/alisoncassis/) |
@@ -39,10 +46,8 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Otavio Henrique](https://github.com/otaviohenrique) | BACK-END / INICIANTES EM PROGRAMAÇÃO / RUBY | [Email](otaviopvaladares@gmail.com) / [Linkedin](https://www.linkedin.com/in/otavio-henrique/) |
 | [Thiago Galvani](https://github.com/thiagopaiva99) | FULL-STACK / INICIANTES / AGILE / CARREIRA | [Linkedin](https://www.linkedin.com/in/thiago-galvani/) / [Facebook](https://www.facebook.com/thiago.paivagalvani) / [Telegram](https://telegram.me/thiagopaiva99) |
 | [Allan Brito](https://github.com/allanbrito) | BACK-END / BANCOS DE DADOS / INICIANTES EM PROGRAMAÇÃO / PHP / JAVASCRIPT | [LinkedIn](http://linkedin.com/in/allan-brito) [Telegram](https://telegram.me/allanbrito) |
-| [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / JAVASCRIPT / C# | [LinkedIn](http://linkedin.com/in/grave) [Telegram](https://telegram.me/itsmegrave) |
 | [Romulo Jovelli](https://www.linkedin.com/in/romulo-jovelli-08215860/) | BACK-END / JAVA / TESTES | [Telegram](https://telegram.me/romulojovelli) |
 | [Paulo Vitor](https://www.linkedin.com/in/pvitor) | BACK-END / JAVA / INFRA (DEVOPS) | [Telegram](https://telegram.me/paulovitorbsb) [Linkedin](https://linkedin.com/in/pvitor) |
-| [Matheus Castiglioni](https://github.com/mahenrique94) | FRONT-END | [Telegram](https://telegram.me/mahenrique94) |
 | [Brendon Pagano](https://github.com/annatsu) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | [Telegram](https://telegram.me/annatsu) |
 | [André Rodrigues](http://www.linkedin.com/in/andrerferraz) | INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / C# | [Telegram](https://telegram.me/andremuerto) |
 | [Ricardo Moraleida](https://www.linkedin.com/in/ricardomoraleida/) | INICIANTES EM PROGRAMAÇÃO / FULL-STACK / WORDPRESS | [Telegram](https://telegram.me/co_di_go) [Twitter](https://twitter.com/co_di_go) |
@@ -53,8 +58,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | [Twitter](https://twitter.com/maugzoide) |
 | [Ingo Hoffmann](https://github.com/lasombra) | BACK-END / JAVA / INFRA (DEVOPS) | [Twitter](https://twitter.com/lasombra_br) |
 | [Guilherme Gois](https://github.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | [Twitter](https://twitter.com/guilhermejcgois) |
-| [Francesco Perrotti‑Garcia](https://github.com/fpg1503) | MOBILE IOS / INICIANTES EM PROGRAMAÇÃO / SWIFT | [Twitter](https://twitter.com/fpg1503) |
-| [Rafael Guerra](https://github.com/faelwar) | BACK-END/ INICIANTES EM PROGRAMAÇÃO /JAVA | [Twitter](https://twitter.com/faelwar) |
+| [Rafael Guerra](https://github.com/faelwar) | BACK-END/ INICIANTES EM PROGRAMAÇÃO /JAVA | [Telegram](https://telegram.me/faelwar) |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL [[info]](https://gist.github.com/cyberglot/a0a2f5b280fe9ee808e66f845e627f2d) | [Twitter](https://twitter.com/cyberglot) |
 | [Cássio B. Pereira](https://about.me/cassiodeveloper) | BACK-END / SEGURANÇA / DEVSECOPS | [Twitter](https://twitter.com/cassiodeveloper) |
 | [Vinícius Alonso](https://github.com/viniciusalonso) | BACK-END / PHP / RUBY | [Twitter](https://twitter.com/alonsoemacao) |
@@ -69,7 +73,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Bruno Alano](https://github.com/brunoalano) | DEEP LEARNING / FULL-STACK / CRYPTO | [Telegram](https://telegram.me/brunoalano) |
 | [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
 | [Alef Janguas da Costa](https://twitter.com/alefjan) | INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
-| [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/anacoimbrag) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | BACK-END / PHP / NODEJS | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
@@ -80,6 +83,10 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  | :snowflake: |
+| [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) | :snowflake: |
+| [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | :snowflake: |
+| [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | :snowflake: |
 | [Adriano Canofre](https://github.com/adrianocanofre) | INFRA(DEVOPS) | :snowflake: |
 | [Hernandes](https://github.com/onhernandes) | BACK-END / INICIANTES EM PROGRAMAÇÃO / BANCOS DE DADOS / INFRA (DEVOPS) | :snowflake: |
 | [Matheus Melo](https://github.com/matheuscmelo) | BACK-END / PYTHON / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
@@ -107,5 +114,8 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | :snowflake:  |
+| [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) | :snowflake: |
+| [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / JAVASCRIPT / ELIXIR | [LinkedIn](http://linkedin.com/in/grave) :snowflake: |
+| [Paulo Vagner](https://www.linkedin.com/in/paulo-vagner/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 
 <!-- NÃO ADICIONE SEU NOME NO FINAL DA LISTA, NOVOS MENTORES DEVEM SER ADICIONADOS NO INÍCIO DA LISTA -->
