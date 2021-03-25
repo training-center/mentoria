@@ -79,7 +79,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
 | [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack | 
-| [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | [Telegram](https://telegram.me/omarkdev) |
+| [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | [Calendly](https://calendly.com/omarkdev) |
 
 ## Mentores e mentoras indisponíveis
 
