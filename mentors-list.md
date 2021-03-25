@@ -78,7 +78,8 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | BACK-END / PHP / NODEJS | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
-| [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack |
+| [Davi Busanello](https://github.com/davibusanello) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | [@davibusanello](https://telegram.me/davibusanello) / Slack | 
+| [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | [Telegram](https://telegram.me/omarkdev) |
 
 ## Mentores e mentoras indisponíveis
 
@@ -110,7 +111,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Ana Paula Gomes](https://anapaulagomes.me) | BACK-END / PYTHON | :snowflake: |
 | [Ana Luiza Portello Bastos](https://github.com/anabastos) | FULL-STACK / JAVASCRIPT / PROGRAMAÇÃO FUNCIONAL | :snowflake: |
 | [Thaly](https://twitter.com/AtemZero) | UX DESIGN / GAME DESIGN / EMPREENDEDORISMO | :snowflake: |
-| [Marcos Felipe](https://github.com/omarkdev) | FULL-STACK / PHP / JAVASCRIPT | :snowflake: |
 | [Clayton Silva](https://github.com/claytonsilva) | INFRA (DEVOPS) | :snowflake: |
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
