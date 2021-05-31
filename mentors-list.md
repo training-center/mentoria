@@ -32,7 +32,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  |
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
 | [Leonardo Vitale](https://github.com/LeoVitale) | FRONT-END / CSS / JAVASCRIPT / REACT | [LinkedIn](https://linkedin.com/in/leonardovitale)
-| [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) |
 | [Ingrid Pitta](https://www.linkedin.com/in/ingridpitta/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO / REACT / JAVASCRIPT / CSS | [@ingridpitta](https://telegram.me/ingridpitta) / [Linkedin](https://www.linkedin.com/in/ingridpitta/)  |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
 | [Fernando Migliorini Tenório](https://github.com/dotenorio) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / NODEJS / KOTLIN | [@dotenorio](https://t.me/dotenorio) |
@@ -115,7 +114,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [William Oliveira](https://twitter.com/w_oliveiras) | FRONT-END / NODEJS | :snowflake: |
 | [Claudson Oliveira](https://github.com/cloudson) |  INICIANTES EM PROGRAMAÇÃO / PHP / BANCOS DE DADOS | :snowflake:  |
 | [Eduardo Figueiredo Gonçalves](https://github.com/eduardofg87) | FULL-STACK / PHP / JAVASCRIPT | :snowflake:  |
-| [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) | :snowflake: |
+| [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / RUBY | :snowflake: |
 | [Grave](https://github.com/itsmegrave) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / JAVASCRIPT / ELIXIR | [LinkedIn](http://linkedin.com/in/grave) :snowflake: |
 | [Paulo Vagner](https://www.linkedin.com/in/paulo-vagner/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | :snowflake: |
 
