@@ -39,7 +39,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Diogo Felix](https://www.linkedin.com/in/onlurking/) | FRONT-END / CSS / JAVASCRIPT / VUE.JS / PYTHON| [LinkedIn](https://linkedin.com/in/onlurking) / [Telegram](https://telegram.me/onlurking) |
 | [Diego Leme](https://www.linkedin.com/in/diegoleme/) | FRONT-END / JAVASCRIPT / VUE.JS | [Telegram](https://telegram.me/diegoleme) |
 | [Bruno Barbosa](https://github.com/brunubarbosa) | INICIANTES EM PROGRAMAÇÃO / FRONT-END / CARREIRA | [Linkedin](https://www.linkedin.com/in/thedevjs/) / [Twitter](https://twitter.com/brunubarbosa) |
-| [Edgar Muniz Berlinck](https://github.com/edgarberlinck) | INICIANTES EM PROGRAMAÇÃO / CARREIRA / SVELTE / REACT / NODE | [Telegram](https://t.me/edgarberlinck) |
 | [Glauber Sampaio](https://www.linkedin.com/in/glaubersampaio/) | SCRUM / KANBAN / INICIANTES EM PROGRAMAÇÃO / JAVA / BANCO DE DADOS | [LinkedIn](https://linkedin.com/in/glaubersampaio) |
 | [Alison do Nascimento Cassis](https://github.com/alisoncassis) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/alisoncassis/) |
 | [Fernando Bueno Dansi](https://github.com/FBuenoD) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [Telegram](https://t.me/FernandoBuenoDansi) / [LinkedIn](https://linkedin.com/in/fernandobuenodansi) / [Twitter](https://twitter.com/fernandobdansi)|
