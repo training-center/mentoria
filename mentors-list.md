@@ -55,7 +55,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Nícolas Tarzia](https://github.com/nicolastarzia) | BACK-END / C# / INICIANTES EM PROGRAMAÇÃO | [Twitter](https://twitter.com/nicolastarzia) |
 | [Narlei Américo Moreira](https://www.linkedin.com/in/narlei/) | MOBILE IOS / SWIFT / OBJECTIVE-C | [Twitter](https://twitter.com/narleimoreira) [Telegram](https://telegram.me/narleimoreira) [LinkedIn](http://linkedin.com/in/narlei) |
 | [Maurício Antunes](https://www.maugzoide.com/) | BACK-END / WEBSERVERS / PYTHON | [Twitter](https://twitter.com/maugzoide) |
-| [Ingo Hoffmann](https://github.com/lasombra) | BACK-END / JAVA / INFRA (DEVOPS) | [Twitter](https://twitter.com/lasombra_br) |
 | [Guilherme Gois](https://github.com/guilhermejcgois) | FRONT-END / ANGULAR / TESTES | [Twitter](https://twitter.com/guilhermejcgois) |
 | [Rafael Guerra](https://github.com/faelwar) | BACK-END/ INICIANTES EM PROGRAMAÇÃO /JAVA | [Telegram](https://telegram.me/faelwar) |
 | [Ju Gonçalves](https://cyberglot.me) | FULL-STACK / PROGRAMAÇÃO FUNCIONAL [[info]](https://gist.github.com/cyberglot/a0a2f5b280fe9ee808e66f845e627f2d) | [Twitter](https://twitter.com/cyberglot) |
