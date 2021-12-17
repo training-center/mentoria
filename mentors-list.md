@@ -29,7 +29,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
 | [Willian Emboava](https://github.com/wemboava) | FRONT-END / REACT / VUE / CSS / JAVASCRIPT | [LinkedIn](https://www.linkedin.com/in/willian-emboava-de-oliveira-20b82414b/) |
-| [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  |
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
 | [Leonardo Vitale](https://github.com/LeoVitale) | FRONT-END / CSS / JAVASCRIPT / REACT | [LinkedIn](https://linkedin.com/in/leonardovitale)
 | [Lukas Pol](https://github.com/LukasPol) | INICIANTES EM PROGRAMAÇÃO / PYTHON / | [telegram](https://telegram.me/LukasPol) / [LinkedIn](http://linkedin.com/in/LukasPol) |
@@ -83,7 +82,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
-| [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS | [@bia_rm](https://telegram.me/bia_rm)  | :snowflake: |
+| [Bianca Rosa](http://biancarosa.com.br/) | BACK-END / PYTHON / GO / DEVOPS |  :snowflake:  |
 | [Wésley Queiroz](https://github.com/wesleycoder) | REACT / NODEJS / FULL_STACK | [Telegram](https://telegram.me/wesleycoder) / [LinkedIn](https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) | :snowflake: |
 | [Gustavo Straube](https://github.com/straube) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / PHP | :snowflake: |
 | [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | :snowflake: |
