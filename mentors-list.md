@@ -30,7 +30,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
 | [Willian Emboava](https://github.com/wemboava) | FRONT-END / REACT / VUE / CSS / JAVASCRIPT | [LinkedIn](https://www.linkedin.com/in/willian-emboava-de-oliveira-20b82414b/) |
-(https://www.linkedin.com/in/wesleycoder/) / [Facebook](https://facebook.com/wesleycoder) |
 | [Leonardo Vitale](https://github.com/LeoVitale) | FRONT-END / CSS / JAVASCRIPT / REACT | [LinkedIn](https://linkedin.com/in/leonardovitale)
 | [Ingrid Pitta](https://www.linkedin.com/in/ingridpitta/) | FRONT-END / INICIANTES EM PROGRAMAÇÃO / REACT / JAVASCRIPT / CSS | [@ingridpitta](https://telegram.me/ingridpitta) / [Linkedin](https://www.linkedin.com/in/ingridpitta/)  |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
