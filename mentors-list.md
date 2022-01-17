@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Carlos Carvalho](https://www.linkedin.com/in/carloscarvalho89/) | FULL-STACK / BANCOS DE DADOS / TECH LEAD | [Telegram](https://telegram.me/chacmaster)
 | [Vitor Nere](https://www.linkedin.com/in/vitor-nere/) | FULL-STACK / PYTHON / REACTJS | [LinkedIn](https://www.linkedin.com/in/vitor-nere/)
 | [Gustavo Passos](https://www.linkedin.com/in/theguspassos/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / UNITY | [Telegram](https://t.me/guspassos)
 | [Luan Fonseca](https://github.com/luanfonceca) | PYTHON / DJANGO / FRONT-END | [@luanfonceca](https://telegram.me/luanfonceca) / Telegram |
