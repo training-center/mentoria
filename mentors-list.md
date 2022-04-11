@@ -70,6 +70,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Aline Oliveira Dias](https://www.linkedin.com/in/aolidias/) | BACK-END / INICIANTES EM PROGRAMAÇÃO / JAVA | [Telegram](https://telegram.me/aolidias) |
 | [Alef Janguas da Costa](https://twitter.com/alefjan) | INICIANTES EM PROGRAMAÇÃO / ANÁLISE DE DADOS / R | [Telegram](https://telegram.me/alefjan) |
 | [Marcos Spessatto Defendi](https://www.linkedin.com/in/marcos-defendi-27141967/) | FULL-STACK / JAVASCRIPT / TESTES | [Rocket.chat](https://open.rocket.chat/direct/marcos.defendi) |
+| [Ernane Ferreira](https://github.com/ernanej) | FRONT-END / INICIANTES EM PROGRAMAÇÃO | [Telegram](https://t.me/ErnaneJR)|
 | [Gabriel Luiz Pereira](https://github.com/gabriellpweb) | BACK-END / PHP / NODEJS | [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-29273492/) |
 | [Cezar Sampaio](https://twitter.com/cezarlz) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/cezarluiz/) |
 | [Felipe da Silva](https://github.com/felipe-developer) | FRONT-END / JAVASCRIPT / GRAPHQL | [LinkedIn](http://linkedin.com/in/felipe-da-silva-b8664562) |
