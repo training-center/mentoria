@@ -26,7 +26,6 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Luan Fonseca](https://github.com/luanfonceca) | PYTHON / DJANGO / FRONT-END | [@luanfonceca](https://telegram.me/luanfonceca) / Telegram |
 | [Felipe Fernandes](https://github.com/felipefernandes) | GESTÃO PROJETOS / KANBAN / SCRUM / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM UX/UI DESIGN | [@felipefernand3s](https://telegram.me/felipefernandesweb) / [LinkedIn](https://www.linkedin.com/in/felipefernand3s) |
 | [Tarsis de Lima](https://github.com/tmvdl) | FULL-STACK / OPEN SOURCE / JAVASCRIPT | [Telegram](https://t.me/tmvdl) / [LinkedIn](https://www.linkedin.com/in/tmvdl/) / [Twitter](https://twitter.com/tarsisdev) |
-| [Letícia Costa](https://www.linkedin.com/in/devleticia/) | FRONT-END / JAVASCRIPT / REACT JS / REDUX | [LinkedIn](https://www.linkedin.com/in/devleticia/) |
 | [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
 | [Willian Emboava](https://github.com/wemboava) | FRONT-END / REACT / VUE / CSS / JAVASCRIPT | [LinkedIn](https://www.linkedin.com/in/willian-emboava-de-oliveira-20b82414b/) |
