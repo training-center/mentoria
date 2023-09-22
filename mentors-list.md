@@ -24,7 +24,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 | [Vitor Nere](https://www.linkedin.com/in/vitor-nere/) | FULL-STACK / PYTHON / REACTJS | [LinkedIn](https://www.linkedin.com/in/vitor-nere/)
 | [Gustavo Passos](https://www.linkedin.com/in/theguspassos/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / UNITY | [Telegram](https://t.me/guspassos)
 | [Luan Fonseca](https://github.com/luanfonceca) | PYTHON / DJANGO / FRONT-END | [@luanfonceca](https://telegram.me/luanfonceca) / Telegram |
-| [Felipe Fernandes](https://github.com/felipefernandes) | GESTÃO PROJETOS / KANBAN / SCRUM / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM UX/UI DESIGN | [@felipefernand3s](https://telegram.me/felipefernandesweb) / [LinkedIn](https://www.linkedin.com/in/felipefernand3s) |
+| [Felipe Fernandes](https://github.com/felipefernandes) | GESTÃO PROJETOS / KANBAN / SCRUM / INICIANTES EM PROGRAMAÇÃO / INICIANTES EM UX/UI DESIGN | [@felipefernand3s](https://telegram.me/felipefernandesweb) / [LinkedIn](https://www.linkedin.com/in/felipefernand10/) |
 | [Tarsis de Lima](https://github.com/tmvdl) | FULL-STACK / OPEN SOURCE / JAVASCRIPT | [Telegram](https://t.me/tmvdl) / [LinkedIn](https://www.linkedin.com/in/tmvdl/) / [Twitter](https://twitter.com/tarsisdev) |
 | [Cleber Rezende](https://github.com/cleberspirlandeli) | FULL-STACK / NODE JS / .NET / REACT JS / REDUX / SAGA / ARQUITETURA | [LinkedIn](https://www.linkedin.com/in/cleber-rezende-0abb81117/) |
 | [Lucas Souza](https://lucassouza.me/) | BACK-END / JAVA / DEVOPS / CARREIRA | [@lucasbso](https://telegram.me/lucasbso) / [Linkedin](https://www.linkedin.com/in/lucasbsouza/)  |
