@@ -21,6 +21,7 @@ LinkedIn -> [LinkedIn](https://linkedin.com/in/seu_user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Pedro Pinto](https://github.com/pedroap94) | BACK-END / JAVA / INICIANTES EM PROGRAMAÇÃO | [LinkedIn](https://www.linkedin.com/in/pedro-almodovar-pinto/) / [Telegram](https://telegram.me/pedroalmodovarpinto) |
 | [Vitor Nere](https://www.linkedin.com/in/vitor-nere/) | FULL-STACK / PYTHON / REACTJS | [LinkedIn](https://www.linkedin.com/in/vitor-nere/)
 | [Gustavo Passos](https://www.linkedin.com/in/theguspassos/) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / UNITY | [Telegram](https://t.me/guspassos)
 | [Luan Fonseca](https://github.com/luanfonceca) | PYTHON / DJANGO / FRONT-END | [@luanfonceca](https://telegram.me/luanfonceca) / Telegram |
